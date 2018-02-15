@@ -3,175 +3,175 @@
 <!-- SID.UI.XML File.UI Element.Name -->
 
 <!-- UI2DMERoot -->
-	<string id="SID.UI.UI2DMERoot.EndButton.ExitGame" value="EXIT GAME"/>
-	<string id="SID.UI.UI2DMERoot.EndButton.EndTurn" value="END TURN"/>
+	<string id="SID.UI.UI2DMERoot.EndButton.ExitGame" value="结束游戏"/>
+	<string id="SID.UI.UI2DMERoot.EndButton.EndTurn" value="结束回合"/>
 	
 <!-- UI2DPolicyAreaMilitary -->
-	<string id="SID.UI.UI2DPolicyAreaMilitary.Title" value="Military"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.Title" value="军事"/>
 	<!-- UI2DMilitaryInfo -->
-		<formatString id="FSID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.Title" value="@NationAdjective@ Military"/>
-		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.ManpowerTitle" value="Military Manpower"/>
-		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.RecruitableManpowerTitle" value="Recruitable Manpower"/>
-		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.MaintenanceTitle" value="Force Maintenance"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.Title" value="@NationAdjective@ 军事"/>
+		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.ManpowerTitle" value="军事人力"/>
+		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.RecruitableManpowerTitle" value="招募人力"/>
+		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.MaintenanceTitle" value="人力维护"/>
 		<!-- UI2DMilitaryPolicySupplayLevel -->
-			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.SupplyLevel" value="Supply Level"/>
-			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.ArmsRequired" value="Arms Required"/>
-			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.CombatPenalty" value="Combat Penalty"/>
-			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.FullyOperational" value="Fully Operational"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.SupplyLevel" value="供应水平"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.ArmsRequired" value="武器需要"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.CombatPenalty" value="战斗损失"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.FullyOperational" value="全面运作"/>
 			
-	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleArmy" value="Army"/>
-	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescArmy" value="Land Divisions"/>
-	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleAirForce" value="Air Force"/>
-	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescAirForce" value="Air Force Squadrons"/>
-	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleNavy" value="Navy"/>
-	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescNavy" value="Naval Ships &amp; Flotillas"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleArmy" value="军队"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescArmy" value="陆军司令部"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleAirForce" value="空军"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescAirForce" value="空军中队"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleNavy" value="海军"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescNavy" value="海军舰艇 &amp; 舰队"/>
 	
 <!-- UI2DPolicyAreaDiplomatic -->
-	<string id="SID.UI.UI2DPolicyAreaDiplomatic.Title" value="Diplomatic"/>
+	<string id="SID.UI.UI2DPolicyAreaDiplomatic.Title" value="外交"/>
 	<!-- UI2DAllianceWarsButton -->
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DAllianceWarsButton.Title" value="Alliances &amp; Wars"/>
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DAllianceWarsButton.Desc" value="View International Relations"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DAllianceWarsButton.Title" value="联盟 &amp; 战争"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DAllianceWarsButton.Desc" value="国际关系的观点"/>
 	<!-- UI2DDiplomaticNegotiations -->
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.Title" value="Negotiations"/>
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.Desc" value="Initiate Diplomacy"/>
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.ButtonSelectNation" value="Select Nation"/>
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.ButtonSelectAlliance" value="Select Alliance"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.Title" value="谈判"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.Desc" value="发起外交"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.ButtonSelectNation" value="选择国家"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.ButtonSelectAlliance" value="选择联盟"/>
 	<!-- UI2DRatifiedAggreements -->
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.Title" value="Ratified Agreements"/>
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.Desc" value="Existing Treaties with other Nations"/>
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.MilitaryAccessTitle" value="Military Access:"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.Title" value="签署协议"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.Desc" value="与其他国家的现有条约。"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.MilitaryAccessTitle" value="通行权"/>
 	<!-- UI2DDiplomaticCurrentWars -->
-		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticCurrentWars.OurWars" value="Our Wars"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticCurrentWars.OurWars" value="我们的战争"/>
 	
 <!-- UI2DPolicyAreaDomestic -->
-	<string id="SID.UI.UI2DPolicyAreaDomestic.Title" value="Domestic"/>
+	<string id="SID.UI.UI2DPolicyAreaDomestic.Title" value="国内"/>
 	<!-- UI2DGovernmentInfo -->
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.GovTypeTitle" value="National Government"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.TotalPopulation" value="Total Population"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.CapitalCity" value="Capital City"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.NationalCulture" value="National Culture"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.GovTypeTitle" value="国家政府"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.TotalPopulation" value="总人口"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.CapitalCity" value="首都"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.NationalCulture" value="民族文化"/>
 	<!-- UI2DNationalLaborPoolButton -->
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Title" value="National Labor Pool"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.MPUGrowthTitle" value="MPU Growth Rate"/>
-		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.CurrentMPUGrowth" value="@CurrentMPUGrowth@ per Turn"/>
-		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.LaborPoolGroupInfoPercent" value="@Percent@ % of Labor Pool"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Food" value="Food"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Goods" value="Goods"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.MPUGrowthPenalty" value="MPU Growth Penalty"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.ProductivityPenalty" value="Productivity Penalty"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Title" value="国家劳动力资源"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.MPUGrowthTitle" value="MPU 增长率"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.CurrentMPUGrowth" value="@CurrentMPUGrowth@ 每把"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.LaborPoolGroupInfoPercent" value="@Percent@ % 的劳动力资源"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Food" value="食品"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Goods" value="货物"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.MPUGrowthPenalty" value="MPU 增长点"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.ProductivityPenalty" value="生产力损失"/>
 		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.GroupDataSkilledValue" value="@GroupDataSkilled@ MPUs"/>
 		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.GroupDataUnskilledValue" value="@GroupDataUnskilled@ MPUs"/>
 		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.GroupDataMilitaryValue" value="@GroupDataMilitary@ MPUs"/>
 	<!-- UI2DResearchButton -->
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DResearchButton.Title" value="Research Projects"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DResearchButton.Desc" value="IPUs Assigned to Research"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DResearchButton.Title" value="研究项目"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DResearchButton.Desc" value="IPUs 分配研究"/>
 	<!-- UI2DLiberationButton -->
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DLiberationButton.Title" value="Grant Independence"/>
-		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DLiberationButton.Desc" value="Liberate controlled nations"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DLiberationButton.Title" value="格兰特独立"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DLiberationButton.Desc" value="解放国家控制"/>
 
 <!-- UI2DPolicyAreaEconomic -->
-	<string id="SID.UI.UI2DPolicyAreaEconomic.Title" value="Economic"/>
+	<string id="SID.UI.UI2DPolicyAreaEconomic.Title" value="经济"/>
 	<!-- UI2DProductionButton -->
-		<formatString id="FSID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.Title" value="@NationAdjective@ Industry"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.Desc" value="Production Output"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.of" value="of"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IPUCapacity" value="IPU Capacity"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IndustrialEfficiencyTitle" value="Industrial Efficiency"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IndustrialProductionShortagesTitle" value="Industrial Production Shortages"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.ProductionLosses" value="Production Losses (IPUs)"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.Title" value="@NationAdjective@ 行业"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.Desc" value="产量"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.of" value="的"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IPUCapacity" value="IPU 能力"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IndustrialEfficiencyTitle" value="工业效率"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IndustrialProductionShortagesTitle" value="工业生产短缺"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.ProductionLosses" value="生产损失 (IPUs)"/>
 	<!-- UI2DWorldMarketButton -->
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DWorldMarketButton.Title" value="World Trade"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DWorldMarketButton.Desc" value="International Trade Balance"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DWorldMarketButton.Title" value="世界贸易"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DWorldMarketButton.Desc" value="国际贸易收支"/>
 	<!-- UI2DInfrastructureButton -->
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DInfrastructureButton.Title" value="Infrastructure"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DInfrastructureButton.Desc" value="Maintenance"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DInfrastructureButton.Title" value="基础设施"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DInfrastructureButton.Desc" value="维护"/>
 	<!-- UI2DNationalIncome -->
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.Title" value="National Income (last turn)"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.GoodsRevenue" value="Goods Revenue"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.FoodRevenue" value="Food Revenue"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.Exports" value="Exports"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.TotalIncome" value="Total Income"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.Title" value="国民收入 (最后一把)"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.GoodsRevenue" value="商品收入"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.FoodRevenue" value="食品收入"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.Exports" value="出口"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.TotalIncome" value="总收入"/>
 	<!-- UI2DNationalSpending -->
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Title" value="National Spending (last turn)"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.MilitarySpending" value="Military Spending"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Research" value="Research"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Infrastructure" value="Infrastructure"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Imports" value="Imports"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.TotalSpending" value="Total Spending"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Title" value="国家支出 (最后一把)"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.MilitarySpending" value="军费开支"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Research" value="研究"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Infrastructure" value="基础设施"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Imports" value="进口"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.TotalSpending" value="总支出"/>
 	<!-- UI2DNationalBalance -->
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalBalance.Balance" value="Balance"/>
-		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalBalance.Treasury" value="Treasury"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalBalance.Balance" value="平衡"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalBalance.Treasury" value="财政部"/>
 	<!-- UI2DLostIPU -->
 		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DLostIPU.IPUs" value="IPUs"/>
 		
 <!-- UI2DPolicyAreaEndTurn -->
 	<!-- UI2DEndTurnScoringButton -->
-		<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.Title" value="TURN @CurrentNotificationTurn@ SUMMARY"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Ranking" value="Ranking"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Rank" value="Rank:"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Score" value="Score:"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.Title" value="TURN @CurrentNotificationTurn@ 总结"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Ranking" value="排名"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Rank" value="排名:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Score" value="分数:"/>
 	<!-- UI2DProductionListElement -->
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.Title" value="Production Report"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.DescCities" value="Idle Cities:"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.DescIPUs" value="IPU Output:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.Title" value="生产报告"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.DescCities" value="无聊的城市:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.DescIPUs" value="IPU 输出:"/>
 	<!-- UI2DResearchListElement -->	
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DResearchListElement.Title" value="Research Projects"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DResearchListElement.DescIPUsAssigned" value="IPUs Assigned:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DResearchListElement.Title" value="研究项目"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DResearchListElement.DescIPUsAssigned" value="IPUs 分配:"/>
 	<!-- UI2DWorldMarketListElement -->
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DWorldMarketListElement.Title" value="World Market"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DWorldMarketListElement.TradeOffers" value="Trade Offers:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DWorldMarketListElement.Title" value="世界市场"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DWorldMarketListElement.TradeOffers" value="贸易提供:"/>
 	<!-- FinancialReportListElement -->
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Title" value="Financial Report (last turn)"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Balance" value="Balance:"/>
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Treasury" value="Treasury:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Title" value="财务报告 (最后一把)"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Balance" value="平衡:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Treasury" value="财政部:"/>
 	<!-- UI2DInternationalEventList -->
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DInternationalEventList.Title" value="International Events"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DInternationalEventList.Title" value="国际事件"/>
 	<!-- UI2DInternationalEventList -->
-		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DNationalEventList.Title" value="National Events"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DNationalEventList.Title" value="国家事件"/>
 
 <!-- UI2DObserverModeNav -->
-	<string id="SID.UI.UI2DObserverModeNav.Button.select" value="select"/>
-	<string id="SID.UI.UI2DObserverModeNav.Button.cancel" value="cancel"/>
-	<string id="SID.UI.UI2DObserverModeNav.Button.Nation" value="NATION"/>
-	<string id="SID.UI.UI2DObserverModeNav.Button.Loading" value="Loading"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.select" value="选择"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.cancel" value="取消"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.Nation" value="国家"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.Loading" value="加载"/>
 	
 	
 <!-- UI2DPolicyAreaEndTurnCombatReport -->
 	<!-- UI2DEoTCombatReportList -->
-		<string id="SID.UI.UI2DPolicyAreaEndTurnCombatReport.UI2DEoTCombatReportList.Title" value="Combat Reports"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurnCombatReport.UI2DEoTCombatReportList.Title" value="战斗报告"/>
 
 <!-- UI2DPopUpAlliance -->
-	<string id="SID.UI.UI2DPopUpAlliance.Title" value="Alliance"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Title" value="联盟"/>
 	
 	<!-- Break Alliance -->
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Title" value="Proceed?"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Desc" value="Break Alliance?"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Right" value="no"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Left" value="yes"/>
-	<formatString id="FSID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.DisplayName" value="Broke your Alliance with @CountryName@"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Title" value="进行?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Desc" value="打破联盟?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Right" value="不"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Left" value="是"/>
+	<formatString id="FSID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.DisplayName" value="打破你的联盟 @CountryName@"/>
 	
 	<!-- Join Alliance -->
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Title" value="Proceed?"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Desc" value="Join Alliance?"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Right" value="no"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Left" value="yes"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Title" value="继续进行?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Desc" value="加入联盟?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Right" value="不"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Left" value="是"/>
 	
 	<!-- Declare War -->
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Title" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Title" value="进行呢?"/>
 	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Desc" value="Are you sure you want to declare war?"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Right" value="no"/>
-	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Left" value="yes"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Right" value="不"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Left" value="是"/>
 	
 	<!-- UI2DAlliesFlagsListElement -->
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAlliesFlagsListElement.Title" value="Allies:"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAlliesFlagsListElement.Title" value="盟友:"/>
 	<!-- UI2DAllainceTreatyActionOptions -->
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleDeclareWar" value="Declare War on the"/>
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleBreakAlliance" value="Break Alliance with"/>
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleJoinMerge" value="Join/Merge Alliance with"/>
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleMakeAlliancePeace" value="Make Alliance Peace"/>
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleMakeSeparatePeace" value="Make Separate Peace"/>
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strDescSelectAllianceMember" value="Select Alliance Member"/>
-		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.Options" value="Options"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleDeclareWar" value="宣战的"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleBreakAlliance" value="打破联盟"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleJoinMerge" value="加入/合并同盟"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleMakeAlliancePeace" value="使联盟和平"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleMakeSeparatePeace" value="让独立的和平"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strDescSelectAllianceMember" value="选择联盟成员"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.Options" value="选项"/>
 
 <!-- UI2DPopUpNation -->
 		<string id="SID.UI.UI2DPopUpNation.Title" value="NATION"/>
@@ -2183,50 +2183,50 @@
 	<string id="SID.UI.UI2DPlayerDecisionLiberateCountryInfo.Title.Points" value="Points"/>
 
 <!-- UI2DIndustrialProductionCompletedOrdersGOButton -->
-	<string id="SID.UI.UI2DIndustrialProductionCompletedOrdersGOButton.Title.Error" value="Not a City or a Region"/>
+	<string id="SID.UI.UI2DIndustrialProductionCompletedOrdersGOButton.Title.Error" value="不是一个城市或一个地区。"/>
 
 <!-- Open Chat -->
-	<string id="SID.UI.OpenChat.Button.New" value="NEW"/>
-	<string id="SID.UI.OpenChat.Button.Close" value="CLOSE"/>
-	<string id="SID.UI.OpenChat.Button.Previous" value="PREVIOUS"/>
-	<string id="SID.UI.OpenChat.Button.Next" value="NEXT"/>
-	<string id="SID.UI.OpenChat.Button.ContactLeader" value=" CONTACT LEADER"/>
+	<string id="SID.UI.OpenChat.Button.New" value="新"/>
+	<string id="SID.UI.OpenChat.Button.Close" value="关闭"/>
+	<string id="SID.UI.OpenChat.Button.Previous" value="以前的"/>
+	<string id="SID.UI.OpenChat.Button.Next" value="下一个"/>
+	<string id="SID.UI.OpenChat.Button.ContactLeader" value=" 联系领导"/>
 
 <!-- UI2DDecisionPointMilAccess -->
-	<string id="SID.UI.UI2DDecisionPointMilAccess.Title" value="Military Access Treaty"/>
-	<string id="SID.UI.UI2DDecisionPointMilAccess.Desc" value="Treaty signers can move into &amp; through each others territory"/>
+	<string id="SID.UI.UI2DDecisionPointMilAccess.Title" value="军事访问协议"/>
+	<string id="SID.UI.UI2DDecisionPointMilAccess.Desc" value="签署人可以进入 &amp; 通过对方的领土"/>
 
 <!-- UI2DEndGame -->
-	<string id="SID.UI.UI2DEndGame.Button.ExitToDesktop" value="Exit To Desktop"/>
-	<string id="SID.UI.UI2DEndGame.Button.QuitGame" value="Quit Game"/>
-	<string id="SID.UI.UI2DEndGame.Button.Back" value="Back"/>
-	<string id="SID.UI.UI2DEndGame.Button.KeepPlaying" value="Keep Playing"/>
-	<string id="SID.UI.UI2DEndGame.UI2DEndGameAlliancePowerScoring.TotalPoints" value="Total Points"/>
-	<string id="SID.UI.UI2DEndGame.UI2DEndGameIdeologyScoring.TotalPoints" value="Total Points"/>
+	<string id="SID.UI.UI2DEndGame.Button.ExitToDesktop" value="退出到桌面"/>
+	<string id="SID.UI.UI2DEndGame.Button.QuitGame" value="退出游戏"/>
+	<string id="SID.UI.UI2DEndGame.Button.Back" value="回来"/>
+	<string id="SID.UI.UI2DEndGame.Button.KeepPlaying" value="继续玩"/>
+	<string id="SID.UI.UI2DEndGame.UI2DEndGameAlliancePowerScoring.TotalPoints" value="分"/>
+	<string id="SID.UI.UI2DEndGame.UI2DEndGameIdeologyScoring.TotalPoints" value="分"/>
 	
-	<string id="SID.UI.UI2DEndGame.Tab.WorldPower" value="World Power Scoring"/>
-	<string id="SID.UI.UI2DEndGame.Tab.AllianceScoring" value="Alliance Scoring"/>
-	<string id="SID.UI.UI2DEndGame.Tab.IdeologyScoring" value="Ideology Scoring"/>
+	<string id="SID.UI.UI2DEndGame.Tab.WorldPower" value="世界强国得分"/>
+	<string id="SID.UI.UI2DEndGame.Tab.AllianceScoring" value="联盟得分"/>
+	<string id="SID.UI.UI2DEndGame.Tab.IdeologyScoring" value="意识形态评分"/>
 	
 <!-- UI2DLoading -->
-	<string id="SID.UI.UI2DLoading.Title.LoadingScenario" value="Loading Scenario"/>
-	<string id="SID.UI.UI2DLoading.Title.SavingGame" value="Saving Game"/>
+	<string id="SID.UI.UI2DLoading.Title.LoadingScenario" value="加载场景"/>
+	<string id="SID.UI.UI2DLoading.Title.SavingGame" value="保存的游戏"/>
 
 <!-- UI2DSlidingPanelCityProductionCenter -->
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.IndustrialProduction" value="Industrial Production"/>
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.LandForces" value="Land Forces"/>
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.AirForces" value="Air Forces"/>
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.NavalForces" value="Naval Forces"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.IndustrialProduction" value="工业生产"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.LandForces" value="地面部队"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.AirForces" value="空军"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.NavalForces" value="海军"/>
 	
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.StartNewConfirmation" value="start new production"/>
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.CloseConfirmation" value="close"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.StartNewConfirmation" value="开始新的生产"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.CloseConfirmation" value="关闭"/>
 	
-	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.cancel" value="cancel"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.cancel" value="取消"/>
 
 <!-- Global -->
 	<string id="SID.UI.Global.NA" value="N/A"/>
 
 <!-- UI2DGameOverScenarioEndDateYouWin -->
-	<formatString id="FSID.UI.VictoryDefeat.UI2DGameOverScenarioEndDateYouWin.Text" value="@Phrase@ ended the game with the most power points"/>
+	<formatString id="FSID.UI.VictoryDefeat.UI2DGameOverScenarioEndDateYouWin.Text" value="@Phrase@ 用最多的灵能点结束游戏。"/>
 	
 </stringTable>
