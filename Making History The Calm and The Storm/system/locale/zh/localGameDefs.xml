@@ -6,17 +6,17 @@
 		 The only requirement is that they be derived from ObjectNamerOrdinal. -->
 
 	<objectDef type="ObjectNamerArmy" superType="ObjectNamerFormatString">
-		<property name="strObjectType" value="Army"/>
+		<property name="strObjectType" value="军队"/>
 		<property name="fsidName" value="FSID.Game.ObjectNamerArmy.Name"/>
 	</objectDef>
 
 	<objectDef type="ObjectNamerFleet" superType="ObjectNamerFormatString">
-		<property name="strObjectType" value="Fleet"/>
+		<property name="strObjectType" value="舰队"/>
 		<property name="fsidName" value="FSID.Game.ObjectNamerFleet.Name"/>
 	</objectDef>
 	
 	<objectDef type="ObjectNamerAirForce" superType="ObjectNamerFormatString">
-		<property name="strObjectType" value="AirForce"/>
+		<property name="strObjectType" value="空军"/>
 		<property name="fsidName" value="FSID.Game.ObjectNamerAirForce.Name"/>
 	</objectDef>
 			
