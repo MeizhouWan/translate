@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+	<string id="SID.Game.Scenario.DisplayName.TheLimitsOfPeace" value="The Limits of Peace"/>
+	<string id="SID.Game.Scenario.DisplayName.ThePoliticsOfAppeasement" value="The Politics of Appeasement"/>
+	<string id="SID.Game.Scenario.DisplayName.TheEndOfDiplomacy" value="The End of Diplomacy"/>
+	<string id="SID.Game.Scenario.DisplayName.StepsToAGlobalWar" value="Steps to a Global War"/>
+	<string id="SID.Game.Scenario.DisplayName.TheWorldAtWar" value="The World at War"/>
+	<string id="SID.Game.Scenario.DisplayName.ConclusionOfTheWar" value="Conclusion of the War"/>
+	<string id="SID.Game.Scenario.DisplayName.Tutorial" value="Tutorial"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.TheLimitsOfPeace" value="The Limits of Peace"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.ThePoliticsOfAppeasement" value="The Politics of Appeasement"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.TheEndOfDiplomacy" value="The End of Diplomacy"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.StepsToAGlobalWar" value="Steps to a Global War"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.TheWorldAtWar" value="The World at War"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.ConclusionOfTheWar" value="Conclusion of the War"/>
+	<string id="SID.Game.ScenarioInfo.DisplayName.Tutorial" value="Tutorial"/>
+	<string id="SID.Game.ScenarioInfo.Description.TheLimitsOfPeace" value="As democracies struggle to recover from economic depression, leaders in Germany, Italy, and Japan have begun expanding their powers.  Will their actions destroy the world&apos;s fragile peace?&#010;&#010;Japan has occupied Chinese Manchuria since 1931.  Italy recently conquered Ethiopia. Nazi Germany has resumed military expansion and marched into the Rhineland, officially a demilitarized zone.  Focused on economic troubles, Britain, France, and the United States have done little to protest these aggressions.  Formerly shunned as a Communist threat, the USSR has grown popular as a potential counterweight to German power. &#010;&#010;In Spain, the Nationalists have attacked the Republican government.  How will the world respond to this civil war?"/>
+	<string id="SID.Game.ScenarioInfo.Description.ThePoliticsOfAppeasement" value="Triumphant after Anschluss with Austria, Germany has begun threatening Czechoslovakia. The justification?  Self-determination for ethnic Germans in the Sudetenland.&#010;&#010;Its survival at stake, Czechoslovakia has sought foreign support. France and the USSR have strong relationships with Czechoslovakia, but have been hesitant to guarantee full military support against Germany, with France wary of conflict and the Soviets unwilling to fight alone. The United Kingdom could tip the balance, but Britain hasn&apos;t wanted to repeat the mistakes that led to the Great War.&#010;&#010;Will Europe come to Czechoslovakia&apos;s aid?  Can Germany be restrained?"/>
+	<string id="SID.Game.ScenarioInfo.Description.TheEndOfDiplomacy" value="Darkness spreads over the world. Germany broke the promises made at Munich and now threatens Poland.  With Czechoslovakia&apos;s fall, Britain, France and the USSR have had to reconsider how to contain Germany and how to defend themselves.  As Germany&apos;s ally, Italy has tried to balance that relationship with its need for trade.&#010;&#010;For two years, Japan has thrashed Chinese forces, yet victory remains out of reach. A new Japanese offensive in Southeast Asia could bring much-needed resources and break the stalemate, but could also provoke a Western response.&#010;&#010;Tensions rise around the world.   In the conflicts to come, who will prevail?"/>
+	<string id="SID.Game.ScenarioInfo.Description.StepsToAGlobalWar" value="Is the blitzkrieg unstoppable?  This spring, German forces trampled Europe.  France fell in six weeks!  With its eastern flank secured by the Nazi-Soviet non-aggression pact, Germany now threatens Britain.  &#010;&#010;As the world waits to see what Germany and its Italian allies will do next, Japan continues its conquest of China and plans further expansion.  Turmoil in Europe and Asia has even led the United States to reevaluate its isolationist policies. &#010;&#010;Germany, Italy, and Japan have global ambitions and powerful militaries. The world lies in their ever-tightening grip.  What, if anything, can break their hold?"/>
+	<string id="SID.Game.ScenarioInfo.Description.TheWorldAtWar" value="As battles rage in Europe and Asia, tensions between the United States and Japan have neared a fever pitch.  Following the Japanese occupation of Indochina, the US embargoed Japan.  Cut off from crucial American supplies, Japan  is poised to counter with powerful attacks on Pearl Harbor and other American and British targets in Asia.   &#010;&#010;In Europe, Italian military errors delayed Germany&apos;s invasion of the USSR.  The Nazi blitzkrieg has been stalled by Soviet resistance and the cruel Russian winter. &#010;&#010;The world draws closer to an all-consuming battle.  The Axis powers have proved powerful thus far; how will a greater world war change the balance of power?"/>
+	<string id="SID.Game.ScenarioInfo.Description.ConclusionOfTheWar" value="After years of victory, has the balance of power shifted away from the Axis?  Japan&apos;s empire has begun to contract, as American and British forces push across the Pacific.   &#010;&#010;In Europe, Italy has surrendered and the USSR has ousted German soldiers from Soviet territory.  Germany still controls Western Europe, but American and British forces have planned a major invasion.  Their troops are gathered together and ready to open a Western battlefront.  &#010;&#010;War has united the US, UK, and USSR.  But, shared enemies do not guarantee shared goals.  How will this war end?  What might an Allied-led world look like?"/>
+	<string id="SID.Game.ScenarioInfo.Description.Tutorial" value="This tutorial will introduce you to the basic elements of playing MAKING HISTORY.  There are six lessons, each addressing a different aspect of gameplay.  They are:&#010;&#010;1.  Game Interface and Events&#010;2.  Military&#010;3.  Diplomacy&#010;4.  Production&#010;5.  Research&#010;6.  Resources&#010;&#010;The tutorial will take approximately 30 minutes.  It cannot be paused midway through--if you stop the tutorial, you will have to restart at the beginning.  &#010;&#010;Additional information and support for MAKING HISTORY can be found in the Game Manual and glossary.  You can also visit the MAKING HISTORY forum, where players and designers discuss game strategies."/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Albania" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Australia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Austria" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Burma" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Canada" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Chile" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.China" value="Victory!  China has pushed thousands of Communists on a &quot;Long March&quot; deep into the Western hinterland.  You&apos;ve battled internal Communist forces since the 1920s. Finally, they are all but vanquished. &#010;&#010;Focused on suppressing Communism, everything else was secondary to China, including Japanese aggressions.  In 1931, Japanese soldiers invaded the province of Manchuria (Feng Tien, Heilungkiang, Jehol, and Kirin).  Japan has industrialized and militarized &quot;Manchukuo&quot;, establishing a powerful toehold in mainland Asia.  Japanese forces lie uncomfortably close to your capital and have been a constant threat. &#010;&#010;To defend against Japan, you have sought support from the west--specifically, the United States, United Kingdom, and France.  Can you convince them that, by protecting China, they protect themselves?  How will China survive?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Czechoslovakia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Finland" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.France" value="Since the depression of the early 30s, France has preferred to focus on economic growth, but international tensions demand your attention.&#010;&#010;Italy has conquered Ethiopia.  Germany has remilitarized the Rhineland and begun developing a powerful military.  The Germans have the might to back their aggressive words. Do you?  &#010;&#010;France does have diplomatic alliances.  You have woven a net of collective security, but have not tested its strength.  You have considered new alliances.  France shares goals with Britain, but Germany does not pose as immediate a threat to the island empire. The French government has long distrusted the Soviets, but they would make powerful allies.  &#010;&#010;Civil war has exploded in Spain. Should France come to the aid of the Spanish Republicans?  They are, like France, a Popular Front government. What will the rest of Europe do?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Germany" value="Soldiers have returned to the Rhineland.  The Wehrmacht has begun expansion.  Germany has returned to the world stage.&#010;&#010;The Versailles Treaty, imposed at the end of the Great War, was insulting and unfair.  You have begun restoring Germany&apos;s economic strength and international prestige.  You have proposed a Greater Germany, incorporating ethnic Germans from across Europe. Territorial expansion can highlight German superiority and bring you resources to fuel further growth.  The plan has Germany first taking control of Central Europe, then Eastern Europe.  Your ultimate ambition: to vanquish the USSR.&#010;&#010;Civil war has broken out in Spain.  The Fascist-influenced Nationalists will probably ask you to support their uprising. Will giving aid help or hinder your ambitions for Germany?  &#010;&#010;What will you do next, as you build your Third Reich?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Greece" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.India" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Italy" value="Ethiopia is yours!  You have dreamed of an Italian Empire, equal to the glory of Ancient Rome.  With victory in Ethiopia, you avenged Italy&apos;s humiliation by the Abyssinians (Ethiopians) in 1896.  Triumphant, you have begun planning further expansion.  With empire, Italy can achieve economic independence.  Until then, Italy has to import resources to expand its industry and military.&#010;&#010;You have also played the diplomatic game. The now-powerful Nazis borrowed much from your Fascist ideology.  You&apos;ve considered alliance with Germany, but know your friends Britain and France would be displeased.&#010;&#010;The outbreak of civil war in Spain could change the diplomatic balance. You have pledged to support the Nationalists. Will you honor your word?  How will Britain, France, and Germany respond?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Japan" value="National pride and the need for raw materials have fueled expansionism in Japan.  Your factories rely on trade with the United States and United Kingdom, and will remain dependent on imports until Japan controls its own resources.  Your goal: economic control of Southeast Asia. &#010;&#010;You began by invading the Chinese province of Manchuria (Feng Tien, Heilungkiang, Jehol, and Kirin) in September 1931. The occupied land has been heavily industrialized and militarized, and can be a base for future incursions into China. &#010;&#010;Japanese expansion could disrupt the colonies and trading posts of Western nations.  Perhaps tensions in Europe will distract them from your maneuvers in Asia.  &#010;&#010;What are your next steps in China?  In Asia? How can you manipulate global affairs to Japan&apos;s advantage?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Korea" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.NationalistSpain" value="As leader of the military uprising, you have driven Spain into a civil war. Your enemy?  The Popular Front government; an alliance of leftist and centrist parties that came to power in 1936.&#010;&#010;On July 17, 1936, your group of right-wing army officers staged a revolt in Spanish Morocco. Officers on the mainland followed suit. Now Spain is ripped apart, with urban centers and the north supporting the Republican government and the more conservative and rural south and west backing your Nationalists.&#010;&#010;Your uprising is supported by the conservative forces--military, church, and wealthy elite--that resisted the government&apos;s attempts to reduce their power. In addition, you have joined with the Falange, a right-wing Fascist group.&#010;&#010;The Republican government begs the world&apos;s democracies for aid, while you look to Italy and Germany for support. Can you convince them that success for your Fascist uprising is in their best interests? International aid and strong military tactics are vital to your success. Spain will be yours!"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Norway" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Oman" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Panama" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Persia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Peru" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Poland" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.RepublicanSpain" value="You are the leader of the Spanish Republic, democratically elected in February 1936.&#010;&#010;Civil war is tearing Spain apart. The firestorm started on July 17, 1936, when right-wing army officers staged a revolt in Spanish Morocco, followed by officers on the mainland.&#010;&#010;Northern Spain and the urban centers are loyal to the republic, while the conservative and rural south and west back the Nationalists.&#010;&#010;Your Popular Front alliance of left and centrist parties was democratically elected in February 1936. Spanish conservatives and the fascist Falange party were disgusted by your reform efforts. They now support the military in its revolt.&#010;&#010;Will Fascist Italy and Germany give military or financial aid to the Nationalist uprising?  To save your government, should you look to the world&apos;s democracies and the Communist Soviet Union for help?  Your fragile democracy is in peril. You must save the Spanish Republic."/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Romania" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Siam" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.UnitedKingdom" value="The Versailles treaty lies in tatters; Germany has remilitarized the Rhineland and begun military expansion. In May, Italy officially annexed Ethiopia.  Flush with victory, Italian dreams appear unquenched.  You&apos;ve watched German belligerence with concern, but painful memories of the Great War remain strong in Britain.  So, you&apos;ve acted cautiously; made compromises, given concessions, and considered alliances.&#010;&#010;Halfway around the world, Japan&apos;s 1931 occupation of Manchuria hasn&apos;t satisfied Japanese hunger for land.  Further threats to China could endanger British territory and trade.  &#010;&#010;Civil war has broken out in Spain. When the combatants are Fascist Nationalists and the leftist Republican government, should Britain care who wins? &#010;&#010;Defending the British Empire has always been your most important goal.  As Germany, Italy, and Japan yearn to expand their borders, how will you defend yours?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.UnitedStates" value="Isolationism.  Since the end of the Great War, US foreign policy has boiled down to that one word.  Although American leaders proposed the League of Nations, domestic resistance kept the US from joining the league.&#010;&#010;Before the stock market crash of 1929, America had been a major trade partner throughout the world. US banks helped Europe rise from the ashes of the Great War.  Following the Great Depression, Congress passed neutrality laws that prevented the US from supporting or joining any war.  America&apos;s domestic focus has left its military underfunded and out of date.&#010;&#010;You want to rehabilitate America&apos;s economy, but can you ignore global affairs?  International tensions could damage American trade; you&apos;ve watched as Japanese aggressions endanger China and East Asia, and as German and Italian belligerence threaten Europe and Africa.   In an increasingly hostile world, how should America protect itself and its interests?"/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.USSR" value="In 1917 the Communists wrested control from the tyrannical Czar. Since then, you have forced industrialization, abolished religion and private property, and staged public trials of alleged traitors, including some of the original revolutionaries.  The Soviet economy has joined the Industrial Revolution, though it still trails Europe&apos;s major powers. &#010;&#010;For years, the USSR has been an international pariah. No more. Western democracies have come calling. They fear your People&apos;s Republic, but know they need Soviet strength to counter German aggressions.  Germany threatens the USSR too. You can use your &quot;allies&quot; as they want to use you--to protect the Soviet Union from the Fascist menace.&#010;&#010;Civil war has broken out in Spain.  The Popular Front government is under attack from the Fascist Nationalists.  Should you help the Republicans?  How will it affect your international status?  This could prove your commitment to fighting Fascism."/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Laos" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Libya" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Syria" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.TheLimitsOfPeace.Vietnam" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Albania" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Australia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Austria" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Burma" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Canada" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Chile" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.China" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Czechoslovakia" value="You are president of Czechoslovakia, a nation in peril.&#010;&#010;After the Great War, Czechoslovakia was born from shards of the Austro-Hungarian Empire.  Millions of Czechs and Slovaks live within your borders.  However, 1/3 of your population belongs to other ethnic groups--over 3 million Germans in the Sudetenland and close to a million Hungarians and Poles in the east.  &#010;&#010;By annexing Austria, Germany surrounded Czechoslovakia&apos;s western flank. Now the Nazis want to add your nation to the Third Reich.  Germany demands &quot;independence&quot; for oppressed Sudeten Germans.  You see through the pretense, but what can you do?  Your modest army is strong, but cannot stop a German invasion alone.&#010;&#010;France and the Soviet Union are treaty-bound to defend Czechoslovakia. Will they fulfill their obligations? Can you convince Britain to join them?  Do you dare resist Germany if they do not?   &#010;&#010;If you lose the Sudetenland, you lose border fortifications against Germany.  How can you guarantee Czechoslovakia&apos;s survival?"/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Finland" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.France" value="Focused on domestic turmoil, France did little in 1935 when Germany resumed conscription. You have paid for that neglect. Germany has rearmed its military, reoccupied the Rhineland, and annexed Austria.       &#010;&#010;Now Germany has demanded liberation for ethnic Germans in the Czechoslovakian Sudetenland.  If Czechoslovakia does not turn over the Sudetenland, Germany threatens to attack.&#010;&#010;How will you respond to this crisis?  With a policy of collective security, France has developed relationships throughout Europe.  These friendships were primarily to defend France--not anyone else.  Supporting Czechoslovakia would be unpopular at home, as the French still carry wounds from the Great War.  France might be safer with Britain at its side, but what do the British want? &#010;&#010;Will making concessions to Germany--at Czechoslovakia&apos;s expense--satisfy Nazi ambitions? Can France contain Germany?"/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Germany" value="Sieg Heil!  In the past few years, Germany has built the finest army and air force in the world.  Remilitarization of the Rhineland and Anschluss with Austria have strengthened your nation.  &#010;&#010;You have bigger plans.  Lebensraum (living room) for your people.  Resources for your factories.  Dominance over Europe.&#010;&#010;For your next step, you&apos;ve decided to conquer Czechoslovakia. The official justification for attack?  Three million ethnic Germans in the Sudetenland.  They deserve self-determination!&#010;&#010;Can you stage a lightning-fast military campaign? What if European powers oppose you?  Czechoslovakia does have strong friendships with France and the USSR.  Will Germany listen to diplomatic entreaties?  Or prepare for a bigger fight?"/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Greece" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.India" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Italy" value="Italy has dreamed of recapturing the glory of ancient Rome and of forging a new Italian empire in Africa, the Mediterranean, and the Balkans.  &#010;&#010;International alignments have been shifting. Germany was a rival until 1934, but mutual support of the Nationalists in the Spanish Civil War brought you together, while Italy&apos;s conquest of Ethiopia weakened relations with old allies France and Britain. &#010;&#010;You supported Germany&apos;s annexation of Austria in 1936, but German designs on Czechoslovakia seem riskier, and more likely to lead to war.  &#010;&#010;Following Italian successes in Ethiopia and Spain, your forces need time to rebuild.  Do you stand by Germany?  What happens to the balance of power in central Europe if the Germans absorb Czechoslovakia? What will it mean for Italy?"/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Japan" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Korea" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.NationalistSpain" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Norway" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Oman" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Panama" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Persia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Peru" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Poland" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.RepublicanSpain" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Romania" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Siam" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.UnitedKingdom" value="While Britain focused on recovery from economic depression, Nazi Germany grew powerful and ambitious. You did little when Germany remilitarized the Rhineland and annexed Austria.  &#010;&#010;Now Germany has demanded freedom for ethnic Germans in Czechoslovakia&apos;s Sudetenland.  Is this a claim for self-determination or an act of Nazi aggression?&#010;&#010;France and the USSR have considered defending Czechoslovakia.  They want Britain to stand with them.  What will you do? &#010;&#010;You remember the mistakes of 1914, when a dispute in a distant corner of Europe snowballed into war.  Is Britain willing to sacrifice her soldiers to defend Czechoslovakia&apos;s borders?"/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.UnitedStates" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.USSR" value="Rabid in its hatred of Communism, Germany has been a danger to the USSR.  To contain Germany, you have developed relationships with France and Czechoslovakia.  This crisis over the Czechoslovakian Sudetenland will test them.&#010;&#010;What if France refuses to support the Czechoslovaks?  Defending Czechoslovakia alone would be difficult, as the USSR does not share borders with Czechoslovakia or Germany. What about the United Kingdom? So far, Britain has refused to ally with the USSR.&#010;&#010;In fact, you have long suspected that Western democracies would be happy to see German aggression focus on the USSR. You&apos;ve wanted to help Czechoslovakia, but protecting the Soviet state is your priority."/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Laos" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Libya" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Syria" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.ThePoliticsOfAppeasement.Vietnam" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Albania" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Australia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Austria" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Burma" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Canada" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Chile" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.China" value="For two years, the Japanese have been lords of the Chinese coast, brutally attacking and oppressing your people. &#010;&#010;Forced out of your capital and away from the economically vital coast, your strength is limited.  You&apos;ve dedicated all of China to battling Japan; you&apos;ve even declared a truce with your true enemy: the Chinese Communists. &#010;&#010;Western nations wring their hands and criticize Japan, but have sent little to your new capital, Chungking. Unlike the British and French, the United States is not threatened by the German menace. &#010;&#010;Is American aid your best hope?  How can you defend your territories and save your country?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Czechoslovakia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Finland" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.France" value="Appeasement has failed.  Germany controls Czechoslovakia.  The Nazis now threaten Poland . . . and could soon threaten France.  Can you ready French defenses?  France has the Maginot line fortifying the Franco-German border. North of the Ardennes, you share a border with the Belgians, who cling to neutrality. &#010;&#010;Halfway around the world, Japanese aggressions could threaten French trade and territories.  Can you protect France&apos;s colonies without weakening your domestic defenses?&#010;&#010;You&apos;ve considered new defensive alliances, but with which countries?  The USSR?  Moscow has been distrustful and noncommittal.  Italy has drawn closer to Germany.  And Britain?  Can you trust it in a crisis? &#010;&#010;How can you contain Germany? More importantly, how can you protect France?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Germany" value="German goals have been brutally simple. Greater Lebensraum (living space) for Germans. Take whatever land and resources Germany needs. Follow no one but yourself.  You agreed to nothing at Munich. Britain and France wanted false comfort, and you gave it to them. They gave you the Sudetenland, you promised to respect Czechoslovakia&apos;s borders.  You kept that pledge as long as--and no longer than--you wanted.&#010;&#010;Now Czechoslovakia belongs to Germany. Next on your list: Poland.  The liberation of Danzig, a German-speaking city, has been your justification for attack.  Your forces await your command.  They will then launch a blitzkrieg attack on Poland.  Will Britain and France come to Poland&apos;s defense?&#010;&#010;Germany is powerful, but potential enemies lie to the east and west.  The Great War taught you the danger of a two-front war.  The USSR also has eyed Polish lands. Perhaps you can use this to your advantage?  Alliance with those vile Communists would be detestable but practical.&#010;&#010;All shall hail your Third Reich!"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Greece" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.India" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Italy" value="You have promised Italy a modern empire, one to rival the Roman Empire of centuries ago.  This proposed empire would rule the Mediterranean and be respected throughout the world! To accomplish this, you need a modern economy--and the resources to run it.&#010;&#010;Until your goal is achieved, Italy needs trade to fuel its factories.  Growing tensions between the UK, France, and Germany could threaten your import of resources.&#010;&#010;New conquests can bring glory and secure access to supplies. You&apos;ve brought Albania under Italian control and considered attacking the Balkans and Greece.  Perhaps expanding Ethiopia&apos;s borders.  You&apos;ve also dreamed of acquiring Britain and France&apos;s Mediterranean colonies, but do not dream of war with those major powers. &#010;&#010;Once Germany&apos;s mentor, you&apos;ve found yourself increasingly in the Nazi shadow.  If Italy aligns with German plans, it should be as an equal partner, not a secondary ally.  What next steps are best for Italy?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Japan" value="The Japanese invasion of China is nearly two years old.  Despite the strength and efficiency of your military, the Chinese still resist. &#010;&#010;Raw resources have fueled your campaign.  Supplies have come from the United States and the Asian mainland, but trade is not enough.  Territorial expansion can give Japan control of the resources you need to crush China. &#010;&#010;You have been willing to develop relationships with Germany and Italy.  Even better, you&apos;ve used their aggressions to Japan&apos;s advantage. European conflicts have distracted Britain, France, and the Netherlands from your plans to conquer their resource-rich colonies.  Soviet forces have moved away from the Manchurian border to defend their western lands.  &#010;&#010;The United States has disapproved of your Chinese campaign.  There are rumors of embargos.  Japan needs resources and does not need new enemies. What will you do next?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Korea" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Norway" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Oman" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Panama" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Persia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Peru" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Poland" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Romania" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Siam" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Spain" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.UnitedKingdom" value="The British Empire faces a deeply troubled world.  In Asia, Japan has begun building its own empire.  Japanese aggressions threaten British territories and trade.  However, the larger danger grows in Europe.&#010;&#010;The peace brokered at Munich has been shattered.  Nazi Germany controls Czechoslovakia and now threatens Poland.  Will you defend Warsaw?  Poland is far away, and Germany far more prepared than Britain.&#010;&#010;You have considered building a strong alliance with France, but the French have been focused on domestic defense and not broader strategies.  What of the USSR?  It would be a powerful ally, but Britain has never trusted the expansionist Communist state.  The United States could be a valuable partner, but American neutrality seems unbreakable&#010;&#010;Will you allow Germany to dominate Europe?  Will you protect your Asian empire from Japanese ambitions? The world is changing.  How will Britain respond?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.UnitedStates" value="Years of unemployment and economic woe have ground down American optimism. Foreign involvement?  Absolutely not.  Immigration restrictions and neutrality laws made isolationism the American way.&#010;&#010;America has resisted engaging with the world, but global tensions have touched your shores.  Japan has been the biggest threat; its continued invasion of China could disrupt American trade and power in the Pacific. There are also rumbles from Europe.  A defiant and rearmed Germany seems poised to dominate the Continent.&#010;&#010;Slowly, you have begun to rebuild the American military, starting with the naval forces that would be crucial to any Pacific war&#010;&#010;Rebuilding the American economy has been your top priority.  Can America continue its domestic focus, or must it engage with the world?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.USSR" value="Communism should sweep across the globe, overthrowing corrupt democracies.  But, before that happens, you want to secure power closer to home.  &#010;&#010;There are perils on all sides.  An aggressive Japan with troops near Siberia.  A rearmed Nazi Germany in the west. &#010;&#010;To strengthen Soviet borders, you&apos;ve considered putting troops in buffer zones in eastern Poland, the Baltic States, and Finland&apos;s Karelian Peninsula.  Will you move forces to those lands through treaty . . . or conquest? &#010;&#010;The USSR stands alone in the world. Ever since 1917, London, Paris, and Washington have conspired against your great revolution.  You don&apos;t need enemies masquerading as friends. Germany has openly loathed the USSR, but maybe a marriage of convenience would be valuable for both sides?"/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Laos" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Libya" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Syria" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.TheEndOfDiplomacy.Vietnam" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Albania" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Australia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Austria" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Burma" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Canada" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Chile" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.China" value="China is a nation under siege.  &#010;&#010;Over the past 3 years, Japan has wrested control of northern China and all China&apos;s coastal ports.  Your armies are large, but ill-equipped.  Despite their limitations, Chinese soldiers continue to defend their homeland.  Although the pace of Japanese conquest has slowed, China&apos;s survival is still at stake.  &#010;&#010;The United States has sent aid, but your other requests have gone unanswered; the US has neither embargoed Japan nor joined China in battle. You have also sought support from the UK and USSR.  If Japanese forces crush China, Japan&apos;s next targets could be Soviet and British territories.  &#010;&#010;Defending China is in America, Britain, and the USSR&apos;s best interests.  Can you persuade them to join your fight?  Or must China struggle alone?"/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Czechoslovakia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Finland" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.France" value="The speed and shock of Germany&apos;s invasion overwhelmed France.  Your military was outmaneuvered and French citizens crushed by this defeat. To survive, you signed an armistice that gave the Nazis control of more than half of France.  German soldiers march through Paris, while the regions still in your control are ruled from the spa town of Vichy.&#010;&#010;As part of the armistice, you agreed to stay out of the war and disband most of your army.  Can you avoid fighting?  Britain regrets losing France as an ally.  Could the British regain your allegiance, or will you be pulled into the war as a member of the Axis?  &#010;&#010;While France has struggled to survive, Japan has eyed French colonies.  Can you stop Japan from taking your territories?  What of your colonies in Africa?  Or, should you focus on rebuilding France and surviving the war that surrounds you?"/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Germany" value="Sieg Heil!  In a series of lightening-fast offensives, German armies have swept across Europe, battering the Continent into submission. &#010;&#010;To further German expansion, you have made and broken treaties across Europe. The promises of Munich?  Kept until you were ready to take Czechoslovakia.  Friendly relations with the USSR?  The German-Soviet partition of Poland stunned the world, as your hatred of Communism was well known.  If you choose to crush the USSR, nothing will stand in your way.&#010;&#010;Following your lead, Italy declared war against France and Britain. You have welcomed Italy as an ally, assuming it stays clear of German plans.  Across the world, you have considered drawing Japan into alliance.  Japanese-British clashes could conveniently weaken the UK.    &#010;&#010;The planes of your Luftwaffe are ready to darken British skies; they only await your command to attack.  Long live the Third Reich!"/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Greece" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.India" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Italy" value="All hail Italy, conqueror of Albania, Libya, and East Africa!&#010;&#010;When French defeat appeared inevitable, you shrewdly declared war against France and Britain.  You have not attacked the British--yet.  Your plans to conquer British Somaliland could bring Italy control over all East Africa.  &#010;&#010;You imagined an Italian empire that spans the Mediterranean.  Fresh from victory in Albania, you began planning next steps: invade Greece and expand into the Balkans.  Are you ready to act?  These conquests could bring the resources Italy&apos;s economy needs, and lessen your reliance on trade.&#010;&#010;In the spring of 1939 you told Germany that Italy would not be ready for war until 1942. The Germans did not care; their September invasion of Poland showed that Italy was a dispensable ally for the Nazis.&#010;&#010;You&apos;ve refused to stand in anyone&apos;s shadow.  The Italian Empire can and will be an equal power in Fascist Europe."/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Japan" value="The Empire of the Sun has grown. Japan controls China&apos;s North, its coastal ports, and the capital of Nanking. Yet China still fights.  These ceaseless battles have begun straining your supply levels.&#010;&#010;Dependent on international trade, Japan has long craved resources of its own.  Thanks to German victories in Europe, France and the Netherlands cannot stop you from entering Indochina or the Dutch East Indies.  The United States and United Kingdom are valuable trading partners.  They have opposed your invasion of China. If you occupy new territories, how will they respond? &#010;&#010;Germany and Italy have distracted Europe from its Asian colonies.  Should you go farther, and cultivate an alliance with these Fascist nations?  What is best for your expanding empire?"/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Korea" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Norway" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Oman" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Panama" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Persia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Peru" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Poland" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Romania" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Siam" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Spain" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.UnitedKingdom" value="After years of increasing tension, Britain declared war on Germany in the fall of 1939.  Ten months later, you stand alone.  France fell in less than six weeks.  Germany commands the Continent and now threatens the British Isles.&#010;&#010;Your air and naval forces are prepared to defend their homeland.  As a diversionary tactic, you&apos;ve considered sending your army to northern Africa to fight Italy, Germany&apos;s ally.  The Italians are comparatively weak.  Defeating them could damage German battle plans. &#010;&#010;The war in Europe is your priority, but you have watched with increasing concern as Japanese expansion threatens British colonies.&#010;&#010;You have always distrusted the Soviet Union, but thought your mutual dislike of Germany might bring about alliance.  Instead, the powerful Soviet state avoids conflict with Germany.  You also have sought alliance with America. The US has sent aid, but refuses to commit militarily.  Britain fights alone.&#010;&#010;Can you protect your home and empire against Fascism?"/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.UnitedStates" value="Dark clouds spread over the world.  America remains officially unallied, but has grown increasingly involved in global conflicts.&#010;&#010;Germany marches across Europe. France fell in 6 weeks and now the Nazi dictator fixes on Britain.  To support Britain, you&apos;ve sent aid, but made no formal alliance.  America hasn&apos;t wanted to fight Europe&apos;s battles.  &#010;&#010;In Asia, tensions have increased between the US and Japan. You told Japan that its territorial ambitions were unacceptable, but Japan refused to leave Chinese soil.  Faced with this resistance, America has begun military expansion.&#010;&#010;Japan receives 40% of its imports from the US, including crucial supplies of oil and metal. You have considered applying economic pressure to restrain Japan, but recognize that an embargo could trigger war.  Is the United States ready to fight in Asia or in Europe?"/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.USSR" value="Improved relations between Germany and the Soviet Union shocked the world.  You didn&apos;t care; you&apos;ve always done what is best for your nation.  Now the USSR enjoys the spoils of a German-defeated Poland.&#010;&#010;A winter war against Finland was unexpectedly difficult, as your purge of officers weakened the Soviet military.  No matter, the USSR can regain its strength.  Already you&apos;ve begun rebuilding forces, while continuing plans for greater industrial development.  &#010;&#010;Germany has pushed west, its troops far from your borders. Let the Nazis attack Britain. The UK has never given you sufficient respect or trust.  With Germany and Britain preoccupied, you can expand Soviet control in Eastern Europe.  Similarly, Japanese expansion in Asia can benefit you, if it moves Japanese troops away from Soviet borders. &#010;&#010;Danger lies everywhere.  Still, under your command, the Soviet empire can triumph."/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Laos" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Libya" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Syria" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.StepsToAGlobalWar.Vietnam" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Albania" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Australia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Austria" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Burma" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Canada" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Chile" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.China" value="After four brutal years of war, Japan has occupied China&apos;s coastline, northern territories, and capital city. &#010;&#010;You have sought and received international support.  The US has sent aid and American fighters have run covert operations against Japan since spring 1940. &#010;&#010;But China still suffers.  You have asked the US and UK to join your fight as formal allies.  You explained how Japanese aggressions threaten their territories and trade.  They refused to listen.  &#010;&#010;Germany has invaded the USSR.  Since Germany and Japan are allies, it seems natural for the Soviets to ally with you. In the past the USSR has supported China, but has also supported your great enemy: the Chinese Communist Party.  &#010;&#010;Who can you convince to join China in battle?  With or without allies, can you ensure China&apos;s survival?"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Czechoslovakia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Finland" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.France" value="As part of its armistice terms with Germany, France is officially neutral in the battles that are tearing Europe apart.  Its armies largely disbanded, France does not fight, but the French people still suffer the hardships of war.    &#010;&#010;You have little independence in this war.  German troops control most of Europe and still patrol French regions.  If Germany succeeds in its mission to conquer the Soviet Union, the Nazis will command the entire Continent.  How will this affect France? &#010;&#010;When Japanese forces moved into French Indochina, France lacked the military might to stop them. Britain and the United States found Japanese aggressions unacceptable.  How will they respond?  What, if anything, will this mean for France?"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Germany" value="Has a German blitzkrieg failed?  Six months ago you launched a lightening strike campaign against the USSR.  It should have ended by now.  &#010;&#010;Instead, your supply lines were long and tenuous, German soldiers were unprepared for the harsh winter, and, worst of all, Soviet troops--hungry and cold--kept coming. &#010;&#010;Winter was not part of the original plan, nor was saving Italy from Greek and British forces.  That rescue delayed your invasion of the USSR.  You had no choice; an Italian surrender would have damaged German plans. &#010;&#010;One plan was blocking American aid from reaching the UK.  As tensions between Japan and the United States grow, is it time for stronger German attacks in the Atlantic? &#010;&#010;You have not finished fighting the Soviets.  You can conquer them, and dominate all Europe."/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Greece" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.India" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Italy" value="This war has brought Italy more shame than glory. &#010;&#010;To prove yourself as an Axis partner and expand the Italian empire, you invaded Greece in October 1940.  Embarrassment soon followed; Germany had to rescue your soldiers. &#010;&#010;The British army pushed you out of Egypt and invaded Italian East Africa. Once again, German troops saved you from defeat.&#010;&#010;Italian forces joined Germany in its invasion of the USSR. Thousands have perished in the harsh battles and even harsher winter. &#010;&#010;Despite these losses, you have held to your vision of a great empire.  Shortages have hurt Italian growth.  You have acquired resources through conquest and trade, but your factories and your military remain undersupplied.    &#010;&#010;Can you rally Italian pride and bring glory to your nation?"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Japan" value="Embargoed!  America has cut off three-quarters of Japanese trade, and 90% of Japanese oil imports.  Without American trade, Japan will starve--unless it acquires new resources.  &#010;&#010;For years Japanese politicians tried to avoid battle with the Americans. Military leaders argued that the riches of empire were worth the risk of war.  Starting with the Sino-Japanese war in 1936, Japan has pursued empire.  &#010;&#010;In response, America and Britain began imposing economic restrictions.  This July, you occupied French Indochina.  The US retaliated by freezing all Japanese credits.  Now it is Japan&apos;s turn to respond.&#010;&#010;The plans are in place.  Japan is ready to bomb American and British territories in the Pacific.  With your authorization, the war will begin.  The targets are Pearl Harbor, Hong Kong, the Philippines (Luzon), Malaya, Wake Island, Guam, and British East Indies.&#010;&#010;Your empire awaits!"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Korea" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Norway" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Oman" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Panama" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Persia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Peru" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Poland" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Romania" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Siam" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Spain" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.UnitedKingdom" value="For months, German bombs battered your cities, but Britain held strong.  Frustrated by British resistance, Germany turned its guns on the USSR. &#010;&#010;Though you distrusted the Soviets, you allied with them.  Moscow asked you to open a western front in France, but you were not ready to attack Germany on the ground.  Instead, British planes have bombed German targets and British land forces have fought Italy, the weaker Axis ally, in Africa.  &#010;&#010;You&apos;ve concentrated on fighting Germany and Italy, but Japanese expansion has damaged British colonies and trade.  In tandem with the United States, you cut off the supplies that fueled Japan&apos;s aggressions.  &#010;&#010;How will the Japanese respond to this embargo?  Perhaps the US can contain them?  The Americans have sent aid to Britain, but remain officially neutral.  Can you convince them to join your fight?"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.UnitedStates" value="Is America on the brink of war?  For the past two decades, the United States stayed on the sidelines.  Japanese aggressions in Asia, and Axis conquests in Europe have brought the US back into the international fold.&#010;&#010;Ever since 1936, when this Sino-Japanese war began, the United States has pressured Japan to leave China.  The Japanese refused to listen.  This summer Japanese forces occupied French Indochina.  That was unacceptable.  &#010;&#010;You declared a trade embargo and demanded that Japan withdraw from all occupied territories.  The Japanese need American metals and oil.  Your embargo should force them to withdraw--or force a military confrontation.  &#010;&#010;China has sought alliance with the US.  Britain has asked you to join the UK and the USSR in their war against Germany and Italy.  America remains officially neutral, but you have sent aid to the embattled Chinese, British and Soviets.   Can you continue to support them and prepare America to fight?"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.USSR" value="Betrayed!  Your non-aggression pact broken, Germany has attacked. Last summer, a massive Nazi invasion sliced through your defenses. &#010;&#010;The British gave warning, but you didn&apos;t listen. The damage? Half your army and 95% of your tanks destroyed in three months. Nazi soldiers within sight of Moscow. &#010;&#010;But the Russian motherland rose to her own defense, smothering the aggressors in snow. The Germans are freezing and hungry and you have begun your counterattack.   &#010;&#010;To defeat Germany, you have invested in your military and factories.  The German onslaught forced Soviet industry to move over the Urals.  Remarkably, the relocated factories have resumed production and are ready to expand.&#010;&#010;The USSR has received aid from Britain and the US, but not enough.  Can you convince them that launching a western assault against Germany is in their best interests?  With or without the West&apos;s support, can you drive Germany out of the USSR?"/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Laos" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Libya" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Syria" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.TheWorldAtWar.Vietnam" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Albania" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Australia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Austria" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Burma" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Canada" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Chile" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.China" value="China faces two enemies: Japan and the Chinese Communist Party.  &#010;&#010;Ever since the Japanese bombed Pearl Harbor, you&apos;ve encouraged your American and British allies to lead the charge against Japan.  As they fight, you&apos;ve conserved China&apos;s strength for battle against the Communists.&#010;&#010;However, while China evaded conflicts with Japan, the Communist Party filled the vacuum. The Communists have fought a guerrilla war against the Japanese invaders and now control Chinese territories.&#010;&#010;Will you continue down this path?  Let the Allies defeat Japan; then destroy the Communists that threaten your rule?  Or, is there a better path for rebuilding China&apos;s territories and power?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.CommunistChina" value="The Chinese Communists have gained glory and strength by fighting the Japanese invaders. With Japan&apos;s defeat near, the Communists can return their focus to plotting a revolution in China."/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Czechoslovakia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Finland" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.France" value="In June 1940, the French Republic surrendered to Nazi Germany.  A Fascist-allied government set up a new capital in Vichy, while supporters of the democratic Republic established the Free French forces in exile.  &#010;&#010;Since then, La Resistance has battled Vichy and German forces within and outside of France.  Although German forces occupied the whole of France in 1942, the Free French continued to fight.&#010;&#010;Has the tide turned against the Nazi occupiers?  The USSR has pushed Germany back from Moscow, almost out of Soviet territory.  The Allies are prepared to launch a major invasion of the French mainland.  They also are ready to recognize Free France as the legitimate government of France.  How can you help regain your homeland?  How will you position Italy in a realigned world?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Germany" value="Since Anschluss with Austria, Germany has dominated Europe.  The Nazi flag flew across the Continent.  The flag no longer flies high, as German achievements have begun slipping away.  &#010;&#010;After too many cold, cruel battles, the Red Army has thrown Germany out of Soviet lands.  Soviet forces have begun push west.  &#010;&#010;Italy has fallen.  The Italians were weak allies, but allies nonetheless.  With their defeat, Anglo-American forces can focus on Germany.  British and American bombers have been pulverizing German cities for years.  Now their ground forces can join the fight.&#010;&#010;The Third Reich&apos;s borders are at risk.  Where next will the Allied powers attack?  How can Germany respond?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Greece" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.India" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Italy" value="In 1943, Fascist Italy collapsed under the weight of an Anglo-American attack.  The Fascist ex-leader fled, and Italy signed a peace agreement with the Allies.  &#010;&#010;You have marshalled Italy&apos;s military and now fight alongside the Allies.   Italy is not free from Fascism.  Germany holds tight to northern regions, and wants to return Fascist leaders to power.  The Allies are committed to defeating German troops on Italian soil.  &#010;&#010;What role does an Allied Italy have in this fight?  Can the Germans be driven out of Italian lands?  How can you rebuild Italy for a post-war world?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Japan" value="In a few fast years, Japan has built an empire. You used surprise and force to bring America and Britain to their knees.  You have wrested resources from the colonies of Southeast Asia.&#010;&#010;Although the US and UK have a &quot;Europe First&quot; battle plan, their navies have recovered from the attacks of December 1941, and threaten Japan&apos;s command of Asia. &#010;&#010;The Americans and British have also allied with China.  Since 1937, that vast country has swallowed Japanese troops, resources, and ambitions.  Despite China&apos;s weak military and infrastructure, and despite Japanese control of China&apos;s territories, cities, and ports, you have been unable to force a Chinese surrender. &#010;&#010;After seven years of attrition, what should Japan do?  Can you crush the Chinese?  As American and British troops pour into Asia, can you hold or expand the Japanese empire?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Korea" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Norway" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Oman" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Panama" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Persia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Peru" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Poland" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Romania" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Siam" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Spain" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.UnitedKingdom" value="The war turns in Britain&apos;s favor: Italy has surrendered, British forces have reconquered Burma, and American forces are, island by island, taking back the Pacific.&#010;&#010;Now, on your shores, British and American forces have assembled for a D-Day invasion. From your air fields, British and American bombers are ready for flight.  When you give the command, British soldiers will attack Germany on the Continent.  You will open the Western battlefront.&#010;&#010;A difficult struggle lies ahead, and already Britain has paid a heavy price. Bombings and battles have damaged the British economy and war has weakened your grip on Britain&apos;s far-flung empire.  What of your allies? The US has emerged as an economic and military superpower. The USSR, with forces pushing into Eastern Europe, could seek a sphere of Soviet dominance. &#010;&#010;How can you use your partners&apos; strengths to your advantage?  How can you win this war?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.UnitedStates" value="Since December of 1941 the US has fought a total war on two fronts. American factories have performed marvelously and continue to expand production. &#010;&#010;American troops are reconquering the Pacific atoll by atoll, island by island.  The Japanese have been dedicated fighters, but America outmatches them in technology and supplies.  What steps will you take next in your Pacific war?&#010;&#010;With your British allies, you forced Italy to surrender.  Now the fight in Europe can focus on Germany.  Your D-Day plan is ready.  American troops are in England, and they are eager to strike.  They only await your commands.&#010;&#010;And what of the Soviet Union?  You&apos;ve never trusted your Communist ally. The Soviets always hungered for territory and power.  America has fought this war for democracy and freedom, not for Communism.  &#010;&#010;With each victory over the Axis, you grow closer to the post-war world.  What shape will this new world take?"/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.USSR" value="The USSR has suffered a staggering twenty million casualties in this war, but the tides of battle have turned. In 1941, Germany almost took Moscow.  Now Germany is in retreat, as Soviet forces push westward.  &#010;&#010;In little more than a century, European leaders have launched three invasions of your country. You have learned from these assaults.  Without better western defenses, the USSR might always be at risk.   &#010;&#010;After the Great War, Europe tried to establish a cordon sanitaire (quarantine line) of anti-Soviet countries in Eastern Europe. To defend your borders, should you copy that plan? Wherever the Red Army vanquishes German power, you establish a Communist regime?   &#010;&#010;Allied powers have sought Soviet help in the Pacific, but they also fear your strength.  You can choose to enter that war on your own schedule, and with your own agenda: expanding Soviet power in East Asia."/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Laos" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Libya" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Syria" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.ConclusionOfTheWar.Vietnam" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Afghanistan" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Albania" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Argentina" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Australia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Austria" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Belgium" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Bhutan" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Bolivia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Brazil" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Bulgaria" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Burma" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Canada" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Chile" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.China" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Colombia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.CommunistChina" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.CostaRica" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Cuba" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Czechoslovakia" value="Triumphant after Anschluss with Austria, Germany now threatens Czechoslovakia. The justification?  Self-determination for ethnic Germans in the Sudetenland.&#010;&#010;Its survival at stake, Czechoslovakia seeks foreign support. France and the USSR are treaty-bound to help, but France seems wary and the Soviets do not want to fight alone. Britain could tip the balance, but the UK fears repeating the mistakes that led to the Great War.&#010;&#010;Will Europe rush to Czechoslovakia&apos;s aid?  Can Germany be restrained?&#010;&#010;Additional information and support for MAKING HISTORY can be found in the Game Manual and glossary.  You can also visit the MAKING HISTORY forum, where players and designers discuss game strategies."/>
+	<string id="SID.Game.Country.Description.Tutorial.Danzig" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Denmark" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.DominicanRepublic" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Ecuador" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Egypt" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Estonia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Finland" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.France" value="You are the Prime Minister of France and leader of the Popular Front government.  &#010;&#010;Focused on domestic turmoil, France did little when Germany rearmed its military--a violation of the Versailles treaty. You have paid for that neglect. Germany has expanded its armies, reoccupied the Rhineland, and annexed all of Austria.       &#010;&#010;Now Germany seeks liberation for ethnic Germans in the Czechoslovakian Sudetenland.  If Czechoslovakia does not turn over the Sudetenland, Germany threatens to attack.&#010;&#010;How can you respond to this crisis? France holds a defense pact with Czechoslovakia, as do the Soviets.  But, honoring your agreement would be unpopular at home; the French still carry wounds from the Great War. You want Britain at your side, but what do the British want? &#010;&#010;Will making concessions to Germany--at Czechoslovakia&apos;s expense--satisfy Nazi ambitions?  Can you avoid war?  Can diplomacy win?"/>
+	<string id="SID.Game.Country.Description.Tutorial.Germany" value="Sieg Heil!  You are chancellor of Germany and leader of the Nazi party.  &#010;&#010;Under your guidance, Germany has developed the finest army and air force in the world.  Remilitarization of the Rhineland and Anschluss with Austria have strengthened your nation.  You want more.  Lebensraum (living room) for your people.  Resources for your factories.  Dominance over Europe.&#010;&#010;Czechoslovakia interferes with your plans.  Allied with France, its air bases are an hour&apos;s flight from Berlin.  By conquering Czechoslovakia, you will secure Germany&apos;s southern flank, gain resources, and increase your power in Europe.  Despite its treaties with France and the USSR, you believe no one will fight for Czechoslovakia.&#010;&#010;Your official justification for attack?  The 3 million oppressed ethnic Germans in the Sudetenland.  They deserve self-determination!&#010;&#010;Can you isolate Czechoslovakia diplomatically? Set the stage for a lightning-fast military campaign? If European powers oppose you, then what?  Will you listen to diplomatic entreaties?  Or prepare for a bigger fight?"/>
+	<string id="SID.Game.Country.Description.Tutorial.Greece" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Guatemala" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Haiti" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Honduras" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Hungary" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Iceland" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.India" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Indonesia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Iraq" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Ireland" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Italy" value="Italy has grown closer to like-minded Germany. What will German designs on Czechoslovakia mean for the Rome-Berlin Axis?"/>
+	<string id="SID.Game.Country.Description.Tutorial.Japan" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Korea" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Kuwait" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Latvia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Liberia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Lithuania" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Luxembourg" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Malaysia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Manchuria" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Mexico" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Mongolia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.NationalistSpain" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Nepal" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Netherlands" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.NewZealand" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Nicaragua" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Norway" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Oman" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Panama" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Paraguay" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Persia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Peru" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Philippines" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Poland" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Portugal" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.RepublicanSpain" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Romania" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Salvador" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.SaudiArabia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Siam" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.SouthAfrica" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Sweden" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Switzerland" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Turkey" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Tuva" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.UnitedKingdom" value="You are the Conservative Prime Minister of Britain. &#010;&#010;The UK emerged victorious from the Great War, but stunned by the loss of a generation.  Economic depression in the 1930s did further harm.&#010;&#010;While Britain focused on recovery, Nazi Germany grew powerful and ambitious.  You tolerated German violations of the Versailles treaty, as you found that settlement overly harsh.  You did little when Germany remilitarized the Rhineland and annexed Austria.  Now Germany demands freedom for German speakers in Czechoslovakia&apos;s Sudetenland.  Is this a claim for ethnic self-determination or an act of Nazi aggression?&#010;&#010;France and the USSR are treaty-bound to defend Czechoslovakia.  They want Britain to stand with them.  What should you do?  Is Britain willing to sacrifice her soldiers for Czechoslovakia&apos;s borders?  &#010;&#010;You will not repeat the mistakes of 1914, when a dispute in a distant corner of Europe snowballed into war. Can you maintain the peace?"/>
+	<string id="SID.Game.Country.Description.Tutorial.UnitedStates" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Uruguay" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.USSR" value="You are the Communist leader of the Union of Soviet Socialist Republics.  &#010;&#010;Rabid in his hatred of Communism, the Nazi dictator is a danger to the USSR.  To contain Fascism, you sought international alliances.  Defense pacts with France and Czechoslovakia have made the USSR a partner in Europe&apos;s system of collective security.  This crisis over the Czechoslovakian Sudetenland will test your new relationships.&#010;&#010;What if France breaks its pact with Czechoslovakia?  Defending Czechoslovakia without the French would be difficult, as the USSR does not share borders with Czechoslovakia or Germany.  Will Poland or Romania grant you transit rights?  Perhaps they fear that Soviet forces, once in their countries, will never leave.  What about the United Kingdom? You resent Britain&apos;s refusal to forge ties with your government.  &#010;&#010;In fact, you suspect Western democracies would be happy to see Nazi aggression focus on the USSR. You want to help Czechoslovakia, but you must do what is best for the Soviet state."/>
+	<string id="SID.Game.Country.Description.Tutorial.Venezuela" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Yemen" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Yugoslavia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Algeria" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Cambodia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Croatia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Ethiopia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Laos" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Libya" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Morocco" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Slovakia" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Syria" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Tibet" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Ukraine" value=""/>
+	<string id="SID.Game.Country.Description.Tutorial.Vietnam" value=""/>
+</stringTable>

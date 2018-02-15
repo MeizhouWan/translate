@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objectDefs name="Game" version="0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<!-- The definitions of ObjectNamerArmy, ObjectNamerFleet, and ObjectNamerAirForce
+			can be replaced by locale-specific ones if necessary.
+		 The only requirement is that they be derived from ObjectNamerOrdinal. -->
+
+	<objectDef type="ObjectNamerArmy" superType="ObjectNamerFormatString">
+		<property name="strObjectType" value="Army"/>
+		<property name="fsidName" value="FSID.Game.ObjectNamerArmy.Name"/>
+	</objectDef>
+
+	<objectDef type="ObjectNamerFleet" superType="ObjectNamerFormatString">
+		<property name="strObjectType" value="Fleet"/>
+		<property name="fsidName" value="FSID.Game.ObjectNamerFleet.Name"/>
+	</objectDef>
+	
+	<objectDef type="ObjectNamerAirForce" superType="ObjectNamerFormatString">
+		<property name="strObjectType" value="AirForce"/>
+		<property name="fsidName" value="FSID.Game.ObjectNamerAirForce.Name"/>
+	</objectDef>
+			
+</objectDefs>

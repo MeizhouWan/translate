@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+	<string id="SID.ToolTip.Basic.SelectPlayerProfile" value="Select current player profile"/>
+	<string id="SID.ToolTip.Basic.NewPlayerProfile" value="Create a new player profile"/>
+	<string id="SID.ToolTip.Basic.RemovePlayerProfile" value="Remove the highlighted player profile"/>
+	<string id="SID.ToolTip.Basic.ExitPlayerProfile" value="Exit to desktop"/>
+	<string id="SID.ToolTip.Basic.ListPlayerProfile" value="List of player profiles"/>
+	<string id="SID.ToolTip.Basic.EditBoxPlayerProfile" value="Click here to enter a new profile name"/>
+	<string id="SID.ToolTip.Basic.LoobyDisabledForDemo" value="Disabled for Demo"/>
+	<string id="SID.ToolTip.Basic.MainMenuSinglePlayer" value="Start a Single Player game"/>
+	<string id="SID.ToolTip.Basic.MainMenuMultiPlayer" value="Start a Multiplayer game"/>
+	<string id="SID.ToolTip.Basic.MainMenuGameServer" value="Start a Multiplayer game using a Game Server"/>
+	<string id="SID.ToolTip.Basic.MainMenuRemoteServer" value="Manage games on a remote server"/>
+	<string id="SID.ToolTip.Basic.MainMenuWalkthrough" value="View Saved Game options for Walkthrough Mode"/>
+	<string id="SID.ToolTip.Basic.MainMenuOptions" value="View or change System Options"/>
+	<string id="SID.ToolTip.Basic.MainMenuLoadSavedGame" value="Return to a Saved Game"/>
+	<string id="SID.ToolTip.Basic.MainMenuTutorial" value="Start game tutorial"/>
+	<string id="SID.ToolTip.Basic.MainMenuPlayerProfile" value="View Player Profile screen"/>
+	<string id="SID.ToolTip.Basic.MainMenuExit" value="Exit to desktop"/>
+	<string id="SID.ToolTip.Basic.MainMenuCredits" value="View Making History(TM) credits"/>
+	<string id="SID.ToolTip.Basic.SinglePlayerNewGame" value="Start a new Single Player game"/>
+	<string id="SID.ToolTip.Basic.SinglePlayerLoadGame" value="Load a saved game"/>
+	<string id="SID.ToolTip.Basic.SinglePlayerBack" value="Return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerNewGame" value="Start a new Multiplayer game as the Host Player"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerSavedGame" value="Load a Saved Game as the Host Player"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerJoinGame" value="Join a game hosted by another Player or a Game Server"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerBack" value="Return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerJoinAddServer" value="Add"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerJoinJoinServer" value="Join the game on this server"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerGameServerCreateNewGame" value="Create new multiplayer game to be served from this PC"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerGameServerLoadGame" value="Load a saved game to be served from this PC"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerGameServerStartGame" value="Start serving current game"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerGameServerStopGame" value="Stop serving current game"/>
+	<string id="SID.ToolTip.Basic.MultiPlayerGameServerWatch" value="Observe game in progress or review saved game"/>
+	<string id="SID.ToolTip.Basic.TutorialExit" value="Exit the Tutorial"/>
+	<string id="SID.ToolTip.Basic.GameServerNewGame" value="Start a new Multiplayer game using this computer as a non-playing Game Server"/>
+	<string id="SID.ToolTip.Basic.GameServerSavedGame" value="Load a saved Multiplayer game using this computer as a non-playing Game Server"/>
+	<string id="SID.ToolTip.Basic.GameServerBack" value="Return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.ServerChoiceJoinGame" value="Join Game on selected Server"/>
+	<string id="SID.ToolTip.Basic.ServerChoiceAddServer" value="Enter IP Address to add a new Server to list"/>
+	<string id="SID.ToolTip.Basic.ServerChoiceRefreshList" value="Search for new Servers and Refresh list"/>
+	<string id="SID.ToolTip.Basic.ServerChoiceBack" value="Return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.OptionsSaveChanges" value="Save System Changes and return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.OptionsCancelChanges" value="Return to previous screen without saving Scenario Changes"/>
+	<string id="SID.ToolTip.Basic.OptionsSystemUnitModelsFullSet" value="Display complete set of military unit models.  Requires most memory"/>
+	<string id="SID.ToolTip.Basic.OptionsSystemUnitModelsLargeSet" value="Display large set of military unit models."/>
+	<string id="SID.ToolTip.Basic.OptionsSystemUnitModelsMediumSet" value="Display a medium set of military unit models"/>
+	<string id="SID.ToolTip.Basic.OptionsSystemUnitModelsLowSet" value="Display smallest set of military unit models.&#010;Recommended for PCs with minimal memory."/>
+	<string id="SID.ToolTip.Basic.OptionsScenarioSaveTurnHistory" value="Save all turns, allowing restart and walkthrough from any turn"/>
+	<string id="SID.ToolTip.Basic.OptionsScenarioAutosave" value="Save the current turn, allowing restart from that turn "/>
+	<string id="SID.ToolTip.Basic.OptionsScenarioCancel" value="Cancel Scenario changes and return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.OptionsScenarioDominationOn" value="Turn on Domination victory mode"/>
+	<string id="SID.ToolTip.Basic.OptionsScenarioDominationOff" value="Turn off Domination victory mode"/>
+	<string id="SID.ToolTip.Basic.OptionsScenarioDominationValue" value="Set the percentage of power points needed for domination victory.&#010;Victory will be immediate when this percentage is reached."/>
+	<string id="SID.ToolTip.Basic.SPScenarioLoad" value="Start the selected Scenario"/>
+	<string id="SID.ToolTip.Basic.SPScenarioOptions" value="View or set Options for this Scenario"/>
+	<string id="SID.ToolTip.Basic.SPScenarioBack" value="Return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.LoadGameStartTurn" value="Use arrows to choose starting turn"/>
+	<string id="SID.ToolTip.Basic.LoadGameLoadScenario" value="Start the selected Scenario"/>
+	<string id="SID.ToolTip.Basic.LoadGameScenarioOptions" value="View or set Options for this Scenario"/>
+	<string id="SID.ToolTip.Basic.AreaOptionsAutoSave" value="Restart from any turn, up to and including, when the game was saved"/>
+	<string id="SID.ToolTip.Basic.AreaOptionsAI" value="Allow Artificial Intelligence to &quot;play&quot; unselected countries"/>
+	<string id="SID.ToolTip.Basic.AreaOptionsQuestions" value="Turn on in-game questions"/>
+	<string id="SID.ToolTip.Basic.AreaOptionsUseFullTime" value="Turn will only end when the timer reaches zero, not when the player selects End Turn"/>
+	<string id="SID.ToolTip.Basic.OptionsTurnTimer" value="Use Arrows to set Turn Time"/>
+	<string id="SID.ToolTip.Basic.ButtonOptionsSaveChanges" value="Save changes and return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.ButtonOptionsCancel" value="Return to the previous screen without saving changes"/>
+	<string id="SID.ToolTip.Basic.LoadGameBack" value="Return to the previous screen"/>
+	<string id="SID.ToolTip.Basic.CountrySelectStart" value="Start game"/>
+	<string id="SID.ToolTip.Basic.CountrySelectBack" value="Return to previous screen"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarDate" value="Date"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarTurnTime" value="Turn Time"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarSeason" value="Current season in your nation"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarTransports" value="Transport Capacity Stockpile"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarArms" value="Arms Stockpile/Supply Rate"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarGoods" value="Goods Stockpile/Supply Rate"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarMetals" value="Metals Stockpile/Supply Rate"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarCoal" value="Coal Stockpile/Supply Rate"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarOil" value="Oil Stockpile/Supply Rate"/>
+	<string id="SID.ToolTip.Basic.AreaTopBarFood" value="Food Stockpile/Supply Rate"/>
+	<string id="SID.ToolTip.Basic.AreaMiniMap" value="Click here to quickly navigate the game map"/>
+	<string id="SID.ToolTip.Basic.ButtonMiniMapClose" value="Open Close Mini Map"/>
+	<string id="SID.ToolTip.Basic.ButtonPolicyAreaTurnSummary" value="Scoring &amp; Reports"/>
+	<string id="SID.ToolTip.Basic.ButtonPolicyAreaMilitary" value="Manage &amp; Build Forces"/>
+	<string id="SID.ToolTip.Basic.ButtonPolicyAreaDiplomatic" value="Treaties, Alliances &amp; Wars"/>
+	<string id="SID.ToolTip.Basic.ButtonPolicyAreaDomestic" value="Population &amp; Research"/>
+	<string id="SID.ToolTip.Basic.ButtonPolicyAreaEconomic" value="Production, Trade, Infrastructure &amp; Treasury"/>
+	<string id="SID.ToolTip.Basic.ButtonBottomRightClose" value="Close Panel"/>
+	<string id="SID.ToolTip.Basic.ButtonBottomRightBook" value="Data, Graphs &amp; Archives"/>
+	<string id="SID.ToolTip.Basic.ButtonBottomRightFile" value="Change Game Options, Save and End Game"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryProduction" value="Manage military production"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryProductionCity" value="View city details"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryProductionRegion" value="View region"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryProductionOrder" value="Change Production Order"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryProductionNextFinished" value="Stop or resume production"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryArmy" value="Division Details &amp; Locations"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryAirForce" value="Squadron Details &amp; Locations"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryNavy" value="Fleet Details &amp; Locations"/>
+	<string id="SID.ToolTip.Basic.ButtonMilitaryManageForcesGroupDetails" value="Group Details"/>
+	<string id="SID.ToolTip.Basic.ButtonDiplomaticAlliancesAndWars" value="View Alliances &amp; Wars"/>
+	<string id="SID.ToolTip.Basic.ButtonDiplomaticSelectNation" value="Send Treaty to a Nation"/>
+	<string id="SID.ToolTip.Basic.ButtonDiplomaticSelectAlliance" value="Send Treaty to an Alliance"/>
+	<string id="SID.ToolTip.Basic.AreaDomesticTotalPopulation" value="People in Home Nation, Colonies &amp; Conquered Lands"/>
+	<string id="SID.ToolTip.Basic.AreaDomesticSkilledWorkers" value="Producers of Goods, Weapons &amp; Resources"/>
+	<string id="SID.ToolTip.Basic.AreaDomesticUnskilledWorkers" value="Producers of Food"/>
+	<string id="SID.ToolTip.Basic.AreaDomesticMilitary" value="Recruited from Unskilled Workers"/>
+	<string id="SID.ToolTip.Basic.ButtonDomesticResearchProjects" value="Upgrade Technologies"/>
+	<string id="SID.ToolTip.Basic.ButtonDomesticNonNationalPopulations" value="Liberate Non-National Cultures"/>
+	<string id="SID.ToolTip.Basic.ButtonEconomicProduction" value="Manage Industrial Production"/>
+	<string id="SID.ToolTip.Basic.ButtonEconomicWorldTrade" value="Propose Trade &amp; Aid"/>
+	<string id="SID.ToolTip.Basic.ButtonEconomicInfrastructure" value="Improve Regional Resources, Transportation, &amp; Defenses"/>
+	<string id="SID.ToolTip.Basic.ButtonTurnSummaryVictoryConditions" value="View Detailed Scoring"/>
+	<string id="SID.ToolTip.Basic.ButtonTurnSummaryCombatReport" value="See Battle Details"/>
+	<string id="SID.ToolTip.Basic.AreaCombatReportLeaderAttacker" value="Attacker"/>
+	<string id="SID.ToolTip.Basic.AreaCombatReportLeaderDefender" value="Defender"/>
+	<string id="SID.ToolTip.Basic.ButtonTurnSummaryProductionReport" value="Inspect or revise city production"/>
+	<string id="SID.ToolTip.Basic.AreaRHPNationTotalPopulation" value="People in Home Nation, Colonies &amp; Conquered Lands"/>
+	<string id="SID.ToolTip.Basic.AreaRHPNationMPUs" value="Manpower Unit (1 MPU=1000 Workers)"/>
+	<string id="SID.ToolTip.Basic.AreaRHPNationIPUs" value="Industrial Production Unit"/>
+	<string id="SID.ToolTip.Basic.AreaRHPCityMPUs" value="Manpower Unit (1 MPU=1000 Workers)"/>
+	<string id="SID.ToolTip.Basic.AreaRHPCityIPUs" value="Industrial Production Unit"/>
+	<string id="SID.ToolTip.Basic.ButtonRHPCityNavalUnit" value="View Fleet Details"/>
+	<string id="SID.ToolTip.Basic.ButtonRHPCityDeployFleet" value="Deploy Fleet"/>
+	<string id="SID.ToolTip.Basic.AreaRHPRegionPopulation" value="Region Population"/>
+	<string id="SID.ToolTip.Basic.AreaRHPRegionScoringPoints" value="Region Value"/>
+	<string id="SID.ToolTip.Basic.AreaRHPRegionMPUs" value="Manpower Unit (1 MPU=1000 Workers)"/>
+	<formatString id="FSID.ToolTip.Basic.ButtonRHPRegionUpgradeFortifications" value="Improve Regional Defenses&#010;Adds @AAShots@ anti-aircraft shots per turn&#010;Adds @AAPct@% anti-aircraft chance to hit&#010;Adds @DefensePct@% defensive bonus&#010;Costs $@CurrentCost@ at level @CurrentLevel@&#010;Costs $@UpgradeCost@ during upgrade&#010;Costs $@CompleteCost@ at level @NextLevel@"/>
+	<formatString id="FSID.ToolTip.Basic.ButtonRHPRegionUpgradeInfrastructure" value="Improve Regional Transportation&#010;Adds @MovementPct@% movement bonus&#010;Adds @ResourcePct@% resource production bonus&#010;Costs $@CurrentCost@ at level @CurrentLevel@&#010;Costs $@UpgradeCost@ during upgrade&#010;Costs $@CompleteCost@ at level @NextLevel@"/>
+	<string id="SID.ToolTip.Basic.ButtonRHPSeaRegionNavalUnit" value="View Fleet Details"/>
+	<string id="SID.ToolTip.Basic.AreaRHPProducerMPUs" value="Manpower Unit (1 MPU=1000 Workers)"/>
+	<string id="SID.ToolTip.Basic.ButtonRHPProducerExpand" value="Increase Production Capacity"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortNation" value="Sort by Nation"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortManpower" value="Sort by Manpower points"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortIndustrial" value="Sort by Industrial points"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortResource" value="Sort by Resource points"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortFinancial" value="Sort by Financial points"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortWorldPower" value="Sort by total World Power score"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortCity" value="Sort by cities"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortCapacity" value="Sort by capacity"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortPort" value="Sort by port"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortProductionOrder" value="Sort by Production Order"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortNextFinished" value="Sort by next finished"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortCities" value="Sort by cities assigned"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortComplation" value="Sort by completion rate"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortRegion" value="Sort by region"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortProduction" value="Sort by production Levels"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortFortification" value="Sort by fortification Levels"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortInfrastructure" value="Sort by infrastructure Levels"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortOutput" value="Sort by output"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortMaximization" value="Sort by maximization rate"/>
+	<string id="SID.ToolTip.Basic.BrownTitleSortBonusOutput" value="Sort by bonus output"/>
+	<string id="SID.ToolTip.Basic.ButtonAlliance" value="View Alliance details"/>
+	<string id="SID.ToolTip.Basic.ButtonMaximizing" value="Change current order"/>
+	<string id="SID.ToolTip.Basic.PolicyAreaDomesticTextMPUGrowthPenalty" value="Food shortages hurt MPU growth"/>
+	<string id="SID.ToolTip.Basic.PolicyAreaDomesticTextProductivityPenalty" value="Food and Goods shortages slow industrial production"/>
+	<string id="SID.ToolTip.Basic.PolicyAreaDomesticButtonLiberate" value="Liberate Regions"/>
+	<string id="SID.ToolTip.Basic.ButtonAlliancePeace" value="Propose peace between enemy and your alliance"/>
+	<string id="SID.ToolTip.Basic.ButtonSeparatePeace" value="Propose peace between enemy and your country only"/>
+	<string id="SID.ToolTip.Basic.BookButtonScoring" value="Scoring data"/>
+	<string id="SID.ToolTip.Basic.BookButtonWorld" value="World data"/>
+	<string id="SID.ToolTip.Basic.BookButtonMilitary" value="Military data"/>
+	<string id="SID.ToolTip.Basic.BookButtonDiplomacy" value="Diplomatic data"/>
+	<string id="SID.ToolTip.Basic.BookButtonDomestic" value="Region, City, and Manpower data"/>
+	<string id="SID.ToolTip.Basic.BookButtonEconomic" value="Economic Data"/>
+	<string id="SID.ToolTip.Basic.BookButtonArchive" value="Turn Archive and Log"/>
+	<string id="SID.ToolTip.Basic.BookButtonEncyclopedia" value="Game world Encyclopedia"/>
+	<string id="SID.ToolTip.Basic.ButtonInGameMainMenuReports" value="Generate game-play report for your country or all playable countries."/>
+	<string id="SID.ToolTip.Basic.ButtonInGameMainMenuSaveGame" value="Save your game"/>
+	<string id="SID.ToolTip.Basic.ButtonInGameMainMenuResumeGame" value="Return to your game"/>
+	<string id="SID.ToolTip.Basic.ButtonInGameMainMenuOptions" value="Change sound and display Options"/>
+	<string id="SID.ToolTip.Basic.ButtonInGameMainMenuQuiteGame" value="Quit this game"/>
+	<string id="SID.ToolTip.Basic.AreaEconomicCombatDamage" value="Bombing and Combat Damage"/>
+	<formatString id="FSID.ToolTip.Basic.AreaEconomicResourceShortages" value="Resource Shortages&#010;Coal: @CoalShortage@&#010;Oil: @OilShortage@&#010;Metals: @MetalsShortage@"/>
+	<formatString id="FSID.ToolTip.Basic.AreaEconomicEconomicPenalty" value="Economic Penalty&#010;Goods Shortage: @IPUsLostToGoodsPenalty@ IPU(s)&#010;Financial Debt: @IPUsLostToDeficit@ IPU(s)"/>
+	<formatString id="FSID.ToolTip.Basic.AreaEconomicPopulationPenalty" value="Population Penalty &#010;Ownership: @IPUsLostToOwnership@ IPU(s)&#010;Culture: @IPUsLostToCulture@ IPU(s)"/>
+	
+	<string id="SID.ToolTip.Basic.CityPanelCombatLosses" value="Bombing and Combat Losses"/>
+	<string id="SID.ToolTip.Basic.CityPanelResourceShortages" value="Resource Shortages"/>
+	<formatString id="FSID.ToolTip.Basic.CityPanelEconomicPenalty" value="Economic Penalty&#010;Goods Shortage: @IPUsLostToGoodsPenalty@ IPU(s)&#010;Financial Debt: @IPUsLostToDeficit@ IPU(s)"/>
+	<formatString id="FSID.ToolTip.Basic.CityPanelPopulationPenalty" value="Population Penalty&#010;Ownership: @IPUsLostToOwnership@ IPU(s)&#010;Culture: @IPUsLostToCulture@ IPU(s)"/>
+	
+	<formatString id="FSID.ToolTip.Basic.RegionPanelButtonFoodProductionDesc" value="@AgricultureLevelName@ Maintenance Cost: $@MaintenanceCostPerMPU@/turn"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelButtonFoodProductionProductivityLevel" value="Productivity Level Multiplier&#010;@AgricultureLevelName@: @FoodProductionBonusPct@ x"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelButtonFoodProductionPopulationPenalty" value="Population Penalty&#010;Ownership: @OwnerProductionPenalty@%&#010;Culture: @CultureProductionPenalty@%"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelButtonFoodProductionTerrainPenalty" value="Terrain Penalty&#010;@TerrainType@: @FoodProductionPenaltyPct@%"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelButtonFoodProductionSeasonalPenalty" value="Seasonal Penalty&#010;@SeasonData@: @FoodProductionPenaltyPct@%"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelButtonFoodProductionUpgrade" value="Improve Regional Food Productivity&#010;Adds @FoodBonusPct@% food per turn&#010;Costs $@CurrentCost@ at level @CurrentLevel@&#010;Costs $@UpgradeCost@ during upgrade&#010;Costs $@CompleteCost@ at level @NextLevel@"/>
+	
+	<formatString id="FSID.ToolTip.Basic.RegionPanelDefenseInfrastructureDesc" value="@FortificationLevel@ Maintenance Cost: $@MaintenanceCost@/turn"/>
+	<string id="SID.ToolTip.Basic.RegionPanelDefenseInfrastructureAAA" value="Anti-Air Defense"/>
+	<string id="SID.ToolTip.Basic.RegionPanelDefenseInfrastructureResistBonus" value="Fortification Level Bonus"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelDefenseTerrainBonus" value="Terrain Defense Bonus (@TerrainType@)"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelDefenseSeasonBonus" value="Seasonal Defense Bonus (@SeasonData@)"/>
+	
+	<formatString id="FSID.ToolTip.Basic.RegionPanelTransportationInfrastructureDesc" value="@TransportationLevel@ Maintenance Cost: $@MaintenanceCost@/turn"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelTransportationInfrastructureMovement" value="Movement Bonus&#010;@CurrentTransportationLevel@: @MoveSpeedBonusPct@%"/>
+	<string id="SID.ToolTip.Basic.RegionPanelTransportationInfrastructureResourceBonus" value="Resource Production Bonus"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelTransportationTerrainPenalty" value="Terrain Movement Penalty (@TerrainType@)"/>
+	<formatString id="FSID.ToolTip.Basic.RegionPanelTransportationSeasonPenalty" value="Seasonal Movement Penalty (@SeasonData@)"/>
+	
+	<string id="SID.ToolTip.Basic.CombatReport.UnitTemplate" value="In Combat / Destroyed this turn / Total lost in battle"/>
+	<string id="SID.ToolTip.Basic.CombatReport.UnitCategory" value="In Combat / Destroyed this turn / Total lost in battle"/>
+	<string id="SID.ToolTip.Basic.CombatReport.City" value="IPUs / Lost this turn / Total lost in battle / Total Destroyed"/>
+	<string id="SID.ToolTip.Basic.CombatReport.Producer" value="Output Rate / Lost this turn / Total lost in battle / Total Destroyed"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierDefault" value="Unknown Modifier&#010;Type: @CombatModifier@&#010;Bonus: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierRegionTerrain" value="Terrain Defense Bonus&#010;Terrain: @CombatModifierTerrainType@&#010;Bonus: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierFortificationDefense" value="Fortification Defense Bonus&#010;Fortification Level: @CombatModifierFortificationLevel@&#010;Bonus: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierAmphibiousAssault" value="Amphibious Assault Penalty&#010;Amphibious Assault Level: @CombatModifier@&#010;Penalty: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierOffensiveTactic" value="Offensive Tactics Bonus&#010;Offensive Tactics Level: @CombatModifier@&#010;Bonus: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierDefensiveTactics" value="Defensive Tactics Bonus&#010;Defensive Tactics Level: @CombatModifier@&#010;Bonus: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierMountainWarfare" value="Mountain Warfare Bonus&#010;Mountain Warfare Level: @CombatModifier@&#010;Bonus: @CombatModifierModAmount@%"/>
+	<formatString id="FSID.ToolTip.Basic.CombatReport.CombatModifierJungleWarfare" value="Jungle Warfare Bonus&#010;Jungle Warfare Level: @CombatModifier@&#010;Bonus: @CombatModifierModAmount@%"/>
+
+
+	<string id="SID.ToolTip.Basic.Unit.ArmsShortagePenalty" value="Arms Shortage Penalty"/>
+	
+	<formatString id="FSID.ToolTip.Basic.ResourceProducer.TransportationBonus" value="Transportation Level Bonus&#010;@CurrentTransportationLevel@: @ResourceProductionBonusPct@%"/>
+	<formatString id="FSID.ToolTip.Basic.ResourceProducer.PopulationPenalty" value="Population Penalty&#010;Ownership: @OwnerProductionPenalty@%&#010;Culture: @CultureProductionPenalty@%"/>
+	<string id="SID.ToolTip.Basic.Unit.ResourceProducer.OutputLost" value="Output lost to combat damage"/>
+	
+	<string id="SID.ToolTip.Basic.Slideout.IndustrialProduction.CompleteOrderButton" value="Output lost to combat damage"/>
+	<string id="SID.ToolTip.Basic.Slideout.IndustrialProduction.ResourceInfoDamage" value="Bombing and Combat Damage"/>
+	<formatString id="FSID.ToolTip.Basic.IndustrialProduction.ResourceShortages" value="Resource Shortages&#010;Coal @CoalShortage@&#010;Oil @OilShortage@&#010;Metals @MetalsShortage@"/>
+	<formatString id="FSID.ToolTip.Basic.IndustrialProduction.EconomicPenalty" value="Economic Penalty&#010;IPUs Lost to Goods Penalty: @IPUsLostToGoodsPenalty@&#010;IPUs Lost to Deficit: @IPUsLostToDeficit@"/>
+	<formatString id="FSID.ToolTip.Basic.IndustrialProduction.PopulationPenalty" value="Population Penalty&#010;IPUs Lost to Ownership: @IPUsLostToOwnership@&#010;IPUs Lost to Culture: @IPUsLostToCulture@"/>
+	<formatString id="FSID.ToolTip.Basic.IndustrialProduction.AdjustedIPUs" value="Adjusted IPUs: @FactoryAdjustedIPUs@&#010;Base IPUs: @FactoryIPUs@"/>
+	
+	
+	<string id="SID.ToolTip.Basic.Slideout.Research.IPUsAssignerNeeded" value="IPUs assigned / IPUs needed"/>
+	<string id="SID.ToolTip.Basic.Slideout.Research.MoveUp" value="Move Up"/>
+	<string id="SID.ToolTip.Basic.Slideout.Research.MoveDown" value="Move Down"/>
+	<string id="SID.ToolTip.Basic.Slideout.Research.MovetoTop" value="Move to Top"/>
+	<string id="SID.ToolTip.Basic.Slideout.Research.MovetoBottom" value="Move to Bottom"/>
+	<string id="SID.ToolTip.Basic.Slideout.Research.Cancel" value="Cancel"/>
+	
+	<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.UI2DPenaltyRow.Goods_Shortage_Penalty" value="Goods Shortage Penalty: @IPUsLostToGoodsPenalty@ IPU(s)&#010;Goods Supply Level: @PercentGoodsSupplied@%&#010;Penalty Below: @GoodsGraceLevel@%"/>
+	<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.UI2DPenaltyRow.Food_Shortage_Penalty" value="Food Shortage Penalty: @nPenaltyMPUs@ MPU(s)&#010;Food Supply Level: @nPercentFoodSupplied@%&#010;Penalty Below: 100%"/>
+	<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.UI2DPenaltyRow.Deficit_Spending_Penalty" value="Deficit Spending Penalty: @IPUsLostToDeficit@ IPU(s)&#010;Deficit Level: $@GovernmentWealth@&#010;Penalty Every: $1,000,000,000"/>
+	<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.UI2DPenaltyRow.Arms_Shortage_Penalty" value="Arms Shortage Penalty&#010;Arms Supply Level: @PercentArmsSupplied@%&#010;Penalty Below: 100%"/>
+	
+<!-- Map ToolTips -->
+	<formatString id="FSID.ToolTip.MapViewPort.Sprite.MovableGO" value="@Name@ (@Owner@)&#010;Combat Power: @CombatPower@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.Sprite.City.Controlled" value="@Name@ (@Controller@)&#010;IPU Capacity: @IPUCapacity@ (@IPUsProducedLastTurn@)&#010;Production Order: @WorkOrder@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.Sprite.City.NotControlled" value="@Name@ (@Controller@)&#010;IPU Capacity: @IPUCapacity@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.Sprite.Producer" value="@Region@ @Resource@ (@Controller@)&#010;Output Rate: @OutputRate@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.Sprite.Default.Owned" value="@Name@ (@Controller@)"/>
+	<formatString id="FSID.ToolTip.MapViewPort.Sprite.Default.NotOwned" value="@Name@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.BombEngagement" value="Battle of @Region@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.BombCity" value="Bombing of @City@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.BombUnit" value="Bombing of @Unit@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.BombProducer" value="Bombing of @Region@ @Resource@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.AirPatrol" value="Patrolling of @Region@"/>
+	<formatString id="FSID.ToolTip.MapViewPort.Engagement" value="Battle of @Region@"/>
+	
+</stringTable>

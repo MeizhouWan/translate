@@ -1,0 +1,2232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+<!-- SID.UI.XML File.UI Element.Name -->
+
+<!-- UI2DMERoot -->
+	<string id="SID.UI.UI2DMERoot.EndButton.ExitGame" value="EXIT GAME"/>
+	<string id="SID.UI.UI2DMERoot.EndButton.EndTurn" value="END TURN"/>
+	
+<!-- UI2DPolicyAreaMilitary -->
+	<string id="SID.UI.UI2DPolicyAreaMilitary.Title" value="Military"/>
+	<!-- UI2DMilitaryInfo -->
+		<formatString id="FSID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.Title" value="@NationAdjective@ Military"/>
+		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.ManpowerTitle" value="Military Manpower"/>
+		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.RecruitableManpowerTitle" value="Recruitable Manpower"/>
+		<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryInfo.MaintenanceTitle" value="Force Maintenance"/>
+		<!-- UI2DMilitaryPolicySupplayLevel -->
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.SupplyLevel" value="Supply Level"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.ArmsRequired" value="Arms Required"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.CombatPenalty" value="Combat Penalty"/>
+			<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DMilitaryPolicySupplayLevel.FullyOperational" value="Fully Operational"/>
+			
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleArmy" value="Army"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescArmy" value="Land Divisions"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleAirForce" value="Air Force"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescAirForce" value="Air Force Squadrons"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.TitleNavy" value="Navy"/>
+	<string id="SID.UI.UI2DPolicyAreaMilitary.UI2DBranchInfo.DescNavy" value="Naval Ships &amp; Flotillas"/>
+	
+<!-- UI2DPolicyAreaDiplomatic -->
+	<string id="SID.UI.UI2DPolicyAreaDiplomatic.Title" value="Diplomatic"/>
+	<!-- UI2DAllianceWarsButton -->
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DAllianceWarsButton.Title" value="Alliances &amp; Wars"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DAllianceWarsButton.Desc" value="View International Relations"/>
+	<!-- UI2DDiplomaticNegotiations -->
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.Title" value="Negotiations"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.Desc" value="Initiate Diplomacy"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.ButtonSelectNation" value="Select Nation"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticNegotiations.ButtonSelectAlliance" value="Select Alliance"/>
+	<!-- UI2DRatifiedAggreements -->
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.Title" value="Ratified Agreements"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.Desc" value="Existing Treaties with other Nations"/>
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DRatifiedAggreements.MilitaryAccessTitle" value="Military Access:"/>
+	<!-- UI2DDiplomaticCurrentWars -->
+		<string id="SID.UI.UI2DPolicyAreaDiplomatic.UI2DDiplomaticCurrentWars.OurWars" value="Our Wars"/>
+	
+<!-- UI2DPolicyAreaDomestic -->
+	<string id="SID.UI.UI2DPolicyAreaDomestic.Title" value="Domestic"/>
+	<!-- UI2DGovernmentInfo -->
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.GovTypeTitle" value="National Government"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.TotalPopulation" value="Total Population"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.CapitalCity" value="Capital City"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DGovernmentInfo.NationalCulture" value="National Culture"/>
+	<!-- UI2DNationalLaborPoolButton -->
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Title" value="National Labor Pool"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.MPUGrowthTitle" value="MPU Growth Rate"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.CurrentMPUGrowth" value="@CurrentMPUGrowth@ per Turn"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.LaborPoolGroupInfoPercent" value="@Percent@ % of Labor Pool"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Food" value="Food"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.Goods" value="Goods"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.MPUGrowthPenalty" value="MPU Growth Penalty"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.ProductivityPenalty" value="Productivity Penalty"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.GroupDataSkilledValue" value="@GroupDataSkilled@ MPUs"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.GroupDataUnskilledValue" value="@GroupDataUnskilled@ MPUs"/>
+		<formatString id="FSID.UI.UI2DPolicyAreaDomestic.UI2DNationalLaborPoolButton.GroupDataMilitaryValue" value="@GroupDataMilitary@ MPUs"/>
+	<!-- UI2DResearchButton -->
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DResearchButton.Title" value="Research Projects"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DResearchButton.Desc" value="IPUs Assigned to Research"/>
+	<!-- UI2DLiberationButton -->
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DLiberationButton.Title" value="Grant Independence"/>
+		<string id="SID.UI.UI2DPolicyAreaDomestic.UI2DLiberationButton.Desc" value="Liberate controlled nations"/>
+
+<!-- UI2DPolicyAreaEconomic -->
+	<string id="SID.UI.UI2DPolicyAreaEconomic.Title" value="Economic"/>
+	<!-- UI2DProductionButton -->
+		<formatString id="FSID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.Title" value="@NationAdjective@ Industry"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.Desc" value="Production Output"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.of" value="of"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IPUCapacity" value="IPU Capacity"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IndustrialEfficiencyTitle" value="Industrial Efficiency"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.IndustrialProductionShortagesTitle" value="Industrial Production Shortages"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DProductionButton.ProductionLosses" value="Production Losses (IPUs)"/>
+	<!-- UI2DWorldMarketButton -->
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DWorldMarketButton.Title" value="World Trade"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DWorldMarketButton.Desc" value="International Trade Balance"/>
+	<!-- UI2DInfrastructureButton -->
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DInfrastructureButton.Title" value="Infrastructure"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DInfrastructureButton.Desc" value="Maintenance"/>
+	<!-- UI2DNationalIncome -->
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.Title" value="National Income (last turn)"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.GoodsRevenue" value="Goods Revenue"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.FoodRevenue" value="Food Revenue"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.Exports" value="Exports"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalIncome.TotalIncome" value="Total Income"/>
+	<!-- UI2DNationalSpending -->
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Title" value="National Spending (last turn)"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.MilitarySpending" value="Military Spending"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Research" value="Research"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Infrastructure" value="Infrastructure"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.Imports" value="Imports"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalSpending.TotalSpending" value="Total Spending"/>
+	<!-- UI2DNationalBalance -->
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalBalance.Balance" value="Balance"/>
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DNationalBalance.Treasury" value="Treasury"/>
+	<!-- UI2DLostIPU -->
+		<string id="SID.UI.UI2DPolicyAreaEconomic.UI2DLostIPU.IPUs" value="IPUs"/>
+		
+<!-- UI2DPolicyAreaEndTurn -->
+	<!-- UI2DEndTurnScoringButton -->
+		<formatString id="FSID.UI.UI2DPolicyAreaEndTurn.Title" value="TURN @CurrentNotificationTurn@ SUMMARY"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Ranking" value="Ranking"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Rank" value="Rank:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DEndTurnScoringButton.Score" value="Score:"/>
+	<!-- UI2DProductionListElement -->
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.Title" value="Production Report"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.DescCities" value="Idle Cities:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DProductionListElement.DescIPUs" value="IPU Output:"/>
+	<!-- UI2DResearchListElement -->	
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DResearchListElement.Title" value="Research Projects"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DResearchListElement.DescIPUsAssigned" value="IPUs Assigned:"/>
+	<!-- UI2DWorldMarketListElement -->
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DWorldMarketListElement.Title" value="World Market"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DWorldMarketListElement.TradeOffers" value="Trade Offers:"/>
+	<!-- FinancialReportListElement -->
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Title" value="Financial Report (last turn)"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Balance" value="Balance:"/>
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.FinancialReportListElement.Treasury" value="Treasury:"/>
+	<!-- UI2DInternationalEventList -->
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DInternationalEventList.Title" value="International Events"/>
+	<!-- UI2DInternationalEventList -->
+		<string id="SID.UI.UI2DPolicyAreaEndTurn.UI2DNationalEventList.Title" value="National Events"/>
+
+<!-- UI2DObserverModeNav -->
+	<string id="SID.UI.UI2DObserverModeNav.Button.select" value="select"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.cancel" value="cancel"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.Nation" value="NATION"/>
+	<string id="SID.UI.UI2DObserverModeNav.Button.Loading" value="Loading"/>
+	
+	
+<!-- UI2DPolicyAreaEndTurnCombatReport -->
+	<!-- UI2DEoTCombatReportList -->
+		<string id="SID.UI.UI2DPolicyAreaEndTurnCombatReport.UI2DEoTCombatReportList.Title" value="Combat Reports"/>
+
+<!-- UI2DPopUpAlliance -->
+	<string id="SID.UI.UI2DPopUpAlliance.Title" value="Alliance"/>
+	
+	<!-- Break Alliance -->
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Title" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Desc" value="Break Alliance?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Right" value="no"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.Left" value="yes"/>
+	<formatString id="FSID.UI.UI2DPopUpAlliance.Confirmation.BreakAlliance.DisplayName" value="Broke your Alliance with @CountryName@"/>
+	
+	<!-- Join Alliance -->
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Title" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Desc" value="Join Alliance?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Right" value="no"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.JoinAlliance.Left" value="yes"/>
+	
+	<!-- Declare War -->
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Title" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Desc" value="Are you sure you want to declare war?"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Right" value="no"/>
+	<string id="SID.UI.UI2DPopUpAlliance.Confirmation.DeclareWar.Left" value="yes"/>
+	
+	<!-- UI2DAlliesFlagsListElement -->
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAlliesFlagsListElement.Title" value="Allies:"/>
+	<!-- UI2DAllainceTreatyActionOptions -->
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleDeclareWar" value="Declare War on the"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleBreakAlliance" value="Break Alliance with"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleJoinMerge" value="Join/Merge Alliance with"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleMakeAlliancePeace" value="Make Alliance Peace"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strTitleMakeSeparatePeace" value="Make Separate Peace"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.strDescSelectAllianceMember" value="Select Alliance Member"/>
+		<string id="SID.UI.UI2DPopUpAlliance.UI2DAllainceTreatyActionOptions.Options" value="Options"/>
+
+<!-- UI2DPopUpNation -->
+		<string id="SID.UI.UI2DPopUpNation.Title" value="NATION"/>
+		<formatString id="FSID.UI.UI2DPopUpNation.MPUSingular" value="@MPUs@ MPU"/>
+		<formatString id="FSID.UI.UI2DPopUpNation.MPUPlural" value="@MPUs@ MPUs"/>
+		<formatString id="FSID.UI.UI2DPopUpNation.IPUSingular" value="@IPUs@ IPU"/>
+		<formatString id="FSID.UI.UI2DPopUpNation.IPUPlural" value="@IPUs@ IPUs"/>
+		
+	<!-- UI2DNationAlliance -->
+		<string id="SID.UI.UI2DPopUpNation.UI2DNationAlliance.Title" value="Allies"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DNationAlliance.NoAlliance" value="No Current Alliance"/>
+	<!-- UI2DNationEnemies -->
+		<string id="SID.UI.UI2DPopUpNation.UI2DNationEnemies.Title" value="Wars"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DNationEnemies.NoWars" value="No Current Wars"/>
+	<!-- Confirmation -->
+		<!-- Declare War -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.DeclareWar.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.DeclareWar.Desc" value="Are you sure you want to declare war?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.DeclareWar.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.DeclareWar.Left" value="yes"/>
+		
+		<!-- Military Access -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.MilitaryAccess.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.MilitaryAccess.Desc" value="Request military access?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.MilitaryAccess.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.MilitaryAccess.Left" value="yes"/>
+		
+		<!-- Cancel Military Access -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelMilitaryAccess.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelMilitaryAccess.Desc" value="Cancel military access?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelMilitaryAccess.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelMilitaryAccess.Left" value="yes"/>
+		
+		<!-- Form Alliance -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.FormAlliance.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.FormAlliance.Desc" value="Form Alliance?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.FormAlliance.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.FormAlliance.Left" value="yes"/>
+		
+		<!-- Break Alliance -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.BreakAlliance.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.BreakAlliance.Desc" value="Break Alliance?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.BreakAlliance.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.BreakAlliance.Left" value="yes"/>
+		
+		<!-- Embargo -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.Embargo.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.Embargo.Desc" value="Embargo Nation?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.Embargo.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.Embargo.Left" value="yes"/>
+		
+		<!-- Cancel Embargo -->
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelEmbargo.Title" value="Proceed?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelEmbargo.Desc" value="Cancel Embargo?"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelEmbargo.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpNation.Confirmation.CancelEmbargo.Left" value="yes"/>
+		
+<!-- UI2DPopUpCity -->
+	<string id="SID.UI.UI2DPopUpCity.Title" value="city"/>
+	<string id="SID.UI.UI2DPopUpCity.UI2DInfoWithIcon.TitleIPUCapacity" value="IPU Capacity"/>
+	<string id="SID.UI.UI2DPopUpCity.UI2DInfoWithIcon.TitleSkilledLabor" value="Skilled Labor"/>
+	<string id="SID.UI.UI2DPopUpCity.UI2DInfoWithIcon.TitleCityInfrastructure" value="City Infrastructure"/>
+	<string id="SID.UI.UI2DPopUpCity.UI2DInfoWithIcon.TitlePortCity" value="Port City"/>
+	<string id="SID.UI.UI2DPopUpCity.UI2DInfoWithIcon.Turns" value="Turn(s)"/>
+	<formatString id="FSID.UI.UI2DPopUpCity.Header.MPUsAssigned" value="@AssignedMPUs@ MPUs"/>
+	<formatString id="FSID.UI.UI2DPopUpCity.CityProductionOrder.Of" value="@IPUs@ of @IPUsRequired@"/>
+	
+	<!-- UI2DOccupied -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DOccupied.Occupied" value="Occupied"/>
+	<!-- UI2DCityProductionOrder -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.ProductionOrderTitle" value="Production Order"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.ProductionOrderNoOrder" value="No Order"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.TitleNextFinished" value="Next Finished"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.NextFinishedValuePaused" value="Paused"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.TitleCompletedIPUs" value="Completed IPUs"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.ManageProductionButtonClose" value="Close Panel"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.ManageProductionButtonChangeOrder" value="Change Order"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.ManageProductionButtonPause" value="Pause Order"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.ManageProductionButtonUnpause" value="Unpause Order"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityProductionOrder.RallyPoint" value="Rally Point"/>
+	<!-- UI2DShipsInCities -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DShipsInCities.Title" value="Naval Presence"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DShipsInCities.Desc" value="Groups Stationed in Port"/>
+	<!-- UI2DCityIPUOutput -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityIPUOutput.Title" value="IPU Output"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityIPUOutput.TitleLastTurn" value="Last Turn"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityIPUOutput.TitleTotalCapacity" value="Total Capacity"/>
+	<!-- UI2DIPUOutputProductionLosses -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DIPUOutputProductionLosses.Title" value="Production Losses (IPUs)"/>
+	<!-- UI2DCityRallyPoint -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DCityRallyPoint.Title" value="Rally Point"/>
+	<!-- UI2DShipsInPortRow -->
+		<string id="SID.UI.UI2DPopUpCity.UI2DShipsInPortRow.Ship" value=" Ship"/>
+		<string id="SID.UI.UI2DPopUpCity.UI2DShipsInPortRow.Ships" value=" Ships"/>
+<!-- UI2DPopUpManageForces -->
+	<string id="SID.UI.UI2DPopUpManageForces.Title" value="MANAGE FORCES"/>
+	<string id="SID.UI.UI2DPopUpManageForces.ListDesc" value="Groups, Location, Size and Orders"/>
+	<!-- UI2DManageForcesUnitElement -->
+		<string id="SID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.Location" value="Location"/>
+		<formatString id="FSID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.SizeDivision" value="@Size@ Division(s)"/>
+		<formatString id="FSID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.SizeSquadron" value="@Size@ Squadron(s)"/>
+		<formatString id="FSID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.SizeShip" value="@Size@ Ship(s)"/>
+		<formatString id="FSID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.SizeOther" value="@Size@ Other(s)"/>
+		<string id="SID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.OrderInCombat" value="In Combat"/>
+		<string id="SID.UI.UI2DPopUpManageForces.UI2DManageForcesUnitElement.OrderNone" value="None"/>
+		
+	
+
+<!-- UI2DPopUpNation -->
+	<string id="SID.UI.UI2DPopUpNation.UI2DInfoWithIcon.TitleTotalPopulation" value="Total Population"/>
+	<string id="SID.UI.UI2DPopUpNation.UI2DInfoWithIcon.TitleLaborPool" value="Labor Pool"/>
+	<string id="SID.UI.UI2DPopUpNation.UI2DInfoWithIcon.TitleNationalCulture" value="National Culture"/>
+	<string id="SID.UI.UI2DPopUpNation.UI2DInfoWithIcon.TitlePowerPoints" value="Power Points"/>
+	<string id="SID.UI.UI2DPopUpNation.UI2DInfoWithIcon.TitleIndustrialOutput" value="Industrial Output"/>
+	<!-- UI2DRelationsWithNations -->
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.DiplomaticRelations" value="Diplomatic Relations"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.ProposeAlliance" value="Propose Alliance"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.BreakAlliance" value="Break Alliance"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.DeclareWar" value="Declare War"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.AlliancePeace" value="Alliance Peace"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.SeparatePeace" value="Separate Peace"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.MakePeace" value="Make Peace"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.MilitaryAccess" value="Military Access"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.CancelMilitaryAccess" value="Cancel Military Access"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.TerritorialTransfer" value="Territorial Transfer"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.DeclareEmbargo" value="Declare Embargo"/>
+		<string id="SID.UI.UI2DPopUpNation.UI2DRelationsWithNations.CancelEmbargo" value="Cancel Embargo"/>
+
+<!-- UI2DPopUpRegion -->
+	<string id="SID.UI.UI2DPopUpRegion.Title" value="REGION"/>
+	<string id="SID.UI.UI2DPopUpRegion.UI2DInfoWithIcon.TotalPopulation" value="Total Population"/>
+	<string id="SID.UI.UI2DPopUpRegion.UI2DInfoWithIcon.RegionalCulture" value="Region Culture"/>
+	<string id="SID.UI.UI2DPopUpRegion.UI2DInfoWithIcon.PowerPoints" value="Power Points"/>
+	<string id="SID.UI.UI2DPopUpRegion.UI2DInfoWithIcon.UnskilledLabor" value="Unskilled Labor"/>
+	<formatString id="FSID.UI.UI2DPopUpRegion.UI2DInfoWithIcon.LaborPoolValue" value="@LaborPool@ MPUs"/>
+	<!-- UI2DFoodProduction -->
+		<string id="SID.UI.UI2DPopUpRegion.UI2DFoodProduction.Title" value="Food Production"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DFoodProduction.TitleOutputRate" value="Output Rate"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DFoodProduction.OutputRateRerTurn" value="per Turn"/>
+		<formatString id="FSID.UI.UI2DPopUpRegion.UI2DFoodProduction.ExpandTitle" value="Upgrade to @NextAgricultureLevel@"/>
+		<formatString id="FSID.UI.UI2DPopUpRegion.UI2DFoodProduction.ExpandValue" value="Turns: @TotalTime@, Cost/Turn: $@TotalCost@"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DFoodProduction.ExpandingTitle" value="Upgrade Food Production"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DFoodProduction.ExpandingValue" value="Finished:"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DFoodProduction.TransportationInfrastructure" value="Transportation Infrastructure"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.FoodUpgrade" value="Upgrade"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.FoodCancel" value="Cancel"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.FoodTurns" value="Turn(s)"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.DefenseUpgrade" value="Upgrade"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.DefenseCancel" value="Cancel"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.DefenseTurns" value="Turn(s)"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.TransportationUpgrade" value="Upgrade"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.TransportationCancel" value="Cancel"/>
+		<string id="SID.UI.UI2DPopUpRegion.OptionBox.TransportationTurns" value="Turn(s)"/>
+		
+	<!-- UI2DDefenseInfrastructure -->
+		<string id="SID.UI.UI2DPopUpRegion.UI2DDefenseInfrastructure.Title" value="Fortifications"/>
+		<formatString id="FSID.UI.UI2DPopUpRegion.UI2DDefenseInfrastructure.ExpandTitle" value="Upgrade to @NextFortificationLevel@"/>
+		<formatString id="FSID.UI.UI2DPopUpRegion.UI2DDefenseInfrastructure.ExpandValue" value="Turns: @TotalTime@, Cost/Turn: $@TotalCost@"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DDefenseInfrastructure.ExpandingTitle" value="Upgrade Fortifications"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DDefenseInfrastructure.ExpandingValue" value="Finished:"/>
+	<!-- UI2DTransportationInfrastructure -->
+		<string id="SID.UI.UI2DPopUpRegion.UI2DTransportationInfrastructure.Title" value="Transportation Infrastructure"/>
+		<formatString id="FSID.UI.UI2DPopUpRegion.UI2DTransportationInfrastructure.ExpandTitle" value="Upgrade to @NextTransportationLevel@"/>
+		<formatString id="FSID.UI.UI2DPopUpRegion.UI2DTransportationInfrastructure.ExpandValue" value="Turns: @TotalTime@, Cost/Turn: $@TotalCost@"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DTransportationInfrastructure.ExpandingTitle" value="Upgrade Infrastructure"/>
+		<string id="SID.UI.UI2DPopUpRegion.UI2DTransportationInfrastructure.ExpandingValue" value="Finished:"/>
+
+<!-- UI2DPopUpSeaRegion -->
+	<string id="SID.UI.UI2DPopUpSeaRegion.UnitListTitle" value="Naval Forces in Sea Region"/>
+
+<!-- UI2DCPackSplashScreen -->
+	<string id="SID.UI.UI2DCPackSplashScreen.Demo" value="Demo"/>
+
+<!-- UI2DError -->
+	<string id="SID.UI.UI2DError.Close" value="Close"/>
+	<string id="SID.UI.UI2DError.ExclamationPoint" value="!"/>
+	<string id="SID.UI.UI2DError.Error" value="ERROR"/>
+	
+<!-- UI2DWalkthroughNav -->
+	<string id="SID.UI.UI2DWalkthroughNav.Title" value="WALKTHROUGH"/>
+	<string id="SID.UI.UI2DWalkthroughNav.Country" value="COUNTRY"/>
+	<string id="SID.UI.UI2DWalkthroughNav.Turn" value="TURN"/>
+	<string id="SID.UI.UI2DWalkthroughNav.Select" value="select"/>
+	<string id="SID.UI.UI2DWalkthroughNav.Cancel" value="cancel"/>
+	
+	
+
+<!-- UI2DObserverModeNav -->
+	<string id="SID.UI.UI2DObserverModeNav.Title" value="OBSERVER MODE"/>
+
+<!-- UI2DMessageHolder -->
+	<!-- UI2DMessageBox -->
+		<string id="SID.UI.UI2DMessageHolder.UI2DMessageBox.Title" value="SERVER MESSAGE"/>
+		<string id="SID.UI.UI2DMessageHolder.UI2DMessageBox.close" value="close"/>
+
+<!-- UI2DOptionBox -->
+
+	<!-- UI2DOptionBoxCityProduction -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxCityProduction.Title" value="SELECT ORDER"/>
+	<!-- UI2DOptionBoxCountry -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxCountry.Title" value="SELECT NATION"/>
+	<!-- UI2DOptionBoxSelectCountry -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxSelectCountry.Title" value="SELECT NATION"/>
+	<!-- UI2DOptionBoxSelectPlayer -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxSelectPlayer.Title" value="SELECT PLAYER"/>
+	<!-- UI2DOptionBoxUnitOrders -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxUnitOrders.Title" value="SELECT ORDER"/>
+	<!-- UI2DOptionBoxUnitOrderTargets -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxUnitOrderTargets.Title" value="SELECT TARGET"/>
+	<!-- UI2DOptionBoxCurrentAlliances -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxCurrentAlliances.Title" value="SELECT ALLIANCE"/>
+	<!-- UI2DOptionBoxGeneric -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxGeneric.Title" value="SELECT TARGET"/>
+	<!-- UI2DOptionBoxGenericBlue -->
+		<string id="SID.UI.UI2DOptionBox.UI2DOptionBoxGenericBlue.Title" value="SELECT TARGET"/>
+		
+<!-- UI2DMERoot -->
+	<!-- UI2DExecuteOrdersEndTurn -->
+		<string id="SID.UI.UI2DMERoot.UI2DExecuteOrdersEndTurn.Title" value="EXECUTING ORDERS"/>
+		<formatString id="FSID.UI.UI2DMERoot.UI2DExecuteOrdersEndTurn.Date" value="DATE: @Date@"/>
+
+<!-- UI2DMEMap -->
+	<!-- UI2DOverlayLegendAlliancesHolder -->
+		<string id="SID.UI.UI2DMEMap.UI2DOverlayLegendAlliancesHolder.AllianceNonAligned" value="Non Aligned"/>
+
+<!-- MapView -->
+	<!-- MapOverlayColorMapTradeRelations -->
+		<formatString id="FSID.UI.MapView.MapOverlayColorMapTradeRelations.Name" value="Trade Relations with @Country@"/>
+		<formatString id="FSID.UI.MapView.MapOverlayColorMapTradeRelations.Selected" value="@Country@"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapTradeRelations.Normal" value="Normal"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapTradeRelations.Embargoed" value="Embargoed"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapTradeRelations.Other" value="Sea Regions"/>
+	<!-- MapOverlayColorMapSupplyTo -->
+		<formatString id="FSID.UI.MapView.MapOverlayColorMapSupplyTo.Name" value="Supply for @Country@"/>
+		<formatString id="FSID.UI.MapView.MapOverlayColorMapSupplyTo.Source" value="Supply Centers for @Country@"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.LandOpen" value="In Supply"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.LandAttritted" value="Attritted Supply"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.LandClosedDiplomatic" value="Blocking Supply"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.LandClosed" value="Out of Supply"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.SeaOpen" value="In Supply"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.SeaAttritted" value="Attritted Supply"/>
+		<string id="SID.UI.MapView.MapOverlayColorMapSupplyTo.SeaClosed" value="Out of Supply"/>
+			
+<!-- UI2DEndGame -->
+	<!-- UI2DEndGameWorldPowerScoring -->
+		<string id="SID.UI.UI2DEndGame.UI2DEndGameWorldPowerScoring.TitleManpower" value="Manpower"/>
+		<string id="SID.UI.UI2DEndGame.UI2DEndGameWorldPowerScoring.TitleIndustry" value="Industry"/>
+		<string id="SID.UI.UI2DEndGame.UI2DEndGameWorldPowerScoring.TitleResources" value="Resources"/>
+		<string id="SID.UI.UI2DEndGame.UI2DEndGameWorldPowerScoring.TitleFinancial" value="Financial"/>
+		<string id="SID.UI.UI2DEndGame.UI2DEndGameWorldPowerScoring.TitleTotalPoints" value="Total Points"/>
+
+<!-- UI2DLobbySaveGame -->
+	<!-- UI2DSaveGameInfo -->
+		<formatString id="FSID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.Scenario" value="Scenario: @Scenario@"/>
+		<formatString id="FSID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.TrunsPlayer" value="Turns Played: @Turns@"/>
+		<formatString id="FSID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.PlayerNation" value="'Player Nation: @Nation@"/>
+		<string id="SID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.TitleFileList" value="File List"/>
+		<string id="SID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.TitleDateSaved" value="Date Saved"/>
+		<string id="SID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.TitleScenario" value="Scenario"/>
+		<string id="SID.UI.UI2DLobbySaveGame.UI2DSaveGameInfo.TitleTurn" value="Turn"/>
+
+<!-- UI2DVictoryDefeat -->
+	<!-- GameOverVictorTextLookup -->
+		<formatString id="FSID.UI.UI2DVictoryDefeat.GameOverVictorTextLookup.CountryWins" value="@Country@ Wins!"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.GameOverVictorTextLookup.AllianceWins" value="The @Alliance@ Wins!"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.GameOverVictorTextLookup.GovTypeWins" value="The @GovType@ Nations Win!"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.GameOverVictorTextLookup.TeamWins" value="@Team@ Wins!'"/>
+	<!-- VictorPhraseLookup -->
+		<string id="SID.UI.UI2DVictoryDefeat.VictorPhraseLookup.YouHave" value="You have"/>
+		<string id="SID.UI.UI2DVictoryDefeat.VictorPhraseLookup.YourTeam" value="Your team has"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.VictorPhraseLookup.AllianceName" value="The @AllianceName@ has"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.VictorPhraseLookup.GovTypeName" value="The @GovTypeName@ nations have"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.VictorPhraseLookup.OtherName" value="@OtherName@ has"/>
+	<!-- UI2DGameOver -->
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOver.CountryWins" value="@Name@ Wins!"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOver.AllianceWins" value="The @Name@ Wins!"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOver.GovTypeWins" value="The @Name@ Nations Win!"/>
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOver.TeamWins" value="@Name@ Wins!'"/>
+	<!-- UI2DGameOverExitOnly -->
+		<string id="SID.UI.UI2DVictoryDefeat.UI2DGameOverExitOnly.Title" value="EXIT GAME"/>
+	<!-- UI2DGameOverScenarioEndDateYouLose -->
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOverScenarioEndDateYouLose.Text" value="@Phrase@ ended the game with the most power points"/>
+	<!-- UI2DGameOverTeamPointsThresholdYouWin -->
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOverTeamPointsThresholdYouWin.Text" value="@Phrase@ earned over @ThresholdPct@% of the power points in the world"/>
+	<!-- UI2DGameOverTeamPointsThresholdYouLose -->
+		<formatString id="FSID.UI.UI2DVictoryDefeat.UI2DGameOverTeamPointsThresholdYouLose.Text" value="@Phrase@ earned over @ThresholdPct@% of the power points in the world"/>
+	<!-- UI2DGameOverDefault -->
+		<string id="SID.UI.UI2DVictoryDefeat.UI2DGameOverDefault.Text" value="THE GAME IS OVER"/>
+	<!-- UI2DDefeat -->
+		<string id="SID.UI.UI2DVictoryDefeat.UI2DDefeat.Text" value="You have been eliminated from the game"/>
+	<!-- UI2DEndOfGameViewScoring -->
+		<string id="SID.UI.UI2DVictoryDefeat.UI2DEndOfGameViewScoring.Text" value="VIEW SCORING"/>
+
+<!-- UI2DPopUpMFXUnitGroup -->
+		<string id="SID.UI.UI2DPopUpMFXUnitGroup.Title" value="Airforce Groups"/>
+	<!-- UI2DPopUpMFXUGAirPatrol -->
+		<formatString id="FSID.UI.UI2DPopUpMFXUnitGroup.UI2DPopUpMFXUGAirPatrol.subTitle" value="Patrolling @Name@"/>
+	<!-- UI2DPopUpMFXUnitGroup -->
+		<string id="SID.UI.UI2DPopUpMFXUnitGroup.UI2DPopUpMFXUnitGroup.Desc" value="Groups, Location, Size and Orders"/>
+	<!-- UI2DMFXUnitGroupUnitElement -->
+		<formatString id="FSID.UI.UI2DPopUpMFXUnitGroup.UI2DMFXUnitGroupUnitElement.SquadronCount" value="@Count@ Squadrons"/>
+
+<!-- UI2DLobbyChooseCountryMultiPlayer -->
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.TitleSelectNation" value="Select Nation"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingPowerPointsRanking" value="Power Points Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingLandPowerRanking" value="Land Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingNavalPowerRanking" value="Naval Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingAirPowerRanking" value="Air Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingIndustrialPower" value="Industrial Power"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingCoalProduction" value="Coal Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingOilProduction" value="Oil Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingMetalsProduction" value="Metals Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.RankingManpowerPool" value="Manpower Pool"/>
+
+<!-- UI2DLobbyChooseCountrySinglePlayer -->
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.TitleSelectNation" value="Select Nation"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingPowerPointsRanking" value="Power Points Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingLandPowerRanking" value="Land Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingNavalPowerRanking" value="Naval Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingAirPowerRanking" value="Air Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingIndustrialPower" value="Industrial Power"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingCoalProduction" value="Coal Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingOilProduction" value="Oil Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingMetalsProduction" value="Metals Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.RankingManpowerPool" value="Manpower Pool"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.NoOtherCountry" value="None"/>
+
+<!-- UI2DLobbyChooseCountryWalkThrough -->
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.TitleSelectNation" value="Select Nation"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingPowerPointsRanking" value="Power Points Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingLandPowerRanking" value="Land Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingNavalPowerRanking" value="Naval Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingAirPowerRanking" value="Air Power Ranking"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingIndustrialPower" value="Industrial Power"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingCoalProduction" value="Coal Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingOilProduction" value="Oil Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingMetalsProduction" value="Metals Production"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.RankingManpowerPool" value="Manpower Pool"/>
+
+<!-- UI2DLobbyChooseServer -->
+	<!-- UI2DChooseServerServerList -->
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DChooseServerServerList.TitleServerList" value="Server List"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DChooseServerServerList.TitleGames" value="Games"/>
+	<!-- UI2DGamesOnServer -->
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DGamesOnServer.TitleServerGames" value="Server Games"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DGamesOnServer.TitleScenario" value="Scenario"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DGamesOnServer.TitleAvailability" value="Availability"/>
+	<!-- UI2DLobbyAddServer -->
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DLobbyAddServer.LocalNetwork" value="Local Network"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DLobbyAddServer.IPAddress" value="IP Address"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DLobbyAddServer.select" value="select"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DLobbyAddServer.cancel" value="cancel"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.UI2DLobbyAddServer.close" value="close"/>
+		
+<!-- UI2DLobbyLoadGame -->
+	<!-- UI2DLoadSaveGameInfo -->
+		<string id="SID.UI.UI2DLobbyLoadGame.UI2DLoadSaveGameInfo.TitleFileList" value="File List"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.UI2DLoadSaveGameInfo.TitleDateSaved" value="Date Saved"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.UI2DLoadSaveGameInfo.TitleScenario" value="Scenario"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.UI2DLoadSaveGameInfo.TitleTurn" value="Turn"/>
+	<!-- UI2DTurnToLoadOn -->
+		<string id="SID.UI.UI2DLobbyLoadGame.UI2DTurnToLoadOn.TurnHistory" value="No turn history"/>
+
+<!-- UI2DLobbyGameServer -->
+	<string id="SID.UI.UI2DLobbyGameServer.Text" value="You must remove all games before you can go back"/>
+	<!-- UI2DGameServerBubble -->
+		<string id="SID.UI.UI2DLobbyGameServer.UI2DGameServerBubble.TitleServer" value="Server Games"/>
+		<string id="SID.UI.UI2DLobbyGameServer.UI2DGameServerBubble.TitleScenario" value="Scenario"/>
+
+<!-- UI2DLobbyOptionsSystem -->
+	<!-- UI2DLobbyOptionOnOff -->
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DLobbyOptionOnOff.On" value="On"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DLobbyOptionOnOff.Off" value="Off"/>
+	<!-- UI2DLobbyOptionOnOfIncDec -->
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DLobbyOptionOnOfIncDec.On" value="On"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DLobbyOptionOnOfIncDec.Off" value="Off"/>
+	<!-- UnitModelSetData -->
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UnitModelSetData.FullSet" value="Full Set"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UnitModelSetData.LargeSet" value="Large Set"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UnitModelSetData.MediumSet" value="Medium Set"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UnitModelSetData.LowSet" value="Low Set"/>
+	<!-- UI2DSystemOptionsLayout -->
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DSystemOptionsLayout.Restart" value="Requires Game Restart"/>
+	<!-- UI2DLobbyOptionOnOffIncDecTurnTimer -->
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DLobbyOptionOnOffIncDecTurnTimer.Hours" value="Hours"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UI2DLobbyOptionOnOffIncDecTurnTimer.Minutes" value="Minutes"/>
+
+<!-- UI2DLobbyRemoteServerChooseServer -->
+	<!-- UI2DRemoteServerChooseServerServerList -->
+		<string id="SID.UI.UI2DLobbyRemoteServerChooseServer.UI2DRemoteServerChooseServerServerList.TitleServerList" value="Server List"/>
+		<string id="SID.UI.UI2DLobbyRemoteServerChooseServer.UI2DRemoteServerChooseServerServerList.TitleGames" value="Games"/>
+
+<!-- UI2DBookPaheLog -->
+	<string id="SID.UI.UI2DBookPaheLog.Title" value="Player Log"/>
+
+<!-- UI2DBookPageNotificationHistory -->
+	<string id="SID.UI.UI2DBookPageNotificationHistory.TitleTurnNumber" value="Turn Number"/>
+	<string id="SID.UI.UI2DBookPageNotificationHistory.TitleNotifications" value="Notifications"/>
+
+<!-- UI2DBookPageDiplomatic -->
+	<string id="SID.UI.UI2DBookPageDiplomatic.Nation" value="Nation"/>
+	<string id="SID.UI.UI2DBookPageDiplomatic.Relations" value="Relations"/>
+	<string id="SID.UI.UI2DBookPageDiplomatic.Government" value="Government"/>
+	<string id="SID.UI.UI2DBookPageDiplomatic.MilitaryAccess" value="Military Access"/>
+	<string id="SID.UI.UI2DBookPageDiplomatic.Status" value="Status"/>
+	
+<!-- UI2DBookPageDiplomaticRelations -->
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleNation1" value="Nation 1"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleNation2" value="Nation 2"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleNation1Relations" value="Nation 1 Relations"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleNation2Relations" value="Nation 2 Relations"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleStatus" value="Status"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleMilitaryAccess" value="Military Access"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleEmbargo1" value="Embargo 1"/>
+	<string id="SID.UI.UI2DBookPageDiplomaticRelations.TitleEmbargo2" value="Embargo 2"/>
+	<!-- BookPageDiplomaticRelationsCountryRowData -->
+		<string id="SID.UI.UI2DBookPageDiplomaticRelations.AtWar" value="At War"/>
+		<string id="SID.UI.UI2DBookPageDiplomaticRelations.Ally" value="Ally"/>
+		<string id="SID.UI.UI2DBookPageDiplomaticRelations.Neutral" value="Neutral"/>
+		<string id="SID.UI.UI2DBookPageDiplomaticRelations.Yes" value="Yes"/>
+		<string id="SID.UI.UI2DBookPageDiplomaticRelations.No" value="No"/>
+
+<!-- UI2DBookPageDomesticUpgrades -->
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.Title" value="Regional Transportation Levels"/>
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.TitleName" value="Name"/>
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.TitleMovement" value="Movement"/>
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.TitleProduction" value="Production"/>
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.TitleCostTurn" value="Cost/Turn($)"/>
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.TitleBaseTurns" value="Base Turns"/>
+	<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DTransportationUpgradeData.TitleMaintenance" value="Maintenance($)"/>
+	<!-- UI2DFortificationUpgradeData -->
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.Title" value="Regional Fortification Levels"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleName" value="Name"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleDefence" value="Defence"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleAAShots" value="AA Shots"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleAAHitPercent" value="AA Hit %"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleCostTurn" value="Cost/Turn($)"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleBaseTurns" value="Base Turns"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DFortificationUpgradeData.TitleMaintenance" value="Maintenance($)"/>
+	<!-- UI2DAgricultureUpgradeData -->	
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.Title" value="Regional Agriculture Levels"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.perMPU" value="* per MPU"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.TitleName" value="Name"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.TitleProduction" value="Production"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.TitleCostTurn" value="Cost/Turn($)*"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.TitleBaseTurns" value="Base Turns"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DAgricultureUpgradeData.TitleMaintenance" value="Maintenance($)*"/>
+	<!-- UI2DCityInfrastructureUpgradeData -->	
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.Title" value="City Infrastructure Levels"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.perIPU" value="* per IPU"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.TitleName" value="Name"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.MPUs" value="MPUs*"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.Maintenance" value="Maintenance($)*"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.TitleMaxIPUs" value="Max IPUs"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.TitleBuildIPU" value="Build IPU(IPUs)"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.TitleBuildIPUDollars" value="Build IPU($)"/>
+		<string id="SID.UI.UI2DBookPageDomesticUpgrades.UI2DCityInfrastructureUpgradeData.TitleUpgradeIPUs" value="Upgrade(IPUs)"/>
+		
+		
+	
+<!-- UI2DBookPageDomesticMPUs -->
+	<string id="SID.UI.UI2DBookPageDomesticMPUs.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageDomesticMPUs.TitleMPUsGraph" value="MPUs Graph"/>
+	<string id="SID.UI.UI2DBookPageDomesticMPUs.ButtonUnskilledMPUs" value="Unskilled MPUs"/>
+	<string id="SID.UI.UI2DBookPageDomesticMPUs.ButtonSkilledMPUs" value="Skilled MPUs"/>
+	<string id="SID.UI.UI2DBookPageDomesticMPUs.ButtonMilitaryMPUs" value="Military MPUs"/>
+	<string id="SID.UI.UI2DBookPageDomesticMPUs.ButtonTotalMPUs" value="Total MPUs"/>
+	
+<!-- UI2DBookPageOurCities -->
+	<string id="SID.UI.UI2DBookPageOurCities.TitleCityName" value="City Name"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleCityInfrastructure" value="City Infrastructure"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleIPUCapacity" value="IPU Capacity"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleCompletedIPUs" value="Completed IPUs"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleProductionOrder" value="Production Order"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleNextFinished" value="Next Finished"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleMPUs" value="MPUs"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitlePort" value="Port"/>
+	<string id="SID.UI.UI2DBookPageOurCities.TitleShipsinPort" value="Ships in Port"/>
+	
+<!-- UI2DBookPageOurRegions -->
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleRegionName" value="Region Name"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleCulture" value="Culture"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitlePopulation" value="Population"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleMPUs" value="MPUs"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleFood" value="Food"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleDefense" value="Defense"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleTransportation" value="Transportation"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitleTerrain" value="Terrain"/>
+	<string id="SID.UI.UI2DBookPageOurRegions.TitlePoints" value="Points"/>
+
+<!-- UI2DBookPageMilitaryPower -->
+	<string id="SID.UI.UI2DBookPageMilitaryPower.TitleNations" value="Nations"/>
+	<string id="SID.UI.UI2DBookPageMilitaryPower.TitleMilitaryPowerGraph" value="Military Power Graph"/>
+	<string id="SID.UI.UI2DBookPageMilitaryPower.Graph.TitleX" value="Time"/>
+	<string id="SID.UI.UI2DBookPageMilitaryPower.Graph.TitleY" value="Score"/>
+
+<!-- UI2DBookPageUnitCost -->
+	<!-- UI2DUnitCategoryGroupingCost -->
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleUnitType" value="Unit Type"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleCount" value="Count"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleIPUs" value="IPUs"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleMPUs" value="MPUs"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleCoal" value="Coal"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleOil" value="Oil"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleMetals" value="Metals"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleActive" value="Active"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleIdle" value="Idle"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleBuildCost" value="Build Cost($)"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleMaintCost" value="Maint. Cost($)"/>
+		<string id="SID.UI.UI2DBookPageUnitCost.UI2DUnitCategoryGroupingCost.TitleTechLevel" value="Tech Level"/>
+
+<!-- UI2DBookPageUnitType -->
+	<!-- UI2DUnitCategoryGrouping -->
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleUnitType" value="Unit Type"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleCount" value="Count"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleAttack" value="Attack"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleHitPoints" value="Hit Points"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleLand" value="Land"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleAir" value="Air"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleSea" value="Sea"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleCity" value="City"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleSpeed" value="Speed"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleRange" value="Range"/>
+		<string id="SID.UI.UI2DBookPageUnitType.UI2DUnitCategoryGrouping.TitleFighterHP" value="Fighter HP"/>
+
+<!-- UI2DBookPageWorldAirSquadrons -->
+	<string id="SID.UI.UI2DBookPageWorldAirSquadrons.TitleNations" value="Nations"/>
+	<string id="SID.UI.UI2DBookPageWorldAirSquadrons.TitleFighters" value="Fighters"/>
+	<string id="SID.UI.UI2DBookPageWorldAirSquadrons.TitleBombers" value="Bombers"/>
+	<string id="SID.UI.UI2DBookPageWorldAirSquadrons.TitleTotalSquadrons" value="Total Squadrons"/>
+
+<!-- UI2DBookPageWorldLandDividions -->
+	<string id="SID.UI.UI2DBookPageWorldLandDividions.TitleNations" value="Nations"/>
+	<string id="SID.UI.UI2DBookPageWorldLandDividions.TitleInfantry" value="Infantry"/>
+	<string id="SID.UI.UI2DBookPageWorldLandDividions.TitleArmored" value="Armored"/>
+	<string id="SID.UI.UI2DBookPageWorldLandDividions.TitleMobile" value="Mobile"/>
+	<string id="SID.UI.UI2DBookPageWorldLandDividions.TitleArtillery" value="Artillery"/>
+	<string id="SID.UI.UI2DBookPageWorldLandDividions.TitleTotalDivisions" value="Total Divisions"/>
+
+<!-- UI2DBookPageEconomicStrength -->
+	<string id="SID.UI.UI2DBookPageEconomicStrength.Graph.TitleX" value="Time"/>
+	<string id="SID.UI.UI2DBookPageEconomicStrength.Graph.TitleY" value="Value"/>
+
+<!-- UI2DBookPageWorldNavies -->
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleNations" value="Nations"/>
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleBattleships" value="Battleships"/>
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleCruiser" value="Cruiser"/>
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleCarrier" value="Carrier"/>
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleDestroyer" value="Destroyer"/>
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleSubmarine" value="Submarine"/>
+	<string id="SID.UI.UI2DBookPageWorldNavies.TitleTotalDivisions" value="Total Ships"/>
+
+<!-- UI2DBookPageEconomicArms -->
+	<string id="SID.UI.UI2DBookPageEconomicArms.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.TitleGraph" value="Arms Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.ButtonAmount" value="Stockpile"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.ButtonDemand" value="Demand"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.ButtonImported" value="Imported"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.ButtonExported" value="Exported"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.ButtonProducing" value="Producing"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.ButtonUsing" value="Using"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.Graph.TitleX" value="Time"/>
+	<string id="SID.UI.UI2DBookPageEconomicArms.Graph.TitleY" value="Value"/>
+	
+<!-- UI2DBookPageEconomicCoal -->
+	<string id="SID.UI.UI2DBookPageEconomicCoal.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.TitleGraph" value="Coal Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.ButtonAmount" value="Stockpile"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.ButtonDemand" value="Demand"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.ButtonImported" value="Imported"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.ButtonExported" value="Exported"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.ButtonProducing" value="Producing"/>
+	<string id="SID.UI.UI2DBookPageEconomicCoal.ButtonUsing" value="Using"/>
+
+<!-- UI2DBookPageEconomicFood -->
+	<string id="SID.UI.UI2DBookPageEconomicFood.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.TitleGraph" value="Food Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.ButtonAmount" value="Stockpile"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.ButtonDemand" value="Demand"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.ButtonImported" value="Imported"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.ButtonExported" value="Exported"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.ButtonProducing" value="Producing"/>
+	<string id="SID.UI.UI2DBookPageEconomicFood.ButtonUsing" value="Using"/>
+
+<!-- UI2DBookPageEconomicGoods -->
+	<string id="SID.UI.UI2DBookPageEconomicGoods.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.TitleGraph" value="Goods Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.ButtonAmount" value="Stockpile"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.ButtonDemand" value="Demand"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.ButtonImported" value="Imported"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.ButtonExported" value="Exported"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.ButtonProducing" value="Producing"/>
+	<string id="SID.UI.UI2DBookPageEconomicGoods.ButtonUsing" value="Using"/>
+
+<!-- UI2DBookPageEconomicMetals -->
+	<string id="SID.UI.UI2DBookPageEconomicMetals.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.TitleGraph" value="Metals Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.ButtonAmount" value="Stockpile"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.ButtonDemand" value="Demand"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.ButtonImported" value="Imported"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.ButtonExported" value="Exported"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.ButtonProducing" value="Producing"/>
+	<string id="SID.UI.UI2DBookPageEconomicMetals.ButtonUsing" value="Using"/>
+
+<!-- UI2DBookPageEconomicOil -->
+	<string id="SID.UI.UI2DBookPageEconomicOil.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.TitleGraph" value="Oil Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.ButtonAmount" value="Stockpile"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.ButtonDemand" value="Demand"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.ButtonImported" value="Imported"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.ButtonExported" value="Exported"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.ButtonProducing" value="Producing"/>
+	<string id="SID.UI.UI2DBookPageEconomicOil.ButtonUsing" value="Using"/>
+	
+<!-- UI2DBookPageEconomicIPUs -->
+	<string id="SID.UI.UI2DBookPageEconomicIPUs.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicIPUs.TitleGraph" value="IPU Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicIPUs.ButtonFactoryCapacity" value="Factory Capacity"/>
+	<string id="SID.UI.UI2DBookPageEconomicIPUs.ButtonFactoryOutput" value="Factory Output"/>
+
+<!-- UI2DBookPageEconomicMoney -->
+	<string id="SID.UI.UI2DBookPageEconomicMoney.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicMoney.TitleGraph" value="Money Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicMoney.ButtonGovernmentWealth" value="Government Wealth"/>
+	<string id="SID.UI.UI2DBookPageEconomicMoney.ButtonGovernmentRevenue" value="Government Revenue"/>
+	<string id="SID.UI.UI2DBookPageEconomicMoney.ButtonGovernmentSpending" value="Government Spending"/>
+
+<!-- UI2DBookPageEconomicResources -->
+	<string id="SID.UI.UI2DBookPageEconomicResources.TitleOptions" value="Options"/>
+	<string id="SID.UI.UI2DBookPageEconomicResources.TitleGraph" value="Resource Graph"/>
+	<string id="SID.UI.UI2DBookPageEconomicResources.ButtonProduction" value="Production"/>
+	<string id="SID.UI.UI2DBookPageEconomicResources.ButtonImports" value="Imports"/>
+	<string id="SID.UI.UI2DBookPageEconomicResources.ButtonExports" value="Exports"/>
+	<string id="SID.UI.UI2DBookPageEconomicResources.ButtonTotalImports" value="Total Imports"/>
+	<string id="SID.UI.UI2DBookPageEconomicResources.ButtonTotalExports" value="Total Exports"/>
+
+<!-- UI2DBookPageEconomicStrength -->
+	<string id="SID.UI.UI2DBookPageEconomicStrength.TitleNation" value="Nations"/>
+	<string id="SID.UI.UI2DBookPageEconomicStrength.TitleGraph" value="Economic Strength Graph"/>
+	
+<!-- UI2DBookPageScoringFinancial -->
+	<string id="SID.UI.UI2DBookPageScoringFinancial.Title" value="Financial Graph"/>
+
+<!-- UI2DBookPageScoringIPUs -->
+	<string id="SID.UI.UI2DBookPageScoringIPUs.Title" value="IPUs Graph"/>
+
+<!-- UI2DBookPageScoringMPUs -->
+	<string id="SID.UI.UI2DBookPageScoringMPUs.Title" value="MPUs Graph"/>
+	<string id="SID.UI.UI2DBookPageScoringMPUs.Graph.TitleX" value="Time"/>
+	<string id="SID.UI.UI2DBookPageScoringMPUs.Graph.TitleY" value="Score"/>
+
+<!-- UI2DBookPageScoringMPUs -->
+	<string id="SID.UI.UI2DBookPageScoringResource.Title" value="Resource Graph"/>
+
+<!-- UI2DBookPageWorldPower -->
+	<string id="SID.UI.UI2DBookPageWorldPower.TitleNation" value="Nations"/>
+	<string id="SID.UI.UI2DBookPageWorldPower.TitleGraph" value="World Power Graph"/>
+	<string id="SID.UI.UI2DBookPageWorldPower.Graph.TitleX" value="Time"/>
+	<string id="SID.UI.UI2DBookPageWorldPower.Graph.TitleY" value="Score"/>
+
+<!-- UI2DBookPageCities -->
+	<string id="SID.UI.UI2DBookPageCities.TitleCityName" value="City Name"/>
+	<string id="SID.UI.UI2DBookPageCities.TitleControllingNation" value="Controlling Nation"/>
+	<string id="SID.UI.UI2DBookPageCities.TitleCityInfrastructure" value="City Infrastructure"/>
+	<string id="SID.UI.UI2DBookPageCities.TitleIPUCapacity" value="IPU Capacity"/>
+	<string id="SID.UI.UI2DBookPageCities.TitleMPUs" value="MPUs"/>
+	<string id="SID.UI.UI2DBookPageCities.TitlePort" value="Port"/>
+	<string id="SID.UI.UI2DBookPageCities.TitleShipsinPort" value="Ships in Port"/>
+	<string id="SID.UI.UI2DBookPageCities.Yes" value="Yes"/>
+	<string id="SID.UI.UI2DBookPageCities.No" value="No"/>
+	<string id="SID.UI.UI2DBookPageCities.Turns" value="Turn(s)"/>
+	
+<!-- UI2DBookPagesNations -->
+	<string id="SID.UI.UI2DBookPagesNations.TitleNation" value="Nation"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitlePowerPoints" value="Power Points"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitleRelations" value="Relations"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitleGovernment" value="Government"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitlePopulation" value="Population"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitleMPUs" value="MPUs"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitleIPUs" value="IPUs"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitleCapital" value="Capital"/>
+	<string id="SID.UI.UI2DBookPagesNations.TitleRegions" value="Regions"/>
+
+<!-- UI2DBookPagesRegions -->
+	<string id="SID.UI.UI2DBookPagesRegions.TitleRegionName" value="Region Name"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitleControllingNation" value="Controlling Nation"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitleOwner" value="Owner"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitleCulture" value="Culture"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitlePopulation" value="Population"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitleMPUs" value="MPUs"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitleTerrain" value="Terrain"/>
+	<string id="SID.UI.UI2DBookPagesRegions.TitlePoints" value="Points"/>
+
+<!-- UI2DBookPagesSeaRegions -->
+	<string id="SID.UI.UI2DBookPagesSeaRegions.TitleRegionName" value="Region Name"/>
+	
+<!-- BookInfo -->
+	<string id="SID.UI.BookInfo.BookChapter.Scoring" value="Score"/>
+		<string id="SID.UI.BookInfo.BookPageScoring.WorldPower" value="World Power"/>
+		<string id="SID.UI.BookInfo.BookPageScoring.MPUs" value="MPUs"/>
+		<string id="SID.UI.BookInfo.BookPageScoring.IPUs" value="IPUs"/>
+		<string id="SID.UI.BookInfo.BookPageScoring.Resource" value="Resource"/>
+		<string id="SID.UI.BookInfo.BookPageScoring.Financial" value="Financial"/>
+		
+	<string id="SID.UI.BookInfo.BookChapter.WorldData" value="World Data"/>
+		<string id="SID.UI.BookInfo.BookPageWorldData.Nations" value="Nations"/>
+		<string id="SID.UI.BookInfo.BookPageWorldData.Regions" value="Regions"/>
+		<string id="SID.UI.BookInfo.BookPageWorldData.SeaRegions" value="Sea Regions"/>
+		<string id="SID.UI.BookInfo.BookPageWorldData.Cities" value="Cities"/>
+		
+	<string id="SID.UI.BookInfo.BookChapter.Military" value="Military"/>
+		<string id="SID.UI.BookInfo.BookPageMilitary.MilitaryPower" value="Military Power"/>
+		<string id="SID.UI.BookInfo.BookPageMilitary.WorldLandDivisions" value="World&#010;Armies"/>
+		<string id="SID.UI.BookInfo.BookPageMilitary.WorldAirSquadrons" value="World&#010;Air Forces"/>
+		<string id="SID.UI.BookInfo.BookPageMilitary.WorldNavies" value="World&#010;Fleets"/>
+		<string id="SID.UI.BookInfo.BookPageMilitary.UnitType" value="Unit Type"/>
+		<string id="SID.UI.BookInfo.BookPageMilitary.UnitCost" value="Unit Cost"/>
+	
+	<string id="SID.UI.BookInfo.BookChapter.Diplomatic" value="Diplomatic"/>
+		<string id="SID.UI.BookInfo.BookPageDiplomatic.DiplomaticRelations" value="Diplomatic Relations"/>
+	
+	<string id="SID.UI.BookInfo.BookChapter.Domestic" value="Domestic"/>
+		<string id="SID.UI.BookInfo.BookPageDomestic.OurRegions" value="Our Regions"/>
+		<string id="SID.UI.BookInfo.BookPageDomestic.OurCities" value="Our Cities"/>
+		<string id="SID.UI.BookInfo.BookPageDomestic.MPUs" value="MPUs"/>
+		<string id="SID.UI.BookInfo.BookPageDomestic.Upgrades" value="Upgrades"/>
+	
+	<string id="SID.UI.BookInfo.BookChapter.Economic" value="Economic"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.EconomicStrength" value="Economic&#010;Strength"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Arms" value="Arms"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Goods" value="Goods"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Food" value="Food"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Oil" value="Oil"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Coal" value="Coal"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Metals" value="Metals"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Resources" value="Resources"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.IPUs" value="IPUs"/>
+		<string id="SID.UI.BookInfo.BookPageEconomic.Money" value="Money"/>
+	
+	<string id="SID.UI.BookInfo.BookChapter.Archive" value="Archive"/>
+		<string id="SID.UI.BookInfo.BookPageArchive.NotificationHistory" value="Notification History"/>
+		<string id="SID.UI.BookInfo.BookPageArchive.Log" value="Log"/>
+
+	<string id="SID.UI.BookInfo.BookChapter.Encyclopedia" value="Encyclopedia"/>
+
+<!-- UI2DBook -->
+	<string id="SID.UI.UI2DBook.Close" value="Close Book"/>
+	
+<!-- UI2DPopUpCombatReport -->
+	<string id="SID.UI.UI2DPopUpCombatReport.Title" value="Combat Report"/>
+	<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoCombatPowerLand.CombatPower" value="Combat Power"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoCombatPowerSea -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoCombatPowerSea.CombatPower" value="Combat Power"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoSquadronsLost -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoSquadronsLost.SquadronsLost" value="Squadrons Lost"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoShipsLost -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoShipsLost.ShipsLost" value="Ships Lost"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoUnitsLost -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoUnitsLost.DivisionsLost" value="Divisions Lost"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoRocketsLaunched -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoRocketsLaunched.RocketsLaunched" value="Rockets Launched"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoIPUsHit -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoIPUsHit.IPUsHit" value="IPUs Hit"/>
+	<!-- UI2DRDDCombatTeamLeaderInfoOutputDamaged -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatTeamLeaderInfoOutputDamaged.OutputDamaged" value="Output Damaged"/>
+	<!-- UI2DCombatRowInfoAntiAir -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DCombatRowInfoAntiAir.AntiAirDefense" value="Anti-Air Defense"/>
+	<!-- CombatCategoryToData -->
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.InfantryDivisions" value="Infantry Divisions"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.ArmoredDivisions" value="Armored Divisions"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Artillery" value="Artillery"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.MobileInfantry" value="Mobile Infantry"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Missiles" value="Missiles"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.FighterSquadrons" value="Fighter Squadrons"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.BomberSquadrons" value="Bomber Squadrons"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Carriers" value="Carriers"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Battleships" value="Battleships"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Destroyers" value="Destroyers"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Cruisers" value="Cruisers"/>
+		<string id="SID.UI.UI2DPopUpCombatReport.CombatCategoryToData.Submarine" value="Submarine"/>
+	<!-- UI2DRDDCombatLeaderLayoutManager -->
+		<string id="SID.UI.UI2DPopUpCombatReport.UI2DRDDCombatLeaderLayoutManager.VS" value="vs."/>
+	
+<!-- UI2DPopUpCombatReportAirBattle -->
+	<string id="SID.UI.UI2DPopUpCombatReportAirBattle.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportAirBattle.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportAirBattle.UI2DRDDCombatTopTitleForAirBattle.Title" value="Battle of @RegionName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportAirBattle.UI2DRDDCombatTopTitleForAirBattle.Desc" value="Air Combat"/>
+	
+<!-- UI2DPopUpCombatReportBombCity -->
+	<string id="SID.UI.UI2DPopUpCombatReportBombCity.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombCity.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportBombCity.UI2DRDDCombatTopTitleForBombCity.Title" value="Battle of @CityName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombCity.UI2DRDDCombatTopTitleForBombCity.Desc" value="Bombing Attack"/>
+
+<!-- UI2DPopUpCombatReportBombPort -->
+	<string id="SID.UI.UI2DPopUpCombatReportBombPort.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombPort.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportBombPort.UI2DRDDCombatTopTitleForBombPort.Title" value="Battle of @CityName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombPort.UI2DRDDCombatTopTitleForBombPort.Desc" value="Bombing Attack"/>
+	
+<!-- UI2DPopUpCombatReportBombProducer -->
+	<string id="SID.UI.UI2DPopUpCombatReportBombProducer.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombProducer.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportBombProducer.UI2DRDDCombatTopTitleForBombProducer.Title" value="Battle of @RegionName@ @ResourceName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombProducer.UI2DRDDCombatTopTitleForBombProducer.Desc" value="Bombing Attack"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportBombProducer.UI2DCombatRowInfoProducer.Name" value="@Region@ @Resource@"/>
+	
+<!-- UI2DPopUpCombatReportBombUnit -->
+	<string id="SID.UI.UI2DPopUpCombatReportBombUnit.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombUnit.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportBombUnit.UI2DRDDCombatTopTitleForBombUnit.Title" value="Battle of @RegionName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportBombUnit.UI2DRDDCombatTopTitleForBombUnit.Desc" value="Bombing Attack"/>
+	
+<!-- UI2DPopUpCombatReportForceList -->
+	<string id="SID.UI.UI2DPopUpCombatReportForceList.Title" value="FORCES"/>
+	<string id="SID.UI.UI2DPopUpCombatReportForceList.Desc" value="Units in Engagement"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportForceList.UI2DCombatForceListButton.UnitCountArmy" value="@UnitCount@ Divisions"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportForceList.UI2DCombatForceListButton.UnitCountFleet" value="@UnitCount@ Ships"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportForceList.UI2DCombatForceListButton.UnitCountAirForce" value="@UnitCount@ Squadrons"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportForceList.UI2DCombatForceListButton.UnitCountOther" value="@UnitCount@ Other"/>
+	
+<!-- UI2DPopUpCombatReportLand -->
+	<string id="SID.UI.UI2DPopUpCombatReportLand.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportLand.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportLand.UI2DRDDCombatTopTitleForEngagementLand.Title" value="Battle of @RegionName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportLand.UI2DRDDCombatTopTitleForEngagementLand.Desc" value="Land Conflict"/>
+	<string id="SID.UI.UI2DPopUpCombatReportLand.UI2DRDDCombatTopTitleForEngagementLand.DescVictor" value="Combat Victor"/>
+
+<!-- UI2DPopUpCombatReportLaunchRocketCity -->
+	<string id="SID.UI.UI2DPopUpCombatReportLaunchRocketCity.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportLaunchRocketCity.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportLaunchRocketCity.UI2DRDDCombatTopTitleForLaunchRocketCity.Title" value="Rocket Launch on @CityName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportLaunchRocketCity.UI2DRDDCombatTopTitleForLaunchRocketCity.Desc" value="Rocket Attack"/>
+	
+<!-- UI2DPopUpCombatReportNukeCity -->
+	<string id="SID.UI.UI2DPopUpCombatReportNukeCity.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportNukeCity.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportNukeCity.UI2DRDDCombatTopTitleForNukeCity.Title" value="Nuclear Strike on @CityName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportNukeCity.UI2DRDDCombatTopTitleForNukeCity.Desc" value="Nuclear Attack"/>
+
+<!-- UI2DPopUpCombatReportSea -->
+	<string id="SID.UI.UI2DPopUpCombatReportSea.TitleAttacking" value="Attacking Forces"/>
+	<string id="SID.UI.UI2DPopUpCombatReportSea.TitleDefending" value="Defending Forces"/>
+	<formatString id="FSID.UI.UI2DPopUpCombatReportSea.UI2DRDDCombatTopTitleForEngagementSea.Title" value="Battle of @RegionName@"/>
+	<string id="SID.UI.UI2DPopUpCombatReportSea.UI2DRDDCombatTopTitleForEngagementSea.Desc" value="Sea Conflict"/>
+	<string id="SID.UI.UI2DPopUpCombatReportSea.UI2DRDDCombatTopTitleForEngagementSea.DescVictory" value="Combat Victor"/>
+
+<!-- UI2DPopUpPeaceTreaty -->
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Button.TextLeaveAlliance" value="Leave Alliance"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Button.TextCedeOccupiedTerritory" value="Cede Occupied Territory"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Button.TextJoinAlliance" value="Join Alliance"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Button.TextInstallFriendlyGovernment" value="Install Friendly Government"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Button.TextMilitaryAccessTreaty" value="Military Access Treaty"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Text.TextPeaceTerms" value="Peace Terms"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Text.TextDemand" value="Demand"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Text.TextConcessions" value="Concessions"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Text.TextTreatySummary" value="Treaty Summary"/>
+	<string id="SID.UI.UI2DPopUpPeaceTreaty.Text.TextTreatySendPeaceOffer" value="Send Peace Offer"/>
+	<!-- UI2DAlliancePeaceTopCountry -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.UI2DAlliancePeaceTopCountry.TextNegotiatingSeparately" value="Negotiating Separately"/>
+	<!-- UI2DAlliancePeaceTopCountryAllianceBubble -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.UI2DAlliancePeaceTopCountryAllianceBubble.Desc" value="Members of the @AllianceName@"/>
+	<!-- UI2DAlliancePeaceTopAlliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.UI2DAlliancePeaceTopAlliance.Desc" value="Members of the @AllianceName@"/>
+	<!-- PeaceTreatyTextLookup -->
+		<!-- Country Demand -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.LeaveAlliance" value="@TheirCountryName@ leaves @TheirAllianceName@"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.CedeTerritoryYouNoAlliance" value="@TheirCountryName@ will transfer ownership of all regions you control"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.CedeTerritoryYouAlliance" value="@TheirCountryName@ will transfer ownership of all regions your Alliance control"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.JoinAlliance" value="@TheirCountryName@ will join your Alliance"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.InstallGov" value="@TheirCountryName@ will become a @MyCountryGovType@ nation"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.MilitaryAccessYouAlliance" value="Your Alliance gains access to all regions @TheirCountryName@ currently controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryDemand.MilitaryAccessYouNoAlliance" value="You gain access to all regions @TheirCountryName@ currently controls'"/>
+		<!-- Country Concessions -->
+			<string id="SID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.LeaveAlliance" value="You will leave your Alliance"/>
+			<!-- Not in Alliance -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNoAllianceCedeTerritory" value="You will transfer ownership of all regions @TheirCountryName@ controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNoAllianceJoinAlliance" value="You will join @TheirCountryGovPossessive@ Alliance"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNoAllianceInstallGov" value="Your nation will become a @TheirCountryGovType@ nation"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNoAllianceMilitaryAccess" value="@TheirCountryName@ gains access to all regions you control"/>
+			<!-- Leaving in Alliance -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouLeavingAllianceCedeTerritory" value="You will transfer ownership of all regions @TheirCountryName@ controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouLeavingAllianceJoinAlliance" value="You will join @TheirCountryGovPossessive@ Alliance"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouLeavingAllianceInstallGov" value="Your nation will become a @TheirCountryGovType@ nation"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouLeavingAllianceMilitaryAccess" value="@TheirCountryName@ gains access to all regions you control"/>
+			<!-- NOT Leaving in Alliance -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNotLeavingAllianceCedeTerritory" value="Your Alliance will transfer ownership of all regions @TheirCountryName@ controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNotLeavingAllianceJoinAlliance" value="Your Alliance will join @TheirCountryGovPossessive@ Alliane"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNotLeavingAllianceInstallGov" value="Members of your Alliance will become @TheirCountryGovType@ nations"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.CountryConcessions.YouNotLeavingAllianceMilitaryAccess" value="@TheirCountryName@ gains access to all regions your Alliance controls"/>
+		<!-- Alliance Peace Demand -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceDemand.CedeTerritoryNotInAlliance" value="@TheirAllianceName@ will transfer ownership of all regions you control"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceDemand.CedeTerritoryInAlliance" value="@TheirAllianceName@ will transfer ownership of all regions your Alliance control"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceDemand.JoinAlliance" value="@TheirAllianceName@ will join your Alliance'"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceDemand.InstallGov" value="Members of @TheirAllianceName@ will become @MyCountryGovType@ nations"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceDemand.MilitaryAccessInAlliance" value="Your Alliance gains access to all regions @TheirAllianceName@ currently controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceDemand.MilitaryAccessNoInAlliance" value="You gain access to all regions @TheirAllianceName@ currently controls"/>
+		<!-- Alliance Peace Concessions -->
+			<string id="SID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.LeaveAlliance" value="You will leave your Alliance"/>
+			<!-- Not in Alliance -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouNoAllianceCedeTerritory" value="You will transfer ownership of all regions @TheirAllianceName@ controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouNoAllianceJoinAlliance" value="You will join the @TheirAllianceName@"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouNoAllianceInstallGov" value="Your nation will become a @TheirAllianceLeaderGovType@ nation"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouNoAllianceMilitaryAccess" value="@TheirAllianceDisplayName@ gains access to all regions you control"/>
+			<!-- Leaving Alliance -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouLeavingAllianceCedeTerritory" value="You will transfer ownership of all regions @TheirAllianceName@ controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouLeavingAllianceJoinAlliance" value="You will join the @TheirAllianceName@"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouLeavingAllianceInstallGov" value="Your nation will become a @TheirAllianceLeaderGovType@ nation"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.YouLeavingAllianceMilitaryAccess" value="@TheirAllianceDisplayName@ gains access to all regions you control"/>
+
+			<!-- NOT Leaving Alliance -->
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.NotYouLeavingAllianceCedeTerritory" value="Your Alliance will transfer ownership of all regions @TheirAllianceName@ controls"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.NotYouLeavingAllianceJoinAlliance" value="Your Alliance will join the @TheirAllianceName@"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.NotYouLeavingAllianceInstallGov" value="Members of your Alliance will become @TheirAllianceLeaderGovType@ nations"/>
+			<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.AlliancePeaceConcessions.NotYouLeavingAllianceMilitaryAccess" value="@AllianceName@ gains access to all regions your Alliance controls"/>
+
+<!-- UI2DPopUpTreatyTerritorialTransfer -->
+	<string id="SID.UI.UI2DPopUpTreatyTerritorialTransfer.Button.SendText" value="Send Territorial Transfer"/>
+	<string id="SID.UI.UI2DPopUpTreatyTerritorialTransfer.UI2DTerritorialTransferCountryInfo.TitleRegion" value="Region"/>
+	<string id="SID.UI.UI2DPopUpTreatyTerritorialTransfer.UI2DTerritorialTransferCountryInfo.TitlePoint" value="Point Value"/>
+	<string id="SID.UI.UI2DPopUpTreatyTerritorialTransfer.UI2DTerritorialTransferCountryInfo.TitleValueTotal" value="Region Value Total"/>
+
+<!-- UI2DPopUpUnit -->
+	<string id="SID.UI.UI2DPopUpUnit.UnitType.Army" value="Army Group"/>
+	<string id="SID.UI.UI2DPopUpUnit.UnitType.AirForce" value="Air Force Group"/>
+	<string id="SID.UI.UI2DPopUpUnit.UnitType.Fleet" value="Fleet Group"/>
+	<string id="SID.UI.UI2DPopUpUnit.UnitType.Unit" value="Unit"/>
+	<string id="SID.UI.UI2DPopUpUnit.UI2DUnitInfoTop.CombatPower" value="COMBAT&#010;POWER"/>
+	
+	<!-- UI2DUnitActionPanelMerge -->
+		<string id="SID.UI.UI2DPopUpUnit.UI2DUnitActionPanelMerge.MergeButton" value="Merge Group"/>
+		<string id="SID.UI.UI2DPopUpUnit.UI2DUnitActionPanelMerge.CancelButton" value="Cancel"/>
+		
+		<string id="SID.UI.UI2DPopUpUnit.UI2DUnitActionPanelMerge.Confirmation.Title" value="Proceed?"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionPanelMerge.Confirmation.Title" value="Move progress towards @RegionName@ will be lost.'"/>
+		<string id="SID.UI.UI2DPopUpUnit.UI2DUnitActionPanelMerge.Confirmation.Right" value="no"/>
+		<string id="SID.UI.UI2DPopUpUnit.UI2DUnitActionPanelMerge.Confirmation.Left" value="yes"/>
+		
+	<!-- UI2DUnitActionMergeButton -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionMergeButton.AirForceSingular" value="@Number@ @Name@ Squadron"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionMergeButton.AirForcePlural" value="@Number@ @Name@ Squadrons"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionMergeButton.ArmySingular" value="@Number@ @Name@ Division"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionMergeButton.ArmyPlural" value="@Number@ @Name@ Divisions"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionMergeButton.NavySingular" value="@Number@ @Name@ Fleet"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UI2DUnitActionMergeButton.NavyPlural" value="@Number@ @Name@ Fleets"/>
+	
+	<!-- UnitOrderMoreInfoMove -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoMove.Title" value="Moving To: @RegionName@"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoMove.DescArrival" value="Arrival Estimate: @TurnToDest@ Turn(s)"/>
+		<string id="SID.UI.UI2DPopUpUnit.UnitOrderMoreInfoMove.DescStalled" value="Stalled: Lacks Transports"/>
+		<string id="SID.UI.UI2DPopUpUnit.UnitOrderMoreInfoMove.DescInCombat" value="Stalled: In Combat"/>
+	<!-- UnitOrderMoreInfoRebase -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoRebase.Title" value="Rebasing To: @RegionName@"/>
+	<!-- UnitOrderMoreInfoInCombat -->
+		<string id="SID.UI.UI2DPopUpUnit.UnitOrderMoreInfoInCombat.Title" value="In Combat"/>
+	<!-- UnitOrderMoreInfoBombingCity -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoBombingCity.Title" value="Bombing: @CityName@"/>
+	<!-- UnitOrderMoreInfoBombingUnit -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoBombingUnit.Title" value="Bombing: @UnitName@"/>
+	<!-- UnitOrderMoreInfoBombingEngagement -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoBombingEngagement.Title" value="Air Support: @RegionName@"/>
+	<!-- UnitOrderMoreInfoBombingProducer -->	
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoBombingProducer.Title" value="Bombing: @RegionName@ @ResourceName@"/>
+	<!-- UnitOrderMoreInfoBombingPort -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoBombingPort.Title" value="Bombing port: @CityName@"/>
+	<!-- UnitOrderMoreInfoShelling -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoShelling.Title" value="Shelling: @CityName@"/>
+	<!-- UnitOrderMoreInfoEscorting -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoEscorting.Title" value="Escorting: @UnitName@"/>
+	<!-- UnitOrderMoreInfoRecon -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoRecon.Title" value="Recon: @RegionName@"/>
+	<!-- UnitOrderMoreInfoPatroling -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoPatroling.Title" value="Patrolling: @RegionName@"/>
+	<!-- UnitOrderMoreInfoRetreating -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoRetreating.Title" value="Retreating to @RegionName@"/>
+	<!-- UnitOrderMoreInfoAttacking -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoAttacking.Title" value="Attacking: @UnitName@"/>
+	<!-- UnitOrderMoreInfoLaunchingRocket -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoLaunchingRocket.Title" value="Launching Rocket: @CityName@"/>
+	<!-- UnitOrderMoreInfoDroppingNuke -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoDroppingNuke.Title" value="Dropping Nuke: @CityName@"/>
+	<!-- UnitOrderMoreInfoEnteringPort -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoEnteringPort.Title" value="Entering Port: @CityName@"/>
+	<!-- UnitOrderMoreInfoLeavingPort -->
+		<string id="SID.UI.UI2DPopUpUnit.UnitOrderMoreInfoLeavingPort.Title" value="Leaving Port"/>
+	<!-- UnitOrderMoreInfoMovingToPort -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoMovingToPort.Title" value="Moving to Port: @CityName@"/>
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoMovingToPort.Desc" value="Arrival Estimate: @TurnToDest@ Turn(s)"/>
+	<!-- UnitOrderMoreInfoJoiningEngagement -->
+		<string id="SID.UI.UI2DPopUpUnit.UnitOrderMoreInfoJoiningEngagement.Title" value="Joining Engagement"/>
+	<!-- UnitOrderMoreInfoDefault -->
+		<formatString id="FSID.UI.UI2DPopUpUnit.UnitOrderMoreInfoDefault.Title" value="There is no Display for @OrderDescription@ Order"/>
+	<!-- UnitOrderMoreInfoNoOrder -->
+		<string id="SID.UI.UI2DPopUpUnit.UnitOrderMoreInfoNoOrder.Title" value="No Order"/>
+<!-- UI2DPopUpUnitAir -->	
+	<string id="SID.UI.UI2DPopUpUnitAir.Order.Title" value="Air Force Group Orders"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.Type.Squadrons" value="Squadrons"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.Order.ConfirmationTitle" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.Order.ConfirmationDesc" value="Disband the Group?"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.Order.ConfirmRightButton" value="no"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.Order.ConfirmLeftButton" value="yes"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.ActionButton.Rename" value="Rename"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.ActionButton.Split" value="Split"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.ActionButton.Merge" value="Merge"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.ActionButton.Disband" value="Disband"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.StringInputArgs.Title" value="New Name:"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.StringInputArgs.Desc" value="What do you want to call this air force group?"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.StringInputArgs.Left" value="ok"/>
+	<string id="SID.UI.UI2DPopUpUnitAir.StringInputArgs.Right" value="cancel"/>		
+	<!-- UI2DUnitMakeupAir -->
+		<string id="SID.UI.UI2DPopUpUnitAir.UI2DUnitMakeupAir.Title" value="Air Force Group Organization"/>
+		<string id="SID.UI.UI2DPopUpUnitAir.UI2DUnitMakeupAir.Desc" value="Squadrons"/>
+	<!-- UI2DUnitActionPanelMergeAir -->
+		<string id="SID.UI.UI2DPopUpUnitAir.UI2DUnitActionPanelMergeAir.Title" value="Merge Air Force Groups"/>
+		<string id="SID.UI.UI2DPopUpUnitAir.UI2DUnitActionPanelMergeAir.Desc" value="Select Forces"/>
+
+<!-- UI2DPopUpUnitEscort -->
+	<string id="SID.UI.UI2DPopUpUnitEscort.Top.Unit" value="Escort Group"/>
+	<string id="SID.UI.UI2DPopUpUnitEscort.Order.Title" value="Naval Group Orders"/>
+	<string id="SID.UI.UI2DPopUpUnitEscort.Type.Ships" value="Ships"/>
+	<!-- UI2DUnitMakeupEscort -->
+		<string id="SID.UI.UI2DPopUpUnitEscort.UI2DUnitMakeupEscort.Title" value="Naval Group Organization"/>
+		<string id="SID.UI.UI2DPopUpUnitEscort.UI2DUnitMakeupEscort.Desc" value="Escort Ships"/>
+	<!-- UI2DEscortUnitMakeupBubbleList -->
+		<string id="SID.UI.UI2DPopUpUnitEscort.UI2DEscortUnitMakeupBubbleList.Title" value="Convoy Ships"/>
+
+<!-- UI2DPopUpUnitLand -->
+	<string id="SID.UI.UI2DPopUpUnitLand.Order.Title" value="Army Group Orders"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.Type.Divisions" value="Divisions"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.ActionButton.Rename" value="Rename"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.ActionButton.Split" value="Split"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.ActionButton.Merge" value="Merge"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.ActionButton.Disband" value="Disband"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.Order.ConfirmationTitle" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.Order.ConfirmationDesc" value="Disband the Group?"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.Order.ConfirmRightButton" value="no"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.Order.ConfirmLeftButton" value="yes"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.StringInputArgs.Title" value="New Name:"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.StringInputArgs.Desc" value="What do you want to call this army group?"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.StringInputArgs.Left" value="ok"/>
+	<string id="SID.UI.UI2DPopUpUnitLand.StringInputArgs.Right" value="cancel"/>	
+	<!-- UI2DUnitMakeupLand -->
+		<string id="SID.UI.UI2DPopUpUnitLand.UI2DUnitMakeupLand.Title" value="Army Group Organization"/>
+		<string id="SID.UI.UI2DPopUpUnitLand.UI2DUnitMakeupLand.Desc" value="Divisions"/>
+	<!-- UI2DUnitActionPanelMergeLand -->
+		<string id="SID.UI.UI2DPopUpUnitLand.UI2DUnitActionPanelMergeLand.Title" value="Merge Army Groups"/>
+		<string id="SID.UI.UI2DPopUpUnitLand.UI2DUnitActionPanelMergeLand.Desc" value="Select Forces"/>
+		
+<!-- UI2DPopUpUnitSea -->
+	<string id="SID.UI.UI2DPopUpUnitSea.Top.NoLocation" value="No Location"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.Type.Ships" value="Ships"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.Order.Title" value="Naval Group Orders"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.ActionButton.Rename" value="Rename"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.ActionButton.Split" value="Split"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.ActionButton.Merge" value="Merge"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.ActionButton.Disband" value="Disband"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.Order.ConfirmationTitle" value="Proceed?"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.Order.ConfirmationDesc" value="Disband the Group?"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.Order.ConfirmRightButton" value="no"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.Order.ConfirmLeftButton" value="yes"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.StringInputArgs.Title" value="New Name:"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.StringInputArgs.Desc" value="What do you want to call this naval group?"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.StringInputArgs.Left" value="ok"/>
+	<string id="SID.UI.UI2DPopUpUnitSea.StringInputArgs.Right" value="cancel"/>
+	<!-- UI2DUnitMakeupSea -->
+		<string id="SID.UI.UI2DPopUpUnitSea.UI2DUnitMakeupSea.Title" value="Naval Group Organization"/>
+		<string id="SID.UI.UI2DPopUpUnitSea.UI2DUnitMakeupSea.Desc" value="Ships / Condition"/>
+	<!-- UI2DSeaUnitMakeupBubble -->
+		<string id="SID.UI.UI2DPopUpUnitSea.UI2DSeaUnitMakeupBubble.Aircraft" value="Aircraft"/>
+	<!-- UI2DUnitActionPanelMergeSea -->
+		<string id="SID.UI.UI2DPopUpUnitSea.UI2DUnitActionPanelMergeSea.Title" value="Merge Naval Groups"/>
+		<string id="SID.UI.UI2DPopUpUnitSea.UI2DUnitActionPanelMergeSea.Desc" value="Select Forces"/>
+	
+<!-- UI2DPopUpUnitSplit -->
+	<string id="SID.UI.UI2DPopUpUnitSplit.Title" value="Split"/>
+	<!-- UI2DPopUpUnitSplitLand -->
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitLand.OldUnitListDesc" value="Selected Divisions"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitLand.NewUnitListTitle" value="New Army Group"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitLand.NewUnitListDesc" value="New Army Group"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitLand.ActionButtonSplit" value="Split Group"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitLand.ActionButtonCancel" value="Cancel"/>
+	<!-- UI2DPopUpUnitSplitAir -->
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitAir.OldUnitListDesc" value="Selected Squadrons"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitAir.NewUnitListTitle" value="New Air Force Group"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitAir.NewUnitListDesc" value="New Air Force Group"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitAir.ActionButtonSplit" value="Split Group"/>
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitAir.ActionButtonCancel" value="Cancel"/>
+
+<!-- UI2DPopUpUnitSplitSea -->
+	<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitSea.Title" value="Selected Ships &amp; Flotillas"/>
+	<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitSea.NewUnitListTitle" value="New Naval Group"/>
+	<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitSea.NewUnitListDesc" value="New Naval Group"/>
+	<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitSea.ActionButtonSplit" value="Split Group"/>
+	<string id="SID.UI.UI2DPopUpUnitSplit.UI2DPopUpUnitSplitSea.ActionButtonCancel" value="Cancel"/>
+	<!-- UI2DSeaUnitSplitBubble -->
+		<string id="SID.UI.UI2DPopUpUnitSplit.UI2DSeaUnitSplitBubble.Aircraft" value="Aircraft"/>
+
+<!-- UI2DPopUpResourceProducer -->
+	<string id="SID.UI.UI2DPopUpResourceProducer.PanelTitle" value="Resource Producer"/>
+	<formatString id="FSID.UI.UI2DPopUpResourceProducer.ResourceTitle" value="@Resource@ Resource"/>
+	<string id="SID.UI.UI2DPopUpResourceProducer.ResourceDesc" value="Production Figures"/>
+	<string id="SID.UI.UI2DPopUpResourceProducer.TotalCostTitle" value="Total Production Costs"/>
+	<string id="SID.UI.UI2DPopUpResourceProducer.ProductionModifiers" value="Production Modifiers"/>
+	<!-- UI2DResourceProducerHeaderBox -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerHeaderBox.OutputTitle" value="Output Rate"/>
+	<!-- UI2DResourceProducerBaseOutputBubble -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerBaseOutputBubble.BaseOutputTitle" value="Base Output"/>
+	<!-- UI2DResourceProducerMaximizeProduction -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerMaximizeProduction.Maximize" value="Production Order"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerMaximizeProduction.IncreasedCosts" value="Per Unit Costs"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerMaximizeProduction.StartMaximizing" value="Start Maximizing"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerMaximizeProduction.StopMaximizing" value="Stop Maximizing"/>
+		<formatString id="FSID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerMaximizeProduction.MPUSingular" value="@MPUs@ MPU"/>
+		<formatString id="FSID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerMaximizeProduction.MPUPlural" value="@MPUs@ MPUs"/>
+	<!-- UI2DResourceProducerInfrastructureBonus -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerInfrastructureBonus.InfrastructureBonus" value="Infrastructure Bonus"/>
+	<!-- UI2DResourceTotalProductionCost -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceTotalProductionCost.Labor" value="Labor"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceTotalProductionCost.Maintenance" value="Maintenance"/>
+	<!-- UI2DResourceProducerBaseOutputBubble -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerBaseOutputBubble.Current" value="Current"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceProducerBaseOutputBubble.MaximumBase" value="Maximum"/>
+	<!-- UI2DResourceMaxButton -->
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.MaximizingOutput" value="Maximizing Output"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.IncreaseOutputby1" value="Increase Output by 1"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.DecreaseOutputby1" value="Decrease Output by 1"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.MinimizingOutput" value="Minimizing Output"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.MaintainCurrentOutput" value="Maintain Current Output"/>
+		<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.Unknown" value="Unknown"/>
+		<!-- OptionBox -->
+			<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.OptionBox.Maximize" value="Maximize"/>
+			<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.OptionBox.Increment" value="Increment"/>
+			<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.OptionBox.Decrement" value="Decrement"/>
+			<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.OptionBox.Minimize" value="Minimize"/>
+			<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.OptionBox.Maintain" value="Maintain"/>
+			<string id="SID.UI.UI2DPopUpResourceProducer.UI2DResourceMaxButton.OptionBox.Idle" value="Maintain"/>
+			
+<!-- UI2DInfrastructurePanelRegions -->	
+	<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsTableHeader.TitleRegion" value="Regions"/>
+	<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsTableHeader.TitleTerrain" value="Terrain"/>
+	<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsTableHeader.TitleFood" value="Food"/>
+	<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsTableHeader.TitleFortifications" value="Fortifications"/>
+	<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsTableHeader.TitleTransportation" value="Transportation"/>
+	<string id="SID.UI.UI2DInfrastructurePanelRegions.Title" value="Regional Infrastructure"/>
+	<!-- UI2DInfrastructurePanelRegionsCellFood -->
+		<formatString id="FSID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellFood.OptionBoxDisplay" value="Upgrade to @AgricultureLevelName@"/>
+		<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellFood.Cancel" value="Cancel"/>
+		<formatString id="FSID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellFood.Upgrade" value="L@Level@ (@Percent@%)"/>
+	<!-- UI2DInfrastructurePanelRegionsCellDefense -->
+		<formatString id="FSID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellDefense.OptionBoxDisplay" value="Upgrade to @FortificationLevelName@"/>
+		<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellDefense.Cancel" value="Cancel"/>
+		<formatString id="FSID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellDefense.Upgrade" value="L@Level@ (@Percent@%)"/>
+	<!-- UI2DInfrastructurePanelRegionsCellTransportation -->
+		<formatString id="FSID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellTransportation.OptionBoxDisplay" value="Upgrade to @TransportationLevelName@"/>
+		<string id="SID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellTransportation.Cancel" value="Cancel"/>
+		<formatString id="FSID.UI.UI2DInfrastructurePanelRegions.UI2DInfrastructurePanelRegionsCellTransportation.Upgrade" value="L@Level@ (@Percent@%)"/>
+	
+<!-- UI2DSlidingPanelInfrastructure -->
+	<string id="SID.UI.UI2DSlidingPanelInfrastructure.Title" value="INFRASTRUCTURE"/>
+	<string id="SID.UI.UI2DSlidingPanelInfrastructure.Tab.Regions" value="Regions"/>
+	<string id="SID.UI.UI2DSlidingPanelInfrastructure.Tab.ResourceProducers" value="Resource Producers"/>
+	<string id="SID.UI.UI2DSlidingPanelInfrastructure.Button.Close" value="close"/>
+
+<!-- UI2DInfrastructurePanelResourceProducers -->
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.ResourceProducers" value="Resource Producers"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Producers" value="Type"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Location" value="Location"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.TotalOutput" value="Output"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Maximize" value="Maxed"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.BonusOutput" value="Bonus Output"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Orders" value="Orders"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Transportation" value="Transportation"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Culture" value="Culture"/>
+	<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.Title.Combat" value="Combat"/>	
+	<!-- UI2DInfrastructurePanelResourceProducersCellStatus -->
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.PRODUCER_STATE_MAXIMIZE" value="Expanding"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.PRODUCER_STATE_INCREMENT" value="Expand +1"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.PRODUCER_STATE_DECREMENT" value="Reduce -1"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.PRODUCER_STATE_MINIMIZE" value="Reducing"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.PRODUCER_STATE_IDLE" value="Maintain"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.Unknown" value="Unknown"/>
+	
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.OptionBoxMaximize" value="Maximize"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.OptionBoxIncrement" value="Increment"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.OptionBoxDecrement" value="Decrement"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.OptionBoxMinimize" value="Minimize"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.OptionBoxMaintain" value="Maintain"/>
+		<string id="SID.UI.UI2DInfrastructurePanelResourceProducers.UI2DInfrastructurePanelResourceProducersCellStatus.OptionBoxIdle" value="Maintain"/>
+	
+<!-- UI2DSlidingPanelAllianceWar -->	
+	<string id="SID.UI.UI2DSlidingPanelAllianceWar.Title" value="ALLIANCES AND WARS"/>
+	<string id="SID.UI.UI2DSlidingPanelAllianceWar.Tab.Alliances" value="Alliances"/>
+	<string id="SID.UI.UI2DSlidingPanelAllianceWar.Tab.Wars" value="Wars"/>
+	<string id="SID.UI.UI2DSlidingPanelAllianceWar.Button.close" value="close"/>
+	<!-- UI2DAlliancesPanel -->
+		<string id="SID.UI.UI2DSlidingPanelAllianceWar.UI2DAlliancesPanel.Title" value="International Alliances"/>
+		<string id="SID.UI.UI2DSlidingPanelAllianceWar.UI2DAlliancesPanel.AllianceMembers" value="Alliance Members"/>
+	<!-- UI2DWarsPanel -->
+		<string id="SID.UI.UI2DSlidingPanelAllianceWar.UI2DWarsPanel.Title" value="International Wars"/>
+
+<!-- UI2DSlidingPanelCityProductionCenter -->
+	<formatString id="FSID.UI.UI2DSlidingPanelCityProductionCenter.Title" value="@CityName@ PRODUCTION ORDERS"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.UI2DProductionOrderInfo.TitleIPUsRequired" value="IPUs Required"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.UI2DProductionOrderInfo.TitleCompletionRate" value="Completion Rate"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.UI2DProductionOrderInfo.TitleMPUsRequired" value="MPUs Required"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.UI2DProductionOrderInfo.TitleResourcesRequired" value="Resources Required (per IPU)"/>
+	
+<!-- UI2DSlidingPanelIndustrialProduction -->
+	<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.Title" value="CITY PRODUCTION"/>
+	<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionTab.Cities" value="Cities"/>
+	<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionTab.OutputDistribution" value="Output Distribution"/>
+	<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionTab.Supplies" value="Supplies"/>
+	<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionTab.Output" value="Output"/>
+	<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.Button.close" value="close"/>
+	<!-- UI2DIndustrialProductionCityManagerPanels -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityManagerPanels.Title" value="Production Orders"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityManagerPanels.TitleCities" value="Cities"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityManagerPanels.TitleIPUs" value="IPUs"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityManagerPanels.TitlePort" value="Port"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityManagerPanels.TitleProductionOrder" value="Production Order"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityManagerPanels.TitleNextFinished" value="Next Finished"/>
+	<!-- UI2DIndustrialProductionCityProductionButton -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityProductionButton.objBuildingnOrder" value="No Order"/>
+	<!-- UI2DIndustrialProductionSuppliesList -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionSuppliesList.DescArmaments" value="Military Supplies"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionSuppliesList.DescConsumer" value="Consumer Supplies"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionSuppliesList.DescMetals" value="Industrial Supplies"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionSuppliesList.DescCoal" value="Industrial Supplies"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionSuppliesList.DescOil" value="Industrial Supplies"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionSuppliesList.DescFood" value="Consumer Supplies"/>
+	<!-- UI2DProductionResourceSupplyRate -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DProductionResourceSupplyRate.SupplyRate" value="Supply Rate"/>
+	<!-- UI2DIndustrialProductionCityOutput -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutput.ProductionFigures" value="Production Figures"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutput.TitleProductionOrders" value="Production Orders"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutput.TitleCitiesAssigned" value="Cities Assigned"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutput.TitleIPUs" value="IPUs"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutput.TitleCompletionRate" value="Completion Rate"/>
+	<!-- UI2DProductionQueueRow -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DProductionQueueRow.Stopped" value="Stopped"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DProductionQueueRow.Turns" value="Turn(s)"/>
+	<!-- UI2DIndustrialProductionCityOutputRow -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutputRow.perturn" value="per turn"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutputRow.Oneper" value="1 per"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityOutputRow.turns" value="turns"/>
+	<!-- UI2DIndustrialProductionCityCompletedOrders -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.Title" value="Production Report"/>
+		<formatString id="FSID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.Desc" value="@CityName@ PRODUCTION ORDERS"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.TitleName" value="Completed Military Units"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.TitleCity" value="City"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.TitleNo" value="No."/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.TitleUnits" value="Units"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialProductionCityCompletedOrders.TitleDeployedTo" value="Deployed To"/>
+	<!-- UI2DResourceOutputRow -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DResourceOutputRow.Efficiency" value="Industrial Efficiency"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DResourceOutputRow.OutputLevels" value="Output Levels"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DResourceOutputRow.IPUsCompleted" value="IPUs Completed"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DResourceOutputRow.of" value="of"/>
+	<!-- UI2DResourceInfoBubble -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DResourceInfoBubble.IndustrialProductionShortages" value="Industrial Production Shortages"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DResourceInfoBubble.ProductionLosses" value="Production Losses (IPUs)"/>
+	<!-- UI2DIndustrialInfoBubble -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialInfoBubble.IndustrialEfficiency" value="Industrial Efficiency"/>
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DIndustrialInfoBubble.IPUsCompleted" value="IPUs Completed"/>
+	<!-- UI2DGoodsInfoBubble -->
+		<string id="SID.UI.UI2DSlidingPanelIndustrialProduction.UI2DGoodsInfoBubble.GoodsConsumption" value="Goods Consumption"/>
+		
+<!-- UI2DSlidingPanelLiberation -->
+	<string id="SID.UI.UI2DSlidingPanelLiberation.Title" value="GRANT INDEPENDENCE"/>
+	<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberation.Title" value="Conquered Territory"/>
+	<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberation.Desc" value="Establish independent nations"/>
+	<string id="SID.UI.UI2DSlidingPanelLiberation.Button.Close" value="Close"/>
+	<!-- UI2DLiberateNationRow -->
+		<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberateNationRow.GrantIndependence" value="Grant Independence"/>
+		<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberateNationRow.CedeHistoricRegions" value="Cede Historic Regions"/>
+		<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberateNationRow.ManPower" value="Population"/>
+		<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberateNationRow.PowerPoints" value="Power Points"/>
+		<string id="SID.UI.UI2DSlidingPanelLiberation.UI2DLiberateNationRow.Regions" value="Regions"/>
+	
+<!-- UI2DSlidingPanelLog -->
+	<string id="SID.UI.UI2DSlidingPanelLog.TitlePlayerLog" value="Player Log"/>
+	<string id="SID.UI.UI2DSlidingPanelLog.Left" value="Submit"/>
+	<string id="SID.UI.UI2DSlidingPanelLog.Right" value="Cancel"/>
+
+<!-- UI2DSlidingPanelScoring -->
+	<string id="SID.UI.UI2DSlidingPanelScoring.Title" value="SCENARIO SCORING"/>
+	<string id="SID.UI.UI2DSlidingPanelScoring.Tab.NationPowerPoints" value="Nation Power Points"/>
+	<string id="SID.UI.UI2DSlidingPanelScoring.Button.Close" value="Close"/>
+	<!-- UI2DScoringWorldPowerPoints -->
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.Nation" value="NATIONS"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.NationRelations" value="Nation/Relations"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.ManpowerPoints" value="Manpower&#010;Points"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.IndustrialPoints" value="Industrial&#010;Points"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.ResourcePoints" value="Resource&#010;Points"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.FinancialBonusPenalty" value="Financial&#010;Bonus/Penalty"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringWorldPowerPoints.WorldPowerScore" value="World Power&#010;Score"/>
+	<!-- UI2DNationalStatusReportRow -->
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DNationalStatusReportRow.Surrendered" value="Surrendered"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DNationalStatusReportRow.HomeNation" value="Home Nation"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DNationalStatusReportRow.Allied" value="Allied"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DNationalStatusReportRow.StateofWar" value="State of War"/>
+	<!-- UI2DScoringBonusPoints -->
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringBonusPoints.TitleCompletedMissions" value="Completed Missions"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringBonusPoints.TitlePoints" value="Points"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringBonusPoints.TitleNotes" value="Notes"/>
+	<!-- UI2DScoringTopAlliances -->
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringTopAlliances.TitleTotal" value="% of Total"/>
+		<string id="SID.UI.UI2DSlidingPanelScoring.UI2DScoringTopAlliances.TitlePowerPoints" value="Power Points"/>
+		
+<!-- UI2DSlidingPanelWorldMarket -->
+	<string id="SID.UI.UI2DSlidingPanelWorldMarket.Title" value="WORLD MARKET"/>
+	<string id="SID.UI.UI2DSlidingPanelWorldMarket.Tab.Market_Activity" value="Market Activity"/>
+	<string id="SID.UI.UI2DSlidingPanelWorldMarket.Tab.Trade_Negotiations" value="Trade Negotiations"/>
+	<string id="SID.UI.UI2DSlidingPanelWorldMarket.Tab.Imports_Exports" value="Imports &amp; Exports"/>
+	<string id="SID.UI.UI2DSlidingPanelWorldMarket.Tab.Aid_Deals" value="Aid Deals"/>
+	<string id="SID.UI.UI2DSlidingPanelWorldMarket.Tab.Close" value="close"/>
+	
+	<!-- TradeActionBuy -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionBuy.DisplayName" value="Buy From a Nation"/>
+		<formatString id="FSID.UI.UI2DSlidingPanelWorldMarket.TradeActionBuy.Confirmation" value="We have a Trade Agreement to buy&#010;@Amount@ @Resource@ from @CountryName@"/>
+	<!-- TradeActionSellToCountry -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionSellToCountry.DisplayName" value="Sell to a Nation"/>
+		<formatString id="FSID.UI.UI2DSlidingPanelWorldMarket.TradeActionSellToCountry.Confirmation" value="We have a Trade Agreement to sell&#010;@Amount@ @Resource@ to @CountryName@"/>
+	<!-- TradeActionSellOnWorldMarket -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionSellOnWorldMarket.DisplayName" value="Offer on Market"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionSellOnWorldMarket.Confirmation" value="Our Trade offer was posted to&#010;the World Market"/>
+	<!-- TradeActionRequestOnWorldMarket -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionRequestOnWorldMarket.DisplayName" value="Request on Market"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionRequestOnWorldMarket.Confirmation" value="Our Trade request was posted to&#010;the World Market"/>
+	<!-- TradeActionRequestAid -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionRequestAid.DisplayName" value="Request Aid"/>
+	<!-- TradeActionOfferAid -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.TradeActionOfferAid.DisplayName" value="Offer Aid"/>
+	<!-- UI2DWorldTradeMarketActivityRow -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.ButtonTrade" value="Trade"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.MarketOffers" value="Market Offers"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.TopProducers" value="Top Producers"/>
+	<!-- UI2DWorldMarketNegotiationDealManager -->
+		<formatString id="FSID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketNegotiationDealManager.Title" value="Negotiate @ResourceName@ Deal"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.SelectOption" value="Select Option"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.SelectNation" value="Select Nation"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.Disclaimer" value="*This offer will be sent to the nation for approval"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeMarketActivityRow.Send" value="Send"/>
+	<!-- UI2DTradeNegotiationDetailsBox -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DTradeNegotiationDetailsBox.Buy" value="Trade Offer Level"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DTradeNegotiationDetailsBox.Sell" value="Sale Proposal"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DTradeNegotiationDetailsBox.RequestAid" value="Aid Request"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DTradeNegotiationDetailsBox.OfferAid" value="Aid Offer"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DTradeNegotiationDetailsBox.Other" value="Trade Level"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DTradeNegotiationDetailsBox.TradeValue" value="Trade Value"/>
+	<!-- UI2DWorldMarketConfirmationBox -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketConfirmationBox.OK" value="Ok"/>
+	<!-- UI2DWorldMarketCountriesOfferingResource -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketCountriesOfferingResource.Title" value="World Market"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketCountriesOfferingResource.Units" value="Units"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketCountriesOfferingResource.Offers" value=" Offers"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketCountriesOfferingResource.Requests" value=" Requests"/>
+	<!-- UI2DWorldTradeImportsExports -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.TitleNation" value="Nation"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.TitleFlow" value="Flow"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.TitleUnits" value="Units"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.TitleTradeFlow" value="Reduce Trade Flow"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.TitleShortage" value="Shortage"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.Confirm" value="Update Trade Flow"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.Return" value="Return to Market"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeImportsExports.Reset" value="Reset"/>
+	<!-- UI2DImportExportFlowRow -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DImportExportFlowRow.Exporting" value="Exporting"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DImportExportFlowRow.Importing" value="Importing"/>
+	<!-- UI2DWorldTradeAidFlows -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.TitleNation" value="Nation"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.TitleFlow" value="Flow"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.TitleUnits" value="Units"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.TitleAidFlow" value="Reduce Aid Flow"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.TitleShortage" value="Shortage"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.Confirm" value="Update Aid Flow"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldTradeAidFlows.Reset" value="Reset"/>
+	<!-- UI2DWorldMarketResourceInfoRow -->
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketResourceInfoRow.SupplyRate" value="Supply Rate"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketResourceInfoRow.Stockpile" value="Stockpile"/>
+		<string id="SID.UI.UI2DSlidingPanelWorldMarket.UI2DWorldMarketResourceInfoRow.TradeBalance" value="Trade Balance"/>
+
+<!-- UI2DResearchBranchPanel -->
+	<!-- UI2DResearchProjectInfo -->
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchProjectInfo.Complete" value="Complete"/>
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchProjectInfo.Prerequisites" value="Prerequisites"/>
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchProjectInfo.Obsoletes" value="Obsoletes"/>
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchProjectInfo.Effects" value="Effects"/>
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchProjectInfo.StartResearch" value="Start Research"/>
+		<formatString id="FSID.UI.UI2DResearchBranchPanel.UI2DResearchProjectInfo.Researching" value="Researching: @PercentComplete@% Complete"/>
+		
+	<!-- UI2DResearchInfoMoreInfo -->
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchInfoMoreInfo.CostTitle" value="Cost Per Turn"/>
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchInfoMoreInfo.ResearchPointsTitle" value="Research Points"/>
+		<string id="SID.UI.UI2DResearchBranchPanel.UI2DResearchInfoMoreInfo.IPUsRequiredTitle" value="IPUs Required"/>
+		
+<!-- UI2DResearchProjectPanelProject -->
+	<string id="SID.UI.UI2DResearchProjectPanelProject.ResearchReport" value="Research Report"/>
+	<string id="SID.UI.UI2DResearchProjectPanelProject.Top.Project" value="Project"/>
+	<string id="SID.UI.UI2DResearchProjectPanelProject.Top.Progress" value="Progress"/>
+	<string id="SID.UI.UI2DResearchProjectPanelProject.Top.IPUs" value="IPUs"/>
+	<string id="SID.UI.UI2DResearchProjectPanelProject.Top.Cost" value="Cost"/>
+	<string id="SID.UI.UI2DResearchProjectPanelProject.Top.Prioritize" value="Prioritize"/>
+	<!-- UI2DResearchProjectPanelInfoRow -->
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelInfoRow.IPUsAssigned" value="IPUs Assigned"/>
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelInfoRow.IPUDemand" value="IPU Research Demand"/>
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelInfoRow.TotalResearchCostPerTurn" value="Total Research Cost Per Turn"/>
+	<!-- UI2DResearchProjectPanelProjectsInfoRow -->
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelProjectsInfoRow.Proceed" value="Proceed?"/>
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelProjectsInfoRow.CancelResearch" value="Cancel Research?"/>
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelProjectsInfoRow.no" value="no"/>
+		<string id="SID.UI.UI2DResearchProjectPanelProject.UI2DResearchProjectPanelProjectsInfoRow.yes" value="yes"/>
+		
+<!-- ResearchData -->
+	<!-- Projects -->
+	<string id="SID.UI.ResearchData.ResearchBranchInfo.Projects.Title" value="Projects"/>
+	<!-- Land Forces -->
+	<string id="SID.UI.ResearchData.ResearchBranchInfo.LandForces.Title" value="Land Forces"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.LandForces.Infantry" value="Infantry"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.LandForces.Armored" value="Armored"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.LandForces.MobileInfantry" value="Mobile Infantry"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.LandForces.Artillery" value="Artillery"/>
+	
+	<!-- Air Forces -->
+	<string id="SID.UI.ResearchData.ResearchBranchInfo.AirForces.Title" value="Air Forces"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.AirForces.Fighter" value="Fighter"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.AirForces.Bomber" value="Bomber"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.AirForces.JetPower" value="Jet Power"/>
+	
+	<!-- Naval Forces -->
+	<string id="SID.UI.ResearchData.ResearchBranchInfo.NavalForces.Title" value="Naval Forces"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.NavalForces.Carrier" value="Carrier"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.NavalForces.Battleship" value="Battleship"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.NavalForces.Cruiser" value="Cruiser"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.NavalForces.Destroyer" value="Destroyer"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.NavalForces.Submarine" value="Submarine"/>
+	
+	<!-- Tactical -->
+	<string id="SID.UI.ResearchData.ResearchBranchInfo.Tactical.Title" value="Tactical"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Tactical.DefensiveTactics" value="Defensive Tactics"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Tactical.OffensiveTactics" value="Offensive Tactics"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Tactical.MilitaryTraining" value="Military Training"/>
+	
+	<!-- Advanced -->
+	<string id="SID.UI.ResearchData.ResearchBranchInfo.Advanced.Title" value="Advanced"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Advanced.SyntheticOil" value="Synthetic Oil"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Advanced.Electronics" value="Electronics"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Advanced.NuclearWeapons" value="Nuclear Weapons"/>
+	<string id="SID.UI.ResearchData.ResearchProgramInfo.Advanced.Rocketry" value="Rocketry"/>
+	
+<!-- UI2DSlidingPanelResearchProjects -->
+	<string id="SID.UI.UI2DSlidingPanelResearchProjects.Title" value="RESEARCH PROJECTS"/>
+	<string id="SID.UI.UI2DSlidingPanelResearchProjects.close" value="close"/>
+	
+<!-- UI2DSlidingPanelFinancialReport -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Title" value="FINANCIAL REPORT"/>
+	<!-- Main UI -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.MainUI.TabSummary" value="Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.MainUI.TabInfrastructure" value="Infrastructure"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.MainUI.TabMilitary" value="Military"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.MainUI.TabProduction" value="Production"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.MainUI.TabTrade" value="Trade"/>
+	<!-- UI2DFinancialReportRowGrouping -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.UI2DFinancialReportRowGrouping.Source" value="Source"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.UI2DFinancialReportRowGrouping.Amount" value="Amount"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.UI2DFinancialReportRowGrouping.close" value="close"/>
+	<!-- Trade -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.RevenueTitle" value="Export Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.RevenueDesc" value="Last Turn Summary"/>
+		
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.CostTitle" value="Import Costs"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.CostDesc" value="Last Turn Summary"/>
+		
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.ColmTitleSource" value="Source"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.ColmTitleRevenue" value="Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.ColmTitleCost" value="Cost"/>	
+		
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.RevenueTotal" value="Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.CostTotal" value="Costs"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Trade.TradeBalance" value="Trade Balance"/>
+	<!-- Summary -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.IncomeTitle" value="National Income"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.IncomeDesc" value="Last Turn Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.IncomeTotalTitle" value="Total Income"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.IncomeGoodsRevenue" value="Goods Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.IncomeFoodRevenue" value="Food Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.IncomeExports" value="Exports"/>
+		
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingTitle" value="National Spending"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingDesc" value="Last Turn Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingTotalTitle" value="Total Spending"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingMilitarySpending" value="Military Spending"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingResearch" value="Research"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingInfrastructure" value="Infrastructure"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Summary.SpendingImports" value="Imports"/>
+	
+	<!-- Infrastructure -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingImports" value="Imports"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingTitle" value="Infrastructure Cost"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingDesc" value="Last Turn Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingTotalTitle" value="Total Cost"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingIndustry" value="Industry"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingCoalProducers" value="Coal Producers"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingMetalsProducers" value="Metals Producers"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingOilProducers" value="Oil Producers"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingFoodProduction" value="Food Production"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingRegionalDefenses" value="Regional Defenses"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Infrastructure.SpendingTransportation" value="Transportation"/>
+	
+	<!-- Military -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Military.Title" value="Military Maintenance"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Military.Desc" value="Last Turn Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Military.TotalTitle" value="Total Cost"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Military.Army" value="Army"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Military.AirForce" value="Air Force"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Military.Navy" value="Navy"/>
+	
+	<!-- Production -->
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.GoodsTitle" value="Goods Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.GoodsDesc" value="Last Turn Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.GoodsTotalTitle" value="Total Income"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.GoodsDomesticSales" value="Domestic Sales"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.GoodsExports" value="Exports"/>
+		
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.FoodTitle" value="Food Revenue"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.FoodDesc" value="Last Turn Summary"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.FoodTotalTitle" value="Total Cost"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.FoodDomesticSales" value="Domestic Sales"/>
+		<string id="SID.UI.UI2DSlidingPanelFinancialReport.Production.FoodExports" value="Exports"/>
+	
+<!-- UI2DPopUpPeaceTreaty -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Button.Send" value="Send Peace Offer"/>
+	<!-- Demand -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Demand.LeaveAlliance" value="Leave Alliance"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Demand.CedeOccupiedTerritory" value="Cede Occupied Territory"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Demand.JoinAlliance" value="Join Alliance"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Demand.InstallFriendlyGovernment" value="Install Friendly Government"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Demand.MilitaryAccessTreaty" value="Military Access Treaty"/>
+	<!-- Concessions -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Concessions.LeaveAlliance" value="Leave Alliance"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Concessions.CedeOccupiedTerritory" value="Cede Occupied Territory"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Concessions.JoinAlliance" value="Join Alliance"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Concessions.InstallFriendlyGovernment" value="Install Friendly Government"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Concessions.MilitaryAccessTreaty" value="Military Access Treaty"/>
+	<!-- Top Country -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.TopCountry.NegotiatingSeparately" value="Negotiating Separately"/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.TopCountryAllianceBubble.Desc" value="Members of the @AllianceName@"/>
+	<!-- Top Alliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.TopAlliance.Desc" value="Members of the @AllianceName@"/>
+	<!-- Tabs -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Tab.Title" value="Peace Terms"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Tab.Demand" value="Demand"/>
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Tab.Concessions" value="Concessions"/>
+	<!-- Desc -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Desc.Title" value="Treaty Summary"/>
+		<!-- Demands -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Leave_Alliance" value="@TheirCountryName@ leaves @TheirAllianceName@."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Cede_Territory_If_You_are_NOT_in_Alliance" value="@TheirCountryName@ will transfer ownership of all regions you control."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Cede_Territory_If_You_are_in_Alliance" value="@TheirCountryName@ will give your alliance ownership of all @NationAdjective@ regions you or your allies control."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Join_Alliance" value="@TheirCountryName@ will join your alliance."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Install_Gov" value="@TheirCountryName@ will become a @MyCountryGovType@ nation."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Military_Access_Your_in_Alliance" value="Your alliance gains access to all regions @TheirCountryName@ currently controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Demand.Military_Access_Your_NOT_in_Alliance" value="You gain access to all regions @TheirCountryName@ currently controls."/>
+		<!-- Concessions -->
+		<!-- Not in Alliance -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Leave_Alliance" value="You will leave your alliance."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Cede_Territory_NOT_in_Alliance" value="You will transfer to @TheirCountryName@ ownership of all your regions that @TheirCountryName@ controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Join_Alliance_NOT_in_Alliance" value="You will join @TheirGovPossessive@ alliance."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Install_Gov_NOT_in_Alliance" value="Your nation will become a @TheirCountryGovType@ nation."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Military_Access_NOT_in_Alliance" value="@TheirCountryName@ gains access to all regions you control."/>
+		<!--  Leaving Alliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Cede_Territory_Leaving_Alliance" value="You will transfer to @TheirCountryName@ ownership of all your regions that @TheirCountryName@ controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Join_Alliance_Leaving_Alliance" value="You will join @TheirGovPossessive@ alliance."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Install_Gov_Leaving_Alliance" value="Your nation will become a @TheirCountryGovType@ nation."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Military_Access_Leaving_Alliance" value="@TheirCountryName@ gains access to all regions you control."/>
+		<!-- NOT Leaving Alliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Cede_Territory_NOT_Leaving_Alliance" value="Your alliance will transfer ownership of all regions @TheirCountryName@ controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Join_Alliance_NOT_Leaving_Alliance" value="Your alliance will join @TheirCountryGovPossessive@ alliance."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Install_Gov_NOT_Leaving_Alliance" value="Members of your alliance will become @TheirCountryGovType@ nations."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Seperate_Peace.Concessions.Military_Access_NOT_Leaving_Alliance" value="@TheirCountryName@ gains access to all regions your alliance controls."/>
+		
+		<!-- Alliance Peace -->
+		<!-- Demand -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Demand.Cede_Territory_NOT_In_Alliance" value="@TheirAllianceName@ will transfer ownership of all regions you control."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Demand.Cede_Territory_In_Alliance" value="@TheirAllianceName@ will give your alliance ownership of all @TheirAllianceName@ regions you or your allies control."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Demand.Join_Alliance" value="@TheirAllianceName@ will join your alliance."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Demand.Install_Gov" value="Members of @TheirAllianceName@ will become @MyCountryGovType@ nations."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Demand.Military_Access_In_Alliance" value="Your alliance gains access to all regions @TheirAllianceName@ currently controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Demand.Military_Access_NOT_In_Alliance" value="You gain access to all regions @TheirAllianceName@ currently controls."/>
+		<!-- Concessions -->
+		<string id="SID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Leave_Alliance" value="You will leave your alliance."/>
+		<!--Not In Alliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Cede_Territory_NOT_in_Alliance" value="You will transfer to @TheirAllianceName@ ownership of all your regions that @TheirAllianceName@ controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Join_Alliance_NOT_in_Alliance" value="You will join the @TheirAllianceName@."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Install_Gov_NOT_in_Alliance" value="Your nation will become a @TheirAllianceLeaderGovType@ nation."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Military_Access_NOT_in_Alliance" value="@TheirAllianceName@ gains access to all regions you control."/>
+		<!--Leaving Alliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Cede_Territory_Leaving_Alliance" value="You will transfer ownership of all regions @TheirAllianceName@ controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Join_Alliance_Leaving_Alliance" value="You will join the @TheirAllianceName@."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Install_Gov_Leaving_Alliance" value="Your nation will become a @TheirAllianceLeaderGovType@ nation."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Military_Access_Leaving_Alliance" value="@TheirAllianceName@ gains access to all regions you control."/>
+		<!-- NOT Leaving Alliance -->
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Cede_Territory_NOT_Leaving_Alliance" value="Your alliance will transfer ownership of all regions @TheirAllianceName@ controls."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Join_Alliance_NOT_Leaving_Alliance" value="Your alliance will join the @TheirAllianceName@."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Install_Gov_NOT_Leaving_Alliance" value="Members of your alliance will become @TheirAllianceLeaderGovType@ nations."/>
+		<formatString id="FSID.UI.UI2DPopUpPeaceTreaty.Desc.Alliance_Peace.Concessions.Military_Access_NOT_Leaving_Alliance" value="@TheirAllianceName@ gains access to all regions your alliance controls."/>
+
+<!-- OpenChat -->
+	<string id="SID.UI.UI2DOpenChat.Button.MinimizeChat" value="MINIMIZE CHAT"/>
+
+<!-- UI2DPlayerDecision -->
+	<string id="SID.UI.UI2DPlayerDecision.Title.Regions" value="Regions"/>
+	<!-- UI2DPlayerDecisionGeneric -->
+	<string id="SID.UI.UI2DPlayerDecision.UI2DPlayerDecisionGeneric.Testing" value="Testing"/>
+
+<!-- UI2DBookPageEncyclopedia -->
+	<string id="SID.UI.UI2DBookPageEncyclopedia.Title.TopicEntries" value="Topic Entries"/>
+	<string id="SID.UI.UI2DBookPageEncyclopedia.Title.Description" value="Description"/>
+	<string id="SID.UI.UI2DBookPageEncyclopedia.UI2DEncyclopediaEntryLayoutSingleDescription.Links" value="Links"/>
+	<string id="SID.UI.UI2DBookPageEncyclopedia.UI2DEncyclopediaEntryLayoutTimeline.Links" value="Links"/>
+	
+<!-- UI2DDecisionPoint -->
+	<string id="SID.UI.UI2DDecisionPoint.ChoicesList.AcceptAllianceRequest" value="Accept Alliance Request"/>
+	<string id="SID.UI.UI2DDecisionPoint.ChoicesList.RejectAllianceRequest" value="Reject Alliance Request"/>
+	
+	<!-- UI2DPopUpGenericDecisionPoint -->
+	<string id="SID.UI.UI2DPopUpGenericDecisionPoint.ChoicesList.AcceptAllianceRequest" value="Accept Alliance Request"/>
+	<string id="SID.UI.UI2DPopUpGenericDecisionPoint.ChoicesList.RejectAllianceRequest" value="Reject Alliance Request"/>
+	
+	<!-- UI2DDecisionPointAllianceOfferPreApproval -->
+	<string id="SID.UI.UI2DDecisionPointAllianceOfferPreApproval.UI2DSpecialFeedbackTitle.Title" value="ALLIANCE OFFER"/>
+	<formatString id="FSID.UI.UI2DDecisionPointAllianceOfferPreApproval.UI2DSpecialFeedbackTitle.Desc" value="Our Ally @FromCountry@ has sent an Alliance offer to @ToCountry@"/>
+	<formatString id="FSID.UI.UI2DDecisionPointAllianceOfferPreApproval.Desc" value="Signing this treaty will ally us with all members of the @ToCountryNationAdjective@ alliance and put us at war with all @ToCountryNationAdjective@ enemies."/>
+	
+	<!-- UI2DDecisionPointAllianceOfferSingleTo -->
+	<string id="SID.UI.UI2DDecisionPointAllianceOfferSingleTo.UI2DSpecialFeedbackTitle.Title" value="ALLIANCE OFFER"/>
+	<formatString id="FSID.UI.UI2DDecisionPointAllianceOfferSingleTo.UI2DSpecialFeedbackTitle.Desc" value="@FromCountry@ has sent a treaty offering our Nation an Alliance."/>
+	<formatString id="FSID.UI.UI2DDecisionPointAllianceOfferSingleTo.Desc" value="Signing this treaty will ally us with all members of the @FromCountryNationAdjective@ alliance and put us at war with all @FromCountryNationAdjective@ enemies."/>
+	
+	<!-- UI2DDecisionPointAllianceOfferMultiTo -->
+	<string id="SID.UI.UI2DDecisionPointAllianceOfferMultiTo.UI2DSpecialFeedbackTitle.Title" value="ALLIANCE OFFER"/>
+	<formatString id="FSID.UI.UI2DDecisionPointAllianceOfferMultiTo.UI2DSpecialFeedbackTitle.Desc" value="@FromCountry@ has sent a treaty offering our Nation an Alliance."/>
+	<formatString id="FSID.UI.UI2DDecisionPointAllianceOfferMultiTo.Desc" value="Signing this treaty will ally us with all members of the @FromCountryNationAdjective@ alliance and put us at war with all @FromCountryNationAdjective@ enemies."/>
+	
+	<!-- UI2DAllianceOfferAlliesEnemies -->
+	<formatString id="FSID.UI.UI2DAllianceOfferAlliesEnemies.Title" value="@CountryGovPossessive@ Alliance"/>
+	<string id="SID.UI.UI2DAllianceOfferAlliesEnemies.Desc" value="Current Allies"/>
+	<string id="SID.UI.UI2DAllianceOfferAlliesEnemies.EnemiesTitle" value="Enemies"/>
+	<formatString id="FSID.UI.UI2DAllianceOfferAlliesEnemies.EnmeiesDesc" value="Nations @CountryName@ is at war with"/>
+	
+	<!-- UI2DSpecialFeedbackAllianceList -->
+	<string id="SID.UI.UI2DSpecialFeedbackAllianceList.Title" value="Allies Of"/>
+	
+	<!-- UI2DSpecialFeedbackEnemiesList -->
+	<string id="SID.UI.UI2DSpecialFeedbackEnemiesList.Title" value="Enemies Of"/>
+	
+<!-- UI2DDecisionPointJoinAllianceWar -->
+	<string id="SID.UI.UI2DDecisionPointJoinAllianceWar.UI2DSpecialFeedbackTitle.Title" value="WAR DECLARED"/>
+	<formatString id="FSID.UI.UI2DDecisionPointJoinAllianceWar.UI2DSpecialFeedbackTitle.OurAllianceDesc" value="Our Ally @DeclaringCountryName@ has declared war against @TargettedCountryName@"/>
+	<formatString id="FSID.UI.UI2DDecisionPointJoinAllianceWar.UI2DSpecialFeedbackTitle.ThierAllianceDesc" value="@DeclaringCountryName@ has declared war against our Ally @TargettedCountryName@"/>
+	<formatString id="FSID.UI.UI2DDecisionPointJoinAllianceWar.DeclaringCountryDesc" value="Rejecting this request will cause us to break our alliance with @DeclaringCountryName@"/>
+	<formatString id="FSID.UI.UI2DDecisionPointJoinAllianceWar.TargetCountryDesc" value="Rejecting this request will cause us to break our alliance with @TargettedCountryName@"/>
+
+<!-- UI2DDecisionPointPeaceOffer -->
+	<formatString id="FSID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceOfferPreApproval.Desc" value="Our Ally @TreatyFromCountry@ has drafted a Peace Offer to our Enemies:"/>	
+	<string id="SID.UI.UI2DDecisionPointJoinAllianceWar.UI2DDecisionPointPeaceOfferSingleMultiTo.Desc" value="We have received a Peace Offer from our Enemies"/>
+	
+	<!-- UI2DDecisionPointPeaceInfo -->
+	<formatString id="FSID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.ProposingCountryDemand" value="@Country@ Demands:"/>	
+	<formatString id="FSID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.ProposingCountryConcessions" value="@Country@ Offers these Concessions"/>	
+	<!-- Join Allinace -->
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.JoinAllianceTitle" value="Join Alliance"/>
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.JoinAllianceDesc" value="Cancel Defense Pacts and sign new Defense Pacts with our Alliance"/>
+	
+	<!-- Military Access -->
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.MilitaryAccessTitle" value="Military Access"/>
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.MilitaryAccessDesc" value="Allow Military Forces full access to your territory"/>
+		
+	<!-- Install a Friendly Government -->
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.InstallGovTitle" value="Install a Friendly Government"/>
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.InstallGovDesc" value="Replace Government"/>
+		
+	<!-- Cede Conquered Regions -->	
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.CedeRegionsTitle" value="Cede Conquered Regions"/>
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.CedeRegionsDescDemand" value="Lose Regions that have been Conquered"/>
+		<string id="SID.UI.UI2DDecisionPointPeaceOffer.UI2DDecisionPointPeaceInfo.CedeRegionsDescConcessions" value="Gain Regions you have Conquered"/>
+
+<!-- UI2DDecisionPointTerritorialTransfer -->
+	<string id="SID.UI.UI2DDecisionPointTerritorialTransfer.Title" value="TERRITORIAL TRANSFER"/>
+	<string id="SID.UI.UI2DDecisionPointTerritorialTransfer.Offering" value="Offering"/>
+	<string id="SID.UI.UI2DDecisionPointTerritorialTransfer.Requesting" value="Requesting"/>
+	<string id="SID.UI.UI2DDecisionPointTerritorialTransfer.RegionValueTotal" value="Region Value Total"/>
+	
+<!-- UI2DDecisionPointTrade -->
+	<!-- TradeOfferDecisionPointData -->
+	<string id="SID.UI.UI2DDecisionPointTrade.TradeOfferDecisionPointData.Title" value="TRADE OFFER"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeOfferDecisionPointData.Desc" value="@FromCountry@ is offering to sell us @ResourceName@"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeOfferDecisionPointData.ResourceTitle" value="@ResourceName@ Import Agreement"/>
+	
+	<!-- TradeRequestDecisionPointData -->
+	<string id="SID.UI.UI2DDecisionPointTrade.TradeRequestDecisionPointData.Title" value="TRADE REQUEST"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeRequestDecisionPointData.Desc" value="@FromCountry@ is offering to buy @ResourceName@ from us"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeRequestDecisionPointData.ResourceTitle" value="@ResourceName@ Export Agreement"/>
+
+	<!-- TradeAidDecisionPointData -->
+	<string id="SID.UI.UI2DDecisionPointTrade.TradeAidDecisionPointData.TitleRequest" value="AID REQUEST"/>
+	<string id="SID.UI.UI2DDecisionPointTrade.TradeAidDecisionPointData.TitleOffer" value="AID OFFER"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeAidDecisionPointData.DescRequest" value="@FromCountry@ has sent us an Aid Request"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeAidDecisionPointData.DescOffer" value="@FromCountry@ has sent us an Aid Offer"/>
+	<formatString id="FSID.UI.UI2DDecisionPointTrade.TradeAidDecisionPointData.ResourceTitle" value="@ResourceName@ Aid Agreement"/>
+	
+	<!-- UI2DTradeDecisionPointResourceInfo -->
+	<string id="SID.UI.UI2DDecisionPointTrade.UI2DTradeDecisionPointResourceInfo.Unit" value="units"/>
+	<string id="SID.UI.UI2DDecisionPointTrade.UI2DTradeDecisionPointResourceInfo.TradeValue" value="Trade Value"/>
+
+<!-- CommonElements -->
+	<!-- DipRelTextLookup -->
+	<string id="SID.UI.DipRelTextLookup.strOutput.DIPLOMATIC_RELATIONS_STATE__VERY_CLOSE" value="Very Close"/>
+	<string id="SID.UI.DipRelTextLookup.strOutput.DIPLOMATIC_RELATIONS_STATE__GOOD" value="Good"/>
+	<string id="SID.UI.DipRelTextLookup.strOutput.DIPLOMATIC_RELATIONS_STATE__STABLE" value="Stable"/>
+	<string id="SID.UI.DipRelTextLookup.strOutput.DIPLOMATIC_RELATIONS_STATE__POOR" value="Poor"/>
+	<string id="SID.UI.DipRelTextLookup.strOutput.DIPLOMATIC_RELATIONS_STATE__TERRIBLE" value="Terrible"/>
+	<string id="SID.UI.DipRelTextLookup.strOutput.ERROR" value="Unknown Relation"/>
+	
+	<!-- NumberSuffix -->
+	<string id="SID.UI.NumberSuffix.strOutput.th" value="th"/>
+	<string id="SID.UI.NumberSuffix.strOutput.st" value="st"/>
+	<string id="SID.UI.NumberSuffix.strOutput.nd" value="nd"/>
+	<string id="SID.UI.NumberSuffix.strOutput.rd" value="rd"/>
+	
+	<!-- ProductionCompletionRate -->
+	<formatString id="FSID.UI.ProductionCompletionRate.strOutput.UnitsPerTurn" value="@UnitsPerTurn@ per Turn"/>
+	<formatString id="FSID.UI.ProductionCompletionRate.strOutput.TurnsToFinish" value="@TurnsToFinish@ Turn(s)"/>
+	
+<!-- UI2DIndustrialProductionSuppliesRow -->
+	<string id="SID.UI.UI2DIndustrialProductionSuppliesRow.Title.Stockpile" value="Stockpile"/>
+	<string id="SID.UI.UI2DIndustrialProductionSuppliesRow.Title.Producing" value="Producing"/>
+	<string id="SID.UI.UI2DIndustrialProductionSuppliesRow.Title.Trade" value="Trade"/>
+	<string id="SID.UI.UI2DIndustrialProductionSuppliesRow.Title.Demand" value="Demand"/>
+
+<!-- UI2DMiniMap -->
+	<string id="SID.UI.UI2DMEMap.Button.Operational" value="Operational"/>
+	<string id="SID.UI.UI2DMEMap.Button.WorldSummary" value="World Summary"/>
+	<string id="SID.UI.UI2DMEMap.Button.Diplomatic" value="Diplomatic"/>
+	<string id="SID.UI.UI2DMEMap.Button.Ideology" value="Ideology"/>
+	<string id="SID.UI.UI2DMEMap.Button.Trade" value="Trade"/>
+	<string id="SID.UI.UI2DMEMap.Button.InSupply" value="In Supply"/>
+
+<!-- UI2DTopBar -->
+	<formatString id="FSID.UI.UI2DTopBar.Turns" value="Turn @CurrentTurn@ of @ScenarioDuration@"/>
+	
+<!-- UI2DEventNotification -->
+	<string id="SID.UI.UI2DEventNotification.OK" value="OK"/>
+	
+<!-- UI2DEventNotificationInfoResearchComplete -->
+	<string id="SID.UI.UI2DEventNotificationInfoResearchComplete.strDesc" value="Our R &amp; D Teams have finished a project"/>
+	<string id="SID.UI.UI2DEventNotificationInfoResearchComplete.strButtonText" value="OK"/>
+
+<!-- UI2DEventNotificationInfoPlayerLeaveGame -->
+	<string id="SID.UI.UI2DEventNotificationInfoPlayerLeaveGame.strButtonText" value="OK"/>
+	
+<!-- UI2DEventNotificationInfoResearchBreakthrough -->
+	<string id="SID.UI.UI2DEventNotificationInfoResearchBreakthrough.strDesc" value="Your investment in technology research pays off.&#010;Advancements are made."/>
+	<string id="SID.UI.UI2DEventNotificationInfoResearchBreakthrough.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoResearchBreakthrough.MoreInfo" value="Adding @Points@ Point(s) to the completion of @ProjectDisplayName@"/>
+
+<!-- UI2DEventNotificationInfoResearchSetback -->
+	<string id="SID.UI.UI2DEventNotificationInfoResearchSetback.strDesc" value="Important progress has been lost on a research project"/>
+	<string id="SID.UI.UI2DEventNotificationInfoResearchSetback.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoResearchSetback.MoreInfo" value="Subtracting @Points@ Point(s) from the completion of @ProjectDisplayName@"/>
+
+<!-- UI2DEventNotificationInfoProducerExpand -->
+	<string id="SID.UI.UI2DEventNotificationInfoProducerExpand.Title" value="Resource Found"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoProducerExpand.strDesc" value="New @ProducerType@ reserves expand production"/>
+	<string id="SID.UI.UI2DEventNotificationInfoProducerExpand.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoProducerExpand.MoreInfo" value="Adding @Points@ to Base Output Rate&#010;in @Producer@"/>
+	
+<!-- UI2DEventNotificationInfoProducerShrink -->
+	<string id="SID.UI.UI2DEventNotificationInfoProducerShrink.Title" value="Supply Source Exhausted"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoProducerShrink.strDesc" value="@ProducerType@ output reduced"/>
+	<string id="SID.UI.UI2DEventNotificationInfoProducerShrink.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoProducerShrink.MoreInfo" value="Subtracting @Points@ from Base Output Rate&#010;in @Producer@"/>
+	
+<!-- UI2DEventNotificationInfoWorkerMoraleHigh -->
+	<string id="SID.UI.UI2DEventNotificationInfoWorkerMoraleHigh.strDesc" value="Our workers are happy &amp; well supplied"/>
+	<string id="SID.UI.UI2DEventNotificationInfoWorkerMoraleHigh.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoWorkerMoraleHigh.MoreInfo" value="Each of our cities will produce @Points@&#010;additional IPUs this turn"/>
+
+<!-- UI2DEventNotificationInfoWorkerMoraleLow -->
+	<string id="SID.UI.UI2DEventNotificationInfoWorkerMoraleLow.strDesc" value="Worker morale is low due to supply shortages"/>
+	<string id="SID.UI.UI2DEventNotificationInfoWorkerMoraleLow.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoWorkerMoraleLow.MoreInfo" value="Each of our cities will produce @Points@&#010;fewer IPUs this turn"/>
+
+<!-- UI2DEventNotificationInfoGenericIndependenceGrantedPlayerDeclaring -->
+	<string id="SID.UI.UI2DEventNotificationInfoGenericIndependenceGrantedPlayerDeclaring.strButtonText" value="OK"/>
+	
+<!-- UI2DEventNotificationInfoGenericIndependenceGrantedOther -->
+	<string id="SID.UI.UI2DEventNotificationInfoGenericIndependenceGrantedOther.strButtonText" value="OK"/>
+	
+<!-- UI2DEventNotificationInfoGenericIndependenceGrantedPlayerTargetted -->
+	<string id="SID.UI.UI2DEventNotificationInfoGenericIndependenceGrantedPlayerTargetted.strButtonText" value="OK"/>
+
+<!-- UI2DEventNotificationInfoGenericCityNukedAttacker -->
+	<string id="SID.UI.UI2DEventNotificationInfoGenericCityNukedAttacker.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoGenericCityNukedAttacker.MoreInfo" value="We have destroyed @City@"/>
+
+<!-- UI2DEventNotificationInfoGenericCityNukedDefender -->	
+	<string id="SID.UI.UI2DEventNotificationInfoGenericCityNukedDefender.strButtonText" value="OK"/>
+	<formatString id="FSID.UI.UI2DEventNotificationInfoGenericCityNukedDefender.MoreInfo" value="@City@ has been destroyed by @Attacker@"/>
+
+<!-- UI2DEventNotificationInfoGenericCityNukedDefault -->
+	<string id="SID.UI.UI2DEventNotificationInfoGenericCityNukedDefault.strButtonText" value="OK"/>
+
+<!-- UI2DEventNotificationLiberate-->
+	<string id="SID.UI.UI2DEventNotificationLiberate.strButtonText" value="OK"/>
+	
+<!-- UI2DEventNotificationLiberateCountryInfo -->
+	<string id="SID.UI.UI2DEventNotificationLiberateCountryInfo.Population" value="Population"/>
+	<string id="SID.UI.UI2DEventNotificationLiberateCountryInfo.Points" value="Points"/>
+	<string id="SID.UI.UI2DEventNotificationLiberateCountryInfo.Regions" value="Regions"/>
+
+<!-- TreatyNotificationBigUIDisplayPeace -->
+	<string id="SID.UI.TreatyNotificationBigUIDisplayPeace.Title" value="Peace Offer Fails"/>
+	<string id="SID.UI.TreatyNotificationBigUIDisplayPeace.Desc1" value="Our Peace Proposal has Been Rejected"/>
+	<formatString id="FSID.UI.TreatyNotificationBigUIDisplayPeace.Desc2" value="Peace Proposal by @ProposedBy@ has Been Rejected"/>
+	<string id="SID.UI.TreatyNotificationBigUIDisplayPeace.ButtonText" value="the war continues"/>
+
+<!-- TreatyNotificationBigUIDisplayJoin -->
+	<string id="SID.UI.TreatyNotificationBigUIDisplayJoin.Title" value="Alliance Fails"/>
+	<string id="SID.UI.TreatyNotificationBigUIDisplayJoin.Desc1" value="Our Join Alliance Proposal has Been Rejected"/>
+	<formatString id="FSID.UI.TreatyNotificationBigUIDisplayJoin.Desc2" value="Join Alliance Proposal by @ProposedBy@ has Been Rejected"/>
+	<string id="SID.UI.TreatyNotificationBigUIDisplayJoin.ButtonText" value="ok"/>
+
+<!-- UI2DAllianceAcceptingCountryList -->	
+	<string id="SID.UI.UI2DAllianceAcceptingCountryList.Title" value="Accepting Countries"/>
+	
+<!-- UI2DAllianceRejectingCountryList -->
+	<string id="SID.UI.UI2DAllianceRejectingCountryList.Title" value="Rejecting Countries"/>
+
+<!-- UI2DLobby -->
+	<!-- MainMenu -->
+		<string id="SID.UI.UI2DLobbyMainMenu.SinglePlayer" value="Single Player"/>
+		<string id="SID.UI.UI2DLobbyMainMenu.Multiplayer" value="Multiplayer"/>
+		<string id="SID.UI.UI2DLobbyMainMenu.Tutorial" value="Tutorial"/>
+		<string id="SID.UI.UI2DLobbyMainMenu.LoadSavedGame" value="Load Saved Game"/>
+		<string id="SID.UI.UI2DLobbyMainMenu.Options" value="Options"/>
+		<string id="SID.UI.UI2DLobbyMainMenu.Credits" value="Credits"/>
+		<string id="SID.UI.UI2DLobbyMainMenu.Exit" value="Exit"/>
+	
+	<!-- SinglePlayerChooseScenario -->
+		<string id="SID.UI.UI2DLobbySinglePlayerChooseScenario.LoadScenario" value="Load Scenario"/>
+		<string id="SID.UI.UI2DLobbySinglePlayerChooseScenario.Back" value="Back"/>
+		<string id="SID.UI.UI2DLobbySinglePlayerChooseScenario.ChooseScenario" value="Choose Scenario"/>
+		<string id="SID.UI.UI2DLobbySinglePlayerChooseScenario.ScenarioDescription" value="Scenario Description"/>
+		<formatString id="FSID.UI.UI2DLobbySinglePlayerChooseScenario.StartDate" value="Start Date: @StartDate@"/>
+		<formatString id="FSID.UI.UI2DLobbySinglePlayerChooseScenario.EndDate" value="End Date: @EndDate@"/>
+		<string id="SID.UI.UI2DLobbySinglePlayerChooseScenario.GameName" value="Game Name"/>
+	
+	<!-- UI2DLobbyMultiPlayer -->
+		<string id="SID.UI.UI2DLobbyMultiPlayer.HostNew" value="Host New"/>
+		<string id="SID.UI.UI2DLobbyMultiPlayer.Join" value="Join"/>
+		<string id="SID.UI.UI2DLobbyMultiPlayer.GameServer" value="Game Server"/>
+		<string id="SID.UI.UI2DLobbyMultiPlayer.Back" value="Back"/>
+		
+	<!-- UI2DLobbyChooseCountryMultiPlayer -->
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.ScenarioOptions" value="Scenario Options"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.Select" value="Select"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.Cancel" value="Cancel"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.StartGame" value="Start Game"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.Watch" value="Watch"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryMultiPlayer.Back" value="Back"/>
+	
+	<!-- UI2DLobbyChooseCountrySinglePlayer -->
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.ScenarioOptions" value="Scenario Options"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.StartGame" value="Start Game"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.Back" value="Back"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayer.Change" value="CHANGE"/>
+	
+	<!-- UI2DLobbyChooseCountrySinglePlayerLoadGame -->
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayerLoadGame.ScenarioOptions" value="Scenario Options"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayerLoadGame.StartGame" value="Start Game"/>
+		<string id="SID.UI.UI2DLobbyChooseCountrySinglePlayerLoadGame.Back" value="Back"/>
+	
+	<!-- UI2DLobbyChooseCountryWalkThrough -->
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.StartGame" value="Start Game"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.ScenarioOptions" value="Scenario Options"/>
+		<string id="SID.UI.UI2DLobbyChooseCountryWalkThrough.Back" value="Back"/>
+	
+	<!-- UI2DLobbyChooseServer -->
+		<string id="SID.UI.UI2DLobbyChooseServer.StartGame" value="Start Game"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.AddServer" value="Add Server"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.JoinGame" value="Join Game"/>
+		<string id="SID.UI.UI2DLobbyChooseServer.Back" value="Back"/>
+	
+	<!-- UI2DLobbyGameServer -->
+		<string id="SID.UI.UI2DLobbyGameServer.Back" value="Back"/>
+		<string id="SID.UI.UI2DLobbyGameServer.CreateNewGame" value="Create New Game"/>
+		<string id="SID.UI.UI2DLobbyGameServer.LoadGame" value="Load Game"/>
+		
+		<string id="SID.UI.UI2DLobbyGameServer.ScenarioOptions" value="Scenario Options"/>
+		<string id="SID.UI.UI2DLobbyGameServer.Start" value="Start"/>
+		<string id="SID.UI.UI2DLobbyGameServer.Stop" value="Stop"/>
+		<string id="SID.UI.UI2DLobbyGameServer.Watch" value="Watch"/>
+	
+	<!-- UI2DLobbyLoadGame -->
+		<string id="SID.UI.UI2DLobbyLoadGame.Title" value="Saved Games"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.TurnToLoadOn" value="Load On Turn"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.LoadScenario" value="Load Scenario"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.DeleteGame" value="Delete Game"/>
+		<string id="SID.UI.UI2DLobbyLoadGame.Back" value="Back"/>
+	
+	<!-- UI2DLobbyLoadSavedGame -->
+		<string id="SID.UI.UI2DLobbyLoadSavedGame.SinglePlaye" value="Load Single Player"/>
+		<string id="SID.UI.UI2DLobbyLoadSavedGame.Multiplayer" value="Load Multiplayer"/>
+		<string id="SID.UI.UI2DLobbyLoadSavedGame.Walkthrough" value="Walkthrough"/>
+		<string id="SID.UI.UI2DLobbyLoadSavedGame.Back" value="Back"/>
+		
+	<!-- UI2DLobbyCredits -->	
+		<string id="SID.UI.UI2DLobbyCredits.Back" value="Back"/>
+		<string id="SID.UI.UI2DLobbyCredits.Title" value="Credits"/>
+	
+	<!-- UI2DLobbyOptionsSystem -->	
+		<string id="SID.UI.UI2DLobbyOptionsSystem.SystemOptions" value="SYSTEM OPTIONS"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.NetworkSettings" value="NETWORK SETTINGS"/>
+		
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Shadows" value="Shadows"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Smoke" value="Smoke"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.UnitModels" value="Unit Models"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.SoundEffects" value="Sound Effects"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Music" value="Music"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.ScreenResolution" value="Screen Resolution"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Fullscreen" value="Fullscreen"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.GraphicsPerformance" value="Graphic Performance"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.PlayerName" value="Player Name"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.RequiresGameRestart" value="Requires Game Restart"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.SaveChanges" value="Save Changes"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Cancel" value="Cancel"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.KeepAlive" value="Keep Alive"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.sec" value=" sec"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.TimeOut" value="Time Out"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Retransmits" value="Retransmits"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Timeslice" value="Timeslice"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.Window" value="Window"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.BundleSize" value="Bundle Size"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.BundleDelay" value="Bundle Delay"/>
+		<string id="SID.UI.UI2DLobbyOptionsSystem.SelectSavedNames" value="Select Saved Names"/>
+		
+	<!-- UI2DLobbyOptionsScenario -->	
+		<string id="SID.UI.UI2DLobbyOptionsScenario.TurnTimer" value="Turn Timer"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.FullTurnTimer" value="Full Turn Timer"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.DominationVictory" value="Domination Victory"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.SaveTurnHistory" value="Save Turn History"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.Fogging" value="Fogging"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.Autosave" value="Autosave"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.DifficultyLevel" value="Difficulty Level"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.VictoryConditions" value="Victory Conditions"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.SaveChanges" value="Save Changes"/>
+		<string id="SID.UI.UI2DLobbyOptionsScenario.Cancel" value="Cancel"/>
+	
+	<!-- UI2DMainMenu -->
+		<string id="SID.UI.UI2DMainMenu.ResumeGame" value="Resume Game"/>
+		<string id="SID.UI.UI2DMainMenu.SaveGame" value="SaveGame"/>
+		<string id="SID.UI.UI2DMainMenu.Options" value="Options"/>
+		<string id="SID.UI.UI2DMainMenu.Reports" value="Reports"/>
+		<string id="SID.UI.UI2DMainMenu.QuiteGame" value="Quite Game"/>
+	
+	<!-- Enter Game -->
+		<string id="SID.UI.UI2DEnterGame.EnterGame" value="Enter Game"/>
+		
+	<!-- UI2DLobbySaveGame -->
+		<string id="SID.UI.UI2DLobbySaveGame.SaveGame" value="Save Game"/>
+		<string id="SID.UI.UI2DLobbySaveGame.Back" value="Back"/>
+		<string id="SID.UI.UI2DLobbySaveGame.SaveSuccessfully" value="* Game saved successfully"/>
+		<string id="SID.UI.UI2DLobbySaveGame.NOTSaveSuccessfully" value="* Game NOT saved successfully"/>
+		<string id="SID.UI.UI2DLobbySaveGame.SaveGameName" value="Save Game Name"/>
+		
+		<string id="SID.UI.UI2DLobbySaveGame.TLOP" value="TLOP"/>
+		<string id="SID.UI.UI2DLobbySaveGame.POA" value="POA"/>
+		<string id="SID.UI.UI2DLobbySaveGame.EOD" value="EOD"/>
+		<string id="SID.UI.UI2DLobbySaveGame.STEPS" value="STEPS"/>
+		<string id="SID.UI.UI2DLobbySaveGame.WAW" value="WAW"/>
+		<string id="SID.UI.UI2DLobbySaveGame.COW" value="COW"/>
+		
+	<!-- UI2DLobbyOptionsInGame -->
+		<string id="SID.UI.UI2DLobbyOptionsInGame.Shadows" value="Shadows"/>
+		<string id="SID.UI.UI2DLobbyOptionsInGame.SoundEffects" value="Sound Effects"/>
+		<string id="SID.UI.UI2DLobbyOptionsInGame.Smoke" value="Smoke"/>
+		<string id="SID.UI.UI2DLobbyOptionsInGame.Music" value="Music"/>
+		<string id="SID.UI.UI2DLobbyOptionsInGame.SaveChanges" value="Save Changes"/>
+		<string id="SID.UI.UI2DLobbyOptionsInGame.Cancel" value="Cancel"/>
+
+<!-- Report Builder -->
+	<string id="SID.UI.UI2DReportBuilder.Title.REPORTS" value="REPORTS"/>
+	<string id="SID.UI.UI2DReportBuilder.ReportInfo.TitleREPORT" value="REPORT:"/>
+	<string id="SID.UI.UI2DReportBuilder.ReportInfo.STATUS" value="STATUS"/>
+	<string id="SID.UI.UI2DReportBuilder.ReportInfo.ERROR" value="ERROR"/>
+	<string id="SID.UI.UI2DReportBuilder.ReportInfo.SavedIn" value="The report has been saved in:"/>
+	<string id="SID.UI.UI2DReportBuilder.ReportInfo.Run" value="Run"/>
+	<string id="SID.UI.UI2DReportBuilder.ReportInfo.Back" value="Back"/>
+
+<!-- UI2DEventNotificationInfoSurrender -->	
+	<formatString id="FSID.UI.UI2DEventNotificationInfoSurrender.Desc" value="has unconditionally surrendered to @Conquerors@"/>
+	<string id="SID.UI.UI2DEventNotificationInfoSurrender.Title.StockpilesGained" value="Stockpiles Gained"/>
+	<string id="SID.UI.UI2DEventNotificationInfoSurrender.Resource.units" value="units"/>
+
+<!-- UI2DPlayerDecisionLiberateCountryInfo -->	
+	<string id="SID.UI.UI2DPlayerDecisionLiberateCountryInfo.Title.Population" value="Population"/>
+	<string id="SID.UI.UI2DPlayerDecisionLiberateCountryInfo.Title.Points" value="Points"/>
+
+<!-- UI2DIndustrialProductionCompletedOrdersGOButton -->
+	<string id="SID.UI.UI2DIndustrialProductionCompletedOrdersGOButton.Title.Error" value="Not a City or a Region"/>
+
+<!-- Open Chat -->
+	<string id="SID.UI.OpenChat.Button.New" value="NEW"/>
+	<string id="SID.UI.OpenChat.Button.Close" value="CLOSE"/>
+	<string id="SID.UI.OpenChat.Button.Previous" value="PREVIOUS"/>
+	<string id="SID.UI.OpenChat.Button.Next" value="NEXT"/>
+	<string id="SID.UI.OpenChat.Button.ContactLeader" value=" CONTACT LEADER"/>
+
+<!-- UI2DDecisionPointMilAccess -->
+	<string id="SID.UI.UI2DDecisionPointMilAccess.Title" value="Military Access Treaty"/>
+	<string id="SID.UI.UI2DDecisionPointMilAccess.Desc" value="Treaty signers can move into &amp; through each others territory"/>
+
+<!-- UI2DEndGame -->
+	<string id="SID.UI.UI2DEndGame.Button.ExitToDesktop" value="Exit To Desktop"/>
+	<string id="SID.UI.UI2DEndGame.Button.QuitGame" value="Quit Game"/>
+	<string id="SID.UI.UI2DEndGame.Button.Back" value="Back"/>
+	<string id="SID.UI.UI2DEndGame.Button.KeepPlaying" value="Keep Playing"/>
+	<string id="SID.UI.UI2DEndGame.UI2DEndGameAlliancePowerScoring.TotalPoints" value="Total Points"/>
+	<string id="SID.UI.UI2DEndGame.UI2DEndGameIdeologyScoring.TotalPoints" value="Total Points"/>
+	
+	<string id="SID.UI.UI2DEndGame.Tab.WorldPower" value="World Power Scoring"/>
+	<string id="SID.UI.UI2DEndGame.Tab.AllianceScoring" value="Alliance Scoring"/>
+	<string id="SID.UI.UI2DEndGame.Tab.IdeologyScoring" value="Ideology Scoring"/>
+	
+<!-- UI2DLoading -->
+	<string id="SID.UI.UI2DLoading.Title.LoadingScenario" value="Loading Scenario"/>
+	<string id="SID.UI.UI2DLoading.Title.SavingGame" value="Saving Game"/>
+
+<!-- UI2DSlidingPanelCityProductionCenter -->
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.IndustrialProduction" value="Industrial Production"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.LandForces" value="Land Forces"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.AirForces" value="Air Forces"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Tab.NavalForces" value="Naval Forces"/>
+	
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.StartNewConfirmation" value="start new production"/>
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.CloseConfirmation" value="close"/>
+	
+	<string id="SID.UI.UI2DSlidingPanelCityProductionCenter.Button.cancel" value="cancel"/>
+
+<!-- Global -->
+	<string id="SID.UI.Global.NA" value="N/A"/>
+
+<!-- UI2DGameOverScenarioEndDateYouWin -->
+	<formatString id="FSID.UI.VictoryDefeat.UI2DGameOverScenarioEndDateYouWin.Text" value="@Phrase@ ended the game with the most power points"/>
+	
+</stringTable>

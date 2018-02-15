@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+
+	<string id="SID.Feedback.GENERIC_LeaveAlliance_PlayerAlliance.PopOut.Title" value="Nation Leaves Alliance"/>
+	<formatString id="FSID.Feedback.GENERIC_LeaveAlliance_PlayerAlliance.PopOut.Desc" value="@CountryLeaving@ has left our alliance"/>
+
+	<string id="SID.Feedback.GENERIC_LeaveAlliance_PlayerWarWithAlliance.PopOut.Title" value="Nation Leaves Alliance"/>
+	<formatString id="FSID.Feedback.GENERIC_LeaveAlliance_PlayerWarWithAlliance.PopOut.Desc" value="@CountryLeaving@ has left the @AllianceName@"/>
+
+	<string id="SID.Feedback.GENERIC_LeaveAlliance_Other.PopOut.Title" value="Alliance Breaks"/>
+	<formatString id="FSID.Feedback.GENERIC_LeaveAlliance_Other.PopOut.Desc" value="@CountryLeaving@ has left the @AllianceName@"/>
+	<formatString id="FSID.Feedback.GENERIC_LeaveAlliance_Other.End_of_Turn.Title" value="@CountryName@ has left the @AllianceName@"/>
+	
+	<string id="SID.Feedback.GENERIC_LeaveAlliance_PlayerCountry.End_of_Turn.Title" value="We have left our alliance"/>
+	
+	<string id="SID.Feedback.GENERIC_WarDeclareCountryToCountry_PlayerTargetted.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToCountry_PlayerTargetted.PopOut.Desc" value="@CountryDeclaring@ has declared war on us"/>
+	
+	<!-- GENERIC_LeaveAlliance_PlayerAlliance -->
+	<formatString id="FSID.Feedback.GENERIC_LeaveAlliance_PlayerAlliance.End_of_Turn.Title" value="@CountryName@ has left our alliance"/>
+	
+	<!-- GENERIC_WarDeclareCountryToCountry_Other -->
+	<string id="SID.Feedback.GENERIC_WarDeclareCountryToCountry_Other.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToCountry_Other.PopOut.Desc" value="@CountryDeclaring@ has declared war on @CountryTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareCountryToCountry_PlayerDeclaring -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToCountry_PlayerDeclaring.End_of_Turn.Title" value="We have declared war on @CountryTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareCountryToCountry_PlayerTargetted -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToCountry_PlayerTargetted.End_of_Turn.Title" value="@CountryDeclaringName@ has declared war on us"/>
+	
+	<!-- GENERIC_WarDeclareCountryToCountry_Other -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToCountry_Other.End_of_Turn.Title" value="@CountryDeclaring@ has declared war on @CountryTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToAlliance_PlayerAllianceTargetted -->
+	<string id="SID.Feedback.GENERIC_WarDeclareAllianceToAlliance_PlayerAllianceTargetted.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToAlliance_PlayerAllianceTargetted.PopOut.Desc" value="The @AllianceDeclaring@ has declared war on our alliance"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToAlliance_Other -->
+	<string id="SID.Feedback.GENERIC_WarDeclareAllianceToAlliance_Other.PopOut.Title" value="War Has Begun"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToAlliance_Other.PopOut.Desc" value="The @AllianceDeclaring@ has declared war on the @AllianceTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToAlliance_PlayerAllianceDeclaring -->
+	<formatString id="FSID.Feedback.FSID.Feedback.GENERIC_WarDeclareAllianceToAlliance_Other.End_of_Turn.Title.End_of_Turn.Title" value="Our alliance has declared war on the @AllianceTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToAlliance_PlayerAllianceTargetted -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToAlliance_PlayerAllianceTargetted.End_of_Turn.Title" value="The @AllianceDeclaring@ has declared war on our alliance"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToAlliance_Other -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToAlliance_Other.End_of_Turn.Title" value="The @AllianceDeclaring@ has declared war on the @AllianceTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToCountry_PlayerTargetted -->
+	<string id="SID.Feedback.GENERIC_WarDeclareAllianceToCountry_PlayerTargetted.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToCountry_PlayerTargetted.PopOut.Title" value="The @AllianceDeclaring@ has declared war on us"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToCountry_Other -->
+	<string id="SID.Feedback.GENERIC_WarDeclareAllianceToCountry_Other.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToCountry_Other.PopOut.Title" value="The @AllianceDeclaring@ has declared war on @CountryTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToCountry_PlayerAllianceDeclaring -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToCountry_PlayerAllianceDeclaring.End_of_Turn.Title" value="Our alliance has declared war on @CountryTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToCountry_PlayerTargetted -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToCountry_PlayerTargetted.End_of_Turn.Title" value="The @AllianceDeclaring@ has declared war on us"/>
+	
+	<!-- GENERIC_WarDeclareAllianceToCountry_Other -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareAllianceToCountry_Other.End_of_Turn.Title" value="The @AllianceDeclaring@ has declared war on @CountryTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareCountryToAlliance_PlayerAllianceTargetted -->
+	<string id="SID.Feedback.GENERIC_WarDeclareCountryToAlliance_PlayerAllianceTargetted.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToAlliance_PlayerAllianceTargetted.PopOut.Title" value="@CountryDeclaring@ has declared war on our alliance"/>
+	
+	<!-- GENERIC_WarDeclareCountryToAlliance_Other -->
+	<string id="SID.Feedback.GENERIC_WarDeclareCountryToAlliance_Other.PopOut.Title" value="War Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToAlliance_Other.PopOut.Title" value="@CountryDeclaring@ has declared war on the @AllianceTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareCountryToAlliance_PlayerDeclaring -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToAlliance_PlayerDeclaring.End_of_Turn.Title" value="We have declared war on the @AllianceTargetted@"/>
+	
+	<!-- GENERIC_WarDeclareCountryToAlliance_PlayerAllianceTargetted -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToAlliance_PlayerAllianceTargetted.End_of_Turn.Title" value="@CountryDeclaring@ has declared war on our alliance"/>
+	
+	<!-- GENERIC_WarDeclareCountryToAlliance_Other -->
+	<formatString id="FSID.Feedback.GENERIC_WarDeclareCountryToAlliance_Other.End_of_Turn.Title" value="@CountryDeclaring@ has declared war on the @AllianceTargetted@"/>
+	
+	<!-- GENERIC_FormAlliance_Personal -->
+	<string id="SID.Feedback.GENERIC_FormAlliance_Personal.PopOut.Title" value="Our Alliance Forms"/>
+	<formatString id="FSID.Feedback.GENERIC_FormAlliance_Personal.PopOut.Title" value="We have formed the @Alliance@ with @Country@"/>
+	
+	<!-- GENERIC_FormAlliance_Enemies -->
+	<string id="SID.Feedback.GENERIC_FormAlliance_Enemies.PopOut.Title" value="New Alliance Forms"/>
+	<formatString id="FSID.Feedback.GENERIC_FormAlliance_Enemies.PopOut.Title" value="Our enemies, @CountryA@ and @CountryB@ have formed the @Alliance@"/>
+	
+	<!-- GENERIC_FormAlliance_Other -->
+	<string id="SID.Feedback.GENERIC_FormAlliance_Other.PopOut.Title" value="Alliance Forms"/>
+	<formatString id="FSID.Feedback.GENERIC_FormAlliance_Other.PopOut.Title" value="@CountryA@ and @CountryB@ have formed the @Alliance@"/>
+	
+	<!-- GENERIC_FormAlliance_Personal -->
+	<formatString id="FSID.Feedback.GENERIC_FormAlliance_Personal.End_of_Turn.Title" value="We have formed the @Alliance@ with @Country@"/>
+	
+	<!-- GENERIC_FormAlliance_Other-->
+	<formatString id="FSID.Feedback.GENERIC_FormAlliance_Other.End_of_Turn.Title" value="@CountryA@ and @CountryB@ have formed the @Alliance@"/>
+	
+	<!-- GENERIC_JoinAlliance_PlayerJoining -->
+	<string id="SID.Feedback.GENERIC_JoinAlliance_PlayerJoining.PopOut.Title" value="Alliance Granted"/>
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_PlayerJoining.PopOut.Desc" value="We have joined the @Alliance@"/>
+	
+	<!-- GENERIC_JoinAlliance_CountryJoiningPlayerAlliance -->
+	<string id="SID.Feedback.GENERIC_JoinAlliance_CountryJoiningPlayerAlliance.PopOut.Title" value="Nation joins Alliance"/>
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_CountryJoiningPlayerAlliance.PopOut.Desc" value="@Country@ has joined our alliance"/>
+	
+	<!-- GENERIC_JoinAlliance_CountryJoiningEnemyAlliance -->
+	<string id="SID.Feedback.GENERIC_JoinAlliance_CountryJoiningEnemyAlliance.PopOut.Title" value="War Expands"/>
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_CountryJoiningEnemyAlliance.PopOut.Desc" value="@Country@ has joined the @Alliance@"/>
+	
+	<!-- GENERIC_JoinAlliance_Other -->
+	<string id="SID.Feedback.GENERIC_JoinAlliance_Other.PopOut.Title" value="Nation Joins Alliance"/>
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_Other.PopOut.Desc" value="@Country@ has joined the @Alliance@"/>
+	
+	<!-- GENERIC_JoinAlliance_PlayerJoining -->
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_PlayerJoining.End_of_Turn.Title" value="We have joined the @Alliance@"/>
+	
+	<!-- GENERIC_JoinAlliance_CountryJoiningPlayerAlliance -->
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_CountryJoiningPlayerAlliance.End_of_Turn.Title" value="@Country@ has joined our alliance"/>
+	
+	<!-- GENERIC_JoinAlliance_Other -->
+	<formatString id="FSID.Feedback.GENERIC_JoinAlliance_Other.End_of_Turn.Title" value="@Country@ has joined the @Alliance@"/>
+	
+	<!-- GENERIC_AllianceNameChange -->
+	<formatString id="FSID.Feedback.GENERIC_AllianceNameChange.End_of_Turn.Title" value="The @AllianceOldName@ is now known as the @AllianceNewName@"/>
+	
+	<!-- GENERIC_AllianceMerge_PlayerAlliance -->
+	<string id="SID.Feedback.GENERIC_AllianceMerge_PlayerAlliance.PopOut.Title" value="Alliances Merge"/>
+	<formatString id="FSID.Feedback.GENERIC_AllianceMerge_PlayerAlliance.PopOut.Desc" value="The @AllianceA@ has merged with the @AllianceB@ to form the greater @Alliance@"/>
+	
+	<!-- GENERIC_AllianceMerge_PlayerWarWithAlliance -->
+	<string id="SID.Feedback.GENERIC_AllianceMerge_PlayerWarWithAlliance.PopOut.Title" value="War Expands"/>
+	<formatString id="FSID.Feedback.GENERIC_AllianceMerge_PlayerWarWithAlliance.PopOut.Desc" value="The @AllianceA@ has merged with the @AllianceB@"/>
+	
+	<!-- GENERIC_AllianceMerge_Other -->
+	<string id="SID.Feedback.GENERIC_AllianceMerge_Other.PopOut.Title" value="Alliances Merge"/>
+	<formatString id="FSID.Feedback.GENERIC_AllianceMerge_Other.PopOut.Desc" value="The @AllianceA@ has merged with the @AllianceB@ to form the greater @Alliance@"/>
+	
+	<!-- GENERIC_AllianceMerge_PlayerAlliance -->
+	<formatString id="FSID.Feedback.GENERIC_AllianceMerge_PlayerAlliance.End_of_Turn.Title" value="The @AllianceA@ has merged with the @AllianceB@ to form the greater @Alliance@"/>
+	
+	<!-- GENERIC_AllianceMerge_Other -->
+	<formatString id="FSID.Feedback.GENERIC_AllianceMerge_Other.End_of_Turn.Title" value="@AllianceA@ and @AllianceB@ have merged to form the @Alliance@"/>
+	
+	<!-- GENERIC_AlliancePeaceMade_PlayerAllianceA -->
+	<string id="SID.Feedback.GENERIC_AlliancePeaceMade_PlayerAllianceA.PopOut.Title" value="Peace Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_AlliancePeaceMade_PlayerAllianceA.PopOut.Desc" value="Our alliance has made peace with the @AllianceB@"/>
+	
+	<!-- GENERIC_AlliancePeaceMade_PlayerAllianceB -->
+	<string id="SID.Feedback.GENERIC_AlliancePeaceMade_PlayerAllianceB.PopOut.Title" value="Peace Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_AlliancePeaceMade_PlayerAllianceB.PopOut.Desc" value="Our alliance has made peace with the @AllianceA@"/>
+	
+	<!-- GENERIC_AlliancePeaceMade_PlayerAllianceA -->
+	<formatString id="FSID.Feedback.GENERIC_AlliancePeaceMade_PlayerAllianceA.End_of_Turn.Title" value="Our alliance has made peace with the @AllianceB@"/>
+	
+	<!-- GENERIC_AlliancePeaceMade_PlayerAllianceB -->
+	<formatString id="FSID.Feedback.GENERIC_AlliancePeaceMade_PlayerAllianceB.End_of_Turn.Title" value="Our alliance has made peace with the @AllianceA@"/>
+	
+	<!-- GENERIC_AlliancePeaceMade_Other -->
+	<formatString id="FSID.Feedback.GENERIC_AlliancePeaceMade_Other.End_of_Turn.Title" value="The @AllianceA@ has made peace with the @AllianceB@"/>
+	
+	<!-- GENERIC_CountryAlliancePeaceMade_PlayerCountry -->
+	<string id="SID.Feedback.GENERIC_CountryAlliancePeaceMade_PlayerCountry.PopOut.Title" value="Peace Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_CountryAlliancePeaceMade_PlayerCountry.PopOut.Desc" value="We have made peace with the @Alliance@"/>
+	
+	<!-- GENERIC_CountryAlliancePeaceMade_PlayerAlliance -->
+	<string id="SID.Feedback.GENERIC_CountryAlliancePeaceMade_PlayerAlliance.PopOut.Title" value="Peace Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_CountryAlliancePeaceMade_PlayerAlliance.PopOut.Desc" value="Our alliance has made peace with @Country@"/>
+	
+	<!-- GENERIC_CountryAlliancePeaceMade_PlayerCountry -->
+	<formatString id="FSID.Feedback.GENERIC_CountryAlliancePeaceMade_PlayerCountry.End_of_Turn.Title" value="We have made peace with the @Alliance@"/>
+	
+	<!-- GENERIC_CountryAlliancePeaceMade_PlayerAlliance -->
+	<formatString id="FSID.Feedback.GENERIC_CountryAlliancePeaceMade_PlayerAlliance.End_of_Turn.Title" value="Our alliance has made peace with @Country@"/>
+	
+	<!-- GENERIC_CountryAlliancePeaceMade_Other -->
+	<formatString id="FSID.Feedback.GENERIC_CountryAlliancePeaceMade_Other.End_of_Turn.Title" value="@Country@ has made peace with the @Alliance@"/>
+	
+	<!-- GENERIC_CountryPeaceMade_PlayerCountryA -->
+	<string id="SID.Feedback.GENERIC_CountryPeaceMade_PlayerCountryA.PopOut.Title" value="Peace Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_CountryPeaceMade_PlayerCountryA.PopOut.Desc" value="We have made peace with @CountryB@"/>
+	
+	<!-- GENERIC_CountryPeaceMade_PlayerCountryB -->
+	<string id="SID.Feedback.GENERIC_CountryPeaceMade_PlayerCountryB.PopOut.Title" value="Peace Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_CountryPeaceMade_PlayerCountryB.PopOut.Desc" value="We have made peace with @CountryA@"/>
+	
+	<!-- GENERIC_CountryPeaceMade_PlayerCountryA -->
+	<formatString id="FSID.Feedback.GENERIC_CountryPeaceMade_PlayerCountryA.End_of_Turn.Title" value="We have made peace with @CountryB@"/>
+	
+	<!-- GENERIC_CountryPeaceMade_PlayerCountryB-->
+	<formatString id="FSID.Feedback.GENERIC_CountryPeaceMade_PlayerCountryB.End_of_Turn.Title" value="We have made peace with @CountryA@"/>
+	
+	<!-- GENERIC_CountryPeaceMade_Other -->
+	<formatString id="FSID.Feedback.GENERIC_CountryPeaceMade_Other.End_of_Turn.Title" value="@CountryA@ has made peace with @CountryB@"/>
+	
+	<!-- GENERIC_Embargo_PlayerTargetted -->
+	<string id="SID.Feedback.GENERIC_Embargo_PlayerTargetted.PopOut.Title" value="Embargo Declared"/>
+	<formatString id="FSID.Feedback.GENERIC_Embargo_PlayerTargetted.PopOut.Desc" value="@CountryDeclaring@ has declared an embargo on us"/>
+	
+	<!-- GENERIC_Embargo_PlayerDeclaring -->
+	<formatString id="FSID.Feedback.GENERIC_Embargo_PlayerDeclaring.End_of_Turn.Title" value="We have declared an embargo on @CountryTargetted@"/>
+	
+	<!-- GENERIC_Embargo_PlayerTargetted -->
+	<formatString id="FSID.Feedback.GENERIC_Embargo_PlayerTargetted.End_of_Turn.Title" value="@CountryDeclaring@ has declared an embargo on us"/>
+	
+	<!-- GENERIC_Embargo_Other -->
+	<formatString id="FSID.Feedback.GENERIC_Embargo_Other.End_of_Turn.Title" value="@CountryDeclaring@ has declared an embargo on @CountryTargetted@"/>
+	
+	<!-- GENERIC_CityNuked_Attacker -->
+	<string id="SID.Feedback.GENERIC_CityNuked_Attacker.PopOut.Title" value="Nuclear Attack"/>
+	
+	<!-- GENERIC_CityNuked_CityController -->
+	<string id="SID.Feedback.GENERIC_CityNuked_CityController.PopOut.Title" value="Nuclear Attack"/>
+	
+	<!-- GENERIC_CityNuked_CityOwner -->
+	<string id="SID.Feedback.GENERIC_CityNuked_CityOwner.PopOut.Title" value="Nuclear Attack"/>
+	
+	<!-- GENERIC_NukeCity_Attacker -->
+	<formatString id="FSID.Feedback.GENERIC_NukeCity_Attacker.End_of_Turn.Title" value="We have successfully dropped an atomic bomb on @City@"/>
+	
+	<!-- GENERIC_NukeCity_CityController -->
+	<formatString id="FSID.Feedback.GENERIC_NukeCity_CityController.End_of_Turn.Title" value="@City@ has been destroyed by an atomic bomb, dropped by @CountryAttacker@"/>
+	
+	<!-- GENERIC_NukeCity_CityOwner -->
+	<formatString id="FSID.Feedback.GENERIC_NukeCity_CityOwner.End_of_Turn.Title" value="@City@ has been destroyed by an atomic bomb, dropped by @CountryAttacker@"/>
+	
+	<!-- GENERIC_NukeCity_Default -->
+	<formatString id="FSID.Feedback.GENERIC_NukeCity_Default.End_of_Turn.Title" value="@City@ has been destroyed by an atomic bomb, dropped by @CountryAttacker@"/>
+	
+	<!-- GENERIC_IndependenceGranted_PlayerDeclaring -->
+	<string id="SID.Feedback.GENERIC_IndependenceGranted_PlayerDeclaring.PopOut.Title" value="Liberation"/>
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_PlayerDeclaring.PopOut.Desc" value="We have liberated @Country@"/>
+	
+	<!-- GENERIC_IndependenceGranted_PlayerTargetted -->
+	<string id="SID.Feedback.GENERIC_IndependenceGranted_PlayerTargetted.PopOut.Title" value="Liberation"/>
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_PlayerTargetted.PopOut.Desc" value="@Country@ has liberated us"/>
+	
+	<!-- GENERIC_IndependenceGranted_PlayerDeclaring -->
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_PlayerDeclaring.End_of_Turn.Title" value="We have liberated @Country@"/>
+	
+	<!-- GENERIC_IndependenceGranted_PlayerTargetted -->
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_PlayerTargetted.End_of_Turn.Title" value="@Country@ has liberated us"/>
+	
+	<!-- GENERIC_IndependenceGranted_Other -->
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_Other.End_of_Turn.Title" value="@CountryDeclaring@ has liberated @CountryTargetted@"/>
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_Other.PopOut.Title" value="New @GovType@ State"/>
+	<formatString id="FSID.Feedback.GENERIC_IndependenceGranted_Other.PopOut.Desc" value="@CountryDeclaring@ has established @CountryTargetted@"/>
+	
+	<!-- GENERIC_RestoredRegion_PlayerRestorer-->
+	<formatString id="FSID.Feedback.GENERIC_RestoredRegion_PlayerRestorer.End_of_Turn.Title" value="We have regained control of @Region@ from @CountryForfeiter@"/>
+	
+	<!-- GENERIC_RestoredRegion_PlayerForfeiter -->
+	<formatString id="FSID.Feedback.GENERIC_RestoredRegion_PlayerForfeiter.End_of_Turn.Title" value="We have lost control of @Region@ to @CountryRestorer@"/>
+	
+	<!-- GENERIC_RestoredRegion_Other -->
+	<formatString id="FSID.Feedback.GENERIC_RestoredRegion_Other.End_of_Turn.Title" value="@CountryRestorer@ has retaken @Region@ from @CountryForfeiter@"/>
+	
+	<!-- GENERIC_LiberatedRegion_PlayerLiberator -->
+	<formatString id="FSID.Feedback.GENERIC_LiberatedRegion_PlayerLiberator.End_of_Turn.Title" value="We have liberated @Region@ from @CountryForfeiter@ for @CountryOriginalController@"/>
+	
+	<!-- GENERIC_LiberatedRegion_PlayerOriginalController -->
+	<formatString id="FSID.Feedback.GENERIC_LiberatedRegion_PlayerOriginalController.End_of_Turn.Title" value="@CountryLiberator@ has returned @Region@ from @CountryForfeiter@ to us"/>
+	
+	<!-- GENERIC_LiberatedRegion_PlayerForfeiter -->
+	<formatString id="FSID.Feedback.GENERIC_LiberatedRegion_PlayerForfeiter.End_of_Turn.Title" value="We lost control of @Region@ to @CountryLiberator@ and it was returned to @CountryOriginalController@"/>
+	
+	<!-- GENERIC_LiberatedRegion_Other -->
+	<formatString id="FSID.Feedback.GENERIC_LiberatedRegion_Other.End_of_Turn.Title" value="@CountryLiberator@ has liberated @Region@ from @CountryForfeiter@ for @CountryOriginalController@"/>
+	
+	<!-- GENERIC__Restore_Original_Capital -->
+	<string id="SID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Choice.Move.Title" value="Move"/>
+	<formatString id="FSID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Choice.Move.Desc" value="Move back to @OriginalCapital@"/>
+	<string id="SID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Choice.Move.Effect" value="Return to your historic capital."/>
+	
+	<string id="SID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Choice.Stay.Title" value="Stay"/>
+	<formatString id="FSID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Choice.Stay.Desc" value="Stay in @Capital@"/>
+	<string id="SID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Choice.Stay.Effect" value="Remain in your current capital."/>
+	
+	<string id="SID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Title" value="Move Capital City"/>
+	<string id="SID.Feedback.GENERIC__Restore_Original_Capital.PopOut.Desc" value="The Nation's historic Capital City has been retaken"/>
+	
+	<!-- GENERIC__Lost_Homeland_Crisis -->
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Choice.OfferPeace.Title" value="Propose Peace"/>
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Choice.OfferPeace.Desc" value="Send peace treaties to your enemies."/>
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Choice.OfferPeace.Effect" value="Offer to cede your home territories.  In exchange, your country will survive, in territory outside your homeland, and current enemies will stop attacking you."/>
+	
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Choice.DoNothing.Title" value="Reject Peace"/>
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Choice.DoNothing.Desc" value="Continue fighting."/>
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Choice.DoNothing.Effect" value="You will continue all wars."/>
+	
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Title" value="All Home Territories Lost!"/>
+	<string id="SID.Feedback.GENERIC__Lost_Homeland_Crisis.PopOut.Desc" value="Your homeland has fallen.  Should you propose peace to all your enemies?"/>
+	
+	<!-- GENERIC_ResearchBreakthrough-->
+	<string id="SID.Feedback.GENERIC_ResearchBreakthrough.PopOut.Title" value="Research Advancements"/>
+	
+	<!-- GENERIC_ResearchSetback-->
+	<string id="SID.Feedback.GENERIC_ResearchSetback.PopOut.Title" value="Research Setbacks"/>
+	
+	<!-- GENERIC_WorkerMoraleHigh-->
+	<string id="SID.Feedback.GENERIC_WorkerMoraleHigh.PopOut.Title" value="Worker Productivity Boost"/>
+	
+	<!-- GENERIC_WorkerMoraleLow -->
+	<string id="SID.Feedback.GENERIC_WorkerMoraleLow.PopOut.Title" value="Production Slowdown"/>
+	
+	<!-- GENERIC_ArgentinaAxisEligibilityDecision-->
+	<string id="SID.Feedback.GENERIC_ArgentinaAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_ArgentinaAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_ArgentinaAxisEligibilityDecision.PopOut.Title" value="Argentina offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_ArgentinaAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_IraqAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_IraqAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_IraqAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_IraqAxisEligibilityDecision.PopOut.Title" value="Argentina offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_IraqAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_HungaryAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_HungaryAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_HungaryAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_HungaryAxisEligibilityDecision.PopOut.Title" value="Hungary offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_HungaryAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_RomaniaAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_RomaniaAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_RomaniaAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_RomaniaAxisEligibilityDecision.PopOut.Title" value="Romania offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_RomaniaAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_RomaniaAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_RomaniaAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_RomaniaAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_RomaniaAlliesEligibilityDecision.PopOut.Title" value="Romania offers Alliance to United Kingdom"/>
+	<string id="SID.Feedback.GENERIC_RomaniaAlliesEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_BulgariaAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_BulgariaAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_BulgariaAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_BulgariaAxisEligibilityDecision.PopOut.Title" value="Bulgaria offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_BulgariaAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_BulgariaAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_BulgariaAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_BulgariaAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_BulgariaAlliesEligibilityDecision.PopOut.Title" value="Bulgaria offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_BulgariaAlliesEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_YugoslaviaAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_YugoslaviaAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_YugoslaviaAxisEligibilityDecision.PopOut.Title" value="Yugoslavia offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_YugoslaviaAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_YugoslaviaAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_YugoslaviaAlliesEligibilityDecision.PopOut.Title" value="Yugoslavia offers Alliance to United Kingdom"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaAlliesEligibilityDecision.PopOut.Desc" value="As Allies power expands Nations choose sides"/>
+	
+	<!-- GENERIC_YugoslaviaCoupDecision-->
+	<string id="SID.Feedback.GENERIC_YugoslaviaCoupDecision.PopOut.Choice.OfferAlliance.Title" value="Break Alliance"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaCoupDecision.PopOut.Choice.DoNothing.Title" value="Remain Aligned"/>
+	
+	<string id="SID.Feedback.GENERIC_YugoslaviaCoupDecision.PopOut.Title" value="Yugoslavia leaves German Axis"/>
+	
+	<!-- GENERIC_YugoslaviaRevoltForGermanyDecision -->
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Choice.Invade.Title" value="Declare War"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Choice.Invade.Desc" value="Crush the Yugoslav uprising."/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Choice.Invade.Effect" value="You will not lose Yugoslavia without a fight.  Germany will declare war on Yugoslavia, destroy the Allied government, and reinstate the Fascist regime."/>
+	
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Choice.DoNothing.Title" value="Do Nothing"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Choice.DoNothing.Desc" value="Do not attack Yugoslavia."/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Choice.DoNothing.Effect" value="You regret the loss of Yugoslavia, but now you have more important battles to fight.  When you are ready, Germany can punish Yugoslavia."/>
+	
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Title" value="Yugoslav Revolt!"/>
+	<string id="SID.Feedback.GENERIC_YugoslaviaRevoltForGermanyDecision.PopOut.Desc" value="The pro-German regime in Yugoslavia has fallen!  An Allied-aligned government has risen to power.  How should Germany respond to this fallen ally?"/>
+	
+	<!-- GENERIC_FinlandAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_FinlandAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_FinlandAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_FinlandAxisEligibilityDecision.PopOut.Title" value="Finland offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_FinlandAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_FinlandAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_FinlandAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_FinlandAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_FinlandAlliesEligibilityDecision.PopOut.Title" value="Finland offers Alliance to United Kingdom"/>
+	<string id="SID.Feedback.GENERIC_FinlandAlliesEligibilityDecision.PopOut.Desc" value="As Allies power expands Nations choose sides"/>
+	
+	<!-- GENERIC_SpainAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_SpainAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_SpainAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_SpainAxisEligibilityDecision.PopOut.Title" value="Spain offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_SpainAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_TurkeyAxisEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_TurkeyAxisEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_TurkeyAxisEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_TurkeyAxisEligibilityDecision.PopOut.Title" value="Turkey offers Alliance to Germany"/>
+	<string id="SID.Feedback.GENERIC_TurkeyAxisEligibilityDecision.PopOut.Desc" value="As German power expands Nations choose sides"/>
+	
+	<!-- GENERIC_TurkeyAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_TurkeyAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_TurkeyAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_TurkeyAlliesEligibilityDecision.PopOut.Title" value="Turkey offers Alliance to United Kingdom"/>
+	<string id="SID.Feedback.GENERIC_TurkeyAlliesEligibilityDecision.PopOut.Desc" value="As Allies power expands Nations choose sides"/>
+	
+	<!-- GENERIC_PortugalAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_PortugalAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_PortugalAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_PortugalAlliesEligibilityDecision.PopOut.Title" value="Portugal offers Alliance to United Kingdom"/>
+	<string id="SID.Feedback.GENERIC_PortugalAlliesEligibilityDecision.PopOut.Desc" value="As Allies power expands Nations choose sides"/>
+	
+	<!-- GENERIC_BrazilAlliesEligibilityDecision -->
+	<string id="SID.Feedback.GENERIC_BrazilAlliesEligibilityDecision.PopOut.Choice.OfferAlliance.Title" value="Offer Alliance"/>
+	<string id="SID.Feedback.GENERIC_BrazilAlliesEligibilityDecision.PopOut.Choice.DoNothing.Title" value="Remain Neutral"/>
+	
+	<string id="SID.Feedback.GENERIC_BrazilAlliesEligibilityDecision.PopOut.Title" value="Brazil offers Alliance to United Kingdom"/>
+	<string id="SID.Feedback.GENERIC_BrazilAlliesEligibilityDecision.PopOut.Desc" value="As Allies power expands Nations choose sides"/>
+	
+	<!-- GENERIC_FranceLiberationDecision -->
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Choice.OfferSurrender.Title" value="Join Allies"/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Choice.OfferSurrender.Desc" value="Send treaty to the Allies."/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Choice.OfferSurrender.Effect" value="Offer to join the Allies and declare war against Germany.  If they accept your proposal, France will return to a Democratic government."/>
+	
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Choice.DoNothing.Title" value="Reject Alliance"/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Choice.DoNothing.Desc" value="Refuse to join the Allies."/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Choice.DoNothing.Effect" value="You refuse to rejoin the Allies.  France will remain their enemy."/>
+	
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Title" value="Rejoin the Allies?"/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationDecision.PopOut.Desc" value="The Allies, led by Britain, have successfully captured French territories.  Is the war turning in their favor?  Should you end your peace with Germany and join the Allies' side?"/>
+	
+	<!-- GENERIC_FranceLiberationForUnitedKingdomDecision -->
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Choice.OfferSurrender.Title" value="Accept Alliance"/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Choice.OfferSurrender.Desc" value="Agree to French request."/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Choice.OfferSurrender.Effect" value="Allied and French forces will stop fighting.  France will return to a Democratic government and will become a member of the Allies."/>
+	
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Choice.DoNothing.Title" value="Reject Alliance"/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Choice.DoNothing.Desc" value="Continue fighting."/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Choice.DoNothing.Effect" value="You refuse to accept this peace treaty.  France will remain an Allied enemy."/>
+	
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Title" value="French Alliance"/>
+	<string id="SID.Feedback.GENERIC_FranceLiberationForUnitedKingdomDecision.PopOut.Desc" value="France has sent a treaty asking to rejoin your alliance.  Should you accept this offer?"/>
+	
+	<!-- GENERIC_USSRNearDefeatDecision -->
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Choice.OfferSurrender.Title" value="Surrender"/>
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Choice.OfferSurrender.Desc" value="Offer peace treaty."/>
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Choice.OfferSurrender.Effect" value="Send a peace treaty offering your enemies ownership of conquered Soviet territories and military access through all Soviet regions."/>
+	
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Choice.DoNothing.Title" value="Reject Alliance"/>
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Choice.DoNothing.Desc" value="Continue fighting."/>
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Choice.DoNothing.Effect" value="You refuse to send these surrender terms.  Communism will prevail!  You will keep fighting."/>
+	
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Title" value="USSR near defeat!"/>
+	<string id="SID.Feedback.GENERIC_USSRNearDefeatDecision.PopOut.Desc" value="The Soviet Capital is occupied. Much of our territory is in the hands of the enemy. Is it time to seek Peace Terms?"/>
+	
+	<!-- GENERIC_ItalyNearDefeatDecision -->
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Choice.OfferSurrender.Title" value="Surrender"/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Choice.OfferSurrender.Desc" value="Offer peace treaty."/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Choice.OfferSurrender.Effect" value="Send a peace treaty offering your enemies: ownership of conquered Italian territories; military access through all Italian regions; and peace with a newly Democratic Italian government."/>
+	
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Choice.DoNothing.Title" value="Reject Peace"/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Choice.DoNothing.Desc" value="Continue fighting."/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Choice.DoNothing.Effect" value="You refuse to send these surrender terms.  You will keep fighting."/>
+	
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Title" value="Italy near defeat"/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatDecision.PopOut.Desc" value="Large tracts of Italian territory are now controlled by the enemy. If we offer to join them we could avoid the catastrophe of defeat."/>
+	
+	<!-- GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision -->
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Choice.AcceptTreaty.Title" value="Accept Alliance"/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Choice.AcceptTreaty.Desc" value="Agree to Italian request."/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Choice.AcceptTreaty.Effect" value="Allied and Italian forces will stop fighting.  Italy will become a Democratic government, cede occupied territory to the Allies, and join the Allies."/>
+	
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Choice.RejectTreaty.Title" value="Reject Alliance"/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Choice.RejectTreaty.Desc" value="Continue fighting."/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Choice.RejectTreaty.Effect" value="You refuse to accept this peace treaty.  Italy will remain an Allied enemy."/>
+	
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Title" value="Italian Alliance"/>
+	<string id="SID.Feedback.GENERIC_ItalyNearDefeatOfferForUnitedKingdomDecision.PopOut.Desc" value="Italy has sent a peace treaty and asked to join your alliance.  Should you accept this offer?"/>
+	
+	<!-- Generic_TreatyProposed_PreApproval_Alliance -->
+	<string id="SID.Feedback.Generic_TreatyProposed_PreApproval_Alliance.PopOut.Accept" value="Accept"/>
+	<string id="SID.Feedback.Generic_TreatyProposed_PreApproval_Alliance.PopOut.Reject" value="Reject"/>
+	
+	<!-- Generic_TreatyProposed_SingleTo_Alliance -->
+	<string id="SID.Feedback.Generic_TreatyProposed_SingleTo_Alliance.PopOut.Accept" value="Accept"/>
+	<string id="SID.Feedback.Generic_TreatyProposed_SingleTo_Alliance.PopOut.Reject" value="Reject"/>
+	
+	<!-- Generic_TreatyProposed_SingleTo_TerritorialTransfer-->
+	<string id="SID.Feedback.Generic_TreatyProposed_SingleTo_TerritorialTransfer.PopOut.Accept" value="Accept"/>
+	<string id="SID.Feedback.Generic_TreatyProposed_SingleTo_TerritorialTransfer.PopOut.Reject" value="Reject"/>
+	
+	<!-- GENERIC_CountrySurrender_PlayerInvolved -->
+	<formatString id="FSID.Feedback.GENERIC_CountrySurrender_PlayerInvolved.End_of_Turn.Title" value="@CountrySurrendered@ has surrendered to @TerritorialRecipients@"/>
+	
+	<!-- GENERIC_CountrySurrender_Other -->
+	<formatString id="FSID.Feedback.GENERIC_CountrySurrender_Other.End_of_Turn.Title" value="@CountrySurrendered@ has surrendered to @CountryTerritorialRecipients@"/>
+	
+	<!-- Treaty_Ratified -->
+	<string id="SID.Feedback.Treaty_Ratified.PopOut.Title" value="Treaty Ratified"/>
+	<formatString id="FSID.Feedback.Treaty_Ratified.PopOut.Desc1" value="@CountrySigners@ has ratified our Alliance Offer"/>
+	<formatString id="FSID.Feedback.Treaty_Ratified.PopOut.Desc2" value="@CountrySigners@ has ratified our @Treaty@"/>
+	
+	<!-- Treaty_Cancelled -->
+	<string id="SID.Feedback.Treaty_Cancelled.PopOut.Title" value="Treaty Cancelled"/>
+	<formatString id="FSID.Feedback.Treaty_Cancelled.PopOut.Desc1" value="@CountryCancelled@ has cancelled Alliance with @CountryOffered@ @OldAllies@"/>
+	<formatString id="FSID.Feedback.Treaty_Cancelled.PopOut.Desc2" value="@CountryCancelled@ has cancelled @Treaty@ with @CountryOffered@"/>
+	
+	<!-- Research_Complete -->
+	<string id="SID.Feedback.Research_Complete.PopOut.Title" value="Research Complete!"/>
+	<formatString id="FSID.Feedback.Research_Complete.PopOut.Desc" value="Your research into @ProjectName@ is a success!"/>
+	<formatString id="FSID.Feedback.Research_Complete.End_of_Turn.Title" value="We have completed @ProjectDisplayName@ research"/>
+	
+	<!-- Treaty_Rejected -->
+	<string id="SID.Feedback.Treaty_Rejected.PopOut.Title" value="Treaty Rejected"/>
+	<formatString id="FSID.Feedback.Treaty_Rejected.PopOut.Desc1" value="@CountryRejected@ has rejected our Alliance Offer"/>
+	<formatString id="FSID.Feedback.Treaty_Rejected.PopOut.Desc2" value="@CountryRejected@ has rejected our @Treaty@"/>
+	
+	<!-- Treaty_Ratified_PlayerRatified -->
+	<formatString id="FSID.Feedback.Treaty_Ratified_PlayerRatified.End_of_Turn.Title" value="We have ratified a @Treaty@  with @CountryOffered@"/>
+	
+	<!-- Treaty_Ratified_PlayerOffered -->
+	<formatString id="FSID.Feedback.Treaty_Ratified_PlayerOffered.End_of_Turn.Title" value="@CountryRatified@ has ratified a @Treaty@ with us"/>
+	
+	<!-- TreatyState_Cancelled_PlayerOffered -->
+	<formatString id="FSID.Feedback.TreatyState_Cancelled_PlayerOffered.End_of_Turn.Title" value="@CountryCancelled@ has cancelled our @TreatyType@"/>
+	
+	<!-- TreatyState_Cancelled_PlayerCancelled -->
+	<formatString id="FSID.Feedback.TreatyState_Cancelled_PlayerCancelled.End_of_Turn.Title" value="We have cancelled @CountryOfferedGovPossessive@ @TreatyType@"/>
+	
+	<!-- Trade_Increase -->
+	<formatString id="FSID.Feedback.Trade_Increase.End_of_Turn.Title1" value="@Resource@ exports to @ToCountry@ have increased by @Amount@"/>
+	<formatString id="FSID.Feedback.Trade_Increase.End_of_Turn.Title2" value="@Resource@ imports from @FromCountry@ have increased by @Amount@"/>
+	
+	<!-- Trade_Decrease -->
+	<formatString id="FSID.Feedback.Trade_Decrease.End_of_Turn.Title1" value="@Resource@ exports to @ToCountry@ have decreased by @Amount@"/>
+	<formatString id="FSID.Feedback.Trade_Decrease.End_of_Turn.Title2" value="@Resource@ imports from @FromCountry@ have decreased by @Amount@"/>
+ 	
+	<!-- Aid_Increase -->
+	<formatString id="FSID.Feedback.Aid_Increase.End_of_Turn.Title1" value="@Resource@ aid to @ToCountry@ has increased by @Amount@"/>
+	<formatString id="FSID.Feedback.Aid_Increase.End_of_Turn.Title2" value="@Resource@ aid from @FromCountry@ has increased by @Amount@"/>
+	
+	<!-- Aid_Decrease -->
+	<formatString id="FSID.Feedback.Aid_Decrease.End_of_Turn.Title1" value="@Resource@ aid to @ToCountry@ has decreased by @Amount@"/>
+	<formatString id="FSID.Feedback.Aid_Decrease.End_of_Turn.Title2" value="@Resource@ aid from @FromCountry@ has decreased by @Amount@"/>
+	
+	<!--- Trade_Defaulter -->
+	<formatString id="FSID.Feedback.Trade_Defaulter.End_of_Turn.Title" value="We failed to deliver @AmountShort@ @Resource@ to @ToCountry@  Exports reduced to @NewAmount@ per turn."/>
+	
+	<!-- Trade_Defaultee -->
+	<formatString id="FSID.Feedback.Trade_Defaultee.End_of_Turn.Title" value="@Resource@ imports from @FromCountry@ were short by @AmountShort@. Future imports reduced to @NewAmount@"/>
+	
+	<!-- Aid_Start -->
+	<formatString id="FSID.Feedback.Aid_Start.End_of_Turn.Title1" value="@Resource@ aid to @ToCountry@ has started at a rate of @Amount@ per turn"/>
+	<formatString id="FSID.Feedback.Aid_Start.End_of_Turn.Title2" value="@Resource@ aid from @FromCountry@ has started at a rate of @Amount@ per turn"/>
+	
+	<!-- Trade_Start -->
+	<formatString id="FSID.Feedback.Trade_Start.End_of_Turn.Title1" value="@Resource@ exports to @ToCountry@ have started at a rate of @Amount@ per turn"/>
+	<formatString id="FSID.Feedback.Trade_Start.End_of_Turn.Title2" value="@Resource@ imports from @FromCountry@ have started at a rate of @Amount@ per turn"/>
+	
+ 	<!-- Infrastructure_Complete -->
+ 	<formatString id="FSID.Feedback.Infrastructure_Complete.End_of_Turn.Title" value="@InfraType@ improvements have completed in @Region@"/>
+	
+	<!-- GENERIC_ConqueredRegion_PlayerConqueror -->
+	<formatString id="FSID.Feedback.GENERIC_ConqueredRegion_PlayerConqueror.End_of_Turn.Title" value="We have seized control of @Region@ from @OriginalController@"/>
+	
+	<!-- GENERIC_ConqueredRegion_PlayerConquered -->
+	<formatString id="FSID.Feedback.GENERIC_ConqueredRegion_PlayerConquered.End_of_Turn.Title" value="@CountryConqueror@ has seized control of @RegionConquered@"/>
+	
+	<!-- GENERIC_ConqueredRegion_Other -->
+	<formatString id="FSID.Feedback.GENERIC_ConqueredRegion_Other.End_of_Turn.Title" value="@CountryConqueror@ has seized control of @RegionConquered@ from @CountryOriginalController@"/>
+	
+	<!-- Resource_Shortage -->
+	<formatString id="FSID.Feedback.Resource_Shortage.End_of_Turn.Title" value="A resource shortage of @Amount@ @Resource@ slowed production"/>
+	
+	<!-- City_Upgraded -->
+	<formatString id="FSID.Feedback.City_Upgraded.End_of_Turn.Title" value="The industrial infrastructure of @City@ was upgraded to @IndustrialLevel@"/>
+	
+	<!-- GENERIC_DemocraticLiberateCountryDecision -->
+	<string id="SID.Feedback.GENERIC_DemocraticLiberateCountryDecision.PopOut.Title" value="Create Nation"/>
+	<formatString id="FSID.Feedback.GENERIC_DemocraticLiberateCountryDecision.PopOut.Desc" value="Create a @GovType@ @CandidateCountry@"/>
+	<string id="SID.Feedback.GENERIC_DemocraticLiberateCountryDecision.DoNothing.Title" value="Deny Independence"/>
+	<string id="SID.Feedback.GENERIC_DemocraticLiberateCountryDecision.DoNothing.Desc" value="We will retain total control."/>
+	<formatString id="FSID.Feedback.GENERIC_DemocraticLiberateCountryDecision.DisplayData.Title" value="Establish @GovType@ State?"/>
+	<formatString id="FSID.Feedback.GENERIC_DemocraticLiberateCountryDecision.DisplayData.Desc" value="Form a @Country@ national government and gain an Ally"/>
+	
+	<!-- GENERIC_CommunistLiberateCountryDecision -->
+	<string id="SID.Feedback.GENERIC_CommunistLiberateCountryDecision.PopOut.Title" value="Create Nation"/>
+	<formatString id="FSID.Feedback.GENERIC_CommunistLiberateCountryDecision.PopOut.Desc" value="Create a @GovType@ @CandidateCountry@"/>
+	<string id="SID.Feedback.GENERIC_CommunistLiberateCountryDecision.DoNothing.Title" value="Deny Independence"/>
+	<string id="SID.Feedback.GENERIC_CommunistLiberateCountryDecision.DoNothing.Desc" value="We will retain total control."/>
+	<formatString id="FSID.Feedback.GENERIC_CommunistLiberateCountryDecision.DisplayData.Title" value="Establish @GovType@ State?"/>
+	<formatString id="FSID.Feedback.GENERIC_CommunistLiberateCountryDecision.DisplayData.Desc" value="By taking control of @OriginalCapital@ we can create a @GovType@ State"/>
+	
+	<!-- GENERIC_FascistLiberateCountryDecision -->
+	<string id="SID.Feedback.GENERIC_FascistLiberateCountryDecision.PopOut.Title" value="Create Nation"/>
+	<formatString id="FSID.Feedback.GENERIC_FascistLiberateCountryDecision.PopOut.Desc" value="Create a @GovType@ @CandidateCountry@"/>
+	<string id="SID.Feedback.GENERIC_FascistLiberateCountryDecision.DoNothing.Title" value="Deny Independence"/>
+	<string id="SID.Feedback.GENERIC_FascistLiberateCountryDecision.DoNothing.Desc" value="We will retain total control."/>
+	<formatString id="FSID.Feedback.GENERIC_FascistLiberateCountryDecision.DisplayData.Title" value="Establish @GovType@ State?"/>
+	<formatString id="FSID.Feedback.GENERIC_FascistLiberateCountryDecision.DisplayData.Desc" value="Form a @Country@ national government and gain an Ally"/>
+	
+</stringTable>

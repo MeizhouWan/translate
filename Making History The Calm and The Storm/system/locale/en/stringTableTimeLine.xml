@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+	<string id="SID.TimeLine.Entry.Nuremburg_Laws.Title" value="Nuremburg Laws"/>
+	<string id="SID.TimeLine.Entry.Nuremburg_Laws.Desc" value="Formalizing the racial policies of its leaders Germany passes laws that limits German citizenship to non-Jews of Germanic blood."/>
+	<string id="SID.TimeLine.Entry.Gestapo_Law.Title" value="Gestapo Law"/>
+	<string id="SID.TimeLine.Entry.Gestapo_Law.Desc" value="The Gestapo, the German secret police force, gains supreme law enforcement powers throughout Germany."/>
+	<string id="SID.TimeLine.Entry.Germany_reoccupies_the_Rhineland.Title" value="Germany reoccupies the Rhineland"/>
+	<string id="SID.TimeLine.Entry.Germany_reoccupies_the_Rhineland.Desc" value="Germany marches a small number of troops into the demilitarized Rhineland, in violation of the Versailles Treaty."/>
+	<string id="SID.TimeLine.Entry.Italy_annexes_Ethiopia.Title" value="Italy annexes Ethiopia"/>
+	<string id="SID.TimeLine.Entry.Italy_annexes_Ethiopia.Desc" value="After seven months of battle, Italy defeats and annexes Ethiopia."/>
+	<string id="SID.TimeLine.Entry.Romany_sent_to_Dachau.Title" value="Romany sent to Dachau"/>
+	<string id="SID.TimeLine.Entry.Romany_sent_to_Dachau.Desc" value="Germany sends Romany to the concentration camp at Dachau, outside of Munich."/>
+	<string id="SID.TimeLine.Entry.Rebellion_in_Spain.Title" value="Rebellion in Spain"/>
+	<string id="SID.TimeLine.Entry.Rebellion_in_Spain.Desc" value="Soldiers stage a coup against the Spanish government, launching the Spanish Civil War."/>
+	<string id="SID.TimeLine.Entry.German_Air_Support_to_Spanish_Nationalists.Title" value="German Air Support to Spanish Nationalists"/>
+	<string id="SID.TimeLine.Entry.German_Air_Support_to_Spanish_Nationalists.Desc" value="Germany sends combat aircraft to aid the Nationalists in Spain. Over time, this would grow into the Condor Legion, a full-fledged German air force operating in support of the Nationalist cause."/>
+	<string id="SID.TimeLine.Entry.French_Non-Intervention_in_the_Spanish_Civil_War.Title" value="French Non-Intervention in the Spanish Civil War"/>
+	<string id="SID.TimeLine.Entry.French_Non-Intervention_in_the_Spanish_Civil_War.Desc" value="The French government announces a policy of non-intervention in the Spanish Civil War. France follows by closing the border to volunteers wanting to fight in Spain."/>
+	<string id="SID.TimeLine.Entry.German_Conscription.Title" value="German Conscription"/>
+	<string id="SID.TimeLine.Entry.German_Conscription.Desc" value="To expand the size of its military, Germany begins drafting soldiers for two-year terms."/>
+	<string id="SID.TimeLine.Entry.Japan_Issues_Secret_Demands.Title" value="Japan Issues Secret Demands"/>
+	<string id="SID.TimeLine.Entry.Japan_Issues_Secret_Demands.Desc" value="Tokyo demands that China allow Japan to &quot;advise&quot; the Chinese government. If China refuses Japanese control, Japan threatens invasion."/>
+	<string id="SID.TimeLine.Entry.Belgium_Cancels_Alliance_with_France.Title" value="Belgium Cancels Alliance with France"/>
+	<string id="SID.TimeLine.Entry.Belgium_Cancels_Alliance_with_France.Desc" value="Fearing a new European war, Belgium withdraws from its military pact with France and claims neutral status."/>
+	<string id="SID.TimeLine.Entry.Jews_Banned_from_Teaching_in_Germany.Title" value="Jews Banned from Teaching in Germany"/>
+	<string id="SID.TimeLine.Entry.Jews_Banned_from_Teaching_in_Germany.Desc" value="Germany bans Jews from teaching in public or private schools."/>
+	<string id="SID.TimeLine.Entry.Rome-Berlin_Axis.Title" value="Rome-Berlin Axis"/>
+	<string id="SID.TimeLine.Entry.Rome-Berlin_Axis.Desc" value="Germany and Italy form an alliance, primarily directed against Britain and France."/>
+	<string id="SID.TimeLine.Entry.Germany_and_Italy_Recognize_Nationalist_Spain.Title" value="Germany and Italy Recognize Nationalist Spain"/>
+	<string id="SID.TimeLine.Entry.Germany_and_Italy_Recognize_Nationalist_Spain.Desc" value="Berlin and Rome recognize the Nationalist military regime as the official Spanish government."/>
+	<string id="SID.TimeLine.Entry.Anti-Comintern_Pact.Title" value="Anti-Comintern Pact"/>
+	<string id="SID.TimeLine.Entry.Anti-Comintern_Pact.Desc" value="Germany, Japan, and Italy agree to oppose international Communism.  This pact implicitly threatens the Soviet Union."/>
+	<string id="SID.TimeLine.Entry.Italian_Forces_in_Spain.Title" value="Italian Forces in Spain"/>
+	<string id="SID.TimeLine.Entry.Italian_Forces_in_Spain.Desc" value="Italian forces begin fighting for the Nationalists in Spain&apos;s Civil War."/>
+	<string id="SID.TimeLine.Entry.United_States_Third_Neutrality_Act.Title" value="United States&apos; Third Neutrality Act"/>
+	<string id="SID.TimeLine.Entry.United_States_Third_Neutrality_Act.Desc" value="In response to the Spanish Civil War, the United States extends its policy of strict neutrality in international wars to include civil conflicts."/>
+	<string id="SID.TimeLine.Entry.USSR_Purges_Senior_Generals.Title" value="USSR &quot;Purges&quot; Senior Generals"/>
+	<string id="SID.TimeLine.Entry.USSR_Purges_Senior_Generals.Desc" value="Driven by paranoia, the Soviet leader begins imprisoning and executing Red Army generals believed to be disloyal."/>
+	<string id="SID.TimeLine.Entry.Marco_Polo_Bridge_Incident.Title" value="Marco Polo Bridge Incident"/>
+	<string id="SID.TimeLine.Entry.Marco_Polo_Bridge_Incident.Desc" value="Japanese and Chinese forces fight near the border of Japanese-occupied Manchuria. This skirmish unofficially begins the Sino-Japanese war."/>
+	<string id="SID.TimeLine.Entry.Buchenwald_Opens.Title" value="Buchenwald Opens"/>
+	<string id="SID.TimeLine.Entry.Buchenwald_Opens.Desc" value="The Buchenwald concentration camp takes in its first prisoners as the German program of discrimination against Jews picks up steam."/>
+	<string id="SID.TimeLine.Entry.Japan_Captures_Peiping_Beijing.Title" value="Japan Captures Peiping (Beijing)"/>
+	<string id="SID.TimeLine.Entry.Japan_Captures_Peiping_Beijing.Desc" value="Continuing its drive into China, the Japanese Army captures the ancient Chinese capital city."/>
+	<string id="SID.TimeLine.Entry.US_Arms_Embargo_on_China_and_Japan.Title" value="US Arms Embargo on China and Japan"/>
+	<string id="SID.TimeLine.Entry.US_Arms_Embargo_on_China_and_Japan.Desc" value="The United States, in accordance with its neutrality laws, declares an embargo on shipping weapons to China or Japan in US ships."/>
+	<string id="SID.TimeLine.Entry.German_War_Aims.Title" value="German War Aims"/>
+	<string id="SID.TimeLine.Entry.German_War_Aims.Desc" value="In an address to his military, the German leader spells out what Germany must have: living space and racial security. This means war to expand Germany&apos;s borders and to purge the society of unwanted races, namely Jews."/>
+	<string id="SID.TimeLine.Entry.Rape_of_Nanking_Nanjing.Title" value="Rape of Nanking (Nanjing)"/>
+	<string id="SID.TimeLine.Entry.Rape_of_Nanking_Nanjing.Desc" value="After a difficult campaign, Japan captures the city of Nanking (Nanjing). Taking out their frustrations on the civilian population, Japanese soldiers commit unspeakable atrocities in their occupation of the city."/>
+	<string id="SID.TimeLine.Entry.Defeat_of_the_Ludlow_Resolution.Title" value="Defeat of the Ludlow Resolution"/>
+	<string id="SID.TimeLine.Entry.Defeat_of_the_Ludlow_Resolution.Desc" value="In a close vote, the House of Representatives defeat a resolution that would have required a national referendum to declare war (except in cases of invasion)."/>
+	<string id="SID.TimeLine.Entry.Austrian_Plebiscite.Title" value="Austrian Plebiscite"/>
+	<string id="SID.TimeLine.Entry.Austrian_Plebiscite.Desc" value="In the face of German efforts to dominate Austria, Austrian leaders announce a plebiscite to determine the nation&apos;s future, and specifically to reaffirm its independence."/>
+	<string id="SID.TimeLine.Entry.Germany_Annexes_Austria.Title" value="Germany Annexes Austria"/>
+	<string id="SID.TimeLine.Entry.Germany_Annexes_Austria.Desc" value="Angered by the Austrian plebiscite, Germany sends its army into Austria and seizes control of the country."/>
+	<string id="SID.TimeLine.Entry.France_and_Britain_Promise_to_Support_Czechoslovakia.Title" value="France and Britain Promise to Support Czechoslovakia"/>
+	<string id="SID.TimeLine.Entry.France_and_Britain_Promise_to_Support_Czechoslovakia.Desc" value="In response to the Austrian annexation, Britain and France declare their determination to protect Czechoslovakia from German aggression."/>
+	<string id="SID.TimeLine.Entry.Anglo-Italian_Pact.Title" value="Anglo-Italian Pact"/>
+	<string id="SID.TimeLine.Entry.Anglo-Italian_Pact.Desc" value="To reduce tensions in the Mediterranean, Britain negotiates a treaty recognizing Italian control of Ethiopia and normalizing relations throughout the region."/>
+	<string id="SID.TimeLine.Entry.Identity_Cards_Required_in_Germany.Title" value="Identity Cards Required in Germany"/>
+	<string id="SID.TimeLine.Entry.Identity_Cards_Required_in_Germany.Desc" value="Jews over 15 are required to keep identity cards and display them on demand."/>
+	<string id="SID.TimeLine.Entry.Mauthausen_Opens.Title" value="Mauthausen Opens"/>
+	<string id="SID.TimeLine.Entry.Mauthausen_Opens.Desc" value="On the heels of the Aeschylus of Austria, Germany opens its first concentration camp in the new German territories."/>
+	<string id="SID.TimeLine.Entry.Germany_Demands_Sudeten_Self-Determination.Title" value="Germany Demands Sudeten Self-Determination"/>
+	<string id="SID.TimeLine.Entry.Germany_Demands_Sudeten_Self-Determination.Desc" value="Germany demands self-determination for German-speakers living in the Czechoslovakian Sudetenland. This sets off widespread disorders in the region, and prompts Britain and France to call for a personal meeting with the German fuehrer (leader)."/>
+	<string id="SID.TimeLine.Entry.Czechoslovakia_Accepts_German_Demands.Title" value="Czechoslovakia Accepts German Demands"/>
+	<string id="SID.TimeLine.Entry.Czechoslovakia_Accepts_German_Demands.Desc" value="Britain and France propose that Czechoslovakia allow Germany to occupy all Sudeten regions that are more than 50% German-speaking .  Abandoned by its allies, Czechoslovakia is forced to agree to German demands."/>
+	<string id="SID.TimeLine.Entry.New_Sudeten_Demands.Title" value="New Sudeten Demands"/>
+	<string id="SID.TimeLine.Entry.New_Sudeten_Demands.Desc" value="Germany rejects the Anglo-French proposal, and demands all the Sudetenland.  If this is not met, Germany threatens to invade Czechoslovakia, beginning on September 30."/>
+	<string id="SID.TimeLine.Entry.German_Jews_Banned_from_the_Law.Title" value="German Jews Banned from the Law"/>
+	<string id="SID.TimeLine.Entry.German_Jews_Banned_from_the_Law.Desc" value="Following the bans on teaching and medicine, Germany bans Jews from practicing law."/>
+	<string id="SID.TimeLine.Entry.Munich_Conference.Title" value="Munich Conference"/>
+	<string id="SID.TimeLine.Entry.Munich_Conference.Desc" value="Committed to avoiding war, French and British leaders meet with the German Fuhrer.  Italy attends this conference as well.  All four powers accept the Munich agreement, which satisfies every Germany demand for Czechoslovakia."/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_the_Sudetenland.Title" value="Germany Occupies the Sudetenland"/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_the_Sudetenland.Desc" value="Pursuant to the Munich accord, German forces occupy the Sudeten region of Czechoslovakia. The Czech government resigns."/>
+	<string id="SID.TimeLine.Entry.Deportation_of_Polish-German_Jews.Title" value="Deportation of Polish-German Jews"/>
+	<string id="SID.TimeLine.Entry.Deportation_of_Polish-German_Jews.Desc" value="Germany deports 17,000 Jews of Polish origin, but Poland refuses to accept them. The Jews remain in a no-mans land between the two nations."/>
+	<string id="SID.TimeLine.Entry.Kristallnacht.Title" value="Kristallnacht"/>
+	<string id="SID.TimeLine.Entry.Kristallnacht.Desc" value="In an outpouring of racism driven by government propaganda and other factors, German citizens engage in the largest pogrom against Jews in recent memory. Shops are destroyed, people beaten and killed, and many Jews are imprisoned."/>
+	<string id="SID.TimeLine.Entry.Germany_Fines_Jews_for_Kristallnacht.Title" value="Germany Fines Jews for Kristallnacht"/>
+	<string id="SID.TimeLine.Entry.Germany_Fines_Jews_for_Kristallnacht.Desc" value="In a touch of savage irony, Germany fines the victims of the Kristallnacht riots one billion marks for the damage caused by their attackers."/>
+	<string id="SID.TimeLine.Entry.Japan_Repudiates_US_Open_Door_Policy.Title" value="Japan Repudiates US Open Door Policy"/>
+	<string id="SID.TimeLine.Entry.Japan_Repudiates_US_Open_Door_Policy.Desc" value="Responding to US protests that Japan had violated the &quot;open door&quot; policy, where all nations have equal rights to commerce and trade in China, Japan declares the policy null and void."/>
+	<string id="SID.TimeLine.Entry.Aryanization_of_Jewish_Businesses.Title" value="Aryanization of Jewish Businesses"/>
+	<string id="SID.TimeLine.Entry.Aryanization_of_Jewish_Businesses.Desc" value="Germany demands that all businesses be owned only by Aryans (non-Jews of &quot;proper&quot; racial origin), forcing mass sell-offs by Jewish owners."/>
+	<string id="SID.TimeLine.Entry.Franco-German_Pact.Title" value="Franco-German Pact"/>
+	<string id="SID.TimeLine.Entry.Franco-German_Pact.Desc" value="Germany and France agree to respect each other&apos;s borders and resolve all disputes peacefully."/>
+	<string id="SID.TimeLine.Entry.Britain_France_Recognize_Nationalist_Spain.Title" value="Britain, France Recognize Nationalist Spain"/>
+	<string id="SID.TimeLine.Entry.Britain_France_Recognize_Nationalist_Spain.Desc" value="Following the Nationalist occupation of Barcelona and capture of Catalonia, the British and French governments recognize the Nationalists as the victors in the Spanish Civil War."/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_Remainder_of_Czechoslovakia.Title" value="Germany Occupies Remainder of Czechoslovakia"/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_Remainder_of_Czechoslovakia.Desc" value="Seizing Bohemia and Moravia, Germany completes the destruction of Czechoslovakia as an independent state.  Germany establishes Slovakia as a puppet nation."/>
+	<string id="SID.TimeLine.Entry.Germany__Annexes_Memel.Title" value="Germany  Annexes Memel"/>
+	<string id="SID.TimeLine.Entry.Germany__Annexes_Memel.Desc" value="Germany pressures Lithuania into ceding the Baltic fortress city of Memel in return for German security guarantees."/>
+	<string id="SID.TimeLine.Entry.Official_End_to_Spanish_Civil_War.Title" value="Official End to Spanish Civil War"/>
+	<string id="SID.TimeLine.Entry.Official_End_to_Spanish_Civil_War.Desc" value="With the surrender of the last Republican strongholds, the nearly three year long conflict in Spain comes to a close."/>
+	<string id="SID.TimeLine.Entry.Britain_and_France_Guarantee_Polish_Security.Title" value="Britain and France Guarantee Polish Security"/>
+	<string id="SID.TimeLine.Entry.Britain_and_France_Guarantee_Polish_Security.Desc" value="Spurred into action by the continued aggressiveness of Germany foreign policy, Britain and France extend security guarantees to Poland, pledging to support it against any German attack."/>
+	<string id="SID.TimeLine.Entry.Italy_occupies_Albania.Title" value="Italy occupies Albania"/>
+	<string id="SID.TimeLine.Entry.Italy_occupies_Albania.Desc" value="Continuing its quest for power and glory, the Italian government invades and conquers the Balkan nation of Albania, on the Adriatic coast."/>
+	<string id="SID.TimeLine.Entry.America_requests_non-aggression_pledges_from_Italy_Germany.Title" value="America requests non-aggression pledges from Italy, Germany"/>
+	<string id="SID.TimeLine.Entry.America_requests_non-aggression_pledges_from_Italy_Germany.Desc" value="In return for disarmament talks and trade negotiations, the United States asks Germany and Italy to guarantee no further attacks on  European or Mediterranean nations. The offer is rebuffed."/>
+	<string id="SID.TimeLine.Entry.Moscow_proposes_alliance_with_London_Paris.Title" value="Moscow proposes alliance with London, Paris"/>
+	<string id="SID.TimeLine.Entry.Moscow_proposes_alliance_with_London_Paris.Desc" value="In an effort to build a true coalition against German aggression, the USSR proposes alliance with Britain and France. Facing domestic fears of Communism, neither nation is willing to agree to such a treaty."/>
+	<string id="SID.TimeLine.Entry.Britain_introduces_conscription.Title" value="Britain introduces conscription"/>
+	<string id="SID.TimeLine.Entry.Britain_introduces_conscription.Desc" value="Belatedly beginning to prepare for an increasingly likely war, Britain abandons its traditional volunteer army and begins conscription in order to build up a larger, more capable ground force."/>
+	<string id="SID.TimeLine.Entry.Germany_renounces_Anglo-German_Naval_Treaty.Title" value="Germany renounces Anglo-German Naval Treaty"/>
+	<string id="SID.TimeLine.Entry.Germany_renounces_Anglo-German_Naval_Treaty.Desc" value="Accusing Britain of attempting to encircle Germany, the German government backs out of the 1935 naval treaty with the United Kingdom."/>
+	<string id="SID.TimeLine.Entry.Ravensbruck_opens.Title" value="Ravensbruck opens"/>
+	<string id="SID.TimeLine.Entry.Ravensbruck_opens.Desc" value="The only major concentration camp expressly for women opens with the arrival of the first prisoners."/>
+	<string id="SID.TimeLine.Entry.Rome-Berlin_Axis_finalized.Title" value="Rome-Berlin Axis finalized"/>
+	<string id="SID.TimeLine.Entry.Rome-Berlin_Axis_finalized.Desc" value="Berlin and Rome culminate their relationship with a full military and political alliance."/>
+	<string id="SID.TimeLine.Entry.Japanese_blockade_British_in_China.Title" value="Japanese blockade British in China"/>
+	<string id="SID.TimeLine.Entry.Japanese_blockade_British_in_China.Desc" value="Angry over alleged British support for Chinese nationalists, Japan blocks the British treaty port of Tianjin, China. This cuts off British and French trade through the port and heats up the animosity between Tokyo and the West."/>
+	<string id="SID.TimeLine.Entry.Polish_Crisis_begins.Title" value="Polish Crisis begins"/>
+	<string id="SID.TimeLine.Entry.Polish_Crisis_begins.Desc" value="With tensions running high, pro-German citizens of Danzig push for &quot;deliverance&quot; by Germany. Border clashes, rising tensions, and heated rhetoric push both nations towards war."/>
+	<string id="SID.TimeLine.Entry.German-Soviet_Trade_Agreement.Title" value="German-Soviet Trade Agreement"/>
+	<string id="SID.TimeLine.Entry.German-Soviet_Trade_Agreement.Desc" value="Though ideologically opposed, Germany and the USSR have great need for each other&apos;s trade. This agreement shocks  Europe but gives both nations the resources they need for military preparation."/>
+	<string id="SID.TimeLine.Entry.German-Soviet_Non-Aggression_Pact.Title" value="German-Soviet Non-Aggression Pact"/>
+	<string id="SID.TimeLine.Entry.German-Soviet_Non-Aggression_Pact.Desc" value="In a stunning failure for British and French diplomacy, the USSR, which had initially sought alliance with the West, signed a non-aggression treaty with Germany.  This pact also pledged  neutrality if the other party went to war. Secret provisions of the agreement divided up all of Eastern Europe between Moscow and Berlin."/>
+	<string id="SID.TimeLine.Entry.Anglo-Polish_Assistance_Pact.Title" value="Anglo-Polish Assistance Pact"/>
+	<string id="SID.TimeLine.Entry.Anglo-Polish_Assistance_Pact.Desc" value="After granting the British Prime Minister extraordinary powers, the British also make a new commitment to Polish security in an effort to deter German aggression."/>
+	<string id="SID.TimeLine.Entry.Germany_invades_Poland.Title" value="Germany invades Poland"/>
+	<string id="SID.TimeLine.Entry.Germany_invades_Poland.Desc" value="Poland refuses to meet German territorial demands.  In response, nearly two million German soldiers pour into Poland."/>
+	<string id="SID.TimeLine.Entry.Britain_France_declare_war_on_Germany.Title" value="Britain, France declare war on Germany"/>
+	<string id="SID.TimeLine.Entry.Britain_France_declare_war_on_Germany.Desc" value="True to their word, London and Paris declare war on Germany in support of Poland, though there is little that either nation can do militarily.   At the same time, Belgium and Spain reiterate their neutrality."/>
+	<string id="SID.TimeLine.Entry.United_States_affirms_Neutrality.Title" value="United States affirms Neutrality"/>
+	<string id="SID.TimeLine.Entry.United_States_affirms_Neutrality.Desc" value="Following its Neutrality Laws, the United States declares its neutrality in the growing European war."/>
+	<string id="SID.TimeLine.Entry.Jewish_property_confiscated.Title" value="Jewish property confiscated"/>
+	<string id="SID.TimeLine.Entry.Jewish_property_confiscated.Desc" value="Germany orders all Jewish commercial property transferred to &quot;Aryan&quot; owners."/>
+	<string id="SID.TimeLine.Entry.Soviet-Japanese_Armistice.Title" value="Soviet-Japanese Armistice"/>
+	<string id="SID.TimeLine.Entry.Soviet-Japanese_Armistice.Desc" value="Ending four months of sporadic and sometimes intense combat, Japan and the USSR sign an armistice, freeing both countries to focus on more crucial conflicts."/>
+	<string id="SID.TimeLine.Entry.USSR_invades_Poland.Title" value="USSR invades Poland"/>
+	<string id="SID.TimeLine.Entry.USSR_invades_Poland.Desc" value="Having resolved the Japanese threat, and keeping with the secret portions of the agreement with Germany, the USSR invades Poland."/>
+	<string id="SID.TimeLine.Entry.Berlin_Conference_on_Polish_Jews.Title" value="Berlin Conference on Polish Jews"/>
+	<string id="SID.TimeLine.Entry.Berlin_Conference_on_Polish_Jews.Desc" value="In a meeting in Berlin, German security leaders agree on a plan to round up Polish Jews for better control and to facilitate future efforts at emigration or eradication."/>
+	<string id="SID.TimeLine.Entry.Warsaw_surrenders.Title" value="Warsaw surrenders"/>
+	<string id="SID.TimeLine.Entry.Warsaw_surrenders.Desc" value="Overwhelmed by the dual assault of Germany and the USSR, the Polish capital surrenders."/>
+	<string id="SID.TimeLine.Entry.First_Jewish_Ghetto_formed.Title" value="First Jewish Ghetto formed"/>
+	<string id="SID.TimeLine.Entry.First_Jewish_Ghetto_formed.Desc" value="Acting on the plans laid down in September, Germany forms the first formal Polish &quot;ghetto&quot; for Jews, in the town of Piotrkow."/>
+	<string id="SID.TimeLine.Entry.US_begins_A-Bomb_work.Title" value="US begins A-Bomb work"/>
+	<string id="SID.TimeLine.Entry.US_begins_A-Bomb_work.Desc" value="In a meeting with top scientists, the American President lays the groundwork for a project to build an atomic weapon."/>
+	<string id="SID.TimeLine.Entry.US_allows_cash_sales_to_belligerents_.Title" value="US allows cash sales to belligerents"/>
+	<string id="SID.TimeLine.Entry.US_allows_cash_sales_to_belligerents_.Desc" value="Modifying its laws against selling arms to belligerents, the US begins allowing &quot;cash and carry&quot; arms sales. In practice, this meant sales to Britain and France only."/>
+	<string id="SID.TimeLine.Entry.Jews_Forced_to_Wear_Star_of_David.Title" value="Jews Forced to Wear Star of David"/>
+	<string id="SID.TimeLine.Entry.Jews_Forced_to_Wear_Star_of_David.Desc" value="Germany orders all Jews in German-occupied Poland to wear the Star of David."/>
+	<string id="SID.TimeLine.Entry.Russo-Finnish_War_Begins.Title" value="Russo-Finnish War Begins"/>
+	<string id="SID.TimeLine.Entry.Russo-Finnish_War_Begins.Desc" value="After Helsinki rejects Moscow&apos;s territorial demands, the USSR invades Finland."/>
+	<string id="SID.TimeLine.Entry.Russo-Finnish_War_Ends.Title" value="Russo-Finnish War Ends"/>
+	<string id="SID.TimeLine.Entry.Russo-Finnish_War_Ends.Desc" value="After a gallant defense of their homeland, the Finns surrender to the USSR, losing extensive portions of their nation to their much larger neighbor."/>
+	<string id="SID.TimeLine.Entry.German_Invasion_of_Norway_and_Denmark.Title" value="German Invasion of Norway and Denmark"/>
+	<string id="SID.TimeLine.Entry.German_Invasion_of_Norway_and_Denmark.Desc" value="Breaking a seven-month lull in the European war, Germany strikes north and rapidly overruns Denmark. Fighting in Norway is tougher, and inspires British and French intervention."/>
+	<string id="SID.TimeLine.Entry.Norwegian_Resistance_Collapses.Title" value="Norwegian Resistance Collapses"/>
+	<string id="SID.TimeLine.Entry.Norwegian_Resistance_Collapses.Desc" value="After weeks of fighting, aided by Britain and France, Norway&apos;s defenders finally succumb to relentless Germany attacks."/>
+	<string id="SID.TimeLine.Entry.German_Offensive_in_the_West.Title" value="German Offensive in the West"/>
+	<string id="SID.TimeLine.Entry.German_Offensive_in_the_West.Desc" value="Ignoring declarations of neutrality, and intent on defeating France, Germany invades Belgium, the Netherlands, and Luxembourg on its way to the French frontier."/>
+	<string id="SID.TimeLine.Entry.France_and_Britain_Enter_Belgium.Title" value="France and Britain Enter Belgium"/>
+	<string id="SID.TimeLine.Entry.France_and_Britain_Enter_Belgium.Desc" value="The French and British  ground forces enter Belgium to help defend the beleaguered kingdom against Germany."/>
+	<string id="SID.TimeLine.Entry.Germans_Cross_Meuse.Title" value="Germans Cross Meuse"/>
+	<string id="SID.TimeLine.Entry.Germans_Cross_Meuse.Desc" value="Crashing through the Ardennes region of France, Belgium, and Luxembourg, and bypassing the French defenses to the south (the famed Maginot Line), German forces cross the Meuse river."/>
+	<string id="SID.TimeLine.Entry.Netherlands_Surrenders.Title" value="Netherlands Surrenders"/>
+	<string id="SID.TimeLine.Entry.Netherlands_Surrenders.Desc" value="The Netherlands surrenders to Germany after the conquest of its major cities and the destruction of most of its armed forces."/>
+	<string id="SID.TimeLine.Entry.Auschwitz_Established.Title" value="Auschwitz Established"/>
+	<string id="SID.TimeLine.Entry.Auschwitz_Established.Desc" value="The most infamous of the Nazi death camps is established in Poland."/>
+	<string id="SID.TimeLine.Entry.Belgium_Surrenders.Title" value="Belgium Surrenders"/>
+	<string id="SID.TimeLine.Entry.Belgium_Surrenders.Desc" value="After nearly three weeks of desperate resistance, the Belgian government surrenders to the Germans."/>
+	<string id="SID.TimeLine.Entry.British_Evacuation_from_Dunkirk.Title" value="British Evacuation from Dunkirk"/>
+	<string id="SID.TimeLine.Entry.British_Evacuation_from_Dunkirk.Desc" value="Faced with the surrender of Belgium, and the disintegration of the French Army, Britain begins to evacuate its forces from the Continent. The week-long effort would end on June 4, and save a third of a million Allied troops, most of them British."/>
+	<string id="SID.TimeLine.Entry.US_Sends_Arms_to_Britain.Title" value="US Sends Arms to Britain"/>
+	<string id="SID.TimeLine.Entry.US_Sends_Arms_to_Britain.Desc" value="Shocked by the collapse of the Allied front in France, and worried about the survival of Great Britain, the US authorizes the release of large quantities of largely outdated military equipment to the British."/>
+	<string id="SID.TimeLine.Entry.Russo-Japanese_Accord.Title" value="Russo-Japanese Accord"/>
+	<string id="SID.TimeLine.Entry.Russo-Japanese_Accord.Desc" value="After years of conflict over Manchuria (Manchuko), Japan and Russia sign an agreement settling boundary disputes over the  region."/>
+	<string id="SID.TimeLine.Entry.Italy_Enters_the_War.Title" value="Italy Enters the War"/>
+	<string id="SID.TimeLine.Entry.Italy_Enters_the_War.Desc" value="With a German victory in France virtually certain, Italy joins the war against the Allies, attacking into southern France."/>
+	<string id="SID.TimeLine.Entry.Norwegian_Government_Flees.Title" value="Norwegian Government Flees"/>
+	<string id="SID.TimeLine.Entry.Norwegian_Government_Flees.Desc" value="As the Norwegian military formally ended operations against the German invaders, the government fled to Britain to continue the war from abroad. A serious resistance movement begins inside Norway to oppose the German occupation."/>
+	<string id="SID.TimeLine.Entry.Germans_Occupy_Paris.Title" value="Germans Occupy Paris"/>
+	<string id="SID.TimeLine.Entry.Germans_Occupy_Paris.Desc" value="Continuing their destruction of the French Army, the Germans occupy the French capital."/>
+	<string id="SID.TimeLine.Entry.USSR_Occupies_Baltic_States.Title" value="USSR Occupies Baltic States"/>
+	<string id="SID.TimeLine.Entry.USSR_Occupies_Baltic_States.Desc" value="Taking advantage of the war in the west, the USSR occupies Latvia, Lithuania, and Estonia on the Baltic coast."/>
+	<string id="SID.TimeLine.Entry.France_Surrenders.Title" value="France Surrenders"/>
+	<string id="SID.TimeLine.Entry.France_Surrenders.Desc" value="Six weeks after being invaded, France formally ends its war with Germany. The Germans take over 60% of the nation.  The rest is a nominally independent--but in truth subordinate--rump state  centered on the town of Vichy."/>
+	<string id="SID.TimeLine.Entry.Britain_Sinks_French_Warships.Title" value="Britain Sinks French Warships"/>
+	<string id="SID.TimeLine.Entry.Britain_Sinks_French_Warships.Desc" value="The British sink French warships in Algerian ports, out of concern that they would fall into the hands of the Germans, This action emphasizes the degree to which the Vichy French and the British are in opposition to each other."/>
+	<string id="SID.TimeLine.Entry.US_Expands_Navy.Title" value="US Expands Navy"/>
+	<string id="SID.TimeLine.Entry.US_Expands_Navy.Desc" value="In preparation for a possible two-ocean war, the US begins laying the ground work for an expanded navy capable of fighting in both the Atlantic and the Pacific."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Britain_Begins.Title" value="Battle of Britain Begins"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Britain_Begins.Desc" value="In preparation for a planned invasion of the British Isles, Germany begins extensive bombing of the United Kingdom. In a battle that will last three months, German aircraft pound British airfields, cities, and other strategic targets."/>
+	<string id="SID.TimeLine.Entry.German_Blockade_of_Britain.Title" value="German Blockade of Britain"/>
+	<string id="SID.TimeLine.Entry.German_Blockade_of_Britain.Desc" value="In an attempt to strangle the British Isles, Germany announces a total naval blockade of Britain, warning neutral shipping to steer clear."/>
+	<string id="SID.TimeLine.Entry.US_Trades_Warships_for_British_Bases.Title" value="US Trades Warships for British Bases"/>
+	<string id="SID.TimeLine.Entry.US_Trades_Warships_for_British_Bases.Desc" value="Working around American neutrality laws, the US offers dozens of old destroyers to Great Britain in exchange for use of British naval bases world wide."/>
+	<string id="SID.TimeLine.Entry.Italy_Invades_Egypt.Title" value="Italy Invades Egypt"/>
+	<string id="SID.TimeLine.Entry.Italy_Invades_Egypt.Desc" value="Attempting to expand its North African empire, Italy invades British-controlled Egypt but faces tough resistance."/>
+	<string id="SID.TimeLine.Entry.US_Introduces_Conscription.Title" value="US Introduces Conscription"/>
+	<string id="SID.TimeLine.Entry.US_Introduces_Conscription.Desc" value="For the first time in its history, the United States of America introduces peacetime conscription. The step is in reaction to the fall of France and the deteriorating world security situation."/>
+	<string id="SID.TimeLine.Entry.Japan_Occupies_Indochina.Title" value="Japan Occupies Indochina"/>
+	<string id="SID.TimeLine.Entry.Japan_Occupies_Indochina.Desc" value="Taking advantage of the diminished state of French power in Asia, Japan forces the Vichy government to allow Japanese forces access to airbases and facilities in the French Indochinese territories."/>
+	<string id="SID.TimeLine.Entry.US_Embargoes_Scrap_Metal_Sales_to_Japan.Title" value="US Embargoes Scrap Metal Sales to Japan"/>
+	<string id="SID.TimeLine.Entry.US_Embargoes_Scrap_Metal_Sales_to_Japan.Desc" value="Reacting to Japan&apos;s occupation of French Indochina, the American government embargoes the sale of scrap iron and steel to Japan, hoping to slow down its armaments industry. Lacking a strong steel industry of its own, Japan relies heavily on such imports."/>
+	<string id="SID.TimeLine.Entry.Three-Power_Pact.Title" value="Three-Power Pact"/>
+	<string id="SID.TimeLine.Entry.Three-Power_Pact.Desc" value="Japan, Germany, and Italy sign a mutual assistance treaty aimed in effect at the USSR and US. In the pact, the parties pledge mutual assistance if any of them is involved in conflict with a country that is not now a belligerent."/>
+	<string id="SID.TimeLine.Entry.Germans_Stop_Issuing_Visas_for_Polish_Jews.Title" value="Germans Stop Issuing Visas for Polish Jews"/>
+	<string id="SID.TimeLine.Entry.Germans_Stop_Issuing_Visas_for_Polish_Jews.Desc" value="Though relatively rare, exit visas for Jews left in German-occupied Poland had been available to a lucky few. Now, the German occupation government stops issuing them, thus trapping the remaining Jews."/>
+	<string id="SID.TimeLine.Entry.Italy_Invades_Greece.Title" value="Italy Invades Greece"/>
+	<string id="SID.TimeLine.Entry.Italy_Invades_Greece.Desc" value="Continuing its push for a Mediterranean empire, Italy launches an invasion of Greece from occupied Albania. The invasion is met with fierce resistance."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Britain_Ends.Title" value="Battle of Britain Ends"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Britain_Ends.Desc" value="Having failed to destroy the Royal Air Force and pave the way for a seaborne invasion of the British Isles, Germany calls off the air offensive known as the Battle of Britain."/>
+	<string id="SID.TimeLine.Entry.Warsaw_Ghetto_Established.Title" value="Warsaw Ghetto Established"/>
+	<string id="SID.TimeLine.Entry.Warsaw_Ghetto_Established.Desc" value="German authorities formally establish the Warsaw Ghetto; shortly thereafter, all Jews in Warsaw are not only forced to reside in the Ghetto, but are prohibited from leaving it."/>
+	<string id="SID.TimeLine.Entry.Greek_Offensive_in_Albania.Title" value="Greek Offensive in Albania"/>
+	<string id="SID.TimeLine.Entry.Greek_Offensive_in_Albania.Desc" value="After failing to dislodge the Greek defenders, Italy suffers a humiliating reversal as the Greek Army launches an offensive deep into Albania."/>
+	<string id="SID.TimeLine.Entry.British_Offensive_in_Egypt.Title" value="British Offensive in Egypt"/>
+	<string id="SID.TimeLine.Entry.British_Offensive_in_Egypt.Desc" value="Striking back at the invading Italians, the British forces in Egypt drive all the way into Libya, defeating large Italian forces on the way."/>
+	<string id="SID.TimeLine.Entry.British_Offensive_in_Libya.Title" value="British Offensive in Libya"/>
+	<string id="SID.TimeLine.Entry.British_Offensive_in_Libya.Desc" value="Furthering the see-saw battle in North Africa, the British and Commonwealth forces drive the Axis away from Egypt and back into Libya."/>
+	<string id="SID.TimeLine.Entry.Germans_Enter_Italy.Title" value="Germans Enter Italy"/>
+	<string id="SID.TimeLine.Entry.Germans_Enter_Italy.Desc" value="Due to military failures and the need to bolster Italian performance, Rome allows German military forces to move into Italy."/>
+	<string id="SID.TimeLine.Entry.Romanian_Anti-Jewish_Riots.Title" value="Romanian Anti-Jewish Riots"/>
+	<string id="SID.TimeLine.Entry.Romanian_Anti-Jewish_Riots.Desc" value="Romania demonstrates its sympathies with German racial policies as troops go on a rampage, killing hundreds of Jews and destroying Jewish property. Similar attitudes are prevalent in Slovakia and other Eastern European nations under German sway."/>
+	<string id="SID.TimeLine.Entry.US_Lend-Lease_Act.Title" value="US Lend-Lease Act"/>
+	<string id="SID.TimeLine.Entry.US_Lend-Lease_Act.Desc" value="In a further circumvention of the existing Neutrality Laws, Congress votes to allow the president to send military aid to nations deemed vital to American security. The result is millions in aid for Britain."/>
+	<string id="SID.TimeLine.Entry.German_Counteroffensive_in_Libya.Title" value="German Counteroffensive in Libya"/>
+	<string id="SID.TimeLine.Entry.German_Counteroffensive_in_Libya.Desc" value="With the dispatch of the Afrika Korps to aid the Italian forces in North Africa, Germany launches a counteroffensive that drives the British forces back to Egypt."/>
+	<string id="SID.TimeLine.Entry.Germany_Invades_Greece_and_Yugoslavia.Title" value="Germany Invades Greece and Yugoslavia"/>
+	<string id="SID.TimeLine.Entry.Germany_Invades_Greece_and_Yugoslavia.Desc" value="In an effort to wrap up the Italian &quot;adventure&quot; in the Balkans in time to free German forces for the upcoming invasion of Russia, Germany launches troops into Greece by way of Yugoslavia."/>
+	<string id="SID.TimeLine.Entry.Belgrade_Falls.Title" value="Belgrade Falls"/>
+	<string id="SID.TimeLine.Entry.Belgrade_Falls.Desc" value="German forces occupy the Yugoslav capital, but resistance forces spring up all over the Balkan nation, indicating that the people of Yugoslavia have not accepted German rule."/>
+	<string id="SID.TimeLine.Entry.Russo-Japanese_Treaty_of_Neutrality.Title" value="Russo-Japanese Treaty of Neutrality"/>
+	<string id="SID.TimeLine.Entry.Russo-Japanese_Treaty_of_Neutrality.Desc" value="Looking to secure its eastern flank, the USSR signs a treaty of neutrality with its Asian rival Japan."/>
+	<string id="SID.TimeLine.Entry.Yugoslavia_Surrenders.Title" value="Yugoslavia Surrenders"/>
+	<string id="SID.TimeLine.Entry.Yugoslavia_Surrenders.Desc" value="Yugoslavia formally surrenders to the invading Germans, though the nation remains a hotbed of partisan activity throughout the next four years."/>
+	<string id="SID.TimeLine.Entry.Greece_Surrenders.Title" value="Greece Surrenders"/>
+	<string id="SID.TimeLine.Entry.Greece_Surrenders.Desc" value="Greece capitulates in the face of overwhelming German military power. Despite aid from Britain and France, Greece was unable to stem the Axis advance."/>
+	<string id="SID.TimeLine.Entry.State_of_Emergency_Declared_in_US.Title" value="State of Emergency Declared in US"/>
+	<string id="SID.TimeLine.Entry.State_of_Emergency_Declared_in_US.Desc" value="Due to increased tension with Germany over U-boat attacks in the Atlantic, the US declares a state of emergency."/>
+	<string id="SID.TimeLine.Entry.British_and_Free_French_Occupation_of_Syria.Title" value="British and Free French Occupation of Syria"/>
+	<string id="SID.TimeLine.Entry.British_and_Free_French_Occupation_of_Syria.Desc" value="Attempting to stymie Axis designs on the Eastern Mediterranean, British and Free French forces battle Vichy French troops for control of Syria."/>
+	<string id="SID.TimeLine.Entry.Vichy_Calls_for_Arrest_of_All_Jews.Title" value="Vichy Calls for Arrest of All Jews"/>
+	<string id="SID.TimeLine.Entry.Vichy_Calls_for_Arrest_of_All_Jews.Desc" value="Vichy French authorities call for the administrative arrest of all Jews in France."/>
+	<string id="SID.TimeLine.Entry.Germany_Invades_the_USSR.Title" value="Germany Invades the USSR"/>
+	<string id="SID.TimeLine.Entry.Germany_Invades_the_USSR.Desc" value="In perhaps the largest military assault in history, Germany throws over three million men at the USSR in an attempt to destroy its arch-rival.  The German forces overrun the unprepared Soviet defenders."/>
+	<string id="SID.TimeLine.Entry.US_Pledges_Aid_to_USSR.Title" value="US Pledges Aid to USSR"/>
+	<string id="SID.TimeLine.Entry.US_Pledges_Aid_to_USSR.Desc" value="Despite decades of anti-communist feeling in the US, the American government pledges aid to the USSR to defeat the German attack."/>
+	<string id="SID.TimeLine.Entry.Red_Friday.Title" value="Red Friday"/>
+	<string id="SID.TimeLine.Entry.Red_Friday.Desc" value="German forces go on rampages in Poland and the Russian city of Minsk, burning synagogues and murdering Jews."/>
+	<string id="SID.TimeLine.Entry.China_Severs_Relations_with_Axis.Title" value="China Severs Relations with Axis"/>
+	<string id="SID.TimeLine.Entry.China_Severs_Relations_with_Axis.Desc" value="In support of the Allied war effort, Nationalist China formally severs its relations with the European Axis powers."/>
+	<string id="SID.TimeLine.Entry.Smolensk_Falls.Title" value="Smolensk Falls"/>
+	<string id="SID.TimeLine.Entry.Smolensk_Falls.Desc" value="Crossing the pre-1939 Russian frontier, German forces capture the important Russian city of Smolensk as the Red Army continues to disintegrate."/>
+	<string id="SID.TimeLine.Entry.Vichy_Allows_Japanese_Occupation_of_French_Indochina.Title" value="Vichy Allows Japanese Occupation of French Indochina"/>
+	<string id="SID.TimeLine.Entry.Vichy_Allows_Japanese_Occupation_of_French_Indochina.Desc" value="Bowing to the inevitable, Vichy France allows the Japanese to occupy and control Indochina."/>
+	<string id="SID.TimeLine.Entry.US_Freezes_Japanese_Credits.Title" value="US Freezes Japanese Credits"/>
+	<string id="SID.TimeLine.Entry.US_Freezes_Japanese_Credits.Desc" value="Joining Britain in protesting the Japanese occupation of Indochina, the US freezes all Japanese trade credits.  This  brings trade between the two nations to a halt. Additionally, the Americans reorganize their Pacific command and warn the Japanese against any further aggressions."/>
+	<string id="SID.TimeLine.Entry.Battle_of_the_Atlantic.Title" value="Battle of the Atlantic"/>
+	<string id="SID.TimeLine.Entry.Battle_of_the_Atlantic.Desc" value="British estimates show that continued German submarine attacks have had a serious effect on Britain&apos;s ability to fight the war, and pose a serious threat to the island&apos;s survival."/>
+	<string id="SID.TimeLine.Entry.Atlantic_Charter.Title" value="Atlantic Charter"/>
+	<string id="SID.TimeLine.Entry.Atlantic_Charter.Desc" value="The leaders of the US and UK agree on what are essentially war aims, though the US is not officially at war.  These aims include  free trade, freedom of the seas, self-determination and a restoration of rights lost to aggression. Echoing Wilson&apos;s 14 Points from 1918, the Atlantic Charter would be the foundation of the Anglo-American alliance and the blueprint for post-war Europe."/>
+	<string id="SID.TimeLine.Entry.US_Extends_Draft.Title" value="US Extends Draft"/>
+	<string id="SID.TimeLine.Entry.US_Extends_Draft.Desc" value="The American president signs into law an extension of the conscription system approved in 1940."/>
+	<string id="SID.TimeLine.Entry.Britain_Pledges_Aid_to_US_in_Event_of_War_with_Japan.Title" value="Britain Pledges Aid to US in Event of War with Japan"/>
+	<string id="SID.TimeLine.Entry.Britain_Pledges_Aid_to_US_in_Event_of_War_with_Japan.Desc" value="Despite being hard-pressed, Britain promises to support the US if it gets into a war with Japan, as now seems increasingly likely."/>
+	<string id="SID.TimeLine.Entry.Siege_of_Leningrad_Begins.Title" value="Siege of Leningrad Begins"/>
+	<string id="SID.TimeLine.Entry.Siege_of_Leningrad_Begins.Desc" value="German forces begin the siege of Leningrad. Though the German forces are powerful, the Soviet city refuses to surrender."/>
+	<string id="SID.TimeLine.Entry.German_Submarine_Attacks_USS_Greer.Title" value="German Submarine Attacks USS Greer"/>
+	<string id="SID.TimeLine.Entry.German_Submarine_Attacks_USS_Greer.Desc" value="In the first overt action against American forces, a German U-boot attacks the American destroyer Greer, which is escorting merchant ships near Iceland."/>
+	<string id="SID.TimeLine.Entry.US_Orders_Navy_to_Shoot_German_Subs_on_Sight.Title" value="US Orders Navy to Shoot German Subs on Sight"/>
+	<string id="SID.TimeLine.Entry.US_Orders_Navy_to_Shoot_German_Subs_on_Sight.Desc" value="As the Battle of the Atlantic heats up, the technically neutral US orders its warships to shoot German submarines on sight."/>
+	<string id="SID.TimeLine.Entry.US_Begins_Convoy_Protection.Title" value="US Begins Convoy Protection"/>
+	<string id="SID.TimeLine.Entry.US_Begins_Convoy_Protection.Desc" value="To protect convoys heading to Britain, the US agrees to let its navy escort ships as far as Iceland."/>
+	<string id="SID.TimeLine.Entry.German_Offensive_in_USSR.Title" value="German Offensive in USSR"/>
+	<string id="SID.TimeLine.Entry.German_Offensive_in_USSR.Desc" value="Attempting to grab as much territory as possible before the Russian winter sets in, German forces drive deep into the Ukraine and western Russia. Kiev falls and Moscow is threatened."/>
+	<string id="SID.TimeLine.Entry.Babi_Yar.Title" value="Babi Yar"/>
+	<string id="SID.TimeLine.Entry.Babi_Yar.Desc" value="German forces massacre some 34,000 Jewish men, women, and children near the Ukrainian city of Kiev, with the cooperation of many local Ukrainians."/>
+	<string id="SID.TimeLine.Entry.Moscow_Conference.Title" value="Moscow Conference"/>
+	<string id="SID.TimeLine.Entry.Moscow_Conference.Desc" value="In the first three-way meeting of the Allied powers, the foreign ministers of the USSR, Britain, and the US meet in Moscow. Britain and the US reiterate their pledge for a &quot;second front&quot; in northwest Europe, and the USSR promises to enter the war against Japan after defeating Germany.  The three could not agree on the status of the Polish government in exile or the potential post-war fate of Poland itself."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Moscow_Begins.Title" value="Battle of Moscow Begins"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Moscow_Begins.Desc" value="Marshalling a massive force, the Germans attempt to take the Soviet capital before the winter sets in. While coming within sight of the city, the Germans ultimately fail to capture it and are pushed back by a Soviet counterattack in December."/>
+	<string id="SID.TimeLine.Entry.German_Sub_Sinks_USS_Reuben_James.Title" value="German Sub Sinks USS Reuben James"/>
+	<string id="SID.TimeLine.Entry.German_Sub_Sinks_USS_Reuben_James.Desc" value="In the first casualty of the undeclared Atlantic war, the USS Reuben James is sunk by a German U-boat, with the loss of over 100 lives."/>
+	<string id="SID.TimeLine.Entry.Jews_Banished_from_Germany.Title" value="Jews Banished from Germany"/>
+	<string id="SID.TimeLine.Entry.Jews_Banished_from_Germany.Desc" value="Germany formally banishes all Jews and sends those few remaining in Germany to camps in the East."/>
+	<string id="SID.TimeLine.Entry.US_Extends_Lend-Lease_to_USSR.Title" value="US Extends Lend-Lease to USSR"/>
+	<string id="SID.TimeLine.Entry.US_Extends_Lend-Lease_to_USSR.Desc" value="The American government extends the Lend-Lease program to the Soviet Union, in order to bring more military aid to the beleaguered nation."/>
+	<string id="SID.TimeLine.Entry.US_Arms_Merchant_Ships.Title" value="US Arms Merchant Ships"/>
+	<string id="SID.TimeLine.Entry.US_Arms_Merchant_Ships.Desc" value="Further weakening the already diminished Neutrality Laws, Congress authorizes the arming of American merchant ships to fend off U-boat attacks."/>
+	<string id="SID.TimeLine.Entry.US-Japan_Negotiations.Title" value="US-Japan Negotiations"/>
+	<string id="SID.TimeLine.Entry.US-Japan_Negotiations.Desc" value="In an effort to prevent outright war between the US and Japan, representatives of the two nations meet in Washington throughout late November and early December."/>
+	<string id="SID.TimeLine.Entry.Soviet_Winter_Offensive.Title" value="Soviet Winter Offensive"/>
+	<string id="SID.TimeLine.Entry.Soviet_Winter_Offensive.Desc" value="Continuing its steamroller advance, the USSR drives deep into the northern section of the German line in Russia, reaching the pre-war Polish border by February."/>
+	<string id="SID.TimeLine.Entry.Japan_Attacks_Pearl_Harbor.Title" value="Japan Attacks Pearl Harbor"/>
+	<string id="SID.TimeLine.Entry.Japan_Attacks_Pearl_Harbor.Desc" value="Seeing negotiations as pointless, Japan strikes at the United States.  With this attack, Japan hopes to remove American power from the flanks of a planned Japanese move into Southeast Asia.  Though a tactical success, the attack brings the US into the war unified and desiring revenge. The Japanese also attack other US Pacific possessions and British forces in Hong Kong and elsewhere."/>
+	<string id="SID.TimeLine.Entry.US_Declares_War_on_Japan.Title" value="US Declares War on Japan"/>
+	<string id="SID.TimeLine.Entry.US_Declares_War_on_Japan.Desc" value="The United States, stung by the attacks on its Pacific forces, declares war on the  Empire of Japan."/>
+	<string id="SID.TimeLine.Entry.Japanese_Taken_into_Custody_in_US.Title" value="Japanese Taken into Custody in US"/>
+	<string id="SID.TimeLine.Entry.Japanese_Taken_into_Custody_in_US.Desc" value="1200 Japanese-Americans are taken into custody by the FBI.  No formal charges are made against them."/>
+	<string id="SID.TimeLine.Entry.Japan_Invades_Philippines.Title" value="Japan Invades Philippines"/>
+	<string id="SID.TimeLine.Entry.Japan_Invades_Philippines.Desc" value="Japanese forces land on the US possession of the Philippines, and begin a campaign to wrest the archipelago from American control."/>
+	<string id="SID.TimeLine.Entry.Germany_Italy_Declare_War_on_US.Title" value="Germany, Italy Declare War on US"/>
+	<string id="SID.TimeLine.Entry.Germany_Italy_Declare_War_on_US.Desc" value="True to their treaties with Japan, Berlin and Rome declare war on the United States.  The war becomes a truly global conflict."/>
+	<string id="SID.TimeLine.Entry.Britain_Declares_War_on_Japan.Title" value="Britain Declares War on Japan"/>
+	<string id="SID.TimeLine.Entry.Britain_Declares_War_on_Japan.Desc" value="Following the Japanese attacks on Hong Kong and Malaya, Britain declares war on Japan."/>
+	<string id="SID.TimeLine.Entry.Hong_Kong_Falls.Title" value="Hong Kong Falls"/>
+	<string id="SID.TimeLine.Entry.Hong_Kong_Falls.Desc" value="The British colony of Hong Kong falls to Japan."/>
+	<string id="SID.TimeLine.Entry.United_Nations_Formed.Title" value="United Nations Formed"/>
+	<string id="SID.TimeLine.Entry.United_Nations_Formed.Desc" value="Though it would be years before it emerges as a true world forum, the United Nations is born as 26 nations sign the charter in Washington. The new organization is built on the foundation of the Anglo-American Atlantic Charter."/>
+	<string id="SID.TimeLine.Entry.Japanese_Campaign_in_Dutch_East_Indies.Title" value="Japanese Campaign in Dutch East Indies"/>
+	<string id="SID.TimeLine.Entry.Japanese_Campaign_in_Dutch_East_Indies.Desc" value="The Japanese begin their occupation of the Dutch East Indies, part of Tokyo&apos;s bid to control the resources of Southeast Asia. The campaign would last through March."/>
+	<string id="SID.TimeLine.Entry.Wannsee_Conference.Title" value="Wannsee Conference"/>
+	<string id="SID.TimeLine.Entry.Wannsee_Conference.Desc" value="German leaders meet outside Berlin and decide on a &quot;final solution&quot; to the Jewish &quot;problem.&quot; They decide to murder the 11,000,000 European Jews as systematically and efficiently as possible."/>
+	<string id="SID.TimeLine.Entry.Anglo-American_War_Council.Title" value="Anglo-American War Council"/>
+	<string id="SID.TimeLine.Entry.Anglo-American_War_Council.Desc" value="The United States and Britain form a Combined Chiefs of Staff to better military cooperation."/>
+	<string id="SID.TimeLine.Entry.Japan_Invades_Burma.Title" value="Japan Invades Burma"/>
+	<string id="SID.TimeLine.Entry.Japan_Invades_Burma.Desc" value="Seeking to drive the British out of southern Asia, the Japanese begin an offensive aimed at Burma. It meets with initial success, prompting fears for the safety of British India."/>
+	<string id="SID.TimeLine.Entry.Fall_of_Singapore.Title" value="Fall of Singapore"/>
+	<string id="SID.TimeLine.Entry.Fall_of_Singapore.Desc" value="In the worst defeat ever for British arms, some 60,000 soldiers are captured as the Japanese take over the supposedly impregnable fortress of Singapore."/>
+	<string id="SID.TimeLine.Entry.Japanese_Offensive_in_New_Guinea.Title" value="Japanese Offensive in New Guinea"/>
+	<string id="SID.TimeLine.Entry.Japanese_Offensive_in_New_Guinea.Desc" value="Continuing its assault on the southern perimeter of its Asian empire, Japan invades New Guinea, precipitating a long and bloody struggle. Stiff Allied resistance prevents Japan from accomplishing its objectives in a campaign that would last for months."/>
+	<string id="SID.TimeLine.Entry.Manzanar_Internment_Camp_Opens.Title" value="Manzanar Internment Camp Opens"/>
+	<string id="SID.TimeLine.Entry.Manzanar_Internment_Camp_Opens.Desc" value="The first internment camp for Japanese-Americans opens.  There will be 10 such camps, holding 120,000+ people.  The last camp closes in 1946."/>
+	<string id="SID.TimeLine.Entry.Japanese-Americans__Resettled.Title" value="Japanese-Americans  &quot;Resettled&quot;"/>
+	<string id="SID.TimeLine.Entry.Japanese-Americans__Resettled.Desc" value="In Seattle, the Army issues its first Civilian Exclusion Order, forcing Japanese residents to leave their homes.  Within the next 7 months, nearly all Japanese-Americans living on the West coast would be moved to internment caps."/>
+	<string id="SID.TimeLine.Entry.First_Jews_Deported_from_France_to_Auschwitz.Title" value="First Jews Deported from France to Auschwitz"/>
+	<string id="SID.TimeLine.Entry.First_Jews_Deported_from_France_to_Auschwitz.Desc" value="The first trainload of Jews from occupied France departs for the death camp at Auschwitz, where new facilities including a huge crematorium are under construction."/>
+	<string id="SID.TimeLine.Entry.Fall_of_Corregidor.Title" value="Fall of Corregidor"/>
+	<string id="SID.TimeLine.Entry.Fall_of_Corregidor.Desc" value="After months of combat, the last American stronghold in the Philippines falls to the Japanese."/>
+	<string id="SID.TimeLine.Entry.Battle_of_the_Coral_Sea.Title" value="Battle of the Coral Sea"/>
+	<string id="SID.TimeLine.Entry.Battle_of_the_Coral_Sea.Desc" value="In the first true defeat of the Japanese in WWII, Allied forces led by the US Navy defeat a Japanese attempt to land troops in Australia and the New Hebrides."/>
+	<string id="SID.TimeLine.Entry.Anglo-Soviet_Aid_Treaty.Title" value="Anglo-Soviet Aid Treaty"/>
+	<string id="SID.TimeLine.Entry.Anglo-Soviet_Aid_Treaty.Desc" value="Britain and the USSR sign a 20-year mutual aid treaty."/>
+	<string id="SID.TimeLine.Entry.Axis_Offensive_in_North_Africa.Title" value="Axis Offensive in North Africa"/>
+	<string id="SID.TimeLine.Entry.Axis_Offensive_in_North_Africa.Desc" value="Reinvigorated with new troops and supplies, the Axis forces in Libya, led by the German Afrika Korps, drive deep into Egypt and press back the Commonwealth defenders."/>
+	<string id="SID.TimeLine.Entry.First_1000_Plane_Raid_on_Cologne.Title" value="First 1000 Plane Raid on Cologne"/>
+	<string id="SID.TimeLine.Entry.First_1000_Plane_Raid_on_Cologne.Desc" value="Marshalling 1000 bombers for the first time against one target, the Royal Air Force pounds the German city of Cologne. This presages the strategic bombing campaign against German cities that the US and Britain will mount for the rest of the war."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Midway_Begins.Title" value="Battle of Midway Begins"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Midway_Begins.Desc" value="In a four-day encounter, the US Navy smashes a Japanese invasion force headed for the US owned island of Midway, in the north Pacific. Japan loses four aircraft carriers and many skilled pilots, while American losses are far fewer."/>
+	<string id="SID.TimeLine.Entry.German_Summer_Offensive_in_the_USSR.Title" value="German Summer Offensive in the USSR"/>
+	<string id="SID.TimeLine.Entry.German_Summer_Offensive_in_the_USSR.Desc" value="Beginning a massive attack that would continue for the next three months, German forces drive deep into southern Russia and the Ukraine. Eventually, by September, the Germans reach the Volga river and the important Soviet city of Stalingrad."/>
+	<string id="SID.TimeLine.Entry.Japan_Invades_Aleutians.Title" value="Japan Invades Aleutians"/>
+	<string id="SID.TimeLine.Entry.Japan_Invades_Aleutians.Desc" value="Attempting to seize a foothold in North America, and distract American forces from Japanese efforts in Southeast Asia, Japan invades the Aleutian Islands off of Alaska. The ensuing campaign is a bitter struggle in terrible conditions, which the Japanese ultimately lose."/>
+	<string id="SID.TimeLine.Entry.US_Defense_Spending_hits_42_Billion.Title" value="US Defense Spending hits $42 Billion"/>
+	<string id="SID.TimeLine.Entry.US_Defense_Spending_hits_42_Billion.Desc" value="The US Congress allocates $42 billion to fight the war, marking the largest defense appropriation in US history."/>
+	<string id="SID.TimeLine.Entry.Treblinka_II_Opens.Title" value="Treblinka II Opens"/>
+	<string id="SID.TimeLine.Entry.Treblinka_II_Opens.Desc" value="The second phase of the Treblinka concentration camp opens, dedicated entirely to the extermination of Jews. It would be the final destination of many from the Warsaw ghetto."/>
+	<string id="SID.TimeLine.Entry.Guadalcanal_Campaign.Title" value="Guadalcanal Campaign"/>
+	<string id="SID.TimeLine.Entry.Guadalcanal_Campaign.Desc" value="Striking back at the Japanese, the US lands troops on Guadalcanal and other points in the Solomon Islands. Fighting would continue into February of 1943 before the Japanese would be forced to evacuate the region."/>
+	<string id="SID.TimeLine.Entry.Manhattan_Project.Title" value="Manhattan Project"/>
+	<string id="SID.TimeLine.Entry.Manhattan_Project.Desc" value="Capitalizing on earlier research and preparation, the US government authorizes the start of a massive engineering project to create an atomic weapon."/>
+	<string id="SID.TimeLine.Entry.Soviet_Counteroffensive.Title" value="Soviet Counteroffensive"/>
+	<string id="SID.TimeLine.Entry.Soviet_Counteroffensive.Desc" value="Taking advantage of the overextended German lines, the USSR launches a giant counterattack against the German summer offensive. As a result, German troops are surrounded at Stalingrad."/>
+	<string id="SID.TimeLine.Entry.Battle_of_El_Alamein.Title" value="Battle of El Alamein"/>
+	<string id="SID.TimeLine.Entry.Battle_of_El_Alamein.Desc" value="With new leadership and more logistical support than in the past, the British and Commonwealth forces launce major attacks against the Axis forces in Egypt and Libya, driving them back and capturing important locations like Tobruk and Tripoli."/>
+	<string id="SID.TimeLine.Entry.Allies_Invade_French_North_Africa.Title" value="Allies Invade French North Africa"/>
+	<string id="SID.TimeLine.Entry.Allies_Invade_French_North_Africa.Desc" value="In the US&apos;s first ground assault in the European Theater of Operations, American and British forces assault Vichy-held North Africa. Landing in Morocco and Algeria, the Allied forces soon move into Tunisia, precipitating a long campaign that would end only in the spring of 1943 with the Axis surrender in North Africa."/>
+	<string id="SID.TimeLine.Entry.Vichy_North_Africa_Joins_Allies.Title" value="Vichy North Africa Joins Allies"/>
+	<string id="SID.TimeLine.Entry.Vichy_North_Africa_Joins_Allies.Desc" value="Signing an armistice to end the fighting in French North Africa, the Vichy authorities there join with the Allies in opposition to Germany."/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_Vichy_France.Title" value="Germany Occupies Vichy France"/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_Vichy_France.Desc" value="Angered over the shift of Vichy North Africa into the Allied camp, Germany occupies the remainder of France, which had been under the nominal control of the Vichy government."/>
+	<string id="SID.TimeLine.Entry.First_Self-Sustaining_Atomic_Reaction.Title" value="First Self-Sustaining Atomic Reaction"/>
+	<string id="SID.TimeLine.Entry.First_Self-Sustaining_Atomic_Reaction.Desc" value="Scientists working on the atomic bomb project manage to create the world&apos;s first self-sustaining atomic reaction, at the University of Chicago. This demonstrated that an atomic weapon was a real possibility."/>
+	<string id="SID.TimeLine.Entry.Casablanca_Conference.Title" value="Casablanca Conference"/>
+	<string id="SID.TimeLine.Entry.Casablanca_Conference.Desc" value="The leaders of the US, Britain, and Free France meet in Morocco and demand &quot;unconditional surrender&quot; from the Axis forces. They also agree on the need for a full-scale invasion of occupied Europe in the near future."/>
+	<string id="SID.TimeLine.Entry.Relief_of_Leningrad.Title" value="Relief of Leningrad"/>
+	<string id="SID.TimeLine.Entry.Relief_of_Leningrad.Desc" value="After a year and a half of siege, Leningrad is liberated by the Red Army."/>
+	<string id="SID.TimeLine.Entry.First_US_Bombing_Raid_on_Germany.Title" value="First US Bombing Raid on Germany"/>
+	<string id="SID.TimeLine.Entry.First_US_Bombing_Raid_on_Germany.Desc" value="For the first time, United States aircraft mount a bombing raid on German territory, hitting the city of Wilhelmshaven."/>
+	<string id="SID.TimeLine.Entry.Clearing_of_Stalingrad.Title" value="Clearing of Stalingrad"/>
+	<string id="SID.TimeLine.Entry.Clearing_of_Stalingrad.Desc" value="Following months of bitter fighting, the USSR forces the surrender of nearly 100,000 Axis troops in and around the city of Stalingrad."/>
+	<string id="SID.TimeLine.Entry.Kasserine_Pass.Title" value="Kasserine Pass"/>
+	<string id="SID.TimeLine.Entry.Kasserine_Pass.Desc" value="Striking back against the American and British forces encircling Tunisia, the German Afrika Korps launches a devastating attack against the American forces threatening Tunis."/>
+	<string id="SID.TimeLine.Entry.German_Offensive_in_Russia.Title" value="German Offensive in Russia"/>
+	<string id="SID.TimeLine.Entry.German_Offensive_in_Russia.Desc" value="The Germans in the Ukraine and southern Russia strike back at the advancing Soviets, retaking some ground but overall being pushed back by superior Russian forces."/>
+	<string id="SID.TimeLine.Entry.Warsaw_Ghetto_Uprising.Title" value="Warsaw Ghetto Uprising"/>
+	<string id="SID.TimeLine.Entry.Warsaw_Ghetto_Uprising.Desc" value="Jews in the Warsaw ghetto oppose a German incursion with force.  The bloody struggle lasts until May 8, when Germans use poison gas to kill the last Jewish defenders. Even then, pockets of resistance hold out for days."/>
+	<string id="SID.TimeLine.Entry.Axis_Surrenders_in_Tunisia.Title" value="Axis Surrenders in Tunisia"/>
+	<string id="SID.TimeLine.Entry.Axis_Surrenders_in_Tunisia.Desc" value="A quarter of a million Axis troops surrender as the British and American forces take Tunis on May 7th and secure Tunisia."/>
+	<string id="SID.TimeLine.Entry.Trident_Conference.Title" value="Trident Conference"/>
+	<string id="SID.TimeLine.Entry.Trident_Conference.Desc" value="American and British leaders meet in Washington.  There they plan the invasions of Sicily and Italy as the next steps in the war in the Mediterranean.  They also agree on the timing for an invasion of occupied Europe--a second front against the Nazis."/>
+	<string id="SID.TimeLine.Entry.Warsaw_Ghetto_Destroyed.Title" value="Warsaw Ghetto Destroyed"/>
+	<string id="SID.TimeLine.Entry.Warsaw_Ghetto_Destroyed.Desc" value="After weeks of violence, the Germans finish systematically destroying the Warsaw ghetto, ending with the blowing up of the synagogue."/>
+	<string id="SID.TimeLine.Entry.French_Government_in_Exile_Formed.Title" value="French Government in Exile Formed"/>
+	<string id="SID.TimeLine.Entry.French_Government_in_Exile_Formed.Desc" value="Formalizing what had grown into a de facto entity, the Free French form a government in exile in Algiers."/>
+	<string id="SID.TimeLine.Entry.Allied_South_Pacific_Offensive.Title" value="Allied South Pacific Offensive"/>
+	<string id="SID.TimeLine.Entry.Allied_South_Pacific_Offensive.Desc" value="Led by the Americans, the Allies kick off a six-month drive through the South Pacific as the war against Japan continues."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Kursk.Title" value="Battle of Kursk"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Kursk.Desc" value="The Germans launch a major offensive to destroy a large Soviet force around the Russian city of Kursk. The month-long struggle ends in a draw, but with the cream of the German army badly battered. This is the last major offensive the Germans will launch in the East."/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Sicily.Title" value="Invasion of Sicily"/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Sicily.Desc" value="Following the designs laid down by the Allied leaders, American and British forces invade Sicily,  as a stepping stone to the European mainland. The operation is successful, though incomplete, as many German troops manage to escape the island."/>
+	<string id="SID.TimeLine.Entry.Italian_Leader_Resigns.Title" value="Italian Leader Resigns"/>
+	<string id="SID.TimeLine.Entry.Italian_Leader_Resigns.Desc" value="Faced with the loss of North Africa and Sicily, and beset with growing war-weariness at home, the Italian dictator resigns, and is immediately placed under arrest."/>
+	<string id="SID.TimeLine.Entry.Soviet_Summer_Offensive.Title" value="Soviet Summer Offensive"/>
+	<string id="SID.TimeLine.Entry.Soviet_Summer_Offensive.Desc" value="As the Germans struggle against the Anglo-American invasion of France, the USSR launches a massive attack against Germany&apos;s eastern front. Reaching East Prussia and moving into Poland and Romania, the USSR destroys massive numbers of German troops."/>
+	<string id="SID.TimeLine.Entry.First_Quebec_Conference.Title" value="First Quebec Conference"/>
+	<string id="SID.TimeLine.Entry.First_Quebec_Conference.Desc" value="The US and Britain reaffirm their intention to invade northwest Europe in 1944, and discuss other aspects of the ongoing world war."/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_SE_Asia.Title" value="Allied Offensive in SE Asia"/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_SE_Asia.Desc" value="Driving from India, a mainly British Allied force pushes into Japanese-held Burma.  The Allies aim to restore critical supply routes to China."/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Italy.Title" value="Invasion of Italy"/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Italy.Desc" value="Continuing their step by step march across the southern flank of Europe, the Allies invade southern Italy and begin the drive on Rome."/>
+	<string id="SID.TimeLine.Entry.Italy_Surrenders.Title" value="Italy Surrenders"/>
+	<string id="SID.TimeLine.Entry.Italy_Surrenders.Desc" value="Though the Italian government had signed an armistice on September 3, the actual surrender to the Allied forces took place six days later.  Germany immediately occupied as much of Italy as possible and prepared to defend the area against the Allied attack."/>
+	<string id="SID.TimeLine.Entry.Italy_Declares_War_on_Germany.Title" value="Italy Declares War on Germany"/>
+	<string id="SID.TimeLine.Entry.Italy_Declares_War_on_Germany.Desc" value="The new government of Italy, having rid itself of its association with Germany, declares war on its former ally,  Most of Italy is occupied by the Germans, with the rest occupied by the Allies."/>
+	<string id="SID.TimeLine.Entry.Central_Pacific_Offensive.Title" value="Central Pacific Offensive"/>
+	<string id="SID.TimeLine.Entry.Central_Pacific_Offensive.Desc" value="Focusing on the Marshall Islands, American forces continue their drive to push the Japanese out of their south Pacific possessions."/>
+	<string id="SID.TimeLine.Entry.Tehran_Conference.Title" value="Tehran Conference"/>
+	<string id="SID.TimeLine.Entry.Tehran_Conference.Desc" value="For the first time, the leaders of the US, USSR, and Britain meet face to face, in Tehran. They agree on the joint occupation and protection of Iran,  the details of the upcoming invasion of France, and the timing of the simultaneous Soviet spring offensive."/>
+	<string id="SID.TimeLine.Entry.Cairo_Declaration.Title" value="Cairo Declaration"/>
+	<string id="SID.TimeLine.Entry.Cairo_Declaration.Desc" value="The leaders of the US, Britain, and China lay out their goals for the war against Japan, including unconditional surrender by Tokyo, and a pledge that none of the Allies would seek territorial expansion."/>
+	<string id="SID.TimeLine.Entry.Anzio_Landings.Title" value="Anzio Landings"/>
+	<string id="SID.TimeLine.Entry.Anzio_Landings.Desc" value="In an attempt to break the stalemate in southern Italy, Allied forces land troops just south of Rome at the town of Anzio. The landing, which was supposed to result in a lightning thrust at the Italian capital, bogs down instead."/>
+	<string id="SID.TimeLine.Entry.Korsun_Pocket.Title" value="Korsun Pocket"/>
+	<string id="SID.TimeLine.Entry.Korsun_Pocket.Desc" value="The USSR launches a massive assault on German forces near the Ukrainian city of Korsun.  The Soviets surround and destroy a large Axis force by late March. Further drives to the south result in Soviet control of the Crimea by May."/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_Hungary.Title" value="Germany Occupies Hungary"/>
+	<string id="SID.TimeLine.Entry.Germany_Occupies_Hungary.Desc" value="To stem Soviet progress, Germany occupies its ally Hungary and takes control of the Eastern European nation."/>
+	<string id="SID.TimeLine.Entry.Hungarian_Deportations_Begin.Title" value="Hungarian Deportations Begin"/>
+	<string id="SID.TimeLine.Entry.Hungarian_Deportations_Begin.Desc" value="The first group of Jews leaves Hungary for the death camps. By late May, 12,000 Jews would be shipped to Birkenau a day."/>
+	<string id="SID.TimeLine.Entry.Allied_Burma_Offensive.Title" value="Allied Burma Offensive"/>
+	<string id="SID.TimeLine.Entry.Allied_Burma_Offensive.Desc" value="After bitter fighting, the British manage to secure northern Burma and resume supply flights to China."/>
+	<string id="SID.TimeLine.Entry.Fall_of_Rome.Title" value="Fall of Rome"/>
+	<string id="SID.TimeLine.Entry.Fall_of_Rome.Desc" value="After bitter fighting, Allied forces clear the fortress of Monte Cassino and open the road to Rome. The fall of the Italian capital, while symbolic, has little effect on the overall war in Italy, as the Germans continue to offer strong resistance."/>
+	<string id="SID.TimeLine.Entry.Allies_Invade_France.Title" value="Allies Invade France"/>
+	<string id="SID.TimeLine.Entry.Allies_Invade_France.Desc" value="Allied forces storm ashore in Normandy, to secure a beachhead in occupied northwest Europe. This long-awaited &quot;second front&quot; is the beginning of the final drive to destroy German power in the west."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Saipan.Title" value="Battle of Saipan"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Saipan.Desc" value="Driving ever northward, the Allied forces in the Central Pacific launch attacks on the Mariana Islands, focusing on the large Japanese island of Saipan. Ferocious resistance including the mass suicide of civilians gives a hint of the struggles to come as the Americans get closer to Japan itself."/>
+	<string id="SID.TimeLine.Entry.Hungarian_Deportations_Stop.Title" value="Hungarian Deportations Stop"/>
+	<string id="SID.TimeLine.Entry.Hungarian_Deportations_Stop.Desc" value="With the war going badly, and under rare pressure from other nations, Germany halts the deportation of Jews from Hungary. 437,000 Hungarian Jews had already been shipped to the death camps."/>
+	<string id="SID.TimeLine.Entry.Failed_Attempt_to_Kill_German_Leader.Title" value="Failed Attempt to Kill German Leader"/>
+	<string id="SID.TimeLine.Entry.Failed_Attempt_to_Kill_German_Leader.Desc" value="A group of German officers fail in their attempt to kill their dictatorial leader with a bomb."/>
+	<string id="SID.TimeLine.Entry.Allied_Breakout_in_France.Title" value="Allied Breakout in France"/>
+	<string id="SID.TimeLine.Entry.Allied_Breakout_in_France.Desc" value="After a month of stalemate in Normandy, the Allied forces break out of their beachhead and begin chasing the Germans out of northern France."/>
+	<string id="SID.TimeLine.Entry.Paris_Falls_Deportations_Continue.Title" value="Paris Falls, Deportations Continue"/>
+	<string id="SID.TimeLine.Entry.Paris_Falls_Deportations_Continue.Desc" value="Despite the onrushing Allied armies and the collapse of the Germany military in the west, Germany continues to ship French Jews to death camps."/>
+	<string id="SID.TimeLine.Entry.Polish_Uprising.Title" value="Polish Uprising"/>
+	<string id="SID.TimeLine.Entry.Polish_Uprising.Desc" value="As the Soviet army drives through Poland, Polish forces rise up against the German occupation.  Soviet and Polish forces do not unite.  The USSR is near Warsaw by September, but it does not invade the city until January 1945."/>
+	<string id="SID.TimeLine.Entry.Lodz_Ghetto_Deportations_Begin.Title" value="Lodz Ghetto Deportations Begin"/>
+	<string id="SID.TimeLine.Entry.Lodz_Ghetto_Deportations_Begin.Desc" value="Germany begins deporting the largest group of Jews left in Europe, the nearly 70,000 in the Lodz ghetto. They are sent to Birkenau to be gassed."/>
+	<string id="SID.TimeLine.Entry.Japan_Expelled_from_India.Title" value="Japan Expelled from India"/>
+	<string id="SID.TimeLine.Entry.Japan_Expelled_from_India.Desc" value="British forces expel the last Japanese troops from India, securing the colony."/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Southern_France.Title" value="Invasion of Southern France"/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Southern_France.Desc" value="Completing the one-two punch planned months previously, Allied forces land on the Mediterranean coast of France in an effort to outflank German defenses."/>
+	<string id="SID.TimeLine.Entry.Dumbarton_Oaks_Conference.Title" value="Dumbarton Oaks Conference"/>
+	<string id="SID.TimeLine.Entry.Dumbarton_Oaks_Conference.Desc" value="Meeting in Washington, DC, representatives from the Allied powers discuss the new United Nations, and try to agree on a formal charter. Unresolved differences presage rising tensions to come after the war ends."/>
+	<string id="SID.TimeLine.Entry.Paris_Falls_to_Allies.Title" value="Paris Falls to Allies"/>
+	<string id="SID.TimeLine.Entry.Paris_Falls_to_Allies.Desc" value="More than four years after the Germans took the &quot;City of Lights,&quot; Free French forces liberate the French capital."/>
+	<string id="SID.TimeLine.Entry.Romania_Declares_War_on_Axis.Title" value="Romania Declares War on Axis"/>
+	<string id="SID.TimeLine.Entry.Romania_Declares_War_on_Axis.Desc" value="After being overrun and occupied by the USSR, Romania switches sides and declares war on the Axis."/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_France.Title" value="Allied Offensive in France"/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_France.Desc" value="In a three-month offensive, the Allies in France drive to the borders of Germany, and into Belgium and the Netherlands."/>
+	<string id="SID.TimeLine.Entry.USSR_Declares_War_on_Bulgaria.Title" value="USSR Declares War on Bulgaria"/>
+	<string id="SID.TimeLine.Entry.USSR_Declares_War_on_Bulgaria.Desc" value="Eager to knock another Axis power out of the war, the USSR declares war on Bulgaria, even though Bulgaria has not participated in the fighting against the Soviets."/>
+	<string id="SID.TimeLine.Entry.First_V-2_Attacks.Title" value="First V-2 Attacks"/>
+	<string id="SID.TimeLine.Entry.First_V-2_Attacks.Desc" value="For the first time in history, ballistic rockets are used to attack an enemy as the Germans launch their V-2 missiles at England."/>
+	<string id="SID.TimeLine.Entry.Second_Quebec_Conference.Title" value="Second Quebec Conference"/>
+	<string id="SID.TimeLine.Entry.Second_Quebec_Conference.Desc" value="The leaders of the US and Britain meet in Canada to discuss the post-war world, in particular the division and occupation of Germany."/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_the_Netherlands.Title" value="Allied Offensive in the Netherlands"/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_the_Netherlands.Desc" value="Boldly attempting to outflank German defenses in the west, the British lead an Allied airborne assault over a series of rivers in the Netherlands. Though partially successful, the attack fails in its attempt to run armored forces around Germany&apos;s northern flank."/>
+	<string id="SID.TimeLine.Entry.Soviet_Baltic_Offensive.Title" value="Soviet Baltic Offensive"/>
+	<string id="SID.TimeLine.Entry.Soviet_Baltic_Offensive.Desc" value="The USSR continues its drive west, clearing the Baltic states of German forces and moving up to the border of East Prussia."/>
+	<string id="SID.TimeLine.Entry.Allied_Invasion_of_Greece.Title" value="Allied Invasion of Greece"/>
+	<string id="SID.TimeLine.Entry.Allied_Invasion_of_Greece.Desc" value="British forces land in Greece and rapidly liberate the country from Axis control."/>
+	<string id="SID.TimeLine.Entry.Second_Moscow_Conference.Title" value="Second Moscow Conference"/>
+	<string id="SID.TimeLine.Entry.Second_Moscow_Conference.Desc" value="British and Soviet leaders meet in Moscow to discuss Poland and the Balkans. The two sides agree on a split of &quot;spheres of influence&quot; in the Balkans, and on the borders of Poland. Not present at the talks, the leader of the US disavows these agreements."/>
+	<string id="SID.TimeLine.Entry.US_Invasion_of_the_Philippines.Title" value="US Invasion of the Philippines"/>
+	<string id="SID.TimeLine.Entry.US_Invasion_of_the_Philippines.Desc" value="Returning to the archipelago nearly three years after the Japanese attack, American forces invade the Philippines, starting a campaign that would last up until June of 1945."/>
+	<string id="SID.TimeLine.Entry.USSR_Captures_Belgrade.Title" value="USSR Captures Belgrade"/>
+	<string id="SID.TimeLine.Entry.USSR_Captures_Belgrade.Desc" value="Aided by the efforts of partisans, the Red Army occupies the Yugoslav capital."/>
+	<string id="SID.TimeLine.Entry.Allies_Recognize_Provisional_French_Government.Title" value="Allies Recognize Provisional French Government"/>
+	<string id="SID.TimeLine.Entry.Allies_Recognize_Provisional_French_Government.Desc" value="The Allies formally recognize the Free French as the legitimate government of France."/>
+	<string id="SID.TimeLine.Entry.Birkenau_Gas_Chamber_Shuts_Down.Title" value="Birkenau Gas Chamber Shuts Down"/>
+	<string id="SID.TimeLine.Entry.Birkenau_Gas_Chamber_Shuts_Down.Desc" value="As the USSR closes in, Germany shuts down the gas chambers at Birkenau and begins destroying evidence of mass murder."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Budapest_Begins.Title" value="Battle of Budapest Begins"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Budapest_Begins.Desc" value="In a battle that would last until mid-February 1945, the USSR begins an assault on the Hungarian capital."/>
+	<string id="SID.TimeLine.Entry.Franco-Soviet_Treaty.Title" value="Franco-Soviet Treaty"/>
+	<string id="SID.TimeLine.Entry.Franco-Soviet_Treaty.Desc" value="The newly-recognized French government signs a 20-year treaty with the USSR."/>
+	<string id="SID.TimeLine.Entry.Battle_of_the_Bulge.Title" value="Battle of the Bulge"/>
+	<string id="SID.TimeLine.Entry.Battle_of_the_Bulge.Desc" value="In a last-gasp attempt to regain the initiative in the west, the Germans launch a massive attack against a &quot;bulge&quot; in the Allied line in Belgium. Despite initial success, the Allies drive back the attackers,  with devastating losses to the German forces."/>
+	<string id="SID.TimeLine.Entry.USSR_Captures_Warsaw.Title" value="USSR Captures Warsaw"/>
+	<string id="SID.TimeLine.Entry.USSR_Captures_Warsaw.Desc" value="As part of its massive offensive into Poland, the USSR captures the Polish capital."/>
+	<string id="SID.TimeLine.Entry.Death_Marches_Begin.Title" value="Death Marches Begin"/>
+	<string id="SID.TimeLine.Entry.Death_Marches_Begin.Desc" value="With less than 60,000 Jews left in death camps, Germany marches prisoners away from the onrushing Soviet armies."/>
+	<string id="SID.TimeLine.Entry.Birkenau_Liberated.Title" value="Birkenau Liberated"/>
+	<string id="SID.TimeLine.Entry.Birkenau_Liberated.Desc" value="The Red Army rolls into the near-deserted Birkenau. Though the Germans had destroyed or removed much of the evidence of the mass murders they committed there, much still remains."/>
+	<string id="SID.TimeLine.Entry.Malta_Conference.Title" value="Malta Conference"/>
+	<string id="SID.TimeLine.Entry.Malta_Conference.Desc" value="The leaders of Britain and the US meet to discuss the ongoing campaign against Germany. The focus of the conference, however, shifts to the fears of growing Soviet power and the undesirability of a Soviet campaign deep into central Europe."/>
+	<string id="SID.TimeLine.Entry.Yalta_Conference.Title" value="Yalta Conference"/>
+	<string id="SID.TimeLine.Entry.Yalta_Conference.Desc" value="The leaders of the three major Allied powers meet in the Crimean town of Yalta to discuss the post-war world. The US, Britain, and the USSR agree on the border of Poland and the idea of free elections in eastern Europe.  The USSR also agrees to join the war against Japan within 3 months after Germany surrenders."/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_the_West.Title" value="Allied Offensive in the West"/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_the_West.Desc" value="Beginning the final push into Germany, Allied forces launch a major offensive into the Netherlands and Germany, eventually crossing the Rhine and driving deep into German territory."/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Iwo_Jima.Title" value="Invasion of Iwo Jima"/>
+	<string id="SID.TimeLine.Entry.Invasion_of_Iwo_Jima.Desc" value="Moving ever closer to Japan, the Americans invade Iwo Jima, a volcanic island some 750 miles from Tokyo. Bitter fighting lasts until the middle of March, when the Japanese are defeated."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Okinawa.Title" value="Battle of Okinawa"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Okinawa.Desc" value="Finally landing on Japanese soil, American forces initiate a bitter fight to gain this island as a forward airbase. Fierce resistance includes suicide attacks by Japanese fliers.  Casualties are high on both sides."/>
+	<string id="SID.TimeLine.Entry.USSR_Denounces_Pact_with_Japan.Title" value="USSR Denounces Pact with Japan"/>
+	<string id="SID.TimeLine.Entry.USSR_Denounces_Pact_with_Japan.Desc" value="Preparing to honor the agreement made at Yalta, USSR abrogates its non-aggression pact with Japan."/>
+	<string id="SID.TimeLine.Entry.American_Leader_Dies.Title" value="American Leader Dies"/>
+	<string id="SID.TimeLine.Entry.American_Leader_Dies.Desc" value="Franklin D. Roosevelt, the American President, dies from a long illness.  His successor, Harry S. Truman, is committed to following the same policies for the war effort."/>
+	<string id="SID.TimeLine.Entry.Battle_of_Berlin.Title" value="Battle of Berlin"/>
+	<string id="SID.TimeLine.Entry.Battle_of_Berlin.Desc" value="Culminating four years of bloody struggle, the USSR begins its assault on the German capital."/>
+	<string id="SID.TimeLine.Entry.British_Liberate_Belsen.Title" value="British Liberate Belsen"/>
+	<string id="SID.TimeLine.Entry.British_Liberate_Belsen.Desc" value="British forces liberate the concentration camp at Belsen. Despite medical efforts, hundreds of former prisoners continue to die each day from disease and malnutrition."/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_Italy.Title" value="Allied Offensive in Italy"/>
+	<string id="SID.TimeLine.Entry.Allied_Offensive_in_Italy.Desc" value="Breaking through tough German resistance,  Allied forces liberate northern Italy and eventually link up with American forces in Austria."/>
+	<string id="SID.TimeLine.Entry.US_Forces_Liberate_Dachau.Title" value="US Forces Liberate Dachau"/>
+	<string id="SID.TimeLine.Entry.US_Forces_Liberate_Dachau.Desc" value="American troops liberate the German concentration camp at Dachau."/>
+	<string id="SID.TimeLine.Entry.Germans_in_Italy_Surrender.Title" value="Germans in Italy Surrender"/>
+	<string id="SID.TimeLine.Entry.Germans_in_Italy_Surrender.Desc" value="The last German forces in Italy surrender to Allied troops."/>
+	<string id="SID.TimeLine.Entry.German_Leader_Dies.Title" value="German Leader Dies"/>
+	<string id="SID.TimeLine.Entry.German_Leader_Dies.Desc" value="Surrounded by Soviet troops converging on the center of the German government, German Chancellor Adolf Hitler commits suicide in Berlin, leaving the nation in chaos."/>
+	<string id="SID.TimeLine.Entry.German_Forces_Surrender_in_Denmark_the_Netherlands.Title" value="German Forces Surrender in Denmark, the Netherlands"/>
+	<string id="SID.TimeLine.Entry.German_Forces_Surrender_in_Denmark_the_Netherlands.Desc" value="German forces in the Netherlands, Denmark, and parts of northern Germany surrender to the western Allies."/>
+	<string id="SID.TimeLine.Entry.US_Forces_Enter_Mauthausen.Title" value="US Forces Enter Mauthausen"/>
+	<string id="SID.TimeLine.Entry.US_Forces_Enter_Mauthausen.Desc" value="American forces liberate the Mauthausen concentration camp, and find thousands of bodies in communal graves."/>
+	<string id="SID.TimeLine.Entry.Germany_Surrenders.Title" value="Germany Surrenders"/>
+	<string id="SID.TimeLine.Entry.Germany_Surrenders.Desc" value="Ending the European war, Germany agrees to an unconditional surrender to Allied forces. The next day, May 8th, is officially deemed &quot;Victory in Europe&quot; day, though the surrender itself would not be ratified until May 9th."/>
+	<string id="SID.TimeLine.Entry.V-E_Day.Title" value="V-E Day"/>
+	<string id="SID.TimeLine.Entry.V-E_Day.Desc" value="Victory in Europe (V-E) day is the day after Germany agrees to an unconditional surrender, and the day before the surrender is officially ratified."/>
+	<string id="SID.TimeLine.Entry.Creation_of_the_Austrian_Republic.Title" value="Creation of the Austrian Republic"/>
+	<string id="SID.TimeLine.Entry.Creation_of_the_Austrian_Republic.Desc" value="Despite the Soviet desire to treat Austria as a defeated nation, the western Allies define it as a liberated country.  As such, Britain and the US help establish a democratic republic in their occupation zones. Meanwhile, the USSR extracts reparations from the zone of Austria under its power."/>
+	<string id="SID.TimeLine.Entry.Division_of_Germany.Title" value="Division of Germany"/>
+	<string id="SID.TimeLine.Entry.Division_of_Germany.Desc" value="Representatives of the Allied powers formally divide Germany into four sections, or zones, controlled by the USSR, the US, Britain, and France. Berlin is also divided into four parts."/>
+	<string id="SID.TimeLine.Entry.Polish_Government_Formed.Title" value="Polish Government Formed"/>
+	<string id="SID.TimeLine.Entry.Polish_Government_Formed.Desc" value="A pro-Soviet government is formed from parts of competing Polish political groups, and recognized by the Allies."/>
+	<string id="SID.TimeLine.Entry.Occupation_of_Berlin.Title" value="Occupation of Berlin"/>
+	<string id="SID.TimeLine.Entry.Occupation_of_Berlin.Desc" value="The Americans, British, and Russians agree on a three way (later four-way) division of the German capital city, replacing the USSR&apos;s sole occupation."/>
+	<string id="SID.TimeLine.Entry.Atomic_Bomb_Tested.Title" value="Atomic Bomb Tested"/>
+	<string id="SID.TimeLine.Entry.Atomic_Bomb_Tested.Desc" value="At Alamogordo, New Mexico, the US successfully detonates an atomic weapon, ushering in the atomic age. The intent is to rush bombs into production to use against Japan."/>
+	<string id="SID.TimeLine.Entry.Potsdam_Conference.Title" value="Potsdam Conference"/>
+	<string id="SID.TimeLine.Entry.Potsdam_Conference.Desc" value="The leaders of the US, USSR, and Britain meet outside the German capital to discuss post-war Germany and the ongoing war in the Pacific. Decisions made include disarming Germany,  war crimes trials, and adjudicating reparations."/>
+	<string id="SID.TimeLine.Entry.Allies_Demand_Japan_Surrenders.Title" value="Allies Demand Japan Surrenders"/>
+	<string id="SID.TimeLine.Entry.Allies_Demand_Japan_Surrenders.Desc" value="Following the ideas established in the Cairo Conference and the recent Potsdam Conference, the Allied powers demanded the unconditional surrender of Japan. On July 29th, Japan refused this demand."/>
+	<string id="SID.TimeLine.Entry.New_Leader_in_Britain.Title" value="New Leader in Britain"/>
+	<string id="SID.TimeLine.Entry.New_Leader_in_Britain.Desc" value="Elections in Britain result in a new leader. The transition is peaceful and has little effect on ongoing diplomacy."/>
+	<string id="SID.TimeLine.Entry.Hiroshima.Title" value="Hiroshima"/>
+	<string id="SID.TimeLine.Entry.Hiroshima.Desc" value="Unwilling to undertake a  bloody invasion of the Japanese home islands, and unable to convince the Japanese to surrender, the United States drops the first atomic bomb on the city of Hiroshima.  Half the city is destroyed in an instant."/>
+	<string id="SID.TimeLine.Entry.USSR_Declares_War_on_Japan.Title" value="USSR Declares War on Japan"/>
+	<string id="SID.TimeLine.Entry.USSR_Declares_War_on_Japan.Desc" value="The Soviet Union declares war on Japan, keeping its agreement to join its Allies against Japan.   The USSR begins military operations in Manchuria (Manchuko)."/>
+	<string id="SID.TimeLine.Entry.Nagasaki.Title" value="Nagasaki"/>
+	<string id="SID.TimeLine.Entry.Nagasaki.Desc" value="After failing to agree on  surrender terms, the US drops a second atomic weapon on Nagasaki."/>
+	<string id="SID.TimeLine.Entry.Japan_Surrenders.Title" value="Japan Surrenders"/>
+	<string id="SID.TimeLine.Entry.Japan_Surrenders.Desc" value="Convinced by the two atomic bombs that Japan can no longer resist the Allied attack, Japan&apos;s leaders surrender.  The surrender is unconditional--the only exception  is that the Japanese are allowed to keep their Emperor as a figurehead."/>
+	<string id="SID.TimeLine.Entry.V-J_Day.Title" value="V-J Day"/>
+	<string id="SID.TimeLine.Entry.V-J_Day.Desc" value="August 15th is declared the official end of the war against Japan."/>
+	<string id="SID.TimeLine.Entry.USSR_Occupies_Manchuria.Title" value="USSR Occupies Manchuria"/>
+	<string id="SID.TimeLine.Entry.USSR_Occupies_Manchuria.Desc" value="The USSR occupies Manchuria, the Chinese territory that was under Japanese rule (as Manchuko) for 14 years."/>
+	<string id="SID.TimeLine.Entry.US_Occupation_of_Japan.Title" value="US Occupation of Japan"/>
+	<string id="SID.TimeLine.Entry.US_Occupation_of_Japan.Desc" value="The US lands troops in Japan to begin its occupation of the defeated nation."/>
+	<string id="SID.TimeLine.Entry.Formal_Japanese_Surrender.Title" value="Formal Japanese Surrender"/>
+	<string id="SID.TimeLine.Entry.Formal_Japanese_Surrender.Desc" value="Aboard a US warship in Tokyo Bay, the Japanese officially surrender, thus ending WWII."/>
+	<string id="SID.TimeLine.Entry.Council_of_Ministers_Meeting.Title" value="Council of Ministers Meeting"/>
+	<string id="SID.TimeLine.Entry.Council_of_Ministers_Meeting.Desc" value="Meeting in London for the first time, the new Council of Ministers formed by the former Allies fails to resolve  post-war issues. A growing tension is apparent between the West and the USSR."/>
+	<string id="SID.TimeLine.Entry.United_Nations_Opens.Title" value="United Nations Opens"/>
+	<string id="SID.TimeLine.Entry.United_Nations_Opens.Desc" value="After 29 nations ratify its charter, the United Nations officially opens."/>
+	<string id="SID.TimeLine.Entry.Nuremburg_Trials_.Title" value="Nuremburg Trials"/>
+	<string id="SID.TimeLine.Entry.Nuremburg_Trials_.Desc" value="War crimes trials begin in the German city of Nuremburg. The trials, which will last nearly a year, seek to punish  Germans guilty of war crimes and crimes against humanity."/>
+	<string id="SID.TimeLine.Entry.US_Joins_United_Nations.Title" value="US Joins United Nations"/>
+	<string id="SID.TimeLine.Entry.US_Joins_United_Nations.Desc" value="Rejecting the neutrality that it  adopted after the First World War, the US joins the United Nations."/>
+	<string id="SID.TimeLine.Entry.Allied_Occupation_of_Korea.Title" value="Allied Occupation of Korea"/>
+	<string id="SID.TimeLine.Entry.Allied_Occupation_of_Korea.Desc" value="Although they had agreed to create a provisional Korean government, neither the western Allies, China, or the USSR could agree on what that government should be. Therefore, Korea remains divided at the 38th parallel, with the USSR in the North and the US in the south."/>
+</stringTable>

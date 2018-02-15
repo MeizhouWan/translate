@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+	
+	<formatString id="FSID.Menu.UnitOrderOptionBox.Move" value="Move"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.Retreat" value="Retreat"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.AirPatrol" value="Air Patrol"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.Escort" value="Escort"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.BombCity" value="Bomb City"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.BombProducer" value="Bomb Producer"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.BombPort" value="Bomb Port"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.Recon" value="Recon"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.EnterPort" value="Enter Port"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.LeavePort" value="Leave Port"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.Rebase" value="Rebase"/>
+	<formatString id="FSID.Menu.UnitOrderOptionBox.Cancel" value="Cancel"/>
+	
+	<formatString id="FSID.Menu.UnitShortcut.Title" value="Orders for @Unit@"/>
+	<formatString id="FSID.Menu.UnitShortcut.AddMoveWaypoint" value="Extend Move to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.AddInvadeWaypoint" value="Extend Move to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.AddReconWaypoint" value="Extend Air Mission to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.AirPatrol" value="Patrol @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Attack" value="Attack @Unit@"/>
+	<formatString id="FSID.Menu.UnitShortcut.BombCity" value="Bomb @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.BombProducer" value="Bomb @Region@ @Resource@"/>
+	<formatString id="FSID.Menu.UnitShortcut.BombUnit" value="Bomb @Unit@"/>
+	<formatString id="FSID.Menu.UnitShortcut.BombEngagement" value="Provide Air Support"/>
+	<formatString id="FSID.Menu.UnitShortcut.BombPort" value="Bomb port of @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.EnterPort" value="Enter Port @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Escort" value="Escort @Unit@"/>
+	<formatString id="FSID.Menu.UnitShortcut.LeavePort" value="Leave Port"/>
+	<formatString id="FSID.Menu.UnitShortcut.MergeLoseProgress" value="Merge @TargetUnit@ Into @Unit@ (Progress Towards @Region@ Will Be Lost)"/>
+	<formatString id="FSID.Menu.UnitShortcut.Merge" value="Merge @TargetUnit@ Into @Unit@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Move" value="Move to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Invade" value="Move to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Rebase" value="Rebase to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Recon" value="Start Air Mission to @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Reposition" value="Reposition Within @Region@"/>
+	<formatString id="FSID.Menu.UnitShortcut.Shell" value="Shell @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.LaunchRocketSingle" value="Launch Rocket at @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.LaunchRocketMultiple" value="Launch Rockets at @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.DropNuke" value="Drop nuclear bomb: @City@"/>
+	<formatString id="FSID.Menu.UnitShortcut.JoinEngagement" value="Join Engagement"/>
+	<formatString id="FSID.Menu.UnitShortcut.MoveToPort" value="Move to and Enter Port @City@"/>
+
+	<formatString id="FSID.Menu.UnitOrder.Title" value="Orders for @Unit@"/>
+	<formatString id="FSID.Menu.UnitOrder.NoItem" value="No Orders"/>
+	<formatString id="FSID.Menu.UnitOrder.Attack" value="Choose Unit to Attack..."/>
+	<formatString id="FSID.Menu.UnitOrder.Bomb" value="Create Bombing Path..."/>
+	<formatString id="FSID.Menu.UnitOrder.Cancel" value="Cancel Order"/>
+	<formatString id="FSID.Menu.UnitOrder.Disband" value="Disband"/>
+	<formatString id="FSID.Menu.UnitOrder.EnterPort" value="Choose Port to Enter..."/>
+	<formatString id="FSID.Menu.UnitOrder.Escort" value="Choose Unit to Escort..."/>
+	<formatString id="FSID.Menu.UnitOrder.Merge" value="Choose Unit to Merge With..."/>
+	<formatString id="FSID.Menu.UnitOrder.Move" value="Create Move Path..."/>
+	<formatString id="FSID.Menu.UnitOrder.Rebase" value="Create Rebase Path..."/>
+	<formatString id="FSID.Menu.UnitOrder.Recon" value="Create Recon Path..."/>
+	<formatString id="FSID.Menu.UnitOrder.Shell" value="Choose City to Shell..."/>
+	
+	<formatString id="FSID.Menu.CityShortcut.Title" value="Options for @City@"/>
+	<formatString id="FSID.Menu.CityShortcut.SetRallyPoint" value="Set Rally Point to @Region@"/>
+
+	<formatString id="FSID.Menu.CityOrder.Title" value="Options for @City@"/>
+	<formatString id="FSID.Menu.CityOrder.ClearRallyPoint" value="Clear Rally Point"/>
+
+	<formatString id="FSID.Menu.SelectGO.TitleCity" value="@Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleUnit" value="@Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleCountry" value="@Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleRegion" value="@Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleProducer" value="@Region@ @Resource@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleEngagement" value="Battle of @Region@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleEscort" value="@Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleAirPatrol" value="Patrolling of @Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleBombCity" value="Bombing of @Name@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleBombEngagement" value="Battle of @Region@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleBombProducer" value="Bombing of @Region@ @Resource@"/>
+	<formatString id="FSID.Menu.SelectGO.TitleBombUnit" value="Bombing of @Name@"/>
+	<formatString id="FSID.Menu.SelectGO.SelectCountry" value="Select Nation: @Name@"/>
+	<formatString id="FSID.Menu.SelectGO.SelectRegion" value="Select Region: @Name@"/>
+	<formatString id="FSID.Menu.SelectGO.SelectCity" value="Select City: @Name@"/>
+	<formatString id="FSID.Menu.SelectGO.SelectUnit" value="Select Unit: @Name@"/>
+	
+</stringTable>

@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stringTable existence="required">
+<!-- SID.UI.XML File.UI Element.Name -->
+
+<!-- UI2DMETutorialPopUp -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorBoxCommon.OptionBoxYes" value="Yes"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorBoxCommon.OptionBoxNo" value="No"/>
+	<formatString id="FSID.UI.UI2DMETutorialPopUp.UI2DMETutorBoxCommon.objFrameCount.of" value="@FrameIndex@ of @FrameTotal@"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.AdvanceButton.Next" value="Next"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorBoxCommon.Title" value="Exit the Tutorial?"/>
+	
+	<!-- UI2DMETutorBoxChapterTitle -->
+	<formatString id="FSID.UI.UI2DMETutorialPopUp.UI2DMETutorBoxChapterTitle.Header" value="Lesson @LessonIndex@"/>
+	
+	<!-- UI2DMETutorStart -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorStart.Title" value="MAKING HISTORY Tutorial"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorStart.Text" value="Introduction"/>
+	
+	<!-- UI2DMETutorStart001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorStart001.Title" value="Introduction"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorStart001.Text" value="Welcome to the MAKING HISTORY tutorial! &#010; &#010;This six part tutorial is designed to quickly introduce you to key elements of the game.  You will explore the game interface, learn to command military units, forge alliances and trades, invest in research, and manage economic production. &#010; &#010;The tutorial's six sections are: &#010;     1. Game Interface and Events &#010;     2. Military      &#010;     3. Diplomacy&#010;     4. Production&#010;     5. Research&#010;     6. Resources &#010; &#010;This tutorial will take approximately 30 minutes. To quit at any time, click on the home button at the bottom left of the tutorial panel. &#010; &#010; &#010;Click on Next to begin."/>
+	
+	<!-- UI2DMETutorInterface001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterface001.Title" value="Game Interface and Events"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterface001.Text" value="Game Basics"/>
+	
+	<!-- UI2DMETutorInterfaceMap001A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap001A.Title" value="World Map: Operational Map"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap001A.Text" value="The Operational map occupies two-thirds of your screen.  From this map you can view and manage military forces, cities, regions, and resources."/>
+	
+	<!-- UI2DMETutorInterfaceMap002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap002.Title" value="World Map: Mini Map"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap002.Text" value="To the left of this text is the Mini Map. Clicking anywhere in the Mini Map will instantly move you to that location on the world map."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap002.strDirect1" value="In the Mini Map, click on the USA."/>
+	
+	<!-- UI2DMETutorInterfaceMap003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003.Title" value="World Map: Exploring The Map"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003.Text" value="To travel on the Operational map, you can use your keyboard arrows or mouse to move in any direction."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003.strDirect1" value="Use the keyboard's up arrow to move north into Canada."/>
+	
+	<!-- UI2DMETutorInterfaceMap003B -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003B.Title" value="World Map: Exploring The Map"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003B.Text" value="When using the mouse, you can drag the map to change your view."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003B.strDirect1" value="Pan west by clicking anywhere on the map and dragging right."/>
+	
+	<!-- UI2DMETutorInterfaceMap003A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003A.Title" value="World Map: Tilt And Zoom"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003A.Text" value="With the keyboard's number pad you can tilt (8 and 2) and zoom (+ and -) your map view."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003A.strDirect1" value="Tilt your view and zoom in and out."/>
+	
+	<!-- UI2DMETutorInterfaceMap003C -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003C.Title" value="World Map: Home"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003C.Text" value="On the World Map, your default view is of the country you're playing.  To return to this view, click on the Czechoslovakian flag."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap003C.strDirect1" value="Click on the Czechoslovakian flag."/>
+	
+	<!-- UI2DMETutorInterfaceMap004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap004.Title" value="Info Bar"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap004.Text" value="The info bar lives at the top of the world map.  Here you can check the date, turn number, and turn length. &#010; &#010;There's also data on resource supplies and stockpiles, which you'll learn more about later."/>
+	
+	<!-- UI2DMETutorInterfaceMap005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap005.Title" value="Scoring Summary"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceMap005.Text" value="To win in MAKING HISTORY, you gather Power Points. &#010; &#010;Scores for all playable countries are included, even when they're played by the computer.  In this tutorial, it's just little Czechoslovakia against Germany..."/>
+	
+	<!-- UI2DMETutorInterfaceRHP001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP001.Title" value="Panels"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP001.Text" value="Next, let's explore the right hand panels.  Here you'll learn about and manage the game world.&#010; &#010;The right hand panel can be broken into three sections: top, middle, and bottom."/>
+
+	<!-- UI2DMETutorInterfaceRHP002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP002.Title" value="Top: Policy Icons"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP002.Text" value="These icons take you to the five main areas of MAKING HISTORY:  Turn Summary, Military, Diplomacy, Domestic, and Economy.  &#010; &#010;If you don't see the Turn Summary panel:"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP002.strDirect1" value="Click on the Globe icon."/>
+
+	<!-- UI2DMETutorInterfaceRHP003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP003.Title" value="Middle: Policy Panels"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP003.Text" value="When you click on a policy icon, a policy panel will appear.  Here you'll find information and actions for that policy area. &#010; &#010;When you click on map objects, their information also appears in this panel. &#010; &#010;In these policy panels, you will determine your nation's future."/>
+	
+	<!-- UI2DMETutorInterfaceRHP004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP004.Title" value="Bottom: System Bar"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP004.Text" value="From the System bar you can end turns, save or quit games, and access additional game data. &#010; &#010;Ending a turn moves the game ahead one week.  In that time, military orders are processed, finances calculated, materials  produced, and scores updated."/>
+	
+	<!-- UI2DMETutorInterfaceRHP005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP005.Title" value="Map Objects"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceRHP005.Text" value="Map objects are icons on the Operational map.  They include cities, military units, battles, and resource producers (oil wells, coal mines, and metals foundries)."/>
+	
+	<!-- UI2DMETutorInterfaceSelect002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect002.Title" value="Map Objects: Your Capital"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect002.Text" value="The first object you'll explore is your capital, Prague.&#010; &#010;How can you find it?  Well, all map objects (cities, units, resource producers) have tooltips and all capital cities have flags."/>
+	
+	<!-- UI2DMETutorInterfaceSelect002A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect002A.Title" value="Map Objects: Your Capital"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect002A.Text" value="To view a tooltip, move your mouse cursor over an object. You can learn the strength of a military unit, the production capacity of an oil well, or, in this case, the name of a city."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect002A.strDirect1" value="Locate and click on Prague."/>
+	
+	<!-- UI2DMETutorInterfaceSelect003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect003.Title" value="Map Objects: Your Capital"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect003.Text" value="A green circle will appear to show your capital has been selected. &#010; &#010;Look to the right.  Note that clicking on Prague has brought up its city panel.  In Lesson 4: Production, you'll learn about this panel."/>
+	
+	<!-- UI2DMETutorInterfaceSelect004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect004.Title" value="Map Objects: Your Capital"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect004.Text" value="Now try clicking on other objects.  Click on a foreign city, a military unit, or a resource producer.  The ESC button on your keyboard deselects objects from the map."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceSelect004.strDirect1" value="Press ESC to clear the right hand panel."/>
+
+	<!-- UI2DMETutorInterface002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterface002.Title" value="Notifications"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterface002.Text" value="You've now seen all basic elements of the MAKING HISTORY interface.  The next screens of this lesson will introduce you to notifications and turn summaries."/>
+	
+	<!-- UI2DMETutorInterfaceEvents002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents002.Title" value="Notifications"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents002.Text" value="Germany has declared war against Czechoslovakia!&#010; &#010;All major global events appear in 'pop up' notifications like this.  These include important alliances and declarations of war."/>
+
+	<!-- UI2DMETutorInterfaceEvents002A -->	
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents002A.Title" value="Notifications"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents002A.Text" value="To continue playing, you must read your notification and click OK."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents002A.strDirect1" value="Click OK."/>
+	
+	<!-- UI2DMETutorInterfaceEvents003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents003.Title" value="Summaries"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterfaceEvents003.Text" value="Major and minor events appear in the Turn Summary panel.&#010; &#010;When you end a turn, the next turn opens with this panel.&#010; &#010;You can always click on the Globe icon to access the Turn Summary."/>
+	
+	<!-- UI2DMETutorInterface003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterface003.Title" value="End of Lesson 1"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorInterface003.Text" value="Congratulations, you've completed your first lesson! &#010; &#010;In Lesson 1: Game Interface, you learned: &#010;      - basic elements of the game interface &#010;      - how to navigate the world map &#010;      - how to select objects on the map &#010;      - how to review world events &#010; &#010;In the next lesson, you'll learn about managing your military.  Since Germany has declared war on you, the sooner you can rally your forces, the better! &#010; &#010;To continue to Lesson 2: Military, click on the End Turn button."/>
+	
+	<!-- UI2DMETutorMilitary001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary001.Title" value="Military"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary001.Text" value="Unit Movement and Combat"/>
+	
+	<!-- UI2DMETutorMilitary002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary002.Title" value="Welcome"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary002.Text" value="In this lesson, you'll learn the basics of military defense.  The focus will be on land units--your army.  You'll learn about attacks, review military units, and move ground units."/>
+	
+	<!-- UI2DMETutorMilitary002A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary002A.Title" value="Attacks"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary002A.Text" value="First, let's review the Turn Summary.  Uh oh, Germany has seized the Sudetenland!&#010; &#010;Look at Czechoslovakia on the Operational map--there's a Nazi unit in the Sudetenland and the region is now Germany's color!"/>
+	
+	<!-- UI2DMETutorMilitary003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary003.Title" value="Attacks"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary003.Text" value="All military movements occur in end turn processing.  Germany planned its attack in turn one and the German unit moved during turn processing.&#010; &#010;You can see military units surrounding your nation, but you only learn about an attack when it happens--when it appears on the map and in the Turn Summary."/>
+	
+	<!-- UI2DMETutorMilitary005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary005.Title" value="Regions"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary005.Text" value="Germany's attack was so strong that you lost the Sudetenland region.&#010; &#010;To survive in MAKING HISTORY, you need regions.  Specifically, you need the population, factories, and resources that are in regions.  &#010; &#010;If you lose all your land, you will be forced to surrender--Game Over."/>
+	
+	<!-- UI2DMETutorMilitaryAttack001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack001.Title" value="Military Units"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack001.Text" value="You'll defend Czechoslovakia with your primary units (land forces) and support units (sea and air forces). &#010; &#010;Primary units belong to your army and are the only units that can control land regions. You need your army to defend and conquer regions."/>
+	
+	<!-- UI2DMETutorMilitaryAttack001A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack001A.Title" value="Military Units"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack001A.Text" value="Support units (air and sea) can damage enemy units and possessions, but cannot control land regions.  &#010; &#010;Air units can perform reconnaissance and bomb objects on the Operational map.&#010; &#010;With sea units you can patrol, battle enemy forces, blockade ports, and escort troop transports."/>
+	
+	<!-- UI2DMETutorMilitaryAttack002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack002.Title" value="Ground Movement"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack002.Text" value="Now that you've learned a little about your military, it's time to learn how to fight.  Use tooltips to locate the Czechoslovak region of Bohemia."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack002.strDirect1" value="Click on the 3rd Army group in Bohemia."/>
+	
+	<!-- UI2DMETutorMilitaryAttack003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack003.Title" value="Ground Movement"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack003.Text" value="A green circle will show that the 3rd Army group has been selected. You will now order the 3rd Army to move to the Sudetenland."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack003.strDirect1" value="Right click anywhere in the Sudetenland."/>
+	
+	<!-- UI2DMETutorMilitaryAttack004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack004.Title" value="Ground Movement"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack004.Text" value="A green arrow has appeared, tracing the 3rd Army's path.  When you click End Turn, the 3rd Army will move into the Sudetenland, and attack the German division in the region."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack004.strDirect1" value="Click End Turn."/>
+	
+	<!-- UI2DMETutorMilitaryAttack010 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack010.Title" value="Combat"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack010.Text" value="In the Sudetenland, you'll see a new icon--an explosion!  This represents a military engagement.  The winner of this battle gains control of the region."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack010.strDirect1" value="Click on the engagement icon."/>
+	
+	<!-- UI2DMETutorMilitaryAttack011 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack011.Title" value="Combat Report"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitaryAttack011.Text" value="In this report, you can compare your power to Germany's.  Also, you can see how many divisions are in battle and how many have been destroyed.&#010; &#010;There are only two sides in any engagement, but multiple countries can join the fight--if Czechoslovakia had any allies, they could assist you in this battle.&#010; &#010;The combat report is dispiriting.  Germany's forces are far more powerful than Czechoslovakia's.  You will surely lose this engagement."/>
+		
+	<!-- UI2DMETutorMilitary006 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary006.Title" value="End of Lesson 2"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorMilitary006.Text" value="You have completed Lesson 2: Military.  In this lesson, you learned:&#010;      - how to track military attacks&#010;      - the importance of controlling regions&#010;      - the differences between primary and support units&#010;      - how to move an army division and attack&#010;      - how to review combat &#010; &#010;In the next lesson, you'll learn about Diplomacy--and just in time.  The Czechoslovakian military is no match for the German army.  You need international support to survive.&#010; &#010;To continue to Lesson 3: Diplomacy, click on the End Turn button."/>
+	
+	<!-- UI2DMETutorDiplomacy001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy001.Title" value="Diplomacy"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy001.Text" value="Treaties and Alliances"/>
+	
+	<!-- UI2DMETutorDiplomacy003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy003.Title" value="Welcome"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy003.Text" value="In this lesson, you'll learn how to propose treaties and request alliances.  &#010; &#010;Diplomatic help will be crucial, as Czechoslovakia is in a dire state.  Germany controls the Sudetenland, and the German forces are far more powerful than Czechoslovakia's."/>
+	
+	<!-- UI2DMETutorDiplomacy003A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy003A.Title" value="Notification"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy003A.Text" value="Germany has allied with Italy!  Czechoslovakia definitely needs its own allies."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy003A.strDirect1" value="Click OK to close the box."/>
+
+	<!-- UI2DMETutorDiplomacy004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy004.Title" value="Diplomacy Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy004.Text" value="After reviewing your Turn Summary, you'll want to check out your Diplomatic policies, found in the Diplomacy panel."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy004.strDirect1" value="Click on the scroll icon."/>
+	
+	<!-- UI2DMETutorDiplomacy005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy005.Title" value="Diplomacy Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy005.Text" value="Near the top of the Diplomacy panel is a list of your alliances.  You have none.&#010; &#010;Below this is a list of your enemies.  Unfortunately, that list is not blank."/>
+	
+	<!-- UI2DMETutorDiplomacy007 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy007.Title" value="Diplomacy Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy007.Text" value="Clicking on the Alliances and Wars button displays every nation's friends and enemies. &#010; &#010;Under Negotiations, you can propose treaties to a nation or an alliance. Under Ratified Agreements, you can see what treaties you currently have."/>
+	
+	<!-- UI2DMETutorDiplomacy008 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy008.Title" value="Diplomacy Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy008.Text" value="Is Germany at war with any other countries?  Perhaps the enemy of your enemy can become your friend."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy008.strDirect1" value="Click on Alliances and Wars."/>
+	
+	<!-- UI2DMETutorDiplomacy009 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy009.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy009.Text" value="In this panel, you can see all global conflicts and alliances."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy009.strDirect1" value="Click on the Wars tab."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy009.strDirect2" value="Click on the Close button."/>
+	
+	<!-- UI2DMETutorDiplomacyPeace001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace001.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace001.Text" value="Czechoslovakia's situation looks bad.  If you sacrifice the Sudetenland, will Germany leave you alone?  From the Negotiations section, let's propose a treaty to Germany."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace001.strDirect1" value="Click on Select Nation."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace001.strDirect2" value="Choose Germany."/>
+	
+	<!-- UI2DMETutorDiplomacyPeace002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002.Title" value="Nation Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002.Text" value="You're now looking at the nation panel for Germany.  You can see its population, production, and power.  Also, from here you can propose peace."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002.strDirect1" value="Click on Alliance Peace."/>
+	
+	<!-- UI2DMETutorDiplomacyPeace002B -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002B.Title" value="Peace Treaty"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002B.Text" value="The two tabs allow you to make demands of and offer concessions to your enemies.  You're not in a position to be making any demands."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002B.strDirect1" value="Click on Concessions."/>
+	
+	<!-- UI2DMETutorDiplomacyPeace002A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002A.Title" value="Peace Treaty"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002A.Text" value="You can offer one to four concessions.  When you click on them, the checkmark shows they have been selected."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002A.strDirect1" value="Cede Occupied Territory."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace002A.strDirect2" value="Send Peace Offer."/>
+
+	<!-- UI2DMETutorDiplomacyPeace003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace003.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace003.Text" value="Rejected!  It appears the Nazis want all Czechoslovakia.  Who will come to your aid?"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyPeace003.strDirect1" value="Click OK."/>
+
+	<!-- UI2DMETutorDiplomacyAlliance001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance001.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance001.Text" value="The United Kingdom is the world's most powerful empire.  Let's ask for an alliance--the worst the UK can do is say no. &#010; &#010;You'll want to go to the United Kingdom nation panel, but instead of getting there through the Diplomacy panel, this time you'll use the Operational map.  On the map, you'll reach the UK by using the arrow keys or your mouse."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance001.strDirect1" value="Scroll to the UK."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance001.strDirect2" value="Right click on the UK."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance001.strDirect3" value="Choose Select Nation."/>
+	
+	<!-- UI2DMETutorDiplomacyAlliance003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003.Text" value="You are now looking at the United Kingdom's nation panel.  From here you can propose an alliance."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003.strDirect1" value="Click on Propose Alliance."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003.strDirect2" value="Agree to proceed."/>
+	
+	<!-- UI2DMETutorDiplomacyAlliance003A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003A.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003A.Text" value="The UK has agreed to ally with you!"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance003A.strDirect1" value="Click OK."/>
+	
+	<!-- UI2DMETutorDiplomacyAlliance004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance004.Title" value="Alliances and Wars"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyAlliance004.Text" value="The power of the British Empire now backs Czechoslovakia!  &#010; &#010;You are united with the UK and with its allies.  All those nations have joined your war against Germany and Italy."/>
+	
+	<!-- UI2DMETutorDiplomacy010 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy010.Title" value="End of Lesson 3"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacy010.Text" value="Congratulations!  You've finished Lesson 3: Diplomacy.  In this lesson you learned: &#010;     - how to review alliances and wars&#010;     - how to propose peace&#010;     - how to request an alliance&#010; &#010;German troops are still in your land, but with your new allies, Czechoslovakia's chances of survival have increased. &#010; &#010;To continue to Lesson 4: Production, click Next."/>
+	
+	<!-- UI2DMETutorProduction001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProduction001.Title" value="Production"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProduction001.Text" value="Cities and Factories"/>
+
+	<!-- UI2DMETutorProductionSupply008 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionSupply008.Title" value="Welcome"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionSupply008.Text" value="In this lesson, you'll learn how to build weaponry, which will help your military and your economy.&#010; &#010;Czechoslovakia needs the economic boost; you've allied with the UK, but still must hold off Germany until British forces arrive."/>
+
+	<!-- UI2DMETutorProductionCity001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity001.Title" value="Production"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity001.Text" value="All production takes place in cities, so let's start this lesson by returning to your capital city."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity001.strDirect1" value="Scroll back to Czechoslovakia."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity001.strDirect2" value="Click on Prague."/>
+
+	<!-- UI2DMETutorProductionCity001A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity001A.Title" value="City Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity001A.Text" value="In the city panel, you'll see numbers with IPUs and MPUs.  What are these labels?&#010; &#010;IPUs&#010;Your cities need Industrial Production Units to build.  A weapon, arms, or good's IPU requirement depends on its size and complexity.  A city's IPU number represents its per turn production capacity (i.e. how much the city can produce). &#010; &#010;MPUs&#010;To produce goods, you also need workers.  A city's MPU number represents how many workers live there."/>
+
+	<!-- UI2DMETutorProductionCity002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity002.Title" value="City Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity002.Text" value="Now let's take a look what Prague is producing.  In the city panel:"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity002.strDirect1" value="Click on Change Order."/>
+
+	<!-- UI2DMETutorProductionCity003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity003.Title" value="Production Orders"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity003.Text" value="In the Production Orders box, each tabbed section lists different production options.  These lists are the same for your cities with the same technology level.  Also, port cities can build naval forces."/>
+
+	<!-- UI2DMETutorProductionCity004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004.Title" value="Production Orders"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004.Text" value="Prague's current order--goods--is highlighted in green.  Workers need goods to produce at full capacity and surplus goods can generate income on the World Market.  But, in wartime, priorities change; you want to build weaponry, increase production, upgrade industry, and invest in research."/>
+
+	<!-- UI2DMETutorProductionCity004E -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004E.Title" value="Production Orders"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004E.Text" value="From the Land Forces section, you can start building land units."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004E.strDirect1" value="Click on the Land Forces tab."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004E.strDirect2" value="Click on Basic Infantry."/>
+
+	<!-- UI2DMETutorProductionCity004A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004A.Title" value="Production Rates"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004A.Text" value="Basic Infantry has turned green, to show it's been selected.  Basic Infantry requires 100 IPUs, and Prague's production capacity is 20 IPUs per turn, so it will take five turns to build the unit."/>
+
+	<!-- UI2DMETutorProductionCity004A1 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004A1.Title" value="Economy"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004A1.Text" value="Production will start when you end the turn, but before you do that, let's explore another aspect of city production."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004A1.strDirect1" value="Click on the gold bars icon."/>
+
+	<!-- UI2DMETutorProductionCity004B -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004B.Title" value="Economy"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004B.Text" value="You can oversee all financial activities in the Economy panel. &#010; &#010;Take a look at National Income and National Spending.  Is your Treasury in the red or the black?&#010; &#010;From the Czechoslovakian Industry button, you can review production for all cities."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004B.strDirect1" value="Click on CZ Industry."/>
+
+	<!-- UI2DMETutorProductionCity004C -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004C.Title" value="Production Centers"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004C.Text" value="In the Production Centers box you can review and change city production orders."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004C.strDirect1" value="Look at Production Orders."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004C.strDirect2" value="Click on Goods for Brno."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004C.strDirect3" value="Change to Basic Infantry."/>
+	
+	<!-- UI2DMETutorProductionCity004D -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004D.Title" value="Production Centers"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity004D.Text" value="You've switched production in Brno from Goods to Basic Infantry.  Again, this new production order will start when you end the turn."/>
+	
+	<!-- UI2DMETutorProductionCity005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity005.Title" value="End of Lesson 4"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity005.Text" value="Congratulations!  You've finished Lesson 4: Production.  In this lesson you learned: &#010;     - how to review production &#010;     - how to issue new build orders from a city panel &#010;     - how to issue new build orders from the production panel.&#010; &#010;To continue to Lesson 5: Research, click on End Turn."/>
+	
+	<!-- UI2DMETutorResearch001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch001.Title" value="Research"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch001.Text" value="Advancing Technology"/>
+	
+	<!-- UI2DMETutorResearch002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch002.Title" value="Welcome"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch002.Text" value="In the last lesson, you began expanding your military by building Basic Infantry units.  What about more advanced weaponry?  &#010; &#010;To build bomber planes and advanced armored forces, you first must develop them.  In this short lesson you'll learn how to invest in research."/>
+	
+	<!-- UI2DMETutorResearch003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch003.Title" value="Domestic Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch003.Text" value="Research projects can be found in MAKING HISTORY's Domestic policy panel."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch003.strDirect1" value="Click on the column icon."/>
+	
+	<!-- UI2DMETutorResearch004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch004.Title" value="Domestic Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch004.Text" value="In this panel you can see population and workforce data, liberate occupied regions, and see your investment in research. (You invest by choosing research in city production orders.)"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch004.strDirect1" value="Click on Research Projects."/>
+	
+	<!-- UI2DMETutorResearch005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch005.Title" value="Research Report"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch005.Text" value="The first thing you'll see is a Research Report.  This lists all projects you have in progress, how many city IPUs you've dedicated to research, and how much you're spending per turn on research."/>
+	
+	<!-- UI2DMETutorResearch006 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch006.Title" value="Research Projects"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch006.Text" value="MAKING HISTORY's 70+ research projects are divided into five research areas.  Let's explore."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch006.strDirect1" value="Click on Land Forces."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch006.strDirect2" value="Click on the tank icon."/>
+	
+	<!-- UI2DMETutorResearch007 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch007.Title" value="Armored Research"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch007.Text" value="In this panel, note that completed projects are blue, projects in progress are green, available projects are tan, and projects beyond your research abilities are gray."/>
+	
+	<!-- UI2DMETutorResearch008 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008.Title" value="Armored Research"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008.Text" value="Each research project is described, with its effects, financial costs, and research point costs."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008.strDirect1" value="Click on Medium Tanks."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008.strDirect2" value="Click on Start Research."/>
+	
+	<!-- UI2DMETutorResearch008A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008A.Title" value="Research Starts"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008A.Text" value="You've selected your first research project."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch008A.strDirect1" value="Click on the Projects tab."/>
+	
+	<!-- UI2DMETutorResearch009 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch009.Title" value="Research Projects"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch009.Text" value="To support your project, you will also need to assign IPUs to research under City Production."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch009.strDirect1" value="Click Close."/>
+	
+	<!-- UI2DMETutorResearch010 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch010.Title" value="End of Lesson 5"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResearch010.Text" value="You've finished the research section of this tutorial.  In this lesson, you: &#010;     - reviewed the domestic panel&#010;     - reviewed research projects&#010;     - started a new research project. &#010; &#010;This lesson was short, but important.  For most nations, research projects are crucial to long-term success; you want to be as advanced or more advanced than your enemies. &#010; &#010;To continue to the tutorial's last section, Lesson 6: Resources, click on End Turn."/>
+	
+	<!-- UI2DMETutorResources001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResources001.Title" value="Resources"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResources001.Text" value="Trade, Aid, and Infrastructure"/>
+	
+	<!--- UI2DMETutorResources002 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResources002.Title" value="Welcome"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorResources002.Text" value="In this final lesson, you'll learn about resources (coal, metals, and oil).  The tutorial will show you how to acquire resources through trade and infrastructure investments."/>
+	
+	<!-- UI2DMETutorProductionCity006 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity006.Title" value="Shortages"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity006.Text" value="Look at the Turn Summary.  You have an oil shortage!&#010; &#010;Without resources, cities can't complete production orders.  You can see resource levels in the Info bar.&#010; &#010;To see resource details, let's return to Czechoslovakian Industry, in the Economy panel."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity006.strDirect1" value="Click on the gold bars icon."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity006.strDirect2" value="Click on CZ Industry."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade001 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001.Title" value="Supplies Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001.Text" value="From the Industrial Production box, you'll want to go to the Supplies section."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001.strDirect1" value="Click on the Supplies tab."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade001A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001A.Title" value="Supplies Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001A.Text" value="You can gain resources by upgrading regional resource producers, conquering resource-rich regions, buying from the World Market, or requesting international aid."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade001B -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001B.Title" value="Supplies Panel"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001B.Text" value="To gain resources, you'll want to leave the Industrial Production box."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade001B.strDirect1" value="Click on Close."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade003.Title" value="World Trade"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade003.Text" value="Asking for aid might be your best bet, so let's explore that option."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade003.strDirect1" value="Click on World Trade."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade004 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade004.Title" value="World Market"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade004.Text" value="In the Trade Negotiations panel you can offer and request aid, and buy and sell on the World Market."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade004.strDirect1" value="Click on Trade Negotiations."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade005 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005.Title" value="Seeking Aid"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005.Text" value="Who might give you aid?  &#010; &#010;You're not allied with the French, but they might support you economically."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade005A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005A.Title" value="Seeking Aid"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005A.Text" value="The steps to request aid are the same as the steps to buy and sell supplies."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005A.strDirect1" value="Click on the Oil icon tab."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005A.strDirect2" value="Click on Select Option."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005A.strDirect3" value="Choose Request Aid."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade005B -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005B.Title" value="Seeking Aid"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005B.Text" value="You can now select a nation and make your request."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005B.strDirect1" value="Select France."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005B.strDirect2" value="Request 200 oil."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade005B.strDirect3" value="Click Send."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade006 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade006.Title" value="Seeking Aid"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade006.Text" value="France has agreed to send aid! You'll receive oil every turn, unless you or France cancel the deal."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade006.strDirect1" value="Click OK."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade006A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade006A.Title" value="World Market"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade006A.Text" value="Now that you've successfully set up an aid treaty, you can leave the World Market."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade006A.strDirect1" value="Click on Close."/>
+	
+	<!-- UI2DMETutorDiplomacyTrade007 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade007.Title" value="Resource Producers"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade007.Text" value="You can also increase resources by maximizing resource production. &#010; &#010;From the Operational map you can maximize by clicking on resource icons (oil wells, coal mines, or metal foundries).  &#010; &#010;Or, from the Infrastructure panel, you can make changes across all regions."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorDiplomacyTrade007.strDirect1" value="Click on Infrastructure."/>
+	
+	<!-- UI2DMETutorProductionCity007 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007.Title" value="Infrastructure"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007.Text" value="In the Regions panel of Infrastructure, you can upgrade food production, transportation, or defenses for all territories you control.  You can also make these upgrades by clicking on a region from the Operational map."/>
+	
+	<!-- UI2DMETutorProductionCity007B -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007B.Title" value="Infrastructure"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007B.Text" value="To expand production, you'll want to view the Resource Producers panel."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007B.strDirect1" value="Click on Resource Producers."/>
+	
+	<!-- UI2DMETutorProductionCity007C -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007C.Title" value="Infrastructure"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007C.Text" value="You don't produce oil, but you can maximize coal production."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007C.strDirect1" value="Locate Coal in Moravia."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007C.strDirect2" value="Click on Maintain."/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007C.strDirect3" value="Click Maximize."/>
+	
+	<!-- UI2DMETutorProductionCity007A -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007A.Title" value="Infrastructure"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProductionCity007A.Text" value="The button will turn green, to show that upgrades are in process.  While maximized, the Moravian mine's production will expand slowly until it is double the normal rate, but at increased manpower and money costs."/>
+	
+	<!-- UI2DMETutorProduction003 -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProduction003.Title" value="End of Lesson 6"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorProduction003.Text" value="You have finished Lesson 6: Resources.  In this lesson, you learned how to: &#010;     - monitor resource and supply levels&#010;     - request international aid&#010;     - maximize resource production. &#010; &#010;Resource management and growth are crucial to surviving and succeeding in MAKING HISTORY.  Without these supplies, your factories cannot build and your armies cannot fight."/>
+	
+	<!-- UI2DMETutorEnd -->
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorEnd.Title" value="Conclusion"/>
+	<string id="SID.UI.UI2DMETutorialPopUp.UI2DMETutorEnd.Text" value="Congratulations!  You've finished the MAKING HISTORY tutorial.  You now have the basic skills and knowledge needed to play the game. &#010; &#010;To learn more about MAKING HISTORY, we recommend you review the Game Manual or the in-game Encyclopedia.  &#010; &#010;You can also visit the MAKING HISTORY forum, where MAKING HISTORY players and designers discuss game strategies. &#010; &#010;Good luck and game on! &#010; &#010; &#010; &#010;To exit the tutorial, click on Next or the home icon."/>
+	
+</stringTable>

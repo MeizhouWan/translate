@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objectDefs name="UI" version="0.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	
+	<objectDef type="DateFormat" class="CUnstoredObject">
+		<!-- Inputs -->
+		<propertyDef name="dateInput" type="Date"/>
+
+		<!-- Outputs -->
+		<propertyDef name="strDate" type="String"/>
+	</objectDef>
+	
+	<objectDef type="DateFormatThreeLetterMonthWithComma" superType="DateFormat">
+		<property name="strDate" computeFrom="getMonthString(this.dateInput) + ' ' + cast(String, getDay(this.dateInput)) + ', ' + cast(String, getYear(this.dateInput))"/>
+	</objectDef>
+
+	<objectDef type="DateFormatThreeLetterMonthNoComma" superType="DateFormat">
+		<property name="strDate" computeFrom="getMonthString(this.dateInput) + ' ' + cast(String, getDay(this.dateInput)) + ' ' + cast(String, getYear(this.dateInput))"/>
+	</objectDef>
+	
+	<objectDef type="LocalTextImageTable" superType="TextImageTable">
+		
+	<!-- Main Menu -->	
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuSinglePlayer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-single-player.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuMultiplayer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-multiplayer.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuTutorial"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-tutorial.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuLoadSavedGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-load-saved-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuCredits"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-credits.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MainMenuExit"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-exit.tga"/>
+		</object>
+	
+	<!-- UI2DLobbySinglePlayerChooseScenario -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="SinglePlayerChooseScenarioLoadScenario"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-scenatio-load-scenario.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="SinglePlayerChooseScenarioBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="SinglePlayerChooseScenarioGameName"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/game-name.bmp"/>
+		</object>
+	
+	<!-- UI2DLobbyMultiPlayer -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MultiPlayerHostNew"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/multiplayer-host-new.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MultiPlayerJoin"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/multiplayer-join.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MultiPlayerGameServer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/multiplayer-game-server.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="MultiPlayerBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+		
+	<!-- UI2DLobbyChooseCountryMultiPlayer -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryMultiPlayerScenarioOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-country-scenario-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryMultiPlayerSelect"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-country-multiplayer-select.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryMultiPlayerCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/system-options-cancel.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryMultiPlayerMulti"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-country-start-game.tga"/>
+		</object>
+	
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryMultiPlayerWatch"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/multiplayer-watch.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryMultiPlayerBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyChooseCountrySinglePlayer -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountrySinglePlayerScenarioOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-country-scenario-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountrySinglePlayerSelect"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/singleplayer-choose-country-start-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountrySinglePlayerCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyChooseCountrySinglePlayerLoadGame -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountrySinglePlayerLoadGameScenarioOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-country-scenario-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountrySinglePlayerLoadGameSelect"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/singleplayer-choose-country-start-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountrySinglePlayerLoadGameCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyChooseCountryWalkThrough -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryWalkThroughScenarioOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-country-scenario-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryWalkThroughSelect"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/singleplayer-choose-country-start-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="ChooseCountryWalkThroughCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyChooseServer -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyChooseServerBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyChooseServerJoinGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/join-game-join-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyChooseServerAddServer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/join-game-add-server.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyGameServer -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerCreateNewGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/game-server-create-new-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerLoadGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/game-server-load-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerScenarioOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/game-server-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerStart"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/game-server-start-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerStop"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/game-server-stop-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyGameServerWatch"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/game-server-watch.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyLoadGame -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadGameLoadTitle"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/save-game/saved-games-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadGameLoadLoadOnTurn"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/load-on-turn-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadGameLoadScenario"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/choose-scenatio-load-scenario.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadGameDeleteGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/delete-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadGameBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyLoadSaveGame -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadSaveGameSinglePlayer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/load-game-load-single-player.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadSaveGameMultiplayer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/load-game-load-multiplayer.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadSaveGameWalkthrough"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/load-game-load-walkthrough.tga"/>
+		</object>
+	
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyLoadSaveGameBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyCredits -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyCreditsBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="UI2DLobbyCreditsTitle"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/credit-title.bmp"/>
+		</object>
+	
+	<!-- UI2DLobbyOptionSystem -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemSystemOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/system-tab.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemNetworkOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/network-settings.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemShadows"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/shadows-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemSmoke"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/smoke-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemUnitModels"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/unit-models-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemSoundEffects"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/sound-effects-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemMusic"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/music-title.tga"/>
+		</object>
+
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemScreenResolution"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/screen-resolution.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemFullscreen"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/fullscreen-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemGraphicsPerformance"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/graphics-performance-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemPlayerName"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/player-name-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemSaveChanges"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/system-options-save-changes.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/system-options-cancel.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemKeepAlive"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/keep-alive-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemTimeOut"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/timeout-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemRetransmits"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/retransmits-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemTimeslice"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/timeslice-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemWindow"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/window-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemBundleSize"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/bundle-size-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionSystemBundleDelay"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/bundle-delay-title.tga"/>
+		</object>
+	
+	<!-- UI2DLobbyOptionsScenario -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioTurnTimer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/turn-timer-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioFullTurnTimer"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/fullturntimer.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioDominationVictory"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/domination.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioSaveTurnHistory"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/save-turn-history.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioFogging"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/fogging-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioAutosave"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/autosave.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioDifficultyLevel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/difficulty-level-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioVictoryConditions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/victory-condition-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioSaveChanges"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/scenario-options-save-changes.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="LobbyOptionsScenarioCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/scenario-options-cancel.tga"/>
+		</object>
+	
+	<!-- UI2DMainMenu -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameMainMenuResumeGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/in-game-main-menu-resume-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameMainMenuSaveGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/in-game-main-menu-save-game.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameMainMenuOptions"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/main-menu-options.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameMainMenuReports"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/in-game-main-menu-reports.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameMainMenuQuiteGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/in-game-main-menu-quit-game.tga"/>
+		</object>
+	
+	<!-- Enter Game -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="EnterGameButton"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/enter-game.tga"/>
+		</object>
+	
+	<!-- Save Game -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="SaveGameSaveGame"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/in-game-main-menu-save-game.tga"/>
+		</object>
+	
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="SaveGameBack"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+		</object>
+	
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="SaveGameTitle"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/save-game/save-game-name-title.tga"/>
+		</object>
+	
+	<!-- InGameOptions -->
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameOptionsShadows"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/shadows-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameOptionsSmoke"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/smoke-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameOptionsSoundEffect"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/sound-effects-title.bmp"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameOptionsMusic"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/options/music-title.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameOptionsSaveChanges"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/system-options-save-changes.tga"/>
+		</object>
+		
+		<object type="TextImageTableEntry" name="objEntries">
+			<property name="strName" value="InGameOptionsCancel"/>
+			<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/scenario-options-cancel.tga"/>
+		</object>
+	
+	<!-- UI2DEndGame -->
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameExitToDesktop"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/quit-to-desktop.tga"/>
+	</object>
+	
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameQuitGame"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/in-game-main-menu-quit-game.tga"/>
+	</object>
+	
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameBack"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/back.tga"/>
+	</object>	
+
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameKeepPlaying"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/button-text/keep-playing.tga"/>
+	</object>	
+
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameTabIdeology"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DEndGameScreen/ideology-scoring.tga"/>
+	</object>
+	
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameTabAlliance"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DEndGameScreen/alliance-scoring.tga"/>
+	</object>
+	
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DEndGameWorldScoring"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DEndGameScreen/world-power-scoring.tga"/>
+	</object>
+	
+	<!-- UI2DLoading -->
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DLoadingLoadingScenario"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/loading-scenario-title.tga"/>
+	</object>
+	
+	<object type="TextImageTableEntry" name="objEntries">
+		<property name="strName" value="UI2DLoadingSavingGame"/>
+		<property name="fileImage" value="/../Modern Europe/system/UI/art/2D/UI2DLobby/saving-game-title.tga"/>
+	</object>
+	
+	</objectDef>	
+	
+</objectDefs>
