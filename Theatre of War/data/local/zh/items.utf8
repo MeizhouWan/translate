@@ -1,0 +1,518 @@
+﻿Magazine.Ger.105mm_SprGr_(HE)	FH.Gr.38 (High Explosive)
+Magazine.Ger.105mm_FHGr_rot_(HE)	FH.Gr.40 FERN (Long Range High Explosive)
+Magazine.Ger.105mm_Gr_39_HLB_(HEAT)	Gr.39 Hl/B (High Explosive Anti-Tank)
+Magazine.Ger.105mm_PzGr_(AP)	PzGr. (Armor Piercing High Explosive)
+Magazine.Ger.128mm_PzGr_43_(AP)	PzGr.43 (Armor Piercing Capped Ballistic Cap)
+Magazine.Ger.128mm_SPzGr_40_(HE_FRAG)	SprGr.40 (High Explosive)
+Magazine.Ger.150mm_Gr_19_Be_(HEAC)	Gr.19 Be (High Explosive Anti-concrete)
+Magazine.Ger.150mm_Gr_36_(HE)	Gr.19 (High Explosive)
+Magazine.Ger.150mm_Gr_39_HLA_(HEAT)	Gr.39 Hl/A (High Explosive Anti-Tank)
+Magazine.Ger.150mm_Gr_36_1_(HE)	lgr.38 (High Explosive)
+Magazine.Ger.150mm_Gr_39_HLA_1_(HEAT)	lgr.39 Hl/A (High Explosive Anti-Tank)
+Magazine.Ger.20mm_PzGr_(AP)x5	PzGr. (Armor Piercing)
+Magazine.Ger.20mm_pzgr_40_(APCR)x5	PzGr.40 (Armor Piercing Composite Rigid)
+Magazine.Ger.20mm_Fl38_(HE)x5	SprGr. (High Explosive)
+Magazine.Ger.20mm_Pzgr_(AP)x20	PzGr. L'spur (Armor Piercing)
+Magazine.Ger.20mm_pzgr_40_(APCR)x20	PzGr.40  (Armor Piercing Composite Rigid)
+Magazine.Ger.20mm_Flak38_(HE)x20	SprGr.Patr. L'spur (High Explosive Tracer)
+Magazine.Ger.25mm_PzGr_115_(AP)x15	PzGr.115(f) (Armor Piercing Tracer)
+Magazine.Ger.37mm_pzgr_(AP)x6	PzGr. (Armor Piercing High Explosive)
+Magazine.Ger.37mm_pzgr_40_(APCR)x6	PzGr.40  (Armor Piercing Composite Rigid)
+Magazine.Ger.37mm_Spgr_40_(HE)x6	SprGr. (High Explosive)
+Magazine.Ger.37mm_PzGr_39t_(AP)	PzGr.(t) (Armor Piercing High Explosive)
+Magazine.Ger.37mm_Spgr_34t_(HE)	SprGr.34(t) (High Explosive)
+Magazine.Ger.37mm_pzgr_(AP)	PzGr. (Armor Piercing High Explosive)
+Magazine.Ger.37mm_pzgr_40_(APCR)	PzGr.40 (Armor Piercing Composite Rigid)
+Magazine.Ger.37mm_Spgr_40_(HE)	SprGr.18 umg. (High Explosive)
+Magazine.Ger.37mm_PzGr_38t_(AP)	PzGr.(t) umg. (Armor Piercing High Explosive)
+Magazine.Ger.50mm_pzgr_39_(APCBC)	PzGr.39 (Armor Piercing Capped)
+Magazine.Ger.50mm_pzgr_40_(APCR)	PzGr.40 (Armor Piercing Composite Rigid)
+Magazine.Ger.50mm_SPgGr_38_(HE)	SprGr.38 (High Explosive)
+Magazine.Ger.PzB_39	7.92x94mm Patrone 318 Sm.K.H.
+Magazine.Ger.75mm_Gr_38_HLB_(HEAT)	Gr.38 Hl/B (High Explosive Anti-Tank)
+Magazine.Ger.75mm_KGrRotPz_(AP)	K.Gr.Rot.Pz. (Armor Piercing Capped)
+Magazine.Ger.75mm_PzGr_39_(APCBC)	PzGr.39 (Armor Piercing Capped Ballistic Cap)
+Magazine.Ger.75mm_PzGr_39_42_(APCBC)	PzGr.39/42 (Armor Piercing Capped Ballistic Cap)
+Magazine.Ger.75mm_PzGr_40_(APCR)	PzGr.40 (Armor Piercing Composite Rigid)
+Magazine.Ger.75mm_PzGr_40_42_(APCR)	PzGr.40/42 (Armor Piercing Composite Rigid)
+Magazine.Ger.75mm_SprGr_34_(HE_FRAG)	Gr.34 (High Explosive)
+Magazine.Ger.75mm_SprGr_Patr_42_(HE_FRAG)	SprGr.42 (High Explosive)
+Magazine.Ger.88mm_(HE)	SprGr. (Incendiary Shrapnel)
+Magazine.Ger.88mm_PzGr_39_1_(APCBC)	PzGr.39 (Armor Piercing Capped Ballistic Cap)
+Magazine.Ger.88mm_Gr_39_HL_1_(HEAT)	Gr.39 Hl (High Explosive Anti-Tank)
+Magazine.Ger.88mm_PzGr_40_1_(APCR)	PzGr.40 (Armor Piercing Composite Rigid)
+Magazine.Ger.88mm_Gr_39_HL_(HEAT)	Gr.39/3 Hl (High Explosive Anti-Tank)
+Magazine.Ger.88mm_PzGr_39_(APCBC)	PzGr.39-1 (Armor Piercing Capped Ballistic Cap)
+Magazine.Ger.88mm_PzGr_40_(APCR)	PzGr.40/43 (Armor Piercing Composite Rigid)
+Magazine.Ger.88mm_Sprgr_(HE)	SprGr.43 (Incendiary Shrapnel)
+Magazine.Ger.Faustpatrone_(HEAT)	Faustpatrone
+Magazine.Ger.M_24	M-24 (Offensive/Defensive fragmentation grenade)
+Magazine.Ger.M_24_(GeballteLadung)	M-24 GeballteLadung (Defensive fragmentation grenade)
+Magazine.Ger.M_39	M-39 (Offensive fragmentation grenade)
+Magazine.Ger.Panzerfaust_100_(HEAT)	Panzerfaust 100
+Magazine.Ger.Panzerfaust_30_(HEAT)	Panzerfaust 30
+Magazine.Ger.Panzerfaust_60_(HEAT)	Panzerfaust 60
+Magazine.Ger.PWM	PWM (High Explosive Anti-Tank grenade)
+Magazine.Ger.RPzB_Gr_4322_(HEAT)	RPzB.Gr. 4992 (High Explosive Anti-Tank rocket)
+Magazine.Ger.7_92mm_MG_35t	7.92x57mm Gewehr Patrone 98 Sm.K (50 round belt)
+Magazine.Ger.7_92mm_MG_37	7.92x57mm Gewehr Patrone 98 Sm.K (50 round belt)
+Magazine.Ger.Luger_P08	9x19mm Parabellum (8 round box magazine)
+Magazine.Ger.Mauser_K98k	7.92x57mm Gewehr Patrone 98 sS (5 round magazine)
+Magazine.Ger.MG_34_belt	7.92x57mm Gewehr Patrone 98 Sm.K (50 round belt)
+Magazine.Ger.MG_34_Magazin	7.92x57mm Gewehr Patrone 98 Sm.K (75 round drum magazine)
+Magazine.Ger.MG_42	7.92x57mm Gewehr Patrone 98 Sm.K (50 round belt)
+Magazine.Ger.MP_40	9x19mm Parabellum (32 round magazine)
+Magazine.Ger.StG_44	7.92x33mm Kurzpatrone PP 43 (30 round curved magazine)
+Magazine.Ger.Walter_P38	9x19mm Parabellum (8 round box magazine)	
+Magazine.Rus.100mm_UBR_412_(AP)	UBR-412 (Armor Piercing High Explosive)
+Magazine.Rus.100mm_UOF_412_(HE_FRAG)	UOF-412 (High Explosive)
+Magazine.Rus.122mm_UBR_460A_(HEAT)	VBP-463 (High Explosive Anti-Tank)
+Magazine.Rus.122mm_UOF_462_(HE_FRAG)	VOF-463 (High Explosive)
+Magazine.Rus.122mm_UBR_471_(AP)	VBR-471 (Armor Piercing High Explosive)
+Magazine.Rus.122mm_UOF_471_(HE_FRAG)	VOF-471 (High Explosive)
+Magazine.Rus.152mm_UO_530M_(HEAC)	UO-530M (Concrete Piercing)
+Magazine.Rus.152mm_UBR_540_(AP)	VBR-546 (Armor Piercing High Explosive)
+Magazine.Rus.152mm_UOF_540_(HE_FRAG)	VOF-546 (High Explosive)
+Magazine.Rus.152mm_UOF_540_1_(HE_FRAG)	VOF-536 (High Explosive)
+Magazine.Rus.37mm_BR_167_(AP)x5	UBR-167 (Armor Piercing)
+Magazine.Rus.37mm_OR_167_(HE)x5	UOR-167 (High Explosive)
+Magazine.Rus.45mm_UBR_243_(AP)	UBR-243 (Armor Piercing High Explosive Ballistic Cap)
+Magazine.Rus.45mm_UBR_243P_(APDS)	UBR-243P (Armor Piercing Composite Rigid)
+Magazine.Rus.45mm_UO_243_(HE_FRAG)	UO-243 (High Explosive)
+Magazine.Rus.57mm_UBR_271_(AP)	UBR-271 (Armor Piercing High Explosive Ballistic Cap)
+Magazine.Rus.57mm_UBR_271P_(APDS)	UBR-271P (Armor Piercing Composite Rigid)
+Magazine.Rus.57mm_UOF_271_(HE_FRAG)	UO-271U (High Explosive)
+Magazine.Rus.76_2mm_UBR_354A_(AP)	UBR-354A (Armor Piercing High Explosive Ballistic Cap)
+Magazine.Rus.76_2mm_UBR_354P_(APDS)	UBR-354P (Armor Piercing Composite Rigid)
+Magazine.Rus.76_2mm_UOF_354M_(HE_FRAG)	UOF-354M (Long Range High Explosive)
+Magazine.Rus.76_2mm_UBR_353A_(AP)	UBR-353A (Armor Piercing High Explosive)
+Magazine.Rus.76_2mm_UOF_353_(HE_FRAG)	UOF-353 (High Explosive)
+Magazine.Rus.76_2mm_UBR_354B_(APHEBC)	UBR-354B (Armor Piercing High Explosive Ballistic Cap)
+Magazine.Rus.76_2mm_UBR_354SP_(APBC)	UBR-354SP (Armor Piercing Solid)
+Magazine.Rus.85mm_UBR_365_(AP)	UBR-365 (Armor Piercing High Explosive Ballistic Cap)
+Magazine.Rus.85mm_UBR_365P_(APDS)	UBR-365P (Armor Piercing Composite Rigid)
+Magazine.Rus.85mm_UO_365_(HE_FRAG)	UO-365 (High Explosive)
+Magazine.Rus.RG_41	RG-41 (Offensive fragmentation grenade)
+Magazine.Rus.RG_42	RG-42 (Offensive fragmentation grenade)
+Magazine.Rus.RGD_33	RGD-33 (Offensive fragmentation grenade)
+Magazine.Rus.RPG_40	RPG-40 (Anti-Tank grenade)
+Magazine.Rus.RPG_41	RPG-41 (Anti-Tank grenade)
+Magazine.Rus.RPG_43	RPG-43 (Anti-Tank grenade)
+Magazine.Rus.F_1	F-1 (Defensive fragmentation grenade)
+Magazine.Rus.12_7mm_DShK_HMG	12.7x108mm B-30 (50 round belt)
+Magazine.Rus.14_5mm_PTRD_AT	14.5x114mm BS-41 (Armor Piercing)
+Magazine.Rus.20mm_(AP)x12	20x138mm BZ  (Armor Piercing and Tracer)
+Magazine.Rus.20mm_(AP)x58	20x138mm BZ  (Armor Piercing and Tracer)
+Magazine.Rus.20mm_Shvak_(API_HEI)	20x138mm BZ  (Armor Piercing Incendiary)
+Magazine.Rus.7_62mm_DT	7.62x54mm B-30 (63 round drum magazine)
+Magazine.Rus.7_62mm_Maxim_HMG	7.62x54mm B-30 (250 round belt)
+Magazine.Rus.DP_27	7.62x54mm B-30 (47 round drum magazine)
+Magazine.Rus.Mosin	7.62x54mm M1908 (5 round clip)
+Magazine.Rus.PPD_71	7.62x25mm Soviet Pistol (71 round drum magazine)
+Magazine.Rus.SVT_40	7.62x54mm M1908 (10 round box magazine)
+Magazine.Rus.TT	7.62x25mm Soviet Pistol (8 round box magazine)
+	
+Magazine.USA.105mm_HowM2A1_US_(HE)	M1 (Semi-Fixed High Explosive)
+Magazine.USA.105mm_HowM2A1_US_(HEAT)	M67 (High Explosive Anti-Tank)
+Magazine.USA.12_7mm_Browning_M2_HMG	12,7x99mm BMG (100 round belt)
+Magazine.USA.12_7mm_Browning_M2HB	12,7x99mm BMG (100 round belt)
+Magazine.USA.37mm_APC_M51_(AP)	M51B1 (Armor Piercing Capped Ballistic Cap)
+Magazine.USA.37mm_HE_M63_(HE)	M63 (High Explosive)
+Magazine.USA.57mm_M86_(APCBC)	M86 (Armor Piercing Capped Ballistic Cap)
+Magazine.USA.75mm_M48_(HE)	M48 (High Explosive)
+Magazine.USA.75mm_M61_(APCBC)	M61 (Armor Piercing Capped Ballistic Cap)
+Magazine.USA.76mm_M42A1_(HE)	M42A1 (High Explosive)
+Magazine.USA.76mm_M62_(AP)	M62A1 (Armor Piercing Capped Ballistic Cap)
+Magazine.USA.76mm_M93_(APDS)	M93 (Armor Piercing Composite Rigid)
+Magazine.USA.90mm_M304_(APDS)	M304 (Armor Piercing Composite Rigid)
+Magazine.USA.90mm_M71_(HE)	M71 (High Explosive)
+Magazine.USA.90mm_M82_(AP)	M82 (Armor Piercing Capped Ballistic Cap)
+Magazine.USA.M1_Round_(HEAT) 	M1 Round (High Explosive Anti-Tank)
+Magazine.USA.Mk_II_A1_(Pineapple)	Mk.2A1 (Defensive fragmentation grenade)
+Magazine.USA.Mk_III_A2	Mk.3A2 (Offensive fragmentation grenade)
+Magazine.USA.7_62mm_Browning_M1919A4	7.62x63mm M2 Ball (250 round belt)
+Magazine.USA.Browning_M1918A2	7.62x63mm M2 Ball (20 round box magazine)
+Magazine.USA.Browning_M1919A6	7.62x63mm M2 Ball (250 round belt)
+Magazine.USA.Colt_M1911A1	11.43x23mm Auto Colt Pistol (7 round box magazine)
+Magazine.USA.M1_Garand	7.62x63mm M2 Ball (8 round stripper clip)
+Magazine.USA.M37_Boys	13.97х99mm Kynoch Boyes (5 round stripper clip)
+Magazine.USA.M3A1_Grease_Gun	11.43x23mm Auto Colt Pistol (30 round box magazine)
+Magazine.USA.Tompson_M1A1	11.43x23mm Auto Colt Pistol (30 round box magazine)
+Magazine.USA.Springfield_M1903A4	7.62x63mm M2 Ball (5 round stripper clip)
+	
+Magazine.UK.20mm_Oerl_UK_(AP)x60	20x72mm RB Oerlikon SSG (Armor Piercing High Explosive) 
+Magazine.UK.40mm_2pdrATG_UK_(AP)	Shot, Mk.I (Armor Piercing) 
+Magazine.UK.40mm_2pdrATG_UK_(APCBC)	Shot, Mk.I (Armor Piercing Capped Ballistic Cap) 
+Magazine.UK.57mm_6pdr_AT_Gun_(HE)	Shell, Mk.X T (High Explosive) 
+Magazine.UK.57mm_APCBC_Mk_VI_(APCBC)	Shot, Mk.IX T (Armor Piercing Capped Ballistic Cap)
+Magazine.UK.57mm_APDS_Mk_VI_(APDS)	Shot, Mk.I T (Armor Piercing Discarding Sabot)
+Magazine.UK.7_7mm_Vickers_Mk_I_HMG	7.7х56mm British Mk.VII Ball (250 round belt)
+Magazine.UK.7_92mm_BESA	7.92x57mm Mauser (100 round belt)
+Magazine.UK.76_2mm_MKII_17pdr_(APCBC)	Shot, Mk.IV T (Armor Piercing Capped) 
+Magazine.UK.76_2mm_MKII_17pdr_(APDS)	Shot, Mk.I (Armor Piercing Discarding Sabot) 
+Magazine.UK.76_2mm_MKII_17pdr_(HE)	Shell, Mk.I T (High Explosive) 
+Magazine.UK.77mm_APCBC_MkVI_(APCBC)	Shot, Mk.VIIIT (Armor Piercing Capped Ballistic Cap)
+Magazine.UK.77mm_MkI_HE_(HE)	Shell, Mk.I T (High Explosive) 
+Magazine.UK.77mm_SVDS_(APDS)	Shot, Mk. IB T (Armor Piercing Discarding Sabot) 
+Magazine.UK.87mm_AP_Mk1_(AP)	Shot, Mk.I T (Armor Piercing) 
+Magazine.UK.87mm_HE_Mk1D_(HE)	Shell Mk.I D (High Explosive) 
+Magazine.UK.Bren_Mk1	7.7x56mm British Mk.VII Ball (30 round box magazine)
+Magazine.UK.Enfield_No2_MK1	9.65x19mm British Mk.II Ball (6 round cylinder magazine)
+Magazine.UK.Enfield_No4_MK1	7.7x56mm British Mk.VII Ball (10 round box magazine)
+Magazine.UK.No_36M_Mk1	No.36M Mk.I "Mills bomb" (Defensive fragmentation grenade)
+Magazine.UK.No_82_(Gammon_Bomb)	No.82 Mk.I "Gammon bomb" (Offensive fragmentation grenade)
+Magazine.UK.PIAT_Round_(HEAT)	Infantry Projector Mk.I A (High Explosive Anti-Tank)
+Magazine.UK.Sten_MkII	9х19mm Parabellum (32 round box magazine)
+	
+Magazine.Fr.13_2mm_Hotchkiss	Round Mle 1935 (Armor Piercing and Tracer)
+Magazine.Fr.25mm_APT_Mle_1943_(AP)x15	Round Mle 1934 (Armor Piercing and Tracer)
+Magazine.Fr.37mm_AP_Shot_Mle_1935_(AP)	Shot Mle 1935 (Armor Piercing)
+Magazine.Fr.37mm_HE_Shell_Mle_1937_(HE)	Shell Mle 1937 (High Explosive)
+Magazine.Fr.47mm_AP_Shot_Mle_1935_(AP)	Shot Mle 1935 (Armor Piercing Capped) 
+Magazine.Fr.47mm_HE_Shell_Mle_1932_(HE)	Shell Mle 1932 (High Explosive)
+Magazine.Fr.7_5mm_Chatellerault_Mle_31	7.5х54mm Round Mle 1929 C (150 round drum magazine)
+Magazine.Fr.75mm_AP_Shell_Mle_1910_(AP)	Shot Mle 1910M (Armor Piercing High Explosive)
+Magazine.Fr.75mm_Fgun_mle1897_Fr_Pol_(AP)	Shot Mle 1918 (Armor Piercing High Explosive)
+Magazine.Fr.75mm_Fgun_mle1897_Fr_Pol_(HE)	Shell Mle 1918 (High Explosive)
+Magazine.Fr.75mm_HE_Shell_Mle_1915_(HE)	Shell Mle 1915 (High Explosive)
+Magazine.Fr.8mm_Hotchkiss	8x50mm Round Hotchkiss Mle 1914
+Magazine.Fr.F1_Mle_1915	F1 Mle 1915 Percussion fuze (Defensive fragmentation grenade)
+Magazine.Fr.MAC_1924	7.5x54mm French Mle 1929 C (25 round box magazine)
+Magazine.Fr.MAS_1907	7.5x54mm French Mle 1929 C (5 round box magazine)
+Magazine.Fr.MAS_36	7.5x54mm French Mle 1929 C (5 round stripper clip)
+Magazine.Fr.MLE_1935S	7.65x19.5mm Longue (8 round box magazine)
+Magazine.Fr.Offensive_Mle_1937	OF 37 Mle 1935 fuze (Offensive fragmentation grenade)
+	
+Magazine.Pol.20mm_FKwz38_Pol_(AP)x5	20x138mm PWS (Armor Piercing High Explosive and Tracer)
+Magazine.Pol.37mm_Bof_wz36_Pol_(AP)	Pocisk przeciwpancerny wz.36 (Armor Piercing High Explosive and Tracer)
+Magazine.Pol.37mm_Bof_wz36_Pol_(HE)	Granata wz.36 (High Explosive)
+Magazine.Pol.47mm_VickQF_Pol_(AP)	Round QF (Armor Piercing High Explosive)
+Magazine.Pol.47mm_VickQF_Pol_(HE)	Shell QF (High Explosive)
+Magazine.Pol.75mm_Fgun_mle1897_Pol_(AP)	granat pancerny wz. 1910 (Armor Piercing High Explosive)
+Magazine.Pol.75mm_Fgun_mle1897_Pol_(HE)	wz. 1918 (High Explosive)
+Magazine.Pol.7_92mm_Hotchkiss_wz_25	7,92x57mm Mauser (250 round belt)
+Magazine.Pol.7_92mm_wz30	7,92x57mm Mauser (330 round belt)
+Magazine.Pol.Defensive_wz_1924	wz.24 (Defensive fragmentation grenade)
+Magazine.Pol.kb_ppanc_wz_35	7.92x107mm "DS" (Armor Piercing) 
+Magazine.Pol.Kb_wz_98	7.92x57mm Mauser (5 round box magazine)
+Magazine.Pol.Rkm_wz_28_Browning	7.92x57mm Mauser (20 round box magazine)
+Magazine.Pol.Vis_wz35	9x19mm Parabellum (8 round box magazine)
+
+Magazine.Ger.105mm_SprGr_(HE).short	FH.Gr.38
+Magazine.Ger.105mm_FHGr_rot_(HE).short	FH.Gr.40 FERN
+Magazine.Ger.105mm_Gr_39_HLB_(HEAT).short	Gr.39 Hl/B
+Magazine.Ger.105mm_PzGr_(AP).short	PzGr.
+Magazine.Ger.128mm_PzGr_43_(AP).short	PzGr.43 
+Magazine.Ger.128mm_SPzGr_40_(HE_FRAG).short	SprGr.40
+Magazine.Ger.150mm_Gr_19_Be_(HEAC).short	Gr.19 Be 
+Magazine.Ger.150mm_Gr_36_(HE).short	Gr.19 
+Magazine.Ger.150mm_Gr_39_HLA_(HEAT).short	Gr.39 Hl/A 
+Magazine.Ger.150mm_Gr_36_1_(HE).short	lgr.38
+Magazine.Ger.150mm_Gr_39_HLA_1_(HEAT).short	lgr.39 Hl/A
+Magazine.Ger.20mm_PzGr_(AP)x5.short	PzGr.
+Magazine.Ger.20mm_pzgr_40_(APCR)x5.short	PzGr.40
+Magazine.Ger.20mm_Fl38_(HE)x5.short	SprGr.
+Magazine.Ger.20mm_Pzgr_(AP)x20.short	PzGr. L'spur
+Magazine.Ger.20mm_pzgr_40_(APCR)x20.short	PzGr.40
+Magazine.Ger.20mm_Flak38_(HE)x20.short	SprGr.Patr. L'spur
+Magazine.Ger.25mm_PzGr_115_(AP)x15.short	PzGr.115(f)
+Magazine.Ger.37mm_pzgr_(AP)x6.short	PzGr.
+Magazine.Ger.37mm_pzgr_40_(APCR)x6.short	PzGr.40
+Magazine.Ger.37mm_Spgr_40_(HE)x6.short	SprGr.
+Magazine.Ger.37mm_PzGr_39t_(AP).short	PzGr.(t) 
+Magazine.Ger.37mm_Spgr_34t_(HE).short	SprGr.34(t)
+Magazine.Ger.37mm_pzgr_(AP).short	PzGr.(t)
+Magazine.Ger.37mm_pzgr_40_(APCR).short	PzGr.40 
+Magazine.Ger.37mm_Spgr_40_(HE).short	SprGr.18 umg.
+Magazine.Ger.37mm_PzGr_38t_(AP).short	PzGr.(t) umg.
+Magazine.Ger.50mm_pzgr_39_(APCBC).short	PzGr.39 
+Magazine.Ger.50mm_pzgr_40_(APCR).short	PzGr.40 
+Magazine.Ger.50mm_SPgGr_38_(HE).short	SprGr.38
+Magazine.Ger.PzB_39.short	7.92x94mm 318 Sm.K.H.
+Magazine.Ger.75mm_Gr_38_HLB_(HEAT).short	Gr.38 Hl/B
+Magazine.Ger.75mm_KGrRotPz_(AP).short	K.Gr.Rot.Pz.
+Magazine.Ger.75mm_PzGr_39_(APCBC).short	PzGr.39 
+Magazine.Ger.75mm_PzGr_39_42_(APCBC).short	PzGr.39/42
+Magazine.Ger.75mm_PzGr_40_(APCR).short	PzGr.40 
+Magazine.Ger.75mm_PzGr_40_42_(APCR).short	PzGr.40/42 
+Magazine.Ger.75mm_SprGr_34_(HE_FRAG).short	Gr.34
+Magazine.Ger.75mm_SprGr_Patr_42_(HE_FRAG).short	SprGr.42 
+Magazine.Ger.88mm_(HE).short	SprGr.
+Magazine.Ger.88mm_PzGr_39_1_(APCBC).short	PzGr.39
+Magazine.Ger.88mm_Gr_39_HL_1_(HEAT).short	Gr.39 Hl
+Magazine.Ger.88mm_PzGr_40_1_(APCR).short	PzGr.40
+Magazine.Ger.88mm_Gr_39_HL_(HEAT).short	Gr.39/3 Hl
+Magazine.Ger.88mm_PzGr_39_(APCBC).short	PzGr.39-1
+Magazine.Ger.88mm_PzGr_40_(APCR).short	PzGr.40/43
+Magazine.Ger.88mm_Sprgr_(HE).short	SprGr.43
+Magazine.Ger.Faustpatrone_(HEAT).short	Faustpatrone
+Magazine.Ger.M_24.short	M-24 
+Magazine.Ger.M_24_(GeballteLadung).short	M-24 GeballteLadung
+Magazine.Ger.M_39.short	M-39
+Magazine.Ger.Panzerfaust_100_(HEAT).short	Panzerfaust 100
+Magazine.Ger.Panzerfaust_30_(HEAT).short	Panzerfaust 30
+Magazine.Ger.Panzerfaust_60_(HEAT).short	Panzerfaust 60
+Magazine.Ger.PWM.short	PWM
+Magazine.Ger.RPzB_Gr_4322_(HEAT).short	RPzB.Gr. 4992
+Magazine.Ger.7_92mm_MG_35t.short	7.92x57mm Sm.K
+Magazine.Ger.7_92mm_MG_37.short	7.92x57mm Sm.K
+Magazine.Ger.Luger_P08.short	9x19mm Parabellum
+Magazine.Ger.Mauser_K98k.short	7.92x57mm Patrone 98
+Magazine.Ger.MG_34_belt.short	7.92x57mm Sm.K
+Magazine.Ger.MG_34_Magazin.short	7.92x57mm Sm.K
+Magazine.Ger.MG_42.short	7.92x57mm Sm.K
+Magazine.Ger.MP_40.short	9x19mm Parabellum
+Magazine.Ger.StG_44.short	7.92x33mm Kurz PP 43
+Magazine.Ger.Walter_P38.short	9x19mm Parabellum	
+Magazine.Rus.100mm_UBR_412_(AP).short	UBR-412
+Magazine.Rus.100mm_UOF_412_(HE_FRAG).short	UOF-412
+Magazine.Rus.122mm_UBR_460A_(HEAT).short	VBP-463
+Magazine.Rus.122mm_UOF_462_(HE_FRAG).short	VOF-463 
+Magazine.Rus.122mm_UBR_471_(AP).short	VBR-471 
+Magazine.Rus.122mm_UOF_471_(HE_FRAG).short	VOF-471
+Magazine.Rus.152mm_UO_530M_(HEAC).short	UO-530M
+Magazine.Rus.152mm_UBR_540_(AP).short	VBR-546
+Magazine.Rus.152mm_UOF_540_(HE_FRAG).short	VOF-546 
+Magazine.Rus.152mm_UOF_540_1_(HE_FRAG).short	VOF-536
+Magazine.Rus.37mm_BR_167_(AP)x5.short	UBR-167 
+Magazine.Rus.37mm_OR_167_(HE)x5.short	UOR-167 
+Magazine.Rus.45mm_UBR_243_(AP).short	UBR-243 
+Magazine.Rus.45mm_UBR_243P_(APDS).short	UBR-243P
+Magazine.Rus.45mm_UO_243_(HE_FRAG).short	UO-243 
+Magazine.Rus.57mm_UBR_271_(AP).short	UBR-271
+Magazine.Rus.57mm_UBR_271P_(APDS).short	UBR-271P 
+Magazine.Rus.57mm_UOF_271_(HE_FRAG).short	UO-271U
+Magazine.Rus.76_2mm_UBR_353A_(AP).short	UBR-353A 
+Magazine.Rus.76_2mm_UOF_353_(HE_FRAG).short	UOF-353M 
+Magazine.Rus.76_2mm_UBR_354A_(AP).short	UBR-354A
+Magazine.Rus.76_2mm_UBR_354P_(APDS).short	UBR-354P 
+Magazine.Rus.76_2mm_UOF_354M_(HE_FRAG).short	UOF-354M 
+Magazine.Rus.76_2mm_UBR_354B_(APHEBC).short	UBR-354B
+Magazine.Rus.76_2mm_UBR_354SP_(APBC).short	UBR-354SP
+Magazine.Rus.85mm_UBR_365_(AP).short	UBR-365 
+Magazine.Rus.85mm_UBR_365P_(APDS).short	UBR-365P 
+Magazine.Rus.85mm_UO_365_(HE_FRAG).short	UO-365 
+Magazine.Rus.RG_41.short	RG-41
+Magazine.Rus.RG_42.short	RG-42 
+Magazine.Rus.RGD_33.short	RGD-33 
+Magazine.Rus.RPG_40.short	RPG-40
+Magazine.Rus.RPG_41.short	RPG-41
+Magazine.Rus.RPG_43.short	RPG-43
+Magazine.Rus.F_1.short	F-1 
+Magazine.Rus.12_7mm_DShK_HMG.short	12.7x108mm B-30
+Magazine.Rus.14_5mm_PTRD_AT.short	14.5x114mm BS-41
+Magazine.Rus.20mm_(AP)x12.short	20x138mm BZ
+Magazine.Rus.20mm_(AP)x58.short	20x138mm BZ
+Magazine.Rus.20mm_Shvak_(API_HEI).short	20x138mm BZ
+Magazine.Rus.7_62mm_DT.short	7.62x54mm B-30
+Magazine.Rus.7_62mm_Maxim_HMG.short	7.62x53mm B-30
+Magazine.Rus.DP_27.short	7.62x54mm B-30
+Magazine.Rus.Mosin.short	7.62x54mm M1908
+Magazine.Rus.PPD_71.short	7.62x25mm Pistol
+Magazine.Rus.SVT_40.short	7.62x54mm M1908
+Magazine.Rus.TT.short	7.62x25mm Pistol
+	
+Magazine.USA.105mm_HowM2A1_US_(HE).short	M1
+Magazine.USA.105mm_HowM2A1_US_(HEAT).short	M67
+Magazine.USA.12_7mm_Browning_M2_HMG.short	.50 Cal. M2
+Magazine.USA.12_7mm_Browning_M2HB.short	.50 Cal. M2HB 
+Magazine.USA.37mm_APC_M51_(AP).short	M51B1
+Magazine.USA.37mm_HE_M63_(HE).short	M63
+Magazine.USA.57mm_M86_(APCBC).short	M86
+Magazine.USA.75mm_M48_(HE).short	M48
+Magazine.USA.75mm_M61_(APCBC).short	M61
+Magazine.USA.76mm_M42A1_(HE).short	M42A1
+Magazine.USA.76mm_M62_(AP).short	M62A1
+Magazine.USA.76mm_M93_(APDS).short	M93
+Magazine.USA.90mm_M304_(APDS).short	M304
+Magazine.USA.90mm_M71_(HE).short	M71
+Magazine.USA.90mm_M82_(AP).short	M82
+Magazine.USA.M1_Round_(HEAT).short	M1 Round
+Magazine.USA.Mk_II_A1_(Pineapple).short	Mk.2A1
+Magazine.USA.Mk_III_A2.short	Mk.3A2
+Magazine.USA.7_62mm_Browning_M1919A4.short	.30 Cal. M1919A4
+Magazine.USA.Browning_M1918A2.short	.30 Cal. M1918A2 
+Magazine.USA.Browning_M1919A6.short	.30 Cal. M1919A6 
+Magazine.USA.Colt_M1911A1.short	.45 ACP M1911A1 Colt
+Magazine.USA.M1_Garand.short	.30 Cal. M1 Garand
+Magazine.USA.M37_Boys.short	.55 Cal. M37 Boys
+Magazine.USA.M3A1_Grease_Gun.short	.45 ACP M3A1
+Magazine.USA.Tompson_M1A1.short	.45 ACP M1A1 
+Magazine.USA.Springfield_M1903A4.short	.30 Cal. M1903A4
+	
+Magazine.UK.20mm_Oerl_UK_(AP)x60.short	20x72mm Oerlikon SSG
+Magazine.UK.40mm_2pdrATG_UK_(AP).short	Shot, Mk.I
+Magazine.UK.40mm_2pdrATG_UK_(APCBC).short	Shot, Mk.I
+Magazine.UK.57mm_APDS_Mk_VI_(APDS).short	Shot, Mk.I T
+Magazine.UK.57mm_6pdr_AT_Gun_(HE).short	Shell, Mk.X T
+Magazine.UK.57mm_APCBC_Mk_VI_(APCBC).short	Shot, Mk.IX
+Magazine.UK.7_7mm_Vickers_Mk_I_HMG.short	7.7x56mm Mk.VII Ball
+Magazine.UK.7_92mm_BESA.short	7.92x57mm Mauser
+Magazine.UK.76_2mm_MKII_17pdr_(APCBC).short	Shot, Mk.IV T
+Magazine.UK.76_2mm_MKII_17pdr_(APDS).short	Shot, Mk.I
+Magazine.UK.76_2mm_MKII_17pdr_(HE).short	Shell, Mk.I T
+Magazine.UK.77mm_APCBC_MkVI_(APCBC).short	Shot, Mk.VIII T
+Magazine.UK.77mm_MkI_HE_(HE).short	Shell, Mk.I T
+Magazine.UK.77mm_SVDS_(APDS).short	Shot, Mk.IB T
+Magazine.UK.87mm_AP_Mk1_(AP).short	Shot, Mk.I
+Magazine.UK.87mm_HE_Mk1D_(HE).short	Shell Mk.I D
+Magazine.UK.Bren_Mk1.short	7.7x56mm Mk.VII Ball
+Magazine.UK.Enfield_No2_MK1.short	9.65x19mm Mk.II Ball
+Magazine.UK.Enfield_No4_MK1.short	7.7x56mm Mk.VII Ball
+Magazine.UK.No_36M_Mk1.short	No.36M Mk.I
+Magazine.UK.No_82_(Gammon_Bomb).short	No.82 Mk.I
+Magazine.UK.PIAT_Round_(HEAT).short	Mk.I A
+Magazine.UK.Sten_MkII.short	9х19mm Parabellum
+	
+Magazine.Fr.13_2mm_Hotchkiss.short	Round Mle 1935
+Magazine.Fr.25mm_APT_Mle_1943_(AP)x15.short	Round Mle 1934
+Magazine.Fr.37mm_AP_Shot_Mle_1935_(AP).short	Shot Mle 1935
+Magazine.Fr.37mm_HE_Shell_Mle_1937_(HE).short	Shell Mle 1937
+Magazine.Fr.47mm_AP_Shot_Mle_1935_(AP).short	Shot Mle 1935
+Magazine.Fr.47mm_HE_Shell_Mle_1932_(HE).short	Shell Mle 1932
+Magazine.Fr.7_5mm_Chatellerault_Mle_31.short	7.5х54 Mle 1931
+Magazine.Fr.75mm_AP_Shell_Mle_1910_(AP).short	Shot Mle 1910
+Magazine.Fr.75mm_Fgun_mle1897_Fr_Pol_(AP).short	Shot Mle 1918
+Magazine.Fr.75mm_Fgun_mle1897_Fr_Pol_(HE).short	Shell Mle 1918
+Magazine.Fr.75mm_HE_Shell_Mle_1915_(HE).short	Shell Mle 1915
+Magazine.Fr.8mm_Hotchkiss.short	8x50mm Mle 1914
+Magazine.Fr.F1_Mle_1915.short	F1 Mle 1915
+Magazine.Fr.MAC_1924.short	7.5x54mm Mle 1929C
+Magazine.Fr.MAS_1907.short	7.5x54mm Mle 1929C
+Magazine.Fr.MAS_36.short	7.5x54mm Mle 1929C
+Magazine.Fr.MLE_1935S.short	7.65x19.5mm Longue
+Magazine.Fr.Offensive_Mle_1937.short	OF 37 Mle 1935
+	
+Magazine.Pol.20mm_FKwz38_Pol_(AP)x5.short	20x138mm PWS
+Magazine.Pol.37mm_Bof_wz36_Pol_(AP).short	wz.36
+Magazine.Pol.37mm_Bof_wz36_Pol_(HE).short	wz.36
+Magazine.Pol.47mm_VickQF_Pol_(AP).short	Round QF
+Magazine.Pol.47mm_VickQF_Pol_(HE).short	Shell QF
+Magazine.Pol.75mm_Fgun_mle1897_Pol_(AP).short	wz. 1910
+Magazine.Pol.75mm_Fgun_mle1897_Pol_(HE).short	wz. 1918
+Magazine.Pol.7_92mm_Hotchkiss_wz_25.short	7.92x57mm Mauser
+Magazine.Pol.7_92mm_wz30.short	7.92x57mm Mauser
+Magazine.Pol.Defensive_wz_1924.short	wz.24
+Magazine.Pol.kb_ppanc_wz_35.short	7.92x107mm "DS"
+Magazine.Pol.Kb_wz_98.short	7.92x57mm Mauser
+Magazine.Pol.Rkm_wz_28_Browning.short	7.92x57mm Mauser
+Magazine.Pol.Vis_wz35.short	9x19mm Parabellum
+
+Weapon_Item.Ger.Faustpatrone    	Faustpatrone (10cm Faustpatrone klein  aus 1942)
+Weapon_Item.Ger.Faustpatrone.short   	Faustpatrone
+Weapon_Item.Ger.Luger_P08	9mm Luger P-08 (Parabellum-Pistole  Borchardt/Luger  aus 1908)
+Weapon_Item.Ger.Luger_P08.short	9mm P-08
+Weapon_Item.Ger.Mauser_K98k	7.92mm Mauser K98k  (Karabiner 98 kurz aus 1935)
+Weapon_Item.Ger.Mauser_K98k.short	7.92mm K98k
+Weapon_Item.Ger.Mauser_K98k_Sniper	7.92mm Mauser K98k (Sniper Karabiner 98 kurz aus 1935)
+Weapon_Item.Ger.Mauser_K98k_Sniper.short	7.92mm K98k
+Weapon_Item.Ger.MG_34	7.92mm MG-34 (MaschinenGewehr 34 )
+Weapon_Item.Ger.MG_34.short	7.92mm MG-34
+Weapon_Item.Ger.MG_42	7.92mm MG-42 (MaschinenGewehr 42 )
+Weapon_Item.Ger.MG_42.short	7.92mm MG-42
+Weapon_Item.Ger.MP_40	9mm MP-40 (MaschinenPistole 40 aus 1940)
+Weapon_Item.Ger.MP_40.short	9mm MP-40
+Weapon_Item.Ger.Panzerfaust_100	Panzerfaust-100 (15cm Panzerfaust aus 1944)
+Weapon_Item.Ger.Panzerfaust_100.short	Panzerfaust-100
+Weapon_Item.Ger.Panzerfaust_30	Panzerfaust-30 (10cm Panzerfaust aus 1943)
+Weapon_Item.Ger.Panzerfaust_30.short	Panzerfaust-30
+Weapon_Item.Ger.Panzerfaust_60	Panzerfaust-60 (15cm Panzerfaust aus 1944)
+Weapon_Item.Ger.Panzerfaust_60.short	Panzerfaust-60
+Weapon_Item.Ger.Panzerschreck	RPzB 54 (8.8 cm Raketen-Panzerbuchse "Panzerschreck" 54 aus 1944)
+Weapon_Item.Ger.Panzerschreck.short	RPzB 54
+Weapon_Item.Ger.PzB_39	7.92mm PzB-39 (PanzerBuchse aus 1939)
+Weapon_Item.Ger.PzB_39.short	7.92mm PzB-39
+Weapon_Item.Ger.StG_44	7.92mm StG-44(kurz)  (SturmGewehr 44 aus 1944)
+Weapon_Item.Ger.StG_44.short	7.92mm StG-44
+Weapon_Item.Ger.Walter_P38	9mm Walter P-38 (Pistole Walter P38/P1 aus 1938)
+Weapon_Item.Ger.Walter_P38.short	9mm P-38
+	
+Weapon_Item.Rus.14_5mm_PTRD_AT	14.5mm AT Rifle (anti-tank rifle Degtyarev 1941)
+Weapon_Item.Rus.14_5mm_PTRD_AT.short	14.5mm ATR
+Weapon_Item.Rus.DP_27	7.62mm DP-27 (light machine-gun Degtyarev 1927)
+Weapon_Item.Rus.DP_27.short	7.62mm DP-27
+Weapon_Item.Rus.Mosin	7.62mm Mosin (rifle 1891/30)
+Weapon_Item.Rus.Mosin.short	7.62mm Mosin
+Weapon_Item.Rus.Mosin_Sniper	7.62mm Mosin (sniper rifle 1891/30)
+Weapon_Item.Rus.Mosin_Sniper.short	7.62mm Mosin
+Weapon_Item.Rus.PPD	7.62mm PPD (submachinegun Degtyarev 1934/38)
+Weapon_Item.Rus.PPD.short	7.62mm PPD
+Weapon_Item.Rus.PPSh	7.62mm PPSh (submachinegun Shpagin 1941)
+Weapon_Item.Rus.PPSh.short	7.62mm PPSh
+Weapon_Item.Rus.SVT_40	7.62mm SVT-40 (rifle Tokarev 1940)
+Weapon_Item.Rus.SVT_40.short	7.62mm SVT-40
+Weapon_Item.Rus.SVT_40_Sniper	7.62mm SVT-40 (sniper rifle Tokarev 1940)
+Weapon_Item.Rus.SVT_40_Sniper.short	7.62mm SVT-40
+Weapon_Item.Rus.TT	7.62mm TT (pistol Tokarev 1933)
+Weapon_Item.Rus.TT.short	7.62mm TT
+	
+Weapon_Item.USA.Bazooka	Bazooka M1 (60mm anti-tank rocket launcher 1942)
+Weapon_Item.USA.Bazooka.short	Bazooka M1
+Weapon_Item.USA.Browning_M1918A2	.30 Cal. M1918A2 Browning (Browning Automatic Rifle 1940)
+Weapon_Item.USA.Browning_M1918A2.short	.30 Cal. M1918A2 
+Weapon_Item.USA.Browning_M1919A6	.30 Cal. M1919A6 Browning (Air Cooled Machine Gun 1943)
+Weapon_Item.USA.Browning_M1919A6.short	.30 Cal. M1919A6 
+Weapon_Item.USA.Colt_M1911A1	.45 ACP M1911A1 Colt (US Pistol M1911A1 1911/26)
+Weapon_Item.USA.Colt_M1911A1.short	.45 ACP M1911A1
+Weapon_Item.USA.M1_Garand	.30 Cal. M1 Garand (US rifle 1936)
+Weapon_Item.USA.M1_Garand.short	.30 Cal. M1 
+Weapon_Item.USA.M37_Boys	.55 Cal. M37 Boys  (anti-tank rifle 1937)
+Weapon_Item.USA.M37_Boys.short	.55 Cal. M37 
+Weapon_Item.USA.M3A1_Grease_Gun	.45 ACP M3A1 (US submachine gun M3/M3A1 "Grease Gun" 1942)
+Weapon_Item.USA.M3A1_Grease_Gun.short	.45 ACP M3A1 
+Weapon_Item.USA.Springfield_M1903A4	.30 Cal. M1903A3 Springfield (US rifle 1903/42)
+Weapon_Item.USA.Springfield_M1903A4.short	.30 Cal. M1903A3 
+Weapon_Item.USA.Springfield_M1903A4_sniper	.30 Cal. M1903A4 Springfield  (US sniper rifle 1903/42)
+Weapon_Item.USA.Springfield_M1903A4_sniper.short	.30 Cal. M1903A4 
+Weapon_Item.USA.Tompson_M1A1	.45 ACP M1A1 Thompson (submachine gun Thompson 1928)
+Weapon_Item.USA.Tompson_M1A1.short	.45 ACP M1A1 
+	
+Weapon_Item.UK.Bren_Mk1	.303 BREN Mk.I (machine gun Mk.I 1938)
+Weapon_Item.UK.Bren_Mk1.short	.303 BREN Mk.I
+Weapon_Item.UK.Enfield_No2_MK1	.303 Enfield No.2 Mk.I (revolver Lee-Enfield No.2 Mk.I 1926/27)
+Weapon_Item.UK.Enfield_No2_MK1.short	.303 Enfield No.2 Mk.I
+Weapon_Item.UK.Enfield_No4_MK1	.303 Enfield No.4 Mk.I (No 4 Mk I rifle Lee-Enfield  1939)
+Weapon_Item.UK.Enfield_No4_MK1.short	.303 Enfield No.4 Mk.I
+Weapon_Item.UK.Enfield_No4_MK1_T	.303 Enfield No.4 Mk.I T  (No 4 Mk I (T) Telescopic  Sniper Rifle 1939)
+Weapon_Item.UK.Enfield_No4_MK1_T.short	.303 Enfield No.4 Mk.I T
+Weapon_Item.UK.PIAT	PIAT (Projector, Infantry, Anti Tank 1942)
+Weapon_Item.UK.PIAT.short	PIAT 
+Weapon_Item.UK.Sten_MkII	9mm Sten Mk.II (submachine gun Sten Mk.II 1942)
+Weapon_Item.UK.Sten_MkII.short	9mm Sten Mk.II
+	
+Weapon_Item.Fr.MAC_1924	7.5mm MAC-1924 (machine-gun mod.1929)
+Weapon_Item.Fr.MAC_1924.short	7.5mm MAC-1924
+Weapon_Item.Fr.MAS_1907	8mm MAS-1907 15 M16 (rifle Berthier mod.07/15 M16)
+Weapon_Item.Fr.MAS_1907.short	8mm MAS-1907 15 M16
+Weapon_Item.Fr.MAS_36	7.5mm MAS-36 (rifle MAS 36 mod.1936)
+Weapon_Item.Fr.MAS_36.short	7.5mm MAS-36
+Weapon_Item.Fr.MAS_36_sniper	7.5mm MAS-36 (sniper rifle MAS 36 mod.1936)
+Weapon_Item.Fr.MAS_36_sniper.short	7.5mm MAS-36
+Weapon_Item.Fr.MLE_1935S	7.65mm Mle.1935S (pistol mod.1938)
+Weapon_Item.Fr.MLE_1935S.short	7.65mm Mle.1935S
+Weapon_Item.Pol.kb_ppanc_wz_35	7.92mm Kb ppanc wz35 (anti-tank rifle mod.1935)
+Weapon_Item.Pol.kb_ppanc_wz_35.short	7.92mm Kb ATR wz35
+Weapon_Item.Pol.Kb_wz_98	7.92mm Kb Mauser wz98  (rifle Mauser 1898)
+Weapon_Item.Pol.Kb_wz_98.short	7.92mm Kb wz98
+Weapon_Item.Pol.Kb_wz_98_PZO	7.92mm Kb wz98 PZO  (sniper rifle Mauser 1898)
+Weapon_Item.Pol.Kb_wz_98_PZO.short	7.92mm Kb wz98 PZO
+Weapon_Item.Pol.Rkm_wz_28_Browning	7.92mm Rkm wz28 Browning  (Browning Automatic Rifle (BAR) 1928)
+Weapon_Item.Pol.Rkm_wz_28_Browning.short	7.92mm Rkm wz28
+Weapon_Item.Pol.Vis_wz35	9mm Vis wz35 (pistol Parabellum 1935)
+Weapon_Item.Pol.Vis_wz35.short	9mm Vis wz35
+
+Weapon_Item.Ger.Panzerfaust_150	Panzerfaust-150 (Panzerfaust-150 aus 1945)
+Weapon_Item.Ger.Panzerfaust_150.short	Panzerfaust-150
+Magazine.Ger.Pan_150_(HEAT)	Panzerfaust 150
+Magazine.Ger.Pan_150_(HEAT).short	Panzerfaust 150
+Magazine.Ger.Stiel_Gr_41_(heat)     Stiel.Gr.41 (High Explosive Anti-Tank)
+
+Magazine.Ger.75mm_K_Gr_Pz_(p)_APHE.short Gr.Pz.(p)
+Magazine.Ger.75mm_Sprgr_236_1_(f)_HE.short Sprgr.236 1 (f) 
+Magazine.Ger.75mm_Gr_97_38_HlB_(f)_HEAT.short	Gr.97/38 HlB.(f) 
+Magazine.Rus.Mk_I_(HE)	Shell, Mk.I (HE)
+Magazine.Rus.45mm_UBR_243SP_(AP).short	UBR-243SP
+Magazine.Ger.75mm_K_Gr_Pz_(p)_APHE 	Gr.Pz.(p) (Armor piercing high explosive)
+Magazine.USA.76mm_M62_(APCBC)	M62A1 (Armor piercing capped ballistic capped)
+Magazine.USA.76mm_M93_(APCR)	M93 (Armor piercing composite rigid)
+Magazine.USA.76mm_M79_AP	M79 (Armor piercing)

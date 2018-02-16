@@ -1,0 +1,599 @@
+﻿ArmoredCar.Fr.Panhard_178_(25mm_gun)	Panhard 178 (AMD 35) (reconnaissance armored car AMD Panhard mod.1935)
+ArmoredCar.Fr.Panhard_178_(25mm_gun).short	Panhard 178
+ArmoredCar.Fr.Panhard_AMC_P_16	Panhard AMC P16 Mle.1929 (half-track armored car AMC Panhard mod.1929)
+ArmoredCar.Fr.Panhard_AMC_P_16.short	Panhard AMC P16
+ArmoredCar.Ger.Pzspw_P204f	Pzspw P204(f) (reconnaissance armored car Panzerspahwagen Panhard 178-P204(f) mod. 1935)
+ArmoredCar.Ger.Pzspw_P204f.short	Pzspw P204(f)
+ArmoredCar.Ger.SdKfz_222	SdKfz 222 (reconnaissance armored car mod.1935)
+ArmoredCar.Ger.SdKfz_222.short	SdKfz 222
+ArmoredCar.Ger.SdKfz_232_8Rad	SdKfz 232 8-rad (heavy armored car mod.1937)
+ArmoredCar.Ger.SdKfz_232_8Rad.short	SdKfz 232 8-rad
+ArmoredCar.Ger.SdKfz_250_1_alt	SdKfz 250/1 alt (light half-track armored car mod.1940)
+ArmoredCar.Ger.SdKfz_250_1_alt.short	SdKfz 250/1
+ArmoredCar.Ger.SdKfz_251_1_Ausf_C	SdKfz 251/1 Ausf.C (half-track armored car mod.1939)
+ArmoredCar.Ger.SdKfz_251_1_Ausf_C.short	SdKfz 251/1 Ausf.C
+ArmoredCar.Ger.SdKfz_251_1_Ausf_D	SdKfz 251/1 Ausf.D (half-track armored car mod.1943)
+ArmoredCar.Ger.SdKfz_251_1_Ausf_D.short	SdKfz 251/1 Ausf.D
+ArmoredCar.Pol.Wz_34	Wz 34 (light half-track armored car mod.1934)
+ArmoredCar.Pol.Wz_34.short	Wz 34
+ArmoredCar.Rus.BA_64	BA-64 (light half-track armored car mod.1942)
+ArmoredCar.Rus.BA_64.short	BA-64
+ArmoredCar.Rus.NKL_26	NKL-26 (military snowmobile mod.1941)
+ArmoredCar.Rus.NKL_26.short	NKL-26
+ArmoredCar.UK.Daimler_Mk_I	Daimler Mk.I (all-wheel-drive armored car mod.1941)
+ArmoredCar.UK.Daimler_Mk_I.short 	Daimler Mk.I
+ArmoredCar.USA.M3A1_Halftrack	M3A1 (half-track armored car mod.1934)
+ArmoredCar.USA.M3A1_Halftrack.short	M3A1
+ArmoredCar.USA.M6_Staghound	T17E1 Chevrolet (medium armored car (M6 Staghound) mod.1942)
+ArmoredCar.USA.M6_Staghound.short	T17E1
+ArmoredCar.USA.M8_Greyhound	M8 (light armored car М8 (T22E2) mod.1943)
+ArmoredCar.USA.M8_Greyhound.short	M8
+Artillery.Fr.75mm_Puteaux_Mle_1897_26	Puteaux Mle.1897/26 (75-mm field gun mod.1897)
+Artillery.Fr.75mm_Puteaux_Mle_1897_26.short	75mm FG Mle.1897/26
+Artillery.Fr.Art_Support_105mm_K_17	Art_Support_105mm_K_17
+Artillery.Ger.37mm_PaK_35_36	PaK 35/36 L/45 (37-mm anti-tank gun mod.1928)
+Artillery.Ger.37mm_PaK_35_36.short	PaK 35/36
+Artillery.Ger.50mm_PaK_38	PaK 38 L/60 (50-mm anti-tank gun mod.1940)
+Artillery.Ger.50mm_PaK_38.short	PaK 38
+Artillery.Ger.75mm_PAK_40	PaK 40 L/46 (75-mm anti-tank gun mod.1940)
+Artillery.Ger.75mm_PAK_40.short	PaK 40
+Artillery.Ger.88mm_PaK_43_41	PaK 43/41 L/71 (88-mm anti-tank gun mod.1943)
+Artillery.Ger.88mm_PaK_43_41.short	PaK 43/41
+Artillery.Ger.Art_Support_105mm_leFH18M_L28	Art_Support_105mm_leFH18M_L28
+Artillery.Pol.37mm_Bofors_wz_36	Bofors wz36 (37-mm anti-tank gun mod.1936)
+Artillery.Pol.37mm_Bofors_wz_36.short	Bofors wz36
+Artillery.Pol.75mm_Field_Gun_wz_1897	75-mm FG Wz.1897 (75-mm field gun mod.1897)
+Artillery.Pol.75mm_Field_Gun_wz_1897.short	75mm FG Wz.1897
+Artillery.Rus.45mm_AT_gun_mod_1938	45-mm anti-tank gun mod.1937
+Artillery.Rus.45mm_AT_gun_mod_1938.short 	45mm AT
+Artillery.Rus.57mm_ZIS_2	ZiS-2 (57-mm anti-tank gun mod. 1941)
+Artillery.Rus.57mm_ZIS_2.short	ZiS-2
+Artillery.Rus.76_2mm_ZIS_3	ZiS-3 (76.2-mm field gun mod.1942)
+Artillery.Rus.76_2mm_ZIS_3.short	ZiS-3
+Artillery.Rus.Art_Support_122mm_M_30	Art_Support_122mm_M_30
+Artillery.UK.57mm_6pdr_AT_Gun_Mk_IV	57-mm anti-tank gun Mk.IV
+Artillery.UK.57mm_6pdr_AT_Gun_Mk_IV.short  	57-mm AT Mk.IV
+Artillery.UK.87mm_25pdr_gun_howitzer_Mk2	87-mm gun-howitzer Mk.II
+Artillery.UK.87mm_25pdr_gun_howitzer_Mk2.short	87-mm Mk.II
+Artillery.USA.105mm_Howitzer_M2A1	105-mm howitzer M2A1 (M101)
+Artillery.USA.105mm_Howitzer_M2A1.short	M2A1
+Artillery.USA.57mm_AT_gun_M1	57-mm anti-tank gun M1
+Artillery.USA.57mm_AT_gun_M1.short 	57-mm AT М1
+Artillery.USA.Art_Support_105mm_Howitzer_M2A1	Art_Support_105mm_Howitzer_M2A1
+Car.Fr.UNIC_P107	UNIC P107 (artillery truck mod.1938)
+Car.Fr.UNIC_P107.short	UNIC P107
+Car.Ger.BMW_R75_w_MG_34	BMW R75 (motorcycle mod.1941)
+Car.Ger.BMW_R75_w_MG_34.short	BMW R75
+Car.Ger.Horch_830_B1	Horch 830 B1 (car type 830B1 mod.1933)
+Car.Ger.Horch_830_B1.short	Horch Type 830
+Car.Ger.Kubelwagen	Kubelwagen Type 82 (Kfz 1) (all-wheel-drive vehicle mod.1943)
+Car.Ger.Kubelwagen.short	Kubelwagen
+Car.Ger.Opel_Blitz_fuel	Kraftfahrzeug 385 Opel Blitz (fuel-truck mod.1940)
+Car.Ger.Opel_Blitz_fuel.short	Opel Blitz fuel truck
+Car.Ger.Opel_Blitz_med	Kraftfahrzeug 31 Opel Blitz (medical-truck Opel 3700 mod.1940)
+Car.Ger.Opel_Blitz_med.short	Opel Blitz medical-truck
+Car.Ger.Opel_Blitz_radio 	Kraftfahrzeug 68 Opel Blitz (radio-truck Opel mod.1940)
+Car.Ger.Opel_Blitz_radio.short	Opel Blitz radio-truck
+Car.Ger.Opel_Blitz_tent	Kraftfahrzeug 305 Opel Blitz (softtop Opel mod.1937)
+Car.Ger.Opel_Blitz_tent.short	Opel Blitz softtop truck
+Car.Ger.SdKfz_7	SdKfz 7 (artillery half-track mod.1934)
+Car.Ger.SdKfz_7.short	SdKfz 7
+Car.Pol.Polish_FIAT_PF_508_Lazik 	Polski Fiat 508/IIIW Lazik (all-wheel-drive vehicle PF508 Lazik mod.1934)
+Car.Pol.Polish_FIAT_PF_508_Lazik.short 	PF 508 Lazik
+Car.Pol.Polish_FIAT_PF_621_tent	Polski Fiat 621 (lorry PF 621 mod.1935)
+Car.Pol.Polish_FIAT_PF_621_tent.short 	PF 621
+Car.Rus.GAZ_67	GAZ-67 (all-wheel-drive vehicle mod.1942)
+Car.Rus.GAZ_67.short	GAZ-67
+Car.Rus.GAZ_AAA	GAZ-AAA (lorry mod.1934)
+Car.Rus.GAZ_AAA.short	GAZ-AAA
+Car.Rus.GAZ_M1	GAZ-M1 (car mod.1934)
+Car.Rus.GAZ_M1.short	GAZ-M1
+Car.Rus.NKL_16_mod_1941	NKL-16/41 (snowmobile mod.1941)
+Car.Rus.NKL_16_mod_1941.short	NKL-16/41
+Car.Rus.Voroshilovetz	Voroshilovetz (heavy artillery tractor mod.1935)
+Car.Rus.Voroshilovetz.short	Voroshilovetz
+Car.Rus.ZIS_5	ZiS-5 (lorry mod.1933)
+Car.Rus.ZIS_5.short	ZiS-5
+Car.Rus.ZIS_5_fuel	ZiS-5AC (fuel truck mod.1935)
+Car.Rus.ZIS_5_fuel.short	ZiS-5AC
+Car.UK.CPM_Ford_FAT_2	CPM Ford FAT-2 (all-wheel drive tractor)
+Car.UK.CPM_Ford_FAT_2.short	Ford FAT-2
+Car.UK.Universal_Carrier_Mk_I	Universal Carrier Mk.I (armored car mod.1938)
+Car.UK.Universal_Carrier_Mk_I.short 	UC Mk.I
+Car.USA.Dodge_WC_51	Dodge WC-51 (all-wheel drive tractor (weapons carrier) mod.1942)
+Car.USA.Dodge_WC_51.short	Dodge WC-51
+Car.USA.GMC_CCKW_353	GMC-CCKW-353 (lorry General Motors (Jimmy) 353 mod.1940)
+Car.USA.GMC_CCKW_353.short	GMC-CCKW-353
+Car.USA.Studebacker_US6	Studebacker US6 (lorry mod.1941)
+Car.USA.Studebacker_US6.short	US6
+Car.USA.Willys_MB	Willys MB (all-wheel-drive vehicle mod.1941)
+Car.USA.Willys_MB.short	Willys MB
+Container.ANY.AmmoPackSmall	AmmoPackSmall
+Container.ANY.AmmoSack	AmmoSack
+Detachment.Fr.Fr_Infantry_Eclairer_Detachment	Éclaireurs
+Detachment.Fr.Fr_Infantry_Fusilier_Detachment	Fusiliers
+Detachment.Fr.Fr_Sniper_Detachment	Sniper
+Detachment.Fr.Fr_Staff_Detachment	Staff Squad
+Detachment.Ger.Ger_Infantry_AntiTank_Panzerfaust_Detachment	Panzerfaust Squad
+Detachment.Ger.Ger_Infantry_AntiTank_Panzerschreck_Detachment	Panzerschreck Squad
+Detachment.Ger.Ger_Infantry_AntiTank_Rifle_Detachment	ATR Squad
+Detachment.Ger.Ger_Infantry_Detachment	Squad
+Detachment.Ger.Ger_InfantrySS_AntiTank_Panzerfaust_Detachment	SS Panzerfaust Squad
+Detachment.Ger.Ger_InfantrySS_AntiTank_Panzerschreck_Detachment	SS PzSchreck Squad
+Detachment.Ger.Ger_InfantrySS_AntiTank_Rifle_Detachment	SS ATR Squad
+Detachment.Ger.Ger_InfantrySS_Detachment	SS Squad
+Detachment.Ger.Ger_Paratrooper_Detachment	Paratroopers
+Detachment.Ger.Ger_Sniper_Detachment	Sniper
+Detachment.Ger.Ger_SniperSS_Detachment	SS Sniper
+Detachment.Ger.Ger_Staff_Detachment	Staff Squad
+Detachment.Ger.Ger_StaffSS_Detachment	SS Staff Squad
+Detachment.Pol.Pol_Infantry_AntiTank_Rifle_Detachment	ATR Squad
+Detachment.Pol.Pol_Infantry_Detachment	Squad
+Detachment.Pol.Pol_Sniper_Detachment	Sniper
+Detachment.Pol.Pol_Staff_Detachment	Staff Squad
+Detachment.Rus.Rus_Infantry_AntiTank_Rifle_Detachment	ATR Squad
+Detachment.Rus.Rus_Infantry_Detachment	Squad
+Detachment.Rus.Rus_Paratrooper_Detachment	Paratroopers
+Detachment.Rus.Rus_Sniper_Detachment	Sniper
+Detachment.Rus.Rus_Staff_Detachment	Staff Squad
+Detachment.UK.UK_Infantry_Detachment	Squad
+Detachment.UK.UK_Paratrooper_Detachment	Paratroopers
+Detachment.UK.UK_Sniper_Detachment	Sniper
+Detachment.UK.UK_Staff_Detachment	Staff Squad
+Detachment.USA.USA_Infantry_Detachment	Squad
+Detachment.USA.USA_Paratrooper_Detachment	Paratroopers
+Detachment.USA.USA_Sniper_Detachment	Sniper
+Detachment.USA.USA_Staff_Detachment	Staff Squad
+Flak.Ger.Flakpanzer_38t_L_(Gepard)	leichter Flakpanzer 38(t)auf Selbstfahrlafette 38(t) Ausf L (anti-aircraft tank "Gepard" mod.1943)
+Flak.Ger.Flakpanzer_38t_L_(Gepard).short	FlakPz 38(t)
+Flak.Ger.SdKfz_6_2	37 mm FlaK36 auf Fahrgestell Zugkraftwagen 5t (Sd.Kfz.6/2) (half-track anti-aircraft vehicle mod.1943)
+Flak.Ger.SdKfz_6_2.short	SdKfz 6/2
+Flak.Ger.SdKfz_7_1	2 сm FlaK38 auf Fgst Zgkw 8t (Sd.Kfz.7/1) (half-track anti-aircraft vehicle mod.1944)
+Flak.Ger.SdKfz_7_1.short      	SdKfz 7/1
+Flak.Rus.ZIS_5_37mm_61_K	37mm 61K on ZiS-5 (anti-aircraft 37mm gun based on lorry ZiS-5)
+Flak.Rus.ZIS_5_37mm_61_K.short	37mm 61K
+Flak.UK.Crusader_III_AA_Mk_II	Mk.II, Crusader III  (anti-aircraft tank  mod.1943)
+Flak.UK.Crusader_III_AA_Mk_II.short 	Mk.II, Crusader III
+Flak.USA.M16_MGMC	M16 Multiple Gun Motor Carriage (half-track anti-aircraft vehicle mod.1942)
+Flak.USA.M16_MGMC.short	M16 MGMC
+	
+Fortification.Fr.Dot_HMG_Frontal_Left	Pillbox (right)
+Fortification.Fr.Dot_HMG_Frontal_Right	Pillbox (left)
+Fortification.Ger.Dot_HMG_Frontal_Left	Pillbox (right)
+Fortification.Ger.Dot_HMG_Frontal_Right	Pillbox (left)
+Fortification.Ger.DZOT_HMG_Wood	Wooden pillbox
+Fortification.Rus.Dot_HMG_Frontal_Left	Pillbox (right)
+Fortification.Rus.Dot_HMG_Frontal_Right	Pillbox (left)
+Fortification.Rus.DZOT_HMG_Wood	Wooden pillbox
+HMG.Ger.7_92mm_MG_34	MG-34 (7.92mm MaschinenGewehr 34)
+HMG.Ger.7_92mm_MG_34.short	MG-34
+HMG.Ger.7_92mm_MG_42	MG-42 (7.92mm MaschinenGewehr 42)
+HMG.Ger.7_92mm_MG_42.short	MG-42
+HMG.Rus.12_7mm_DShK	DShK  (12.7mm machine-gun Degtyarev-Shpagin mod.1938)
+HMG.Rus.12_7mm_DShK.short	DShK
+HMG.Rus.7_62mm_Maxim	Maxim  (7.62mm heavy machine-gun mod.1910)
+HMG.Rus.7_62mm_Maxim.short	Maxim
+HMG.UK.7_7mm_Vickers_Mk_I	Vickers Mk.I (7.7mm Vickers machine gun mod.1912)
+HMG.UK.7_7mm_Vickers_Mk_I.short 	Vickers Mk.I
+HMG.USA.12_7mm_Browning_M2	M2HB Browning (12.7mm heavy machine gun (heavy barrel) mod.1921)
+HMG.USA.12_7mm_Browning_M2.short 	M2HB
+Human.Fr.Fr_Infantry	French Infantry
+Human.Fr.Fr_Orderly	French Orderly
+Human.Fr.Fr_Partisan	French Partisan
+Human.Fr.Fr_Tankman	French Tanker
+Human.Ger.Ger_Infantry	German Infantry
+Human.Ger.Ger_Infantry_SS	German SS Infantry
+Human.Ger.Ger_Orderly	German Orderly
+Human.Ger.Ger_Paratrooper	German Paratrooper
+Human.Ger.Ger_Sniper	German Sniper
+Human.Ger.Ger_Sniper_SS	German SS Sniper
+Human.Ger.Ger_SPGmanClose	German Tanker
+Human.Ger.Ger_SPGmanClose_SS	German SS Tanker
+Human.Ger.Ger_SPGmanOpen	German Tanker
+Human.Ger.Ger_SPGmanOpen_SS	German SS Tanker
+Human.Ger.Ger_Tankman	German Tanker
+Human.Ger.Ger_Tankman_SS	German SS Tanker
+Human.Pol.Pol_Infantry	Polish Infantry
+Human.Pol.Pol_Orderly	Polish Orderly
+Human.Pol.Pol_Partisan	Polish Partisan
+Human.Pol.Pol_Tankman	Polish Tanker
+Human.Rus.Rus_Infantry	Russian Infantry
+Human.Rus.Rus_Orderly	Russian Orderly
+Human.Rus.Rus_Paratrooper	Russian Paratrooper
+Human.Rus.Rus_Partisan	Russian Partisan
+Human.Rus.Rus_Sniper	Russian Sniper
+Human.Rus.Rus_Tankman	Russian Tanker
+Human.UK.UK_Infantry	UK Infantry
+Human.UK.UK_Orderly	UK Orderly
+Human.UK.UK_Paratrooper	UK Paratrooper
+Human.UK.UK_Sniper	UK Sniper
+Human.UK.UK_Tankman	UK Tanker
+Human.USA.USA_Infantry	USA Infantry
+Human.USA.USA_Orderly	USA Orderly
+Human.USA.USA_Paratrooper	USA Paratrooper
+Human.USA.USA_Sniper	USA Sniper
+Human.USA.USA_Tankman	USA Tanker
+Planes.ANY.Observer	Observer
+Planes.Fr.Blenheim_MkIV	Blenheim Mk.IV
+Planes.Fr.Buffalo_MkI	Buffalo Mk.I
+Planes.Fr.Hawk_75A_4	Hawk 75A 4
+Planes.Fr.MS_406	MS-406
+Planes.Ger.Bf_109F_4	Bf-109F 4
+Planes.Ger.Bf_110C_4B	Bf-110C 4B
+Planes.Ger.Fi_156	Fi-156
+Planes.Ger.Fw_190A_8	Fw-190A 8
+Planes.Ger.He_111H_2	He-111H 2
+Planes.Ger.Hs_129B_2	Hs-129B 2
+Planes.Pol.P_11c_Battleplane	P-11c Attack Plane
+Planes.Pol.P_11c_Bomber	P-11c Bomber
+Planes.Pol.P_11c_Fighter	P-11c Fighter
+Planes.Pol.P_11c_Recon	P-11c Recon
+Planes.Rus.Il_2_1941_Late	Il-2 1941 Late
+Planes.Rus.La_7	La-7
+Planes.Rus.Pe_2series359	Pe-2 series 359
+Planes.Rus.U_2VS	U-2VS
+Planes.Rus.Yak_1B	Yak-1B
+Planes.UK.Blenheim_MkI	Blenheim Mk.I
+Planes.UK.Gladiator_MkII	Gladiator Mk.II
+Planes.UK.Hurricane_MkIIc	Hurricane Mk.IIc
+Planes.UK.Spitfire_MkVb	Spitfire Mk.Vb
+Planes.USA.B_17D	B-17D
+Planes.USA.P_38L	P-38L
+Planes.USA.P_47D_22	P-47D 22
+Planes.USA.P_51B	P-51B
+
+SPG.Ger.Brummbar	Sturmpanzer IV "Brummbar" (assault tank "Brummbar" SdKfz 166)
+SPG.Ger.Brummbar.short	Brummbar
+SPG.Ger.Elefant	Jagdpanzer Tiger(Pzkpfw VI) "Elefant" (anti-tank SPG on "Tiger" base  Elefant SdKfz 184)
+SPG.Ger.Elefant.short 	Elefant
+SPG.Ger.Ferdinand	Jagdpanzer Tiger(Pzkpfw VI) "Ferdinand" (anti-tank SPG on "Tiger" base  Ferdinand SdKfz 184)
+SPG.Ger.Ferdinand.short	Ferdinand
+SPG.Ger.Hummel	Panzerhaubitze 18/1Sf "Hummel" (self propelled field howitzer "Hummel" SdKfz 165)
+SPG.Ger.Hummel.short	Hummel
+SPG.Ger.Jagdpanther	Jagdpanzer Panther (Pzkpfw V(G)) (anti-tank SPG on "Panther" base "Jagdpanther" mod.1944 SdKfz 173)
+SPG.Ger.Jagdpanther.short	Jagdpanther
+SPG.Ger.Jagdpanzer_38t_(Hetzer)	Panzerjager 38(t) (PzKpfw 38(t)) (anti-tank SPG on "Skoda (LT-38) mod.1938" based on SdKfz 138/2)
+SPG.Ger.Jagdpanzer_38t_(Hetzer).short	Hetzer
+SPG.Ger.Jagdpanzer_IV	Jagdpanzer IV Ausf F (leichter) (anti-tank SPG on T-IV base mod.1944 SdKfz 162)
+SPG.Ger.Jagdpanzer_IV.short	Jagdpanzer IV
+SPG.Ger.Jagdpanzer_IV_70 	Jagdpanzer IV/70V (anti-tank SPG on T-IVH base mod.1944 SdKfz 162/1)
+SPG.Ger.Jagdpanzer_IV_70.short	Jagdpanzer IV/70V
+SPG.Ger.Jagdtiger	Jagdpanzer VI Jagdtiger Ausf. B (anti-tank SPG on "King Tiger" base mod.1944 SdKfz 186)
+SPG.Ger.Jagdtiger.short	Jagdtiger
+SPG.Ger.Nashorn	Selbstfahrlafette "Nashorn"(Hornisse) (self propelled field howitzer "Nashorn" mod.1944 SdKfz 164)
+SPG.Ger.Nashorn.short	Nashorn
+SPG.Ger.StuG_40_G	gep. SF fur Sturmgeschutz III(40) Ausf.G (assault SPG mod.1942 SdKfz 142/1)
+SPG.Ger.StuG_40_G.short	StuG III Ausf.G
+SPG.Ger.Stug_III_CD	gep. SF fur Sturmgeschutz III Ausf.D (assault SPG mod.1941 SdKfz 142)
+SPG.Ger.Stug_III_CD.short	StuG III Ausf.D
+SPG.Ger.StuG_IV	gep. SF fur Sturmgeschutz IV (assault SPG mod.1943 SdKfz 163/167)
+SPG.Ger.StuG_IV.short	StuG IV
+SPG.Ger.Wespe	leFH18/2 auf Fahrgestell Pz IISf (Wespe) (light self propelled field howitzer "Wespe" mod.1943 SdKfz 124)
+SPG.Ger.Wespe.short	Wespe
+
+SPG.Rus.ISU_152	ISU-152 (heavy SPG on IS-2 base mod.1944)
+SPG.Rus.ISU_152.short	ISU-152
+SPG.Rus.SU_100	SU-100 (anti-tank SPG mod.1944)
+SPG.Rus.SU_100.short	SU-100
+SPG.Rus.SU_122	SU-122 (self propelled howitzer mod.1942)
+SPG.Rus.SU_122.short	SU-122
+SPG.Rus.SU_76M	SU-76M (infantry SPG mod.1943)
+SPG.Rus.SU_76M.short	SU-76M
+SPG.Rus.SU_85	SU-85 (anti-tank SPG mod.1943)
+SPG.Rus.SU_85.short	SU-85
+SPG.UK.Archer	Archer (anti-tank SPG "Archer" on tank "Valentine" base  mod.1944)
+SPG.UK.Archer.short	Archer
+SPG.USA.M10_(Wolverine)	M10 Gun Motor Carriage (anti-tank SPG on tank M4A2 (Sherman) base mod.1942)
+SPG.USA.M10_(Wolverine).short	M10
+SPG.USA.M36_(Slugger)	M36 Jackson (anti-tank SPG on tank M4A3 (Sherman) base mod.1943г.)
+SPG.USA.M36_(Slugger).short	M36
+Tanks.Fr.Bataille_B1_Bis	Char de bataille B1 bis (medium tank B1 Bis mod.1935)
+Tanks.Fr.Bataille_B1_Bis.short	Bataille Char B1 bis
+Tanks.Fr.Hotchkiss_H35	Hotchkiss H35 (light tank mod.1935)
+Tanks.Fr.Hotchkiss_H35.short	H35
+Tanks.Fr.Renault_AMR_35ZT	Renault AMR 35zt (light tank mod.1934)
+Tanks.Fr.Renault_AMR_35ZT.short	AMR 35zt
+Tanks.Fr.Renault_FT17	Renault FT-17 (light tank mod.1917)
+Tanks.Fr.Renault_FT17.short	FT-17
+Tanks.Fr.Renault_R35	Renault R35 (light tank mod.1935)
+Tanks.Fr.Renault_R35.short	R35
+Tanks.Fr.Somua_S35	Somua S35 (medium tank mod.1935)
+Tanks.Fr.Somua_S35.short	S35
+Tanks.Ger.KlPzBfWg_I	Kleiner PanzerBefehlswagen I Ausf B (commander light tank mod.1935)
+Tanks.Ger.KlPzBfWg_I.short	KlPzBfWg I
+Tanks.Ger.Pz_35t	Panzerkampfwagen 35(t) (light tank (Shkoda LT-35 mod.1935))
+Tanks.Ger.Pz_35t.short	Pz 35(t)
+Tanks.Ger.Pz_38t	Panzerkampfwagen 38(t) (light tank (Shkoda LT-38 mod.1938))
+Tanks.Ger.Pz_38t.short	Pz 38(t)
+Tanks.Ger.Pz_IB	Panzerkampfwagen I Ausf.B (light tank mod.1934)
+Tanks.Ger.Pz_IB.short	Pz I Ausf.B
+Tanks.Ger.Pz_IIC	Panzerkampfwagen II Ausf.C (light tank mod.1938)
+Tanks.Ger.Pz_IIC.short	Pz II Ausf.C
+Tanks.Ger.Pz_IIF	Panzerkampfwagen II Ausf.F (light tank mod.1940)
+Tanks.Ger.Pz_IIF.short	Pz II Ausf.F
+Tanks.Ger.Pz_IIIF	Panzerkampfwagen III Ausf.F (medium tank mod.1939)
+Tanks.Ger.Pz_IIIF.short 	Pz III Ausf.F
+Tanks.Ger.Pz_IIIJ	Panzerkampfwagen III Ausf.J (medium tank mod.1941)
+Tanks.Ger.Pz_IIIJ.short 	Pz III Ausf.J
+Tanks.Ger.Pz_IIIM	Panzerkampfwagen III Ausf.M (medium tank mod.1942)
+Tanks.Ger.Pz_IIIM.short 	Pz III Ausf.M
+Tanks.Ger.Pz_IVC	Panzerkampfwagen IV Ausf.C (medium tank mod.1938) 
+Tanks.Ger.Pz_IVC.short  	Pz IV Ausf.C
+Tanks.Ger.Pz_IVF2	Panzerkampfwagen IV Ausf.F2 (medium tank mod.1942)
+Tanks.Ger.Pz_IVF2.short	Pz IV Ausf.F2
+Tanks.Ger.Pz_IVH	Panzerkampfwagen IV Ausf.H (medium tank mod.1943)
+Tanks.Ger.Pz_IVH.short	Pz IV Ausf.H
+Tanks.Ger.Pz_VG_(Panther)	Panzerkampfwagen V Ausf.G (heavy tank "Panther" mod.1944)
+Tanks.Ger.Pz_VG_(Panther).short	Pz V Ausf.G Panther
+Tanks.Ger.Pz_VIB_(Tiger_II)	Panzerkampfwagen VI Tiger II Ausf.B "Konigstiger" (heavy tank "King Tiger" mod.1943)
+Tanks.Ger.Pz_VIB_(Tiger_II).short 	Pz VI Tiger II Ausf.B
+Tanks.Ger.Pz_VIE_(Tiger_I)	Panzerkampfwagen VI Tiger I Ausf.E (heavy tank "Tiger" mod.1943)
+Tanks.Ger.Pz_VIE_(Tiger_I).short	Pz VI Tiger Ausf.E
+Tanks.Pol.7TP	7TP (light tank mod.1935)
+Tanks.Pol.7TP.short 	7TP
+Tanks.Pol.TKS	TKS (small tank mod.1933)
+Tanks.Pol.TKS.short	TKS
+Tanks.Pol.TKS_MG	TKS MG (small tank mod.1933)
+Tanks.Pol.TKS_MG.short	TKS MG
+Tanks.Pol.Vickers_E_dw	Vickers E dw (dual-turret light tank mod.1928/32г. type A)
+Tanks.Pol.Vickers_E_dw.short	Vickers E dw
+Tanks.Pol.Vickers_E_jw	Vickers E jw (light tank mod.1928/32г. type B)
+Tanks.Pol.Vickers_E_jw.short	Vickers E jw
+Tanks.Rus.BT_7_mod_1935	BT-7 (light tank mod.1935)
+Tanks.Rus.BT_7_mod_1935.short	BT-7
+Tanks.Rus.BT_7A	BT-7A (light tank mod.1936)
+Tanks.Rus.BT_7A.short	BT-7A
+Tanks.Rus.IS_2	IS-2 (heavy tank "Iosif Stalin" mod.1943)
+Tanks.Rus.IS_2.short	IS-2
+Tanks.Rus.KV_1	KV-1 (heavy tank "Kliment Voroshilov-1" mod.1939)
+Tanks.Rus.KV_1.short	KV-1
+Tanks.Rus.KV_2	KV-2 (heavy tank "Kliment Voroshilov-2" mod.1940)
+Tanks.Rus.KV_2.short	KV-2
+Tanks.Rus.T_26_mod_1933	T-26 (light tank mod.1933)
+Tanks.Rus.T_26_mod_1933.short	T-26
+Tanks.Rus.T_27	T-27 (small tank mod.1931)
+Tanks.Rus.T_27.short	T-27
+Tanks.Rus.T_34_85	T-34-85 (medium tank mod.1944) 
+Tanks.Rus.T_34_85.short	T-34-85
+Tanks.Rus.T_34_mod_1941	T-34 mod.41 (medium tank mod.1941)
+Tanks.Rus.T_34_mod_1941.short	T-34 mod.41
+Tanks.Rus.T_34_mod_1943	T-34 mod.43 (medium tank mod.1943)
+Tanks.Rus.T_34_mod_1943.short	T-34 mod.43
+Tanks.Rus.T_40S	T-40S (light tank mod.1941)
+Tanks.Rus.T_40S.short	T-40S
+Tanks.Rus.T_60	T-60 (light tank mod.1941)
+Tanks.Rus.T_60.short	T-60
+Tanks.Rus.T_70M	T-70M (light tank mod.1942)
+Tanks.Rus.T_70M.short	T-70M
+Tanks.UK.A12_(Matilda_II)	Infantry tank Mk.II, Matilda II (infantry heavy tank mod.1937)
+Tanks.UK.A12_(Matilda_II).short	Mk.II, Matilda II
+Tanks.UK.A15_(Valentine_II)	Infantry tank Mk.III, Valentine II (infantry light tank mod.1940)
+Tanks.UK.A15_(Valentine_II).short	Mk.III, Valentine II
+Tanks.UK.A22F_(Churchill_VII)	Infantry tank Mk.IV, Churchill VII (infantry medium tank mod.1943)
+Tanks.UK.A22F_(Churchill_VII).short	Mk.IV, Churchill VII
+Tanks.UK.A27M_(Cromwell_IV)	Cruiser Tank Mk.VIII, Cromwell IV (heavy cruiser tank mod.1943)
+Tanks.UK.A27M_(Cromwell_IV).short	Mk.VIII, Cromwell IV
+Tanks.UK.A30_(Challenger_I)	Cruiser Tank, Challenger I (heavy cruiser tank mod.1943г.)
+Tanks.UK.A30_(Challenger_I).short	Cruiser Tank, Challenger I
+Tanks.UK.A34_(Comet_I)	Cruiser Tank, Comet (cruiser tank mod.1944г.)
+Tanks.UK.A34_(Comet_I).short	Comet
+Tanks.USA.M24_(Chaffee)	M24 Chaffee (infantry light tank mod.1944) 
+Tanks.USA.M24_(Chaffee).short	M24
+Tanks.USA.M3_(Lee)	M3  (medium tank "General Lee" mod.1941)
+Tanks.USA.M3_(Lee).short	M3
+Tanks.USA.M4_(Sherman)	M4 Sherman (medium tank M4 "General Sherman" mod.1942)
+Tanks.USA.M4_(Sherman).short	M4 Sherman
+Tanks.USA.M4A1_(Sherman)	M4A1 Sherman (medium tank М4A1 "General Sherman" mod.1942)
+Tanks.USA.M4A1_(Sherman).short	M4A1 Sherman
+Tanks.USA.M4A2_(Sherman)	M4A2 Sherman (medium tank М4A2 "General Sherman" mod.1942)
+Tanks.USA.M4A2_(Sherman).short	M4A2 Sherman
+Tanks.USA.M4A2_76_W_(Sherman)	M4A2 76W Sherman (medium tank М4A2 "General Sherman" mod.1944)
+Tanks.USA.M4A2_76_W_(Sherman).short	M4A2 76W Sherman
+Tanks.USA.M4A3_76_W_(Sherman)	M4A3 76W Sherman (medium tank М4A3 "General Sherman" mod.1944)
+Tanks.USA.M4A3_76_W_(Sherman).short	M4A3 76W Sherman
+Tanks.USA.M5A1_(Stuart)	M5A1 Stuart (light tank М5А1 "General Stuart" mod.1942) 
+Tanks.USA.M5A1_(Stuart).short	M5A1 Stuart
+Tanks.Ger.T_34_mod_1941_ger	Panzerkampfwagen T-34/747(r) (captured medium tank T-34 mod.1941)
+Tanks.Ger.T_34_mod_1941_ger.short	Pzkpfw T-34/747(r)
+SPG.Ger.SU_85_ger	Jagdpanzer SU-85(r) (captured 85mm tank destroyer mod.1943)
+SPG.Ger.SU_85_ger.short	JgdPz SU-85(r)
+Tanks.Ger.KV_1_ger	Panzerkampfwagen KV-1a/753(r) (captured heavy tank KV-1 mod.1941)
+Tanks.Ger.KV_1_ger.short Pzkpfw KV-1a/753(r)
+Tanks.Ger.T_34_85_ger	Panzerkampfwagen T-34/747(r) (captured medium tank T-34 mod.1944)
+Tanks.Ger.T_34_85_ger.short	Pzkpfw T-34-85/747(r)
+Tanks.Ger.m3_(lee)_ger	Panzerkampfwagen M3 (captured medium tank M3 "General Lee" mod.1941)
+Tanks.Ger.m3_(lee)_ger.short	Pzkpfw M3
+Tanks.Ger.m4a2_(sherman)_ger	Panzerkampfwagen M4 (captured medium tank M4 "General Sherman" mod.1942)
+Tanks.Ger.m4a2_(sherman)_ger.short	Pzkpfw M4
+ArmoredCar.Ger.BA_64_ger	BA-64 (captured light armored car mod.1942)
+ArmoredCar.Ger.BA_64_ger.short	BA-64
+Artillery.Ger.76_2mm_ZIS_3_ger	7.62cm Feldkanone 288(r) (captured divisional gun mod.1942)
+Artillery.Ger.76_2mm_ZIS_3_ger.short	7.62cm Feldkanone 288(r)
+Car.Rus.Dodge_WC_51_rus	Dodge WC-51 (all-wheel drive semi-cargo truck Dodge (3/4) VC-51 mod.1942 lend-lease)
+Car.Rus.Dodge_WC_51_rus.short	Dodge VC-51
+Car.Rus.Studebacker_US6_rus	Studebacker US6 (cargo truck Studebacker US-6 mod.1941 lend-lease)
+Car.Rus.Studebacker_US6_rus.short	Studebacker US6
+Car.Rus.Willys_MB_rus	Willys MB (all-wheel drive all-terrain automobile Willys mod.1941 lend-lease)
+Car.Rus.Willys_MB_rus.short	Willys
+ArmoredCar.Rus.M3A1_Halftrack_rus	M9A1 (armored halftrack M9A1 mod.1934 lend-lease)
+ArmoredCar.Rus.M3A1_Halftrack_rus.short	M9A1
+Tanks.Rus.A15_(Valentine_II)_rus	Infantry tank Mk.III, Valentine II (light infantry tank "Valentine" mod.1940 lend-lease)
+Tanks.Rus.A15_(Valentine_II)_rus.short	Valentine
+Tanks.Rus.A12_(Matilda_II)_rus	Infantry tank Mk. II, Matilda II (heavy infantry tank "Matilda" mod.1937 lend-lease)
+Tanks.Rus.A12_(Matilda_II)_rus.short	Matilda
+Tanks.Rus.m3_(lee)_rus	M3 Lee (medium tank M3 "General Lee" mod.1941 lend-lease)
+Tanks.Rus.m3_(lee)_rus.short	М3
+Tanks.Rus.M4A2_(Sherman)_rus	M4A2 Sherman (medium tank М4A2 "General Sherman" mod.1942 lend-lease)
+Tanks.Rus.M4A2_(Sherman)_rus.short	M4A2
+Tanks.Rus.M4A2_76_W_(Sherman)_rus	M4A2 76W Sherman (medium tank М4A2 "General Sherman" mod.1944 lend-lease)
+Tanks.Rus.M4A2_76_W_(Sherman)_rus.short	M4A2 76W
+Car.Rus.Universal_Carrier_Mk_I_rus	Universal Carrier Mk.I (armored halftrack Universal Carrier Mark1 mod.1938 lend-lease)
+Car.RUs.Universal_Carrier_Mk_I_rus.short 	Universal Carrier
+Artillery.Rus.57mm_6pdr_AT_Gun_Mk_IV_rus	57mm Mk.IV (AT gun lend-lease)
+Artillery.Rus.57mm_6pdr_AT_Gun_Mk_IV_rus.short  	57mm Mk.IV
+Tanks.Rus.Pz_IIIF_rus	Panzerkampfwagen III Ausf.F (captured medium tank T-3 mod.1939)
+Tanks.Rus.Pz_IIIF_rus.short 	T-3F
+Tanks.Rus.Pz_IIIJ_rus	Panzerkampfwagen III Ausf.J (captured medium tank T-3 mod.1941)
+Tanks.Rus.Pz_IIIJ_rus.short 	T-3J
+Tanks.Rus.Pz_IVF2_rus	Panzerkampfwagen IV Ausf.F2 (captured medium tank T-4 mod.1942)
+Tanks.Rus.Pz_IVF2_rus.short	T-4
+Tanks.Rus.Pz_38t_rus	Panzerkampfwagen 38(t) (light tank "Shkoda LT-38" mod.1938)
+Tanks.Rus.Pz_38t_rus.short	LT-38
+Tanks.Rus.Pz_VG_(Panther)_rus	Panzerkampfwagen V Ausf.G (middle-heavy tank "Pantera" mod.1944)
+Tanks.Rus.Pz_VG_(Panther)_rus.short	Pantera
+SPG.Rus.Stug_III_CD_rus	gep. SF fur Sturmgeschutz III Ausf.D (captured self-propelled assault gun mod.1941)
+SPG.Rus.Stug_III_CD_rus.short 	 Artshturm-3
+SPG.Rus.StuG_IV_rus	gep. SF fur Sturmgeschutz IV (captured self-propelled assault gun mod.1943)
+SPG.Rus.StuG_IV_rus.short 	 Artshturm-4
+SPG.Rus.StuG_40_G_rus	gep. SF fur Sturmgeschutz III(40) Ausf.G (captured self-propelled assault gun mod.1942)
+SPG.Rus.StuG_40_G_rus.short	 Artshturm-3G
+ArmoredCar.Rus.Pzspw_P204f_rus	Panzerspahwagen P204(f) (captured recon armored car Panar 178-P204(f) mod.1935)
+ArmoredCar.Rus.Pzspw_P204f_rus.short		Panar 178
+ArmoredCar.Rus.SdKfz_251_1_Ausf_C_rus	SdKfz 251/1 Ausf.C (captured halftrack fighting vehicle mod.1939)
+ArmoredCar.Rus.SdKfz_251_1_Ausf_C_rus.short	Armored machine 251
+Artillery.Rus.50mm_PaK_38_rus	50mm PaK 38 L/60 (captured AT gun mod.1940)
+Artillery.Rus.50mm_PaK_38_rus.short	PAK-38
+Artillery.Rus.75mm_PAK_40_rus	75mm PaK 40 L/46 (captured AT gun mod.1940)
+Artillery.Rus.75mm_PAK_40_rus.short	PAK-40
+Detachment.Rus.AtR_team AT team (PTR)
+Detachment.Rus.MG_team MG team
+Detachment.Rus.SMG_41_squad     SMG squad
+Detachment.Rus.AtR_squad    AT squad (PTR)
+Detachment.Rus.strength_shooters_squad     Reinforced infantry section
+Detachment.Rus.assault_group_41_43     Assault squad
+Detachment.Rus.assault_group_44_45     Assault squad '44
+Detachment.Rus.assault_group_para_41_43     Assault paratrooper squad
+Detachment.Rus.assault_group_para_44_45     Assault paratrooper squad '44
+Detachment.Ger.AT_SS_Squad_1941	SS AT squad
+Detachment.Ger.AT_SS_Squad_1944	SS AT squad '44
+Detachment.Ger.AT_SS_Team_1941	SS tank hunter team
+Detachment.Ger.AT_SS_Team_1944	SS tank hunter team '44
+Detachment.Ger.AT_Squad_1941	AT squad
+Detachment.Ger.AT_Squad_1944	AT squad '44
+Detachment.Ger.AT_Team_1941	Tank hunter team
+Detachment.Ger.AT_Team_1944	Tank hunter team '44
+Detachment.Ger.MG_34_SS_Team	SS MG-34
+Detachment.Ger.MG_42_SS_Team	SS MG-42
+Detachment.Ger.MG_34_Team	MG-34 team
+Detachment.Ger.MG_42_Team	MG-42 team
+Detachment.Ger.Assault_Squad_41_43	Assault squad
+Detachment.Ger.Assault_Squad_44_45	Assault squad '44
+Detachment.Ger.Assault_SS_Squad_41_43	SS Assault squad
+Detachment.Ger.Assault_SS_Squad_44_45	SS Assault squad '44
+ArmoredCar.Uk.M6_Staghound_uk	T17E1 Chevrolet (medium armored car M6 Staghound mod.1942)
+ArmoredCar.Uk.M6_Staghound_uk.short	Staghound
+ArmoredCar.Ger.SdKfz_231	SdKfz 231 8-rad (heavy armored car mod.37)
+ArmoredCar.Ger.SdKfz_231.short	SdKfz 231 8-rad
+Tanks.Ger.Pz_IIIJK	Panzerkampfwagen III Ausf.J 5 cm/L42 (medium tank mod.41)
+Tanks.Ger.Pz_IIIJK.short	Pzkpfw IIIJ 5 cm/L42
+Tanks.UK.Sherman_I	Sherman I (medium tank М4 "Sherman" mod.42)
+Tanks.UK.Sherman_I.short	Sherman I
+Tanks.UK.Sherman_IC	Sherman IC Firefly (medium tank M4 "Sherman" mod.42)
+Tanks.UK.Sherman_IC.short	Sherman IC Firefly
+Tanks.Rus.IS_1	IS-1 (heavy tank "Josef Stalin 1" mod.43)
+Tanks.Rus.IS_1.short	IS-1
+SPG.Rus.ISU_122	ISU-122 (122mm heavy SPG on IS-2 chassis mod.44)
+SPG.Rus.ISU_122.short	ISU-122
+SPG.Rus.ISU_122S	ISU-122C (122mm heavy SPG on IS-2 chassis mod.44)
+SPG.Rus.ISU_122S.short	ISU-122C
+Flak.Ger.flak_4_38	20mm Flakvierling 38 (anti-aircraft gun Flakvierling 38 mod.40)
+Flak.Ger.flak_4_38.short	20mm Flakvierling 38 AA
+Flak.Ger.flak_1_38	20mm Flak 38 (anti-aircraft gun Flak 38 mod.40)
+Flak.Ger.flak_1_38.short	20mm Flak 38 AA
+Flak.Ger.flak_37_36	37mm Flak 36 (anti-aircraft gun Flak 36 mod.36)
+Flak.Ger.flak_37_36.short	37mm Flak 36 AA
+Tanks.Ger.Pz_IIIN	Panzerkampfwagen III Ausf.N (medium tank mod.42)
+Tanks.Ger.Pz_IIIN.short	Pzkpfw IIIN
+Tanks.Ger.Pz_IVF1	Panzerkampfwagen IV Ausf.F1 (medium tank mod.41)
+Tanks.Ger.Pz_IVF1.short	Pzkpfw IVF1
+Tanks.Ger.Pz_IIIF_Spat	Panzerkampfwagen III Ausf.F late (medium tank mod.39)
+Tanks.Ger.Pz_IIIF_Spat.short	Pzkpfw IIIF late
+SPG.Ger.Stuh_42	gep. Sturmhaubitze 42 (Sd. Kfz. 142/2 assault howitzer mod.42)
+SPG.Ger.Stuh_42.short	StuH 42
+Fortification.Ger.Pantherturm_I	Pantherturm I
+Tanks.Rus.T_30	T-30 (light tank mod.41)
+Tanks.Rus.T_30.short	T-30
+SPG.Pol.isu_152_pol	ISU-152 (152mm heavy SPG on IS-2 chassis mod.44)
+SPG.Pol.ISU_152_pol.short	ISU-152
+SPG.Pol.SU_76M_pol	SU-76M (76.2mm self-propelled gun mod.43)
+SPG.pol.SU_76M_pol.short	SU-76M
+Tanks.Pol.IS_2_pol	IS-2 (heavy tank "Josef Stalin" mod.43)
+Tanks.Pol.IS_2_pol.short	IS-2
+Tanks.Pol.T_34_85_pol	T-34-85 (medium tank mod.44)
+Tanks.Pol.T_34_85_pol.short	T-34-85
+Tanks.Pol.T_34_mod_1943_pol	T-34 (medium tank mod.43)
+Tanks.Pol.T_34_mod_1943_pol.short T-34 mod.43
+Tanks.Ger.Pz_IIIL	Panzerkampfwagen III Ausf.L (medium tank mod. 42)
+Tanks.Ger.Pz_IIIL.short 	Pzkpfw IIIL
+SPG.Ger.stug_40_g_sk	gep. SF fur Sturmgeschutz III(40) Ausf.G (self-propelled gun mod. 44)
+SPG.Ger.stug_40_g_sk.short 	StuG III Ausf.G Saukopfblende
+Tanks.Rus.T_34_57_mod_1941	T-34-57 (medium tank destroyer mod.41)
+Tanks.Rus.T_34_57_mod_1941.short	T-34-57 mod.41
+
+Artillery.Rus.45mm_AT_gun_mod_1942	45mm anti-tank gun mod.1942 
+Artillery.Rus.45mm_AT_gun_mod_1942.short 	45mm At gun M42
+Tanks.Ger.bt_7_mod_1935_ger	Panzerkampfwagen BT-742(r) (captured light tank mod.1935)
+Tanks.Ger.bt_7_mod_1935_ger.short 	Pzkpfw BT-742(r)
+Tanks.Ger.Pz_IIIE	Panzerkampfwagen III Ausf.E (medium tank mod.1939)
+Tanks.Ger.Pz_IIIE.short 	Pzkpfw IIIE
+Tanks.Ger.Pz_IIIL_2	Panzerkampfwagen III Ausf.L (medium tank mod.1942)
+Tanks.Ger.Pz_IIIL_2.short 	Pzkpfw IIIL Schurzen
+Tanks.Ger.Pz_IVG	Panzerkampfwagen IV Ausf.G Schurzen (medium tank mod.1942)
+Tanks.Ger.Pz_IVG.short	Pzkpfw IVG
+Tanks.Ger.Pz_IVG_2	Panzerkampfwagen IV Ausf.G (medium tank mod.1942)
+Tanks.Ger.Pz_IVG_2.short	Pzkpfw IVG Schurzen
+SPG.Ger.Jagdpanther2	Jagdpanzer Panther (late) (tank destroyer "Jagdpanther"  mod.1944)
+SPG.Ger.Jagdpanther2.short    	 Jagdpanther (late)
+Artillery.Ger.37mm_bofors_wz_36_ger	3.7cm PaK 36(p) (captured anti-tank gun Bofors mod.1936)
+Artillery.Ger.37mm_bofors_wz_36_ger.short	3.7cm PaK 36(r)
+Artillery.Ger.75mm_field_gun_wz_1897_ger	7.5cm Feldkanone 97(r) (captured field gun mod.1897)
+Artillery.Ger.75mm_field_gun_wz_1897_ger.short	7.5cm Feldkanone 97(r)
+Artillery.Ger.75mm_pak_97_38	7.5cm PaK 97/38 (anti-tank gun mod.1942)
+Artillery.Ger.75mm_pak_97_38.short	7.5cm PaK 97/38
+Artillery.Ger.150mm_sFH18	15cm sFH18 (heavy howitzer mod.1933)
+Artillery.Ger.150mm_sFH18.short	15cm sFH18
+ArmoredCar.Ger.m3a1_halftrack_ger	Schutzenpanzerwagen M3(a) (captured halftrack mod.1934)
+ArmoredCar.Ger.m3a1_halftrack_ger.short	M3(a)
+ArmoredCar.Ger.SdKfz_251_8_Ausf_C	SdKfz 251/8 Ausf.C (medical halftrack mod.1939) 
+ArmoredCar.Ger.SdKfz_251_8_Ausf_C.short	SdKfz 251/8 Ausf.C
+Car.Rus.M_72	М-72 (motorcycle mod.1941)
+Car.Rus.M_72.short	М-72
+Tanks.Rus.KV_1_f32	KV-1 (heavy tank "Kliment Voroshilov - 1" mod.1940)
+Tanks.Rus.KV_1_f32.short	KV-1 mod.40
+Tanks.UK.M3_(Lee)_br	M3 Lee (medium tank "General Lee" mod.1941)
+Tanks.UK.M3_(Lee)_br.short	M3 Lee
+Tanks.Pol.Hotchkis_H35_pol	 Hotchkiss H35 (light tank Hotchkiss H35 mod.1935)
+Tanks.Pol.Hotchkis_H35_pol.short	H35
+Tanks.Pol.Renault_FT17_pol	Renault FT-17 (light tank Renault FT-17 mod.1917)
+Tanks.Pol.Renault_FT17_pol.short	FT-17
+Tanks.Pol.Renault_FT31_pol	Renault FT-31 (light tank Renault FT-31 mod.1917)
+Tanks.Pol.Renault_FT31_pol.short	FT-31
+Tanks.Pol.Renault_R35_pol	Renault R35 (light tank Renault R35 mod.1935)
+Tanks.Pol.Renault_R35_pol.short	R35
+Tanks.Rus.A12_(Matilda_CS)_rus	Infantry tank Mk. III, Matilda III CS (lend-lease heavy infantry tank "Matilda" with howitzer mod.1938)
+Tanks.Rus.A12_(Matilda_CS)_rus.short	Matilda CS
+ArmoredCar.Ger.t_27_ger	Panzerkampfwagen T-27A 734(r)  (captured tankette mod.1931)
+ArmoredCar.Ger.t_27_ger.short	Pzkpfw T-27A 734(r)
+ArmoredCar.Ger.t_60_ger	Panzerkampfwagen T-60/70 743(r)  (captured light tank mod.1941-42)
+ArmoredCar.Ger.t_60_ger.short	Pzkpfw T-60/70 743(r)
+ArmoredCar.Ger.SdKfz_251_10_Ausf_C	SdKfz 251/10 Ausf.C (medical halftrack mod.1940) 
+ArmoredCar.Ger.SdKfz_251_10_Ausf_C.short	SdKfz 251/10 Ausf.C
+
+SPG.Ger.Stug_III_E	gep. SF fur Sturmgeschutz III Ausf.E (assault SPG mod.1941 SdKfz 142)
+SPG.Ger.Stug_III_E.short	StuG III Ausf.E
+SPG.Ger.Stug_III_F	gep. SF fur Sturmgeschutz III Ausf.F (assault SPG mod.1942 SdKfz 142)
+SPG.Ger.Stug_III_F.short	StuG III Ausf.F
+
+
+ArmoredCar.Ger.SdKfz_251_17_Ausf_C	SdKfz 251/17 Ausf.C (half-track anti-aircraft vehicle mod.1944) 
+ArmoredCar.Ger.SdKfz_251_17_Ausf_C.short	SdKfz 251/17 Ausf.C
+ArmoredCar.Ger.SdKfz_251_9_Ausf_D	SdKfz 251/9 Ausf.D (heavy half-track armored car mod.1944) 
+ArmoredCar.Ger.SdKfz_251_9_Ausf_D.short	SdKfz 251/9 Ausf.D
+ArmoredCar.Ger.SdKfz_251_22_Ausf_D	SdKfz 251/22 Ausf.D (anti-tank half-track armored car mod.1944) 
+ArmoredCar.Ger.SdKfz_251_22_Ausf_D.short	SdKfz 251/22 Ausf.D
+ArmoredCar.Ger.SdKfz_251_23_Ausf_D	SdKfz 251/23 Ausf.D (reconnaissance half-track armored car mod.1944) 
+ArmoredCar.Ger.SdKfz_251_23_Ausf_D.short	SdKfz 251/23 Ausf.D
+ArmoredCar.Ger.SdKfz_231_early	SdKfz 231 8-rad (early) (heavy armored car mod.1937)
+ArmoredCar.Ger.SdKfz_231_early.short	SdKfz 231 8-rad (early)
+Artillery.Ger.88mm_Flak_36_37	88mm FlaK 36 (anti-aircraft gun Flak 36 mod.36)
+Artillery.Ger.88mm_Flak_36_37.short	88mm FlaK 36
